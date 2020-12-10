@@ -486,30 +486,6 @@ loaded = pd.read_csv(f'./Data/Main_Database.csv', index_col=0, )# parse_dates=['
 
 
 
-#%%
-
-"""
-How to calculate distance efficiently
-first filter all results such that either the lat or the long is = or < the maximum radial distance
-(eg, another theft that happened at the exact same lat, and the farthest possible long)
-
-then with this reduced dataset calculate the radial distance for each theft from the seach point
-
-then filter by the set radial distance (sinc some will be longer due to a combo of the lat/long)
-
-then you have the thefts w/in distance.
-
-
-"""
-
-
-
-
-
-
-
-
-
 
 
 
