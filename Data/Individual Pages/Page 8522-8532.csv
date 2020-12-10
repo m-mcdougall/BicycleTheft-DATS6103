@@ -1,0 +1,88 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,6637,"Coppell, TX 75019",None,None,2008.5.18,None
+1,6646,"Woburn, MA 01801",None,None,2008.5.17,None
+2,7745,"Portland, OR 97203",None,None,2008.5.17,None
+3,7524,"Oak Park, IL 60304",None,None,2008.5.17,None
+4,7654,"Washington, DC 20010",None,None,2008.5.16,None
+5,7700,"Newport Beach, CA 92627",None,None,2008.5.16,None
+6,7926,"San Luis Obispo, CA 93401",None,None,2008.5.15,None
+7,9467,"Eureka, CA 95501",None,None,2008.5.15,Reported
+0,11017,"Portland, OR 97214",None,None,2008.5.15,None
+1,7930,"San Luis Obispo, CA 93401",None,None,2008.5.15,None
+2,7655,"Denver, CO 80211",None,None,2008.5.15,None
+3,6624,"Charleston, SC 29401",None,None,2008.5.15,None
+4,9338,"Kent, OH 44240",None,None,2008.5.15,None
+5,7710,"West Seattle, WA 98116",None,None,2008.5.15,None
+6,7874,"Brooklyn, NY 11205",None,None,2008.5.14,None
+7,7649,"Kirkland, WA 98033",None,None,2008.5.14,None
+8,11008,"Buffalo, NY 14222",None,None,2008.5.14,None
+0,7646,"San Diego, CA 92103",None,None,2008.5.14,None
+1,7671,"Chico, CA 95928",None,None,2008.5.14,None
+2,6618,"Colorado Springs, CO 80904",None,None,2008.5.13,None
+3,11006,"Bloomington, IL 61701",None,None,2008.5.13,None
+4,6358,"Austin, TX 78704",None,None,2008.5.13,None
+5,7632,"New Brunswick, NJ 08901",None,None,2008.5.13,None
+6,7645,"Baltimore, MD 21230",None,None,2008.5.13,None
+7,7862,"Houston, TX 77006",None,None,2008.5.12,None
+8,7844,"Portland, OR 97209",None,None,2008.5.12,None
+0,7628,"Berrien Springs, MI 49103",None,None,2008.5.12,None
+1,8656,"New Haven, CT 06511",None,None,2008.5.12,None
+2,10549,"San Francisco, CA 94102",None,None,2008.5.12,None
+3,6366,"Brooklyn, NY 11211",None,None,2008.5.11,None
+4,7624,"Seattle, WA 98122",None,None,2008.5.11,None
+5,6673,"Seattle, WA 98109",None,None,2008.5.11,None
+6,7623,"Washington, DC 20007",None,None,2008.5.10,None
+7,7696,"College Station, TX 77840",None,None,2008.5.9,None
+8,6607,"San Francisco, CA 94110",None,None,2008.5.9,None
+0,10684,"Portland, OR 97205",None,None,2008.5.9,Reported
+1,6627,"Chicago, IL 60601",None,None,2008.5.9,None
+2,7870,"Midale, UT 84047",None,None,2008.5.9,None
+3,9348,"Evanston, IL 60201",None,None,2008.5.9,Reported
+4,6606,"Baltimore, MD 21202",None,None,2008.5.8,None
+5,6610,"Seattle, WA 98121",None,None,2008.5.8,None
+6,7620,"Palo Alto, CA 94301",None,None,2008.5.7,None
+7,6356,"Columbus, OH 43202",None,None,2008.5.6,None
+8,7610,"Berkeley, CA 94709",None,None,2008.5.6,None
+9,12603,"Burlington, VT 05401",None,None,2008.5.5,Reported
+0,8199,"Hamilton, NY 13346",None,None,2008.5.5,None
+1,7605,"Milwaukee, WI 53202",None,None,2008.5.4,None
+2,9276,"River Falls, WI 54022",None,None,2008.5.4,None
+3,6354,"Bolivar, MO 65613",None,None,2008.5.3,None
+4,5897,"Columbus, OH 43210",None,None,2008.5.3,None
+5,6603,"Madison, WI 53717",None,None,2008.5.3,None
+6,11004,"Baltimore, MD 21224",None,None,2008.5.3,None
+7,9293,"Aurora, CO 80014",None,None,2008.5.2,None
+8,10086,"Pleasant Hill, CA 94523",None,None,2008.5.1,None
+0,18903,"Syracuse, NY 13203",None,None,2008.5.1,None
+1,6727,"Bend, OR 97702",None,None,2008.5.1,None
+2,7596,"Portland, OR 97214",None,None,2008.5.1,None
+3,7595,"Iowa City, IA 52246",None,None,2008.5.1,None
+4,8046,"Santa Rosa, CA 95404",None,None,2008.5.1,None
+5,10995,"Gainesville, FL 32601",None,None,2008.5.1,None
+6,7598,"Amherst, MA 01072",None,None,2008.5.1,None
+7,9055,"Nowata, OK 74048",None,None,2008.5.1,None
+8,9569,"Brooklyn, NY 11238",None,None,2008.5.1,None
+9,7600,"Green Bay, WI 54311",None,None,2008.5.1,None
+0,11002,"Seattle, WA 98105",None,None,2008.5.1,None
+1,6362,"San Francisco, CA 94133",None,None,2008.5.1,None
+2,7860,"San Diego, CA 92131",None,None,2008.4.30,None
+3,6599,"Salt Lake City, UT 84112",None,None,2008.4.30,None
+4,10999,"Austin, TX 78701",None,None,2008.4.29,None
+5,9538,"Concord, CA 94520",None,None,2008.4.28,None
+6,7561,"Pollock Pines, CA 95726",None,None,2008.4.28,None
+7,10997,"Moscow, ID 83843",None,None,2008.4.27,None
+8,8284,"Tucson, AZ 85705",None,None,2008.4.27,Reported
+0,9260,"Rockville, MD 20850",None,None,2008.4.26,Reported
+1,9017,"Muscatine, IA 52761",None,None,2008.4.26,None
+2,7819,"New York, NY 10003",None,None,2008.4.25,None
+3,7604,"Fort Collins, CO 80524",None,None,2008.4.25,None
+4,7535,"Baltimore, MD 21230",None,None,2008.4.24,None
+5,7548,"San Jose, CA 95112",None,None,2008.4.24,None
+6,10988,"Scottsdale, AZ 85251",None,None,2008.4.24,None
+0,7526,"San Francisco, CA 94109",None,None,2008.4.23,None
+1,6592,"Arlington, MA 02476",None,None,2008.4.23,None
+2,7528,"Minneapolis, MN 55414",None,None,2008.4.23,None
+3,7559,"Tucson, AZ 85710",None,None,2008.4.22,None
+4,10544,"Fort Collins, CO 80523",None,None,2008.4.21,None
+5,6348,"Denver, CO 80200",None,None,2008.4.21,None
+6,7504,"Mc Kinleyville, CA 95519",None,None,2008.4.20,None

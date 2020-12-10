@@ -1,0 +1,75 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,642508,"Eugene, OR 97405",Other,"Other situation, please describe below",2019.8.13,Reported
+1,642497,"Louisville, KY 40208",Cable lock,"Lock is missing, along with the bike",2019.8.13,Reported
+2,644886,"Minneapolis, MN 55408",Not locked,None,2019.8.13,None
+3,642956,"21st and M St NW, Washington, DC 20018",Cable lock,"Lock is missing, along with the bike",2019.8.13,Reported
+4,642391,"D and 13th, Washington, DC 20002",U-lock,"Lock is missing, along with the bike",2019.8.13,Reported
+5,642379,"2800 Stevens av, Minneapolis, MN 55408",None,None,2019.8.13,None
+6,642453,"Portland, OR 97215",None,None,2019.8.13,None
+7,643199,"Sumner, WA 98390",None,None,2019.8.13,Reported
+0,649695,"Commencement Bay Drive and Vassault, Tacoma, WA 98407",None,None,2019.8.13,Reported
+1,642459,"Chicago, IL 60660",Not locked,"Lock was opened, and left unharmed at the scene",2019.8.13,None
+2,642816,"Portland, OR 97206",None,None,2019.8.12,Reported
+3,642325,"San Francisco, CA 94117",U-lock and cable,"Lock was cut, and left at the scene",2019.8.12,Reported
+4,642822,"Portland, OR 97206",None,None,2019.8.12,Reported
+5,642211,"Fairview, OR 97024",None,None,2019.8.12,None
+6,111121,"Berkeley, CA 94710",Cable lock,"Lock is missing, along with the bike",2019.8.12,None
+0,645430,"La Crosse, WI 54603",Cable lock,"Other situation, please describe below",2019.8.12,Reported
+1,643145,"Vancouver, WA 98660",None,None,2019.8.12,None
+2,642355,"San Francisco, CA 94103",U-lock,"Lock was cut, and left at the scene",2019.8.12,None
+3,642069,"San Francisco, CA 94131",U-lock and cable,"Lock is missing, along with the bike",2019.8.12,Reported
+4,642067,"Reno, NV 89511",Cable lock,"Lock is missing, along with the bike",2019.8.12,Reported
+5,642040,"Salem, WA 97301",None,None,2019.8.12,None
+6,649308,"Portland, OR 97227",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.12,None
+0,625664,"Salem, OR 97301",Cable lock,"Lock was cut, and left at the scene",2019.8.12,None
+1,642964,"50 plaza st E, Brooklyn, NY 11238",Cable lock,"Lock is missing, along with the bike",2019.8.12,Reported
+2,641986,"Jacksonville, FL 32250",None,None,2019.8.12,None
+3,848382,"New Orleans, LA 70124",Cable lock,"Lock is missing, along with the bike",2019.8.12,None
+4,641961,"Tucson, AZ 85748",None,None,2019.8.12,None
+5,641920,"Washington, DC 20001",U-lock and cable,"Lock was cut, and left at the scene",2019.8.12,Reported
+0,641930,"4455 Sandridge Dr, Roy, UT 84067",None,None,2019.8.12,Reported
+1,641905,"1471 W Webster Av , Chicago, IL 60614",Cable lock,"Lock is missing, along with the bike",2019.8.12,Reported
+2,648485,"100 Grand Ave, Oakland, CA 94612",U-lock,"Lock was cut, and left at the scene",2019.8.12,None
+3,643173,"Tucson, AZ 85716",None,None,2019.8.12,Reported
+4,641973,"Tucson, AZ 85716",None,None,2019.8.12,Reported
+5,641946,"Kenner, LA 70065",None,None,2019.8.12,Reported
+6,641931,"Council Bluffs, IA 51501",None,"Other situation, please describe below",2019.8.12,Reported
+7,642375,"Santa Rosa, CA 95401",Not locked,Bike was not locked,2019.8.12,Reported
+8,642350,"Anchorage, AK 99508",Cable lock,"Lock is missing, along with the bike",2019.8.12,Reported
+0,641719,"Oakland, CA 94612",U-lock,"Lock is missing, along with the bike",2019.8.11,Reported
+1,642014,"New Orleans, LA 70119",None,None,2019.8.11,None
+2,641448,"Neutaconkanut Hill Conservancy, Providence, RI 02906",None,None,2019.8.11,None
+3,644900,"Brooklyn, NY 11221",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.11,Reported
+4,663957,"Minneapolis, MN 55407",U-lock,"Lock is missing, along with the bike",2019.8.11,Reported
+5,641377,"Palo Alto, CA 94301",None,None,2019.8.11,Reported
+6,641970,"Santa Monica, CA 90405",None,None,2019.8.11,Reported
+7,641265,"Portland, OR 97217",Other,"Other situation, please describe below",2019.8.11,Reported
+0,641245,"24th ave and Taylor St, Bellingham, WA 98235",None,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.11,None
+1,641233,"Pawtucket, RI 02860",None,None,2019.8.11,None
+2,641206,"Brooklyn, NY",Cable lock,"Lock is missing, along with the bike",2019.8.11,None
+3,641974,"Oakland, CA 94611",None,None,2019.8.11,Reported
+4,641143,"Minneapolis, MN 55417",Cable lock,"Lock was cut, and left at the scene",2019.8.11,None
+5,641141,"Atlanta, GA 30305",Cable lock,"Lock was cut, and left at the scene",2019.8.11,Reported
+6,641505,"Legion Memorial Drive, Providence, RI 02909",Chain with padlock,"Lock is missing, along with the bike",2019.8.11,Reported
+0,641093,"1249 Dean St BSMT, Brooklyn, NY 11216",None,None,2019.8.11,None
+1,644713,"1012 Wood Falls Court, San Jose, CA 95116",Other,"Other situation, please describe below",2019.8.11,Reported
+2,642244,"Seattle, WA 98133",None,None,2019.8.11,Reported
+3,641081,"Lakewood, WA 98498",Cable lock,"Lock was cut, and left at the scene",2019.8.11,Reported
+4,643006,"San Francisco, CA 94117",U-lock and cable,"Lock is missing, along with the bike",2019.8.11,Reported
+5,641429,"Boise, ID 83703",None,None,2019.8.11,Reported
+6,105661,"Los Angeles, CA 90004",U-lock and cable,"Lock was cut, and left at the scene",2019.8.11,Reported
+7,641056,"2045 Atwood Ave, Madison, WI 53704",None,None,2019.8.11,Reported
+8,642123,"Beaverton, OR 97006",None,None,2019.8.10,Reported
+0,642059,"Beaverton, OR 97006",None,None,2019.8.10,Reported
+1,641067,"Portland, OR 97232",Cable lock,"Lock is missing, along with the bike",2019.8.10,Reported
+2,640995,"Bothell, WA 98021",Cable lock,"Lock was cut, and left at the scene",2019.8.10,Reported
+3,642036,"Richmond, PA 23210",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.10,Reported
+4,640979,"2591 millcreek dr , Sacramento, CA 95833",None,None,2019.8.10,None
+5,640966,"Balch Springs, TX 75180",Not locked,None,2019.8.10,None
+6,635626,"La Crosse, WI 54603",U-lock,"Lock is missing, along with the bike",2019.8.10,None
+7,643103,"Sammamish, WA 98075",None,None,2019.8.10,Reported
+0,628674,"New Orleans, LA 70116",U-lock,"Other situation, please describe below",2019.8.10,Reported
+1,645489,"San Francisco, CA 94133",Not locked,None,2019.8.10,None
+2,640883,"19238 Hitching Post Pl, Riverside, CA 92508",None,None,2019.8.10,Reported
+3,628884,"Oakland, CA 94611",U-lock,None,2019.8.10,None
+4,640948,"San Francisco, CA 94107",Cable lock,"Lock was cut, and left at the scene",2019.8.10,Reported

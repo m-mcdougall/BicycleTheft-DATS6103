@@ -1,0 +1,95 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,4772,"Waupaca, WI 54981",None,None,2004.11.15,None
+1,10925,"St. Louis, MO 63130",None,None,2004.11.1,None
+2,4360,"Pleasanton, CA 94588",None,None,2004.10.31,None
+3,4191,"New York, NY 10009",None,None,2004.10.26,None
+4,4391,"Ann Arbor, MI 48109",None,None,2004.10.15,None
+5,4110,"Tucson, AZ 85719",None,None,2004.10.15,None
+6,4134,"Citrus Heights, CA 95621",None,None,2004.10.10,None
+7,4808,"Florissant, MO 63034",None,None,2004.10.1,None
+8,6287,"Seattle, WA 98103",None,None,2004.10.1,None
+9,4078,"Flushing, NY 11355",None,None,2004.9.23,None
+0,4442,"Green Bay, WI 54301",None,None,2004.9.20,None
+1,5404,"Oakland, CA 94021",None,None,2004.9.11,None
+2,4256,"Sacramento, CA 95814",None,None,2004.9.3,None
+3,4100,"Pasadena, CA 91103",None,None,2004.9.1,None
+4,4785,"Tallahassee, FL 32304",None,None,2004.8.29,None
+5,4746,"Chicago, IL 60614",None,None,2004.8.15,None
+6,32286,"Oakland, CA 94612",U-lock,"Lock is missing, along with the bike.",2004.8.2,Reported
+7,4300,"Tempe, AZ 85283",None,None,2004.8.1,None
+8,4939,"Ewing, NJ 08628",None,None,2004.7.1,None
+0,10809,"Spring, TX 77380",None,None,2004.6.11,None
+1,6365,"San Jose, CA 95112",None,None,2004.6.1,None
+2,25201,"Denver, CO 80206",None,None,2004.5.29,None
+3,19726,"Phoenix, AZ 85020",None,None,2004.5.15,Reported
+4,4749,"Denver, CO 80209",None,None,2004.5.10,None
+5,111922,"Los Angeles, CA 90073",Cable lock,"Lock is missing, along with the bike.",2004.5.8,None
+6,4551,"Baltimore, MD 21217",None,None,2004.5.1,None
+7,3888,"Des Moines, IA 50309",None,None,2004.4.18,None
+8,4098,"Des Moines, IA 50309",None,None,2004.4.18,None
+0,5059,"Phoenix, AZ 85020",None,None,2004.3.8,None
+1,10749,"San Francisco, CA 94114",None,None,2004.3.6,None
+2,35243,"New Berlin, NY 13411",Other,"Other situation, please describe below.",2004.3.2,Reported
+3,4227,"Casa Grande, AZ 85222",None,None,2004.3.1,None
+4,7612,"Berkeley, CA 94709",None,None,2004.3.1,None
+5,570013,"Bowling Green, KY 42101",Not locked,None,2004.2.8,Reported
+6,4388,"Aspen, CO 81612",None,None,2004.2.7,None
+7,4371,"Las Vegas, NV 89321",None,None,2004.2.1,None
+8,4104,"Tucson, AZ 85719",None,None,2004.2.1,None
+9,4367,"Portland, OR 97202",None,None,2004.1.25,None
+0,4365,"Peekskill, NY 10566",None,None,2004.1.10,None
+1,10699,"Denver, CO 80201",None,None,2004.1.1,Reported
+2,4412,"Toluca Lake, CA 91602",None,None,2003.12.1,None
+3,4129,"San Francisco, CA 94117",None,None,2003.12.1,None
+4,3887,"Colchester, VT 05446",None,None,2003.11.1,None
+5,3946,"Colchester, VT 05446",None,None,2003.11.1,None
+6,4106,"Tucson, AZ 85719",None,None,2003.9.26,None
+7,4406,"Hoboken, NJ 07030",None,None,2003.9.15,None
+8,4097,"Tucson, AZ 85719",None,None,2003.7.15,None
+0,26033,"Anchorage, AK 99508",None,None,2003.7.9,None
+1,4061,"Chadron, NE 69337",None,None,2003.7.1,None
+2,5620,"Baltimore, MD 21211",None,None,2003.6.28,None
+3,7570,"Portland, OR 97232",None,None,2003.6.18,None
+4,66308,"Eugene, OR 97401",Other,"Other situation, please describe below.",2003.5.5,None
+5,18916,"Austin, TX 78757",None,None,2003.5.1,None
+6,8603,"Houston, TX 77008",None,None,2003.4.28,None
+7,66064,"Eugene, OR 97401",Not locked,Bike was not locked,2003.4.11,None
+8,7550,"Northglenn, CO 80233",None,None,2003.3.1,None
+9,68279,"Santa Cruz, CA 95006",Cable lock,"Lock was cut, and left at the scene.",2003.2.9,None
+0,5683,"Seattle, WA 98122",None,None,2002.12.18,None
+1,13968,"San Francisco, CA 94115",Not locked,Bike was not locked,2002.11.1,Reported
+2,4095,"Colchester, VT 05446",None,None,2002.11.1,None
+3,13966,"San Francisco, CA 94115",None,None,2002.11.1,Reported
+4,935847,"Westminster, CO 80031",Not locked,None,2002.10.15,Reported
+5,10048,"Jacksonville, FL 32266",None,None,2002.10.10,None
+6,940526,"158 Squire Hall, Buffalo, NY 14260",U-lock,"Lock is missing, along with the bike",2002.9.19,None
+7,8089,"Phoenix, AZ 85018",Cable lock,"Lock was cut, and left at the scene",2002.9.14,None
+8,86489,"San, CA 94110",Cable lock,"Lock was cut, and left at the scene.",2002.7.15,Reported
+9,8925,"Philadelphia, PA 19140",None,None,2002.7.4,None
+0,359429,"Palo Alto, CA 94305",U-lock and cable,"Lock is missing, along with the bike.",2002.6.15,None
+1,4258,"Stanwood, WA 98292",None,None,2002.6.1,None
+2,4119,"Santa Cruz, CA 95060",None,None,2002.4.26,None
+3,3989,"Springfield, MA 01083",None,None,2002.4.19,None
+4,13950,"Renton, WA 98056",None,None,2002.3.30,Reported
+5,40150,"Las Vegas, NV 89117",Not locked,None,2002.3.15,None
+6,11693,"Reno, NV 89523",None,None,2002.1.15,None
+7,4571,"Monterey, CA 93940",None,None,2002.1.7,None
+0,8926,"Philadelphia, PA 19140",None,None,2002.1.4,None
+1,63428,"Tucson, AZ 85701",Cable lock,"Lock is missing, along with the bike.",2001.11.9,None
+2,118112,"Bridgeport, NE 69336",Not locked,None,2001.11.3,Reported
+3,376395,"Norfolk, VA 23504",None,None,2001.10.31,None
+4,9109,"San Francisco, CA 94109",None,None,2001.10.30,None
+5,12502,"New York, NY 10003",None,None,2001.8.24,None
+6,55250,"San Antonio, TX 78212",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2001.8.18,Reported
+7,4396,"Denver, CO 80202",None,None,2001.8.17,None
+8,8017,"Cheyenne, WY 32962",None,None,2001.8.1,None
+0,19343,"Brunswick, MA 04101",None,None,2001.7.9,Reported
+1,117070,"Newport, RI 02840",U-lock and cable,"Other situation, please describe below.",2001.7.4,Reported
+2,37673,"San Francisco, CA 94107",Cable lock,"Lock was cut, and left at the scene.",2001.6.25,Reported
+3,15683,"Denver, CO 80219",None,None,2001.5.20,Reported
+4,89963,"Seattle, WA 98105",None,None,2001.3.2,None
+5,4856,"Phoenix, AZ 85250",None,None,2000.12.31,None
+6,10960,"Nogales, AZ 85621",None,None,2000.11.8,None
+7,23035,"White Plains, NY 10605",None,None,2000.10.17,None
+8,15259,"Greenacres, FL 33463",None,None,2000.10.16,None
+9,29555,"Melbourne, FL 32901",Not locked,None,2000.10.7,None

@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,625785,"San Diego, CA 92101",Cable lock,"Lock was cut, and left at the scene.",2019.6.23,None
+1,625667,"Englewood, CO 80113",None,None,2019.6.23,Reported
+2,627337,"1400 164th St SW, Lynnwood, WA 98037",Cable lock,"Lock is missing, along with the bike.",2019.6.23,None
+3,625046,"1605 Wynkoop St, Denver, CO 80202",None,None,2019.6.22,None
+4,625044,"1100 block N Washington St, Denver, CO 80203",U-lock,Bike was not locked,2019.6.22,Reported
+5,626061,"Oceanside, CA 92057",Heavy duty bicycle security chain,"Lock is missing, along with the bike.",2019.6.22,Reported
+6,625016,"Fresno, CA 93722",None,None,None,None
+7,627168,"Draper, UT 84020",None,None,2019.6.22,Reported
+0,624997,"Everett, WA 98208",Other,"Other situation, please describe below.",2019.6.22,Reported
+1,625032,"Boulder, CO 80302",None,None,2019.6.22,Reported
+2,625673,"North Hollywood, CA 91602",None,None,2019.6.22,Reported
+3,624860,"Seattle, WA 98108",Other,"Other situation, please describe below.",2019.6.22,Reported
+4,624874,"Seattle, WA 98108",Not locked,"Other situation, please describe below.",2019.6.22,Reported
+0,673213,"New Orleans, LA 70119",None,None,2019.6.22,Reported
+1,624759,"Thorndike St and First St, Cambridge, MA 02141, Boston, MA 02141",Cable lock,"Lock is missing, along with the bike.",2019.6.22,Reported
+2,624958,"Tempe, AZ 85281",Not locked,Bike was not locked,2019.6.22,None
+3,624758,"West capitol ave, West Sacramento, CA 95691",None,None,2019.6.22,None
+4,624982,"151 3rd St, San Francisco, CA 94103",U-lock and cable,"Other situation, please describe below.",2019.6.22,None
+5,31407,"Portland, OR 97230",Other,"Other situation, please describe below.",2019.6.22,Reported
+6,625105,"Portland, OR 97206",None,None,2019.6.22,Reported
+7,624848,"Portland, OR 97210",Not locked,"Other situation, please describe below.",2019.6.22,Reported
+0,30183,"Portland, OR 97230-3518",None,None,2019.6.22,Reported
+1,625742,"11493 se 82nd ave , Happy Valley, OR 97086",Other,"Other situation, please describe below.",2019.6.22,Reported
+2,624739,"1042 Berryville Ave, Winchester, VA 22601",None,None,2019.6.22,None
+3,624717,"Washington, DC 20009",None,None,2019.6.21,None
+4,625043,"1605 Wynkoop St, Denver, CO 80202",None,"Lock was cut, and left at the scene.",2019.6.21,Reported
+5,798003,"Buffalo, NY 14215",Not locked,Bike was not locked,2019.6.21,Reported
+6,624726,"Seattle, WA 98121",None,None,2019.6.21,Reported
+7,666008,"11th &, Broadway Blvd, Kansas City, MO 64105",Other,None,2019.6.21,None
+8,625362,"137 N Fairfax ave , Los Angeles, CA 90036",U-lock and cable,"Lock was cut, and left at the scene.",2019.6.21,Reported
+9,624764,"Tacoma, WA",Cable lock,"Lock was cut, and left at the scene.",2019.6.21,Reported
+0,487025,"Los Angeles, CA 90016",Not locked,Bike was not locked,2019.6.21,None
+1,624656,"Lincoln, NE 68510",None,None,2019.6.21,None
+2,625021,"Redmond, WA 98005",Cable lock,"Lock is missing, along with the bike.",2019.6.21,Reported
+3,624639,"San Francisco, CA 94131",None,None,2019.6.21,None
+4,624619,"Seattle, WA 98105",None,None,2019.6.21,Reported
+5,624565,"State College, PA 16801",None,None,2019.6.21,None
+6,624527,"3508 Beech Avenue, Baltimore, MD 21211",Cable lock,"Lock is missing, along with the bike.",2019.6.21,Reported
+0,624481,"Albuquerque, NM 87122",None,None,2019.6.21,None
+1,625147,"Berkeley, CA 94704-3032",Not locked,Bike was not locked,2019.6.21,None
+2,624663,"30 west Kelso rd, Columbus, OH 43202",U-lock,"Other situation, please describe below.",2019.6.21,None
+3,631766,"Chicago, IL 60637",U-lock,"Lock is missing, along with the bike.",2019.6.21,Reported
+4,627163,"Brooklyn, NY 11201",Chain with padlock,"Lock is missing, along with the bike.",2019.6.21,None
+5,624479,"2325 3rd St, San Francisco, CA 94121",U-lock and cable,"Lock was cut, and left at the scene.",2019.6.21,Reported
+6,624451,"Denver, CO 80205",None,None,2019.6.20,None
+0,624557,"Houston, TX 77010",Cable lock,"Lock was cut, and left at the scene.",2019.6.20,Reported
+1,624435,"1108 South Main Street, Greenville, SC 29601",None,None,2019.6.20,None
+2,624568,"Gresham, OR 97030",None,None,2019.6.20,Reported
+3,624412,"Marble and Stanford, Albuquerque, NM 87106",Cable lock,"Lock was cut, and left at the scene.",2019.6.20,None
+4,624583,"1828 11th Ave, Sattle, WA 98122",Other,Bike was not locked,2019.6.20,Reported
+5,626595,"3733 Lindell Blvd, Saint Louis, MO 63108",U-lock,"Lock is missing, along with the bike.",2019.6.20,Reported
+6,625547,"777 Commercial st SE, Salem, OR 97301",Cable lock,"Lock was cut, and left at the scene.",2019.6.20,Reported
+7,624355,"Golden, CO 80401",None,None,2019.6.20,None
+8,624356,"Golden, CO 80401",None,None,2019.6.20,None
+0,624952,"5506 1/2 Rainier Ave S, Seattle, WA 98118",None,None,2019.6.20,Reported
+1,624322,"Minneapolis, MN",None,None,2019.6.20,None
+2,624325,"Minneapolis, MN",None,None,None,None
+3,624323,"Minneapolis, MN 55413",None,None,None,None
+4,624241,"Arlington, VA 22203",Not locked,Bike was not locked,2019.6.20,Reported
+5,624296,"New Orleans, LA 70119",None,None,2019.6.20,None
+6,624239,"Santa Rosa, CA 95401",None,None,2019.6.20,None
+7,624076,"108 Pike street, Seattle, WA 98101",Cable lock,"Lock is missing, along with the bike.",2019.6.20,None
+0,624237,"505 Boylston Ave E, Seattle, WA 98102",U-lock,"Lock is missing, along with the bike.",2019.6.20,None
+1,624661,"Vanouver, WA 98683",Not locked,Bike was not locked,2019.6.20,Reported
+2,624343,"Culver City, CA 90232",U-lock and cable,None,2019.6.20,Reported
+3,634758,"Denver, CO 80204",Cable lock,"Lock was cut, and left at the scene",2019.6.19,Reported
+0,624120,"Somverville, MA 02144",None,None,2019.6.19,None
+1,624118,"2020 East Madison St., Seattle, WA 98122",U-lock,"Lock is missing, along with the bike.",2019.6.19,Reported
+2,624107,"Seattle, WA 98122",U-lock,"Lock is missing, along with the bike.",2019.6.19,Reported
+3,627180,"Coronado, CA 92118",Cable lock,"Lock is missing, along with the bike.",2019.6.19,Reported
+4,624074,"Bay Street , Santa Monica, CA 90404",Cable lock,"Lock was cut, and left at the scene.",2019.6.19,None
+5,624069,"3570 e mckinkey, Tacoma, WA 98404",Chain with padlock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.6.19,None
+6,624116,"Seattle, WA 98101",Heavy duty bicycle security chain,"Lock is missing, along with the bike.",2019.6.19,Reported

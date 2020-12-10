@@ -1,0 +1,56 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,924074,"Seattle, WA 98102",None,None,2020.9.24,None
+1,924119,"San Francisco, CA 94102",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.24,None
+2,57031,"Sacramento, CA 95819",Not locked,"Other situation, please describe below",2020.9.24,None
+3,935286,"3040 17th Ave W, Seattle, WA 98119",Not locked,None,2020.9.24,Reported
+0,924361,"949 North Hoyne Avenue, Chicago, IL 60622",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.24,Reported
+1,923558,"Seattle, WA 98105",Not locked,Bike was not locked,2020.9.24,Reported
+2,923686,"108 S Crestwood Dr, Billings, MT 59102",None,Bike was not locked,2020.9.24,Reported
+3,926017?locale=en,"St. Paul, MN 55102",Cable lock,"Lock was cut, and left at the scene",2020.9.24,Reported
+4,926432?locale=en,"East Haven, CT 06512",None,None,2020.9.24,Reported
+0,929858?locale=en,"Gainesville, FL 32612",Cable lock,"Lock is missing, along with the bike",2020.9.23,Reported
+1,923860?locale=en,"Corvallis, OR 97333",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.23,Reported
+2,923493?locale=en,"1537 NW 56th St, Unit 214, Seattle, WA 98107",U-lock and cable,"Lock is missing, along with the bike",2020.9.23,Reported
+3,924128,"2486 Baseline Rd, Boulder, CO 80303",Cable lock,"Lock was cut, and left at the scene",2020.9.23,Reported
+0,923831,"3501 Ross Avenue, Dallas, TX 75204",Cable lock,"Lock is missing, along with the bike",2020.9.23,Reported
+1,924527,"Denver, CO 80218",None,None,2020.9.23,Reported
+2,783372,"Denver, CO 80203",U-lock,"Lock is missing, along with the bike",2020.9.23,None
+3,924550?locale=en,"Denver, CO 80218",None,None,2020.9.23,Reported
+4,923375?locale=en,"277 Babcock Street, Boston, MA 02215",None,None,2020.9.23,None
+5,853611?locale=en,"Grandy ave, La Grande, OR 97850",Not locked,Bike was not locked,2020.9.23,Reported
+0,923347?locale=en,"Bellingham, WA 98229",Cable lock,"Lock was cut, and left at the scene",2020.9.23,Reported
+1,923294,"Myerstown, PA 17067",None,None,2020.9.23,None
+2,924788,"Denver, CO",U-lock and cable,"Lock was cut, and left at the scene",2020.9.23,Reported
+0,923028,"Baltimore, MD 21224",None,None,2020.9.23,None
+1,923245,"520 Kingsland Avenue, St. Louis, MO 63130",U-lock and cable,"Lock is missing, along with the bike",2020.9.23,None
+2,923178,"Bierce Library, Akron, OH 44325",U-lock,"Lock is missing, along with the bike",2020.9.23,Reported
+3,923167?locale=en,"Chula Vista, CA 91910",None,None,2020.9.23,None
+4,923162?locale=en,"Tucson, AZ 86719",Cable lock,"Lock is missing, along with the bike",2020.9.23,Reported
+0,380650?locale=en,"Everett, WA 98203",Not locked,"Lock was cut, and left at the scene",2020.9.23,Reported
+1,926340,"Eugene, OR 97404",None,None,2020.9.23,Reported
+2,923897?locale=en,"Burbank, CA 91506",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.23,Reported
+3,923900?locale=en,"Burbank, CA 91506",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.23,Reported
+0,722272,"1910 S Josephine St, Denver, CO 80210",None,"Lock was cut, and left at the scene",2020.9.23,Reported
+1,923739?locale=en,"Seattle, WA 98115-6810",None,None,2020.9.23,None
+2,923257?locale=en,"Los Angeles, CA 90036",None,None,2020.9.23,Reported
+3,923333,"1000 N Country Club Dr, Flagstaff, AZ 86004",Cable lock,"Lock was cut, and left at the scene",2020.9.23,Reported
+4,925894,"Moab, UT 84532",Cable lock,"Lock was cut, and left at the scene",2020.9.23,Reported
+5,923384,"Overland Park, KS 66204",None,None,2020.9.23,Reported
+6,923478,"Overland Park, KS 66204",Other,"Other situation, please describe below",2020.9.23,Reported
+7,935278,"Lovell Place , Erie, PA 16503",Cable lock,"Lock is missing, along with the bike",2020.9.22,Reported
+8,386302,"2228 Occidental Ave S, Seattle, WA 98134",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.22,Reported
+0,756567,"5922 Edinger Ave., Huntington Beach, CA 92649",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.22,Reported
+1,923849,"Oklahoma, OK 73118",None,Bike was not locked,2020.9.22,Reported
+2,925863,"Portland, OR 97214",None,None,2020.9.22,Reported
+3,923035,"Mankato, MN 56001",None,None,2020.9.22,None
+4,923027,"Los Angeles, CA 90016",None,None,2020.9.22,None
+5,923041,"8001 33rd ave S, Bloomington, MN 55425",Cable lock,"Lock was cut, and left at the scene",2020.9.22,Reported
+6,923039,"507 N 61st, Seattle, WA 98107",Not locked,"Other situation, please describe below",2020.9.22,Reported
+0,936342,"1798 Miramonte Ave , Mountain View, CA 94040",None,None,2020.9.22,Reported
+1,922961,"300 W Hawthorne Rd, Spokane, WA 99251",None,None,2020.9.22,None
+2,922948,"Seattle, WA 98105",None,None,2020.9.22,None
+3,922945,"749 15th St, Boulder, CO 80302-7621",Not locked,Bike was not locked,2020.9.22,Reported
+4,922940?locale=en,"Baynes street lafayette street, Buffalo, NY 14213",None,None,2020.9.22,None
+5,923019?locale=en,"North 85th St, Seattle, WA 98103",Not locked,"Other situation, please describe below",2020.9.22,Reported
+6,922928?locale=en,"5071 eden avenue, Edina, MN 55436",None,None,2020.9.22,None
+7,922879?locale=en,"Post Road, CT 06371",None,None,2020.9.22,None

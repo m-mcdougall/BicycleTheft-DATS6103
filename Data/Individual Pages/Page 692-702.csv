@@ -1,0 +1,59 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,830445,"1221 S Main St, Saint George, UT 84770",None,None,2020.8.3,None
+1,830447,"Bellevue, WA 98004",U-lock and cable,"Other situation, please describe below",2020.8.3,Reported
+2,610756,"Wauwatosa, WI 53213",None,None,2020.8.3,None
+0,831560,"4409 NE Killingsworth St, Portland, OR 97218",Cable lock,"Lock is missing, along with the bike",2020.8.3,Reported
+1,839793,"River Ridge, LA 70123",None,None,2020.8.3,Reported
+2,250144,"Chicago, IL 60647",Not locked,None,2020.8.3,None
+3,831266,"Los Angeles, CA 90034",None,None,2020.8.3,None
+4,617243,"Denver, CO 80211",Not locked,Bike was not locked,2020.8.3,Reported
+5,832028,"215 E Huron St, Chicago, IL 60611",Cable lock,"Lock is missing, along with the bike",2020.8.3,Reported
+0,840020,"Seattle, WA 98109",Chain with padlock,"Other situation, please describe below",2020.8.3,Reported
+1,830125,"Houston, TX 77007",None,None,2020.8.3,None
+2,833004,"Salem, OR 97302",Other,None,2020.8.3,Reported
+3,863494,"5207 D Evans Ave, Austin, TX 78751",Not locked,Bike was not locked,2020.8.3,None
+4,830454,"4203 Louisiana Blvd, Albuquerque, NM 87109",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.3,None
+5,830485,"4203 Louisiana Blvd, Albuquerque, NM 87109",Cable lock,"Lock was cut, and left at the scene",2020.8.3,None
+0,830791,"New Orleans, LA 70119",None,None,2020.8.3,Reported
+1,758314,"5450 Leary Ave NW, Seattle, WA 98107",Cable lock,"Lock was cut, and left at the scene",2020.8.3,None
+2,830116,"Richardson, TX 75080",Not locked,Bike was not locked,2020.8.3,None
+3,830124,"Bellingham, WA 98225",Cable lock,"Lock is missing, along with the bike",2020.8.3,Reported
+4,830549,"Boise, ID 83706",None,None,2020.8.3,Reported
+5,834542,"Shoreline, WA 98133",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.8.3,Reported
+6,838129,"Columbus, OH 43201",Cable lock,None,2020.8.3,None
+0,830072,"San Francisco, CA 94118",U-lock,"Lock is missing, along with the bike",2020.8.3,Reported
+1,832935,"1st st. between 4th and 5th ave., Brooklyn, NY 11215",Not locked,Bike was not locked,2020.8.2,None
+2,777873,"Seattle, WA 98119",Not locked,"Other situation, please describe below",2020.8.2,Reported
+3,676721,"Denver, CO 80205",Other,"Lock was cut, and left at the scene",2020.8.2,Reported
+4,789273,"Independence, MN",Not locked,Bike was not locked,2020.8.2,None
+0,93486,"Santa Monica, CA 90404",Other,"Other situation, please describe below.",2020.8.2,Reported
+1,117901,"Washington, DC 20036",Cable lock,"Lock is missing, along with the bike.",2020.8.2,None
+2,829981,"Berkeley, CA 94704",None,None,2020.8.2,None
+3,80067,"Bellingham Wa, WA 98225",Not locked,None,2020.8.2,Reported
+4,829963,"Seattle, WA 98117-6201",Cable lock,"Lock is missing, along with the bike",2020.8.2,Reported
+5,829966,"Seattle, WA 98117-6201",Cable lock,"Lock is missing, along with the bike",2020.8.2,Reported
+6,829958,"1944 Curtis St, Berkeley, CA 94702",None,None,2020.8.2,None
+7,808953,"Moscow, ID 83843",Cable lock,"Lock is missing, along with the bike",2020.8.2,None
+0,735644,"3625 E. Colfax Ave,, Denver, CO 80206",Cable lock,"Lock was cut, and left at the scene",2020.8.2,Reported
+1,704736,"Julia Davis Park, Boise, ID 83709",Cable lock,"Lock is missing, along with the bike",2020.8.2,Reported
+2,831484,"New Orleans, LA 70125",None,None,2020.8.2,Reported
+3,829865,"Minneapolis, MN 55418",Other,Bike was not locked,2020.8.2,None
+4,848879,"Palo Alto, CA 94301",U-lock,None,2020.8.2,Reported
+0,829837,"1528 San Joaquin Ave, San Jose, CA 95118",None,None,2020.8.2,Reported
+1,829821,"1270 W Peachtree Street NW, Atlanta, GA 30309",U-lock,"Lock is missing, along with the bike",2020.8.2,Reported
+2,830695,"299 W. Washington Ave, Apt 421, Sunnyvale, CA 94086",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.2,Reported
+3,829770,"1025 NE 73rd St, Seattle, WA 98115",None,Bike was not locked,2020.8.2,Reported
+4,841624,"302 Bon Air Center, Greenbrae, CA 94904",Cable lock,"Lock was cut, and left at the scene",2020.8.2,Reported
+5,829769,"Seattle, WA 98109",None,None,2020.8.2,Reported
+6,829743,"2076 Como Avenue, St. Paul, MN 55108",None,None,2020.8.2,None
+0,829745,"Seattle, WA 98115",Not locked,Bike was not locked,2020.8.2,Reported
+1,830465,"1100 S Lamar Boulevard, Austin, TX 78704",U-lock,"Lock was cut, and left at the scene",2020.8.2,Reported
+2,829693,"Palm Springs, CA 92264",Not locked,"Other situation, please describe below",2020.8.2,None
+3,830703,"Seattle, WA 98102",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.8.2,None
+4,833366,"914 Main Street, Belmar, NJ 07719",Not locked,Bike was not locked,2020.8.2,Reported
+5,829663,"Palo Alto, CA 94301",None,None,2020.8.2,None
+6,829659,"573 Edgewood Ave SE, Atlanta, GA 30312",Cable lock,"Lock was cut, and left at the scene",2020.8.2,None
+7,829651,"215 W. Maple St 311, Milwaukee, WI 53204",Chain with padlock,"Lock was cut, and left at the scene",2020.8.2,Reported
+0,829650,"HARRISON ST, Providence, RI 02909-1230",Other,None,2020.8.2,Reported
+1,829645,"M & WISCONSIN AVE, Washington, DC 20001",None,None,2020.8.2,None
+2,830636,"Denver, CO 80247",Cable lock,"Lock was cut, and left at the scene",2020.8.2,Reported

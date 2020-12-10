@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,38413,"Portland, OR 97216",U-lock,"Lock is missing, along with the bike.",2005.5.4,Reported
+1,4825,"Seattle, WA 98102",None,None,2005.5.2,None
+2,4022,"Pasadena, CA 91101",None,None,2005.5.1,None
+3,4120,"Fernley, NE 89408",None,None,2005.5.1,None
+4,4730,"Albuquerque, NM 87102",None,None,2005.5.1,None
+5,4729,"San Diego, CA 92116",None,None,2005.5.1,None
+6,4732,"Austin, TX 78749",None,None,2005.5.1,None
+7,4848,"The Woodlands, TX 77381",None,None,2005.5.1,None
+8,5498,"San Diego, CA 92109",None,None,2005.5.1,None
+9,4132,"Gresham, OR 97233",None,None,2005.5.1,None
+0,4118,"Santa Barbara, CA 93101",None,None,2005.4.27,None
+1,4016,"Baltimore, MD 21231",None,None,2005.4.25,None
+2,4116,"Washington, DC 20010",None,None,2005.4.25,None
+3,4018,"Van Nuys, CA 91411",None,None,2005.4.25,None
+4,4112,"Pittsburgh, PA 15213",None,None,2005.4.22,None
+5,4708,"Rockford, IL 61109",None,None,2005.4.21,None
+6,4114,"Sacramento, CA 95841",None,None,2005.4.19,None
+7,3949,"Granada Hills, CA 91344",None,None,2005.4.19,None
+8,4117,"Boulder, CO 80302",None,None,2005.4.17,None
+9,4771,"San Francisco, CA 94115",None,None,2005.4.15,None
+0,4107,"Tucson, AZ 85711",None,None,2005.4.15,None
+1,4101,"Pullman, WA 99163",None,None,2005.4.14,None
+2,4769,"Portland, OR 97205",None,None,2005.4.14,None
+3,3948,"Hollywood, CA 90403",None,None,2005.4.13,None
+4,4726,"Ewa Beach, HI 96706",None,None,2005.4.13,None
+5,4099,"Washington, DC 20007",None,None,2005.4.12,None
+6,24409,"Santa Cruz, CA 95064",None,None,2005.4.12,Reported
+7,4727,"San Francisco, CA 94103",None,None,2005.4.12,None
+8,4014,"Tucson, AZ 85719",None,None,2005.4.11,None
+9,4707,"Raleigh, NC 27606",None,None,2005.4.7,None
+0,3886,"Menlo Park, CA 94025",None,None,2005.4.3,None
+1,4094,"Menlo Park, CA 94025",None,None,2005.4.3,None
+2,4725,"Bend, OR 97701",None,None,2005.4.2,None
+3,3885,"Bend, OR 97701",None,None,2005.4.2,None
+4,3937,"Palo Alto, CA 94305",None,None,2005.4.2,None
+5,4013,"Tucson, AZ 85719",None,None,2005.4.1,None
+6,4213,"Tempe, AZ 85281",None,None,2005.4.1,None
+7,4307,"Denver, CO 80209",None,None,2005.4.1,None
+8,4015,"New York, NY 10014",None,None,2005.4.1,None
+9,4212,"Tempe, AZ 85281",None,None,2005.4.1,None
+0,5487,"San Carlos, CA 94070",None,None,2005.3.29,None
+1,4096,"San Luis Obispo, CA 93405",None,None,2005.3.28,None
+2,3882,"Las Vegas, NV 89102",None,None,2005.3.25,None
+3,4172,"Allison Park, PA 15101",None,None,2005.3.25,None
+4,4091,"Las Vegas, NV 89102",None,None,2005.3.25,None
+5,25502,"Jacksonville, FL 32207",None,None,2005.3.19,Reported
+6,4768,"San Francisco, CA 94105",None,None,2005.3.17,None
+7,4182,"Palm Desert, CA 92260",None,None,2005.3.16,None
+8,4694,"Many Farms, AZ 86538",None,None,2005.3.10,None
+9,4383,"Albuquerque, NM 87111",None,None,2005.3.10,None
+0,4089,"San Francisco, CA 94115",None,None,2005.3.3,None
+1,4223,"Phoenix, AZ 85024",None,None,2005.3.2,None
+2,4090,"Boulder, CO 80302",None,None,2005.3.1,None
+3,4932,"Edmonds, WA 98026",None,None,2005.3.1,None
+4,3883,"Tucson, AZ 85721",None,None,2005.3.1,None
+5,4093,"Tucson, AZ 85721",None,None,2005.3.1,None
+6,10877,"Arlington, VA 22201",None,None,2005.3.1,None
+7,5585,"Knoxville, TN 37916",None,None,2005.3.1,None
+8,4087,"Frederick, MD 21701",None,None,2005.2.26,None
+9,15260,"Baltimore, MD 21218",None,None,2005.2.26,Reported
+0,3969,"Chula Vista, CA 91910",None,None,2005.2.25,None
+1,4770,"Tucson, AZ 85719",None,None,2005.2.25,None
+2,3884,"Tucson, AZ 85749",None,None,2005.2.18,None
+3,3945,"Tucson, AZ 85749",None,None,2005.2.18,None
+4,4136,"Chanhassen, MN 55317",None,None,2005.2.1,None
+5,4209,"Council Bluffs, IA 51501",None,None,2005.1.29,None
+6,4721,"Berkeley, CA 94701",None,None,2005.1.28,None
+7,4208,"New York, NY 10025",None,None,2005.1.27,None
+8,4193,"New York, NY 10003",None,None,2005.1.25,None
+9,4741,"Williamsville, NY 14221",None,None,2005.1.25,None
+0,4195,"Tucson, AZ 85748",None,None,2005.1.25,None
+1,4192,"Boulder, CO 80302",None,None,2005.1.24,None
+2,4410,"Washington, DC 20004",None,None,2005.1.24,None
+3,4229,"Columbus, OH 43210",None,None,2005.1.21,None
+4,4620,"New York, NY 10036",None,None,2005.1.21,None
+5,4187,"Chicago, IL 60614",None,None,2005.1.20,None
+6,4174,"Tucson, AZ 85715",None,None,2005.1.10,None
+7,4474,"Washington, DC 20003",None,None,2005.1.6,None
+8,4793,"Glendale, AZ 85308",None,None,2005.1.5,None
+9,4031,"Flint, MI 48506",None,None,2005.1.5,None
+0,4204,"Austin, TX 78741",None,None,2005.1.5,None
+1,4734,"Concord, MA 01742",None,None,2005.1.4,None
+2,4180,"Sherman Oaks, CA 91401",None,None,2005.1.4,None
+3,4175,"Memphis, TN 38120",None,None,2005.1.2,None
+4,18978,"Seattle, WA 98105",None,None,2005.1.1,None
+5,4203,"Redwood City, CA 94061",None,None,2005.1.1,None
+6,4400,"Denver, CO 80205",None,None,2005.1.1,None
+7,4783,"Acampo, CA 95220",None,None,2005.1.1,None
+8,4792,"Erie, PA 16505",None,None,2005.1.1,None
+9,4744,"Denver, CO 80218",None,None,2005.1.1,None
+0,4074,"Medford, MA 02155",None,None,2005.1.1,None
+1,4862,"Denver, CO 80218",None,None,2005.1.1,None
+2,5963,"Salt Lake City, UT 84102",None,None,2005.1.1,None
+3,8266,"Lynnwood, WA 98037",None,None,2005.1.1,None
+4,4777,"Grand Rapids, MI 49525",None,None,2005.1.1,None
+5,4773,"Brookline, MA 02446",None,None,2005.1.1,None
+6,4822,"Brooklyn, NY 11201",None,None,2005.1.1,None
+7,4330,"New York, NY 10003",None,None,2004.11.25,None
+8,4499,"San Francisco, CA 94117",None,None,2004.11.16,None
+9,5259,"Dallas, TX 75209",None,None,2004.11.16,None

@@ -1,0 +1,75 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,781402,"San Francisco, CA 94110",None,None,2020.7.3,Reported
+1,781986,"Washington, DC 20002",Cable lock,"Lock was cut, and left at the scene",2020.7.3,None
+2,791422,"Alexandria, VA 22308",None,None,2020.7.3,Reported
+3,781355,"Salt Lake City, UT 84109",None,None,2020.7.3,None
+4,781354,"Ogden, UT 84404",None,None,2020.7.3,None
+0,786515,"Seattle, WA 98104",U-lock,"Lock is missing, along with the bike",2020.7.3,Reported
+1,781988,"Oakland, CA 94609",Other,None,2020.7.3,Reported
+2,782036,"Boise, ID 83705",None,None,2020.7.3,Reported
+3,783362,"4134 Big Hungry Rd, Flat Rock, NC 28731",Not locked,None,2020.7.3,Reported
+4,781275,"Albuquerque, NM 87106",None,None,2020.7.3,None
+5,781269,"Los Angeles, CA 90001",None,None,2020.7.3,None
+6,781936,"Salt Lake, UT 84109",Not locked,"Other situation, please describe below",2020.7.3,Reported
+7,781779,"200 10TH AVE, San Francisco, CA 94118",U-lock and cable,"Lock is missing, along with the bike",2020.7.3,Reported
+8,783015,"Portland, OR 97209",None,None,2020.7.3,None
+9,793104,"Austin, TX 78751",U-lock and cable,"Lock is missing, along with the bike",2020.7.3,None
+0,781224,"3001 Walnut St, Denver, CO 80205",None,None,2020.7.3,None
+1,785038,"1800 W Fairview Ave, Boise, ID 83702",Cable lock,"Lock is missing, along with the bike",2020.7.3,Reported
+2,781196,"401 n Riverpoint blvd, Spokane, WA 99202",None,None,2020.7.3,None
+3,781192,"401 n Riverpoint blvd, Spokane, WA 99202",None,None,2020.7.3,None
+4,781835,"Denver, CO 80204",None,None,2020.7.3,Reported
+5,781147,"1591 Chambers Rd, Aurora, CO 80011",None,None,2020.7.3,None
+6,731221,"Amsterdam, NH 1078LC",Cable lock,"Lock is missing, along with the bike",2020.7.3,None
+0,781846,"Dallas, TX 75206",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.3,Reported
+1,783350,"E pennigton st & E toole, Tucson, AZ 85719",Not locked,Bike was not locked,2020.7.3,Reported
+2,781239,"Iconic Village Apartments, Boise, ID 83706",None,None,2020.7.3,Reported
+3,122228,"Seattle, WA 98126",Not locked,None,2020.7.3,Reported
+4,785065,"Seattle, WA 98109",U-lock,"Lock is missing, along with the bike",2020.7.3,Reported
+5,782663,"Baker City, OR",Chain with padlock,"Lock was cut, and left at the scene",2020.7.3,Reported
+6,782662,"Baker City, OR",Chain with padlock,"Lock was cut, and left at the scene",2020.7.3,Reported
+7,782690,"Baker City, OR",Chain with padlock,"Lock was cut, and left at the scene",2020.7.3,Reported
+0,781531,"Ustick and Maple Grove Area, Boise, ID 83704",Cable lock,"Lock was cut, and left at the scene",2020.7.3,Reported
+1,781467,"Los Angeles, CA 90064",None,None,2020.7.3,None
+2,781468,"Los Angeles, CA 90064",None,None,2020.7.3,None
+3,664749,"Ocala, FL 34470",Other,None,2020.7.3,Reported
+4,780401,"Largo, FL 33781",None,None,2020.7.3,None
+5,706304,"600 Morgan st, Santa Rosa, CA 95401",None,None,2020.7.3,None
+6,781893,"Seattle, WA 98119",U-lock,None,2020.7.3,None
+7,781896,"Seattle, WA 98119",None,None,2020.7.3,None
+8,782374,"55 Canal Street, New York, NY 10002",Cable lock,"Lock was cut, and left at the scene",2020.7.3,None
+0,783001,"Chelsea, MA 02150",U-lock and cable,"Lock was cut, and left at the scene",2020.7.2,None
+1,780984,"817 S 5th Ave, Minneapolis, MN 55404",None,None,2020.7.2,Reported
+2,782410,"817 South 5th Avenue , Minneapolis, MN 55404",None,None,2020.7.2,Reported
+3,780874,"1823 Minor Ave, Seattle, WA 98101",U-lock,"Lock is missing, along with the bike",2020.7.2,None
+4,782217,"Grant Rd & 1st Ave, Tucson, AZ 85716",Chain with padlock,Bike was not locked,2020.7.2,None
+5,793487,"183 East Main Street, Rochester, NY 14604",None,None,2020.7.2,Reported
+6,780853,"915 Broadway, New York, NY 10010",None,None,2020.7.2,None
+7,780944,"Madison St and Bedford avenue, Brooklyn, NY 11216",None,None,2020.7.2,None
+0,780825,"Melrose, MA 02176",Cable lock,"Lock is missing, along with the bike",2020.7.2,None
+1,780847,"50 Ashford Street, Allston, MA 02134",None,"Other situation, please describe below",2020.7.2,Reported
+2,780832,"7115 NE Prescott, Portland, OR 97218",None,None,2020.7.2,Reported
+3,780784,"Chicago, IL 60625",Cable lock,"Lock is missing, along with the bike",2020.7.2,Reported
+4,780796,"721 Depew street Apt4 , Lakewood, CO 80214",None,None,2020.7.2,Reported
+5,780740,"Baseline and 29th, Boulder, CO 80303",None,None,2020.7.2,None
+6,780736,"395 Columbia Street, 1/2, Cambridge, MA 02141 ",None,None,2020.7.2,None
+7,781347,"Santa Monica, CA 90405",None,None,2020.7.2,Reported
+0,782858,"Albany, CA 94706",Heavy duty bicycle security chain,None,2020.7.2,Reported
+1,782851,"Albany, CA 94706",Heavy duty bicycle security chain,"Other situation, please describe below",2020.7.2,Reported
+2,780614,"Boston, MA 02215",None,None,2020.7.2,None
+3,781879,"Bethesda, MD 20814",Cable lock,"Lock was cut, and left at the scene",2020.7.2,Reported
+4,780547,"Washington, DC 20009",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.2,Reported
+0,748119,"Alameda, CA 94501",None,None,2020.7.2,None
+1,740706,"San Francisco, CA 94107",U-lock and cable,"Lock was cut, and left at the scene",2020.7.2,Reported
+2,780611,"New Orleans, LA 70115",None,None,2020.7.2,Reported
+3,925960,"Tell Me, CA Tell me ",Other,"Other situation, please describe below",2020.7.2,None
+4,780582,"Austin, TX 78741",Cable lock,"Lock was cut, and left at the scene",2020.7.2,Reported
+5,780971,"Westminster, CA 92683",Cable lock,Bike was not locked,2020.7.2,Reported
+0,780940,"Seattle, WA 98103",Other,"Other situation, please describe below",2020.7.2,Reported
+1,783634,"Mountain View, CA 94040",U-lock and cable,"Lock is missing, along with the bike",2020.7.2,Reported
+2,846885,"San Diego, CA 92101",None,None,2020.7.2,None
+3,781290,"Salt Lake City, UT 84105",None,None,2020.7.2,Reported
+4,781246,"Kensington Ave, Salt Lake City, UT 84105",Not locked,None,2020.7.2,Reported
+5,780405,"New Orleans, LA 70117",None,None,2020.7.2,None
+6,780415,"Knoxville, TN 37920",Cable lock,"Lock was cut, and left at the scene",2020.7.2,Reported
+7,780474,"Salt Lake City, UT 84109",None,None,2020.7.2,Reported

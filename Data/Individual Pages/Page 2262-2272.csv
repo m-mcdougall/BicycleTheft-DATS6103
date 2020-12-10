@@ -1,0 +1,78 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,608528,"Eugene, OR 97401",None,None,2019.4.29,None
+1,604063,"Winnipeg, R3L 0K8",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.29,None
+2,609095,"551 Pearl St, Denver, CO 80203",U-lock,"Lock is missing, along with the bike.",2019.4.29,None
+3,604434,"Seattle, WA 98122",None,None,2019.4.29,Reported
+4,604039,"Seattle, WA 98115",Not locked,"Other situation, please describe below.",2019.4.29,Reported
+5,604379,"3964 Watercourse Drive, Fort Worth, TX 76109",Cable lock,"Lock was cut, and left at the scene.",2019.4.28,None
+6,604381,"3964 Watercourse Drive, Fort Worth, TX 76109",Cable lock,"Lock was cut, and left at the scene.",2019.4.28,None
+7,609578,"555 E Grant Rd, Tucson, AZ 85705",None,None,2019.4.28,None
+8,604001,"Chicago, IL 60612",None,None,2019.4.28,None
+0,613261,"New, LA 70117",None,None,2019.4.28,None
+1,603970,"Portland, OR 97211",Other,"Lock was cut, and left at the scene.",2019.4.28,None
+2,603968,"Portland,, OR 97266",U-lock,"Lock is missing, along with the bike.",2019.4.28,Reported
+3,604425,"Morrisville, NC 27560",None,Bike was not locked,2019.4.28,Reported
+4,609161,"12th ave s, Seattle, WA 98101",Other,"Other situation, please describe below.",2019.4.28,None
+5,608747,"Salt Lake City, UT 84109",None,None,2019.4.28,Reported
+6,608576,"2851 SOUTH 2870 EAST, Salt Lake, UT 84109",Not locked,"Lock was opened, and left unharmed at the scene.",2019.4.28,Reported
+0,604610,"Marina, CA 93933",None,"Lock is missing, along with the bike.",2019.4.28,None
+1,603846,"New Orleans, LA 70117",None,None,2019.4.28,Reported
+2,603850,"New Orleans, LA 70117",None,None,2019.4.28,Reported
+3,604346,"Cleveland, OH 44106",None,None,2019.4.27,Reported
+4,603770,"Salt Lake City, UT 84106",Other,"Other situation, please describe below.",2019.4.27,Reported
+5,603779,"Costa Mesa, CA 92627",U-lock,"Lock is missing, along with the bike.",2019.4.27,Reported
+6,603781,"375 S. Valley View Dr. , Saint George, UT 84770",Not locked,"Other situation, please describe below.",2019.4.27,Reported
+7,603775,"UCSD Hillcrest , San Diego, CA",Other,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.27,Reported
+8,603782,"Denver, CO 80210",U-lock and cable,"Lock was cut, and left at the scene.",2019.4.27,None
+0,603816,"315 West 14th Strret, Davis, CA 95616",Cable lock,"Lock was cut, and left at the scene.",2019.4.27,Reported
+1,603679,"S. Harney St. & Corson Ave S., Seattle, WA 98103",None,None,2019.4.27,None
+2,603688,"5800 SE Ash St, Portland, OR 97215",Not locked,None,2019.4.27,None
+3,603907,"San Francisco, CA 94107",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.27,Reported
+4,603635,"701 Mazant St., New Orleans, LA 70117",Chain with padlock,"Lock is missing, along with the bike.",2019.4.27,None
+5,603486,"Rolla, MO 65401",Cable lock,"Other situation, please describe below.",2019.4.27,None
+6,603567,"Dover & Sunnyside , Chicago, IL 60640",None,None,2019.4.27,None
+7,603871,"6th Ave & Pike Street, Seattle, WA 98101",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.27,Reported
+8,603605,"Los Angeles, CA 21015",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.27,None
+0,603602,"Marshall Avenue and Otis, St Paul, MN 55104",Not locked,Bike was not locked,2019.4.27,Reported
+1,603572,"Juneau, AK 99801",None,None,None,None
+2,603561,"Atlanta, GA 30309",None,None,2019.4.27,None
+3,607905,"Seattle, WA 98105",None,"Other situation, please describe below.",2019.4.27,Reported
+4,604223,"Renton, WA 98057",Other,None,2019.4.27,None
+5,603554,"865 Market Street, San Francisco, CA 94107",U-lock,"Lock is missing, along with the bike.",2019.4.27,Reported
+6,605191,"300 Terry Ave N., Seattle, WA 98109",Cable lock,"Lock is missing, along with the bike.",2019.4.27,None
+0,604352,"Beaverton, OR 97XXX",Not locked,"Lock is missing, along with the bike.",2019.4.27,None
+1,604273,"2020 Wheaton Drive Ramada INN, Bozeman, MT 59715",Cable lock,None,2019.4.27,Reported
+2,604275,"2020 Wheat ave Ramada Inn, Bozeman, MT 59715",Cable lock,None,2019.4.27,None
+3,603599,"318 Campus Drive, Stanford, CA 94305, Palo Alto, Stanford University, CA 94305",Cable lock,"Lock is missing, along with the bike.",2019.4.26,Reported
+4,603541,"Edmond, OK 73034",Cable lock,"Lock was cut, and left at the scene.",2019.4.26,None
+5,603477,"Portland, OR 97202",Cable lock,"Lock was cut, and left at the scene.",2019.4.26,Reported
+0,636047,"El Monte, CA 91732",Not locked,Bike was not locked,2019.4.26,None
+1,603545,"Seattle, WA 98103",None,None,2019.4.26,Reported
+2,605240,"Slo, CA 93407",Cable lock,"Lock is missing, along with the bike.",2019.4.26,Reported
+3,383417,"Seattle, WA 98107",U-lock,"Lock is missing, along with the bike.",2019.4.26,Reported
+4,603432,"2040 w North Ave , Chicago, IL 60642",U-lock,"Lock was cut, and left at the scene.",2019.4.26,Reported
+5,603419,"San Francisco, CA 94117",Not locked,None,2019.4.26,None
+6,604101,"6th Ave and Euclid, Tucson, AZ 85721",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.26,Reported
+0,603403,"Portland, OR 97203",Not locked,"Other situation, please describe below.",2019.4.26,None
+1,604013,"920 East Lake Street, Minneapolis, MN 55407",Cable lock,"Lock was cut, and left at the scene.",2019.4.26,Reported
+2,603526,"Los Angeles, CA 90045",None,None,2019.4.26,Reported
+3,604307,"Cambridge, MA 02139",U-lock,"Lock is missing, along with the bike.",2019.4.26,Reported
+4,603378,"440 US-101, Crescent City, CA 95531",None,None,2019.4.26,None
+5,603369,"2217 3rd Avenue, Seattle, WA 98101",U-lock,"Lock was cut, and left at the scene.",2019.4.26,Reported
+6,625791,"Dallas, TX 75243",Cable lock,"Lock is missing, along with the bike.",2019.4.26,Reported
+7,603626,"Minneapolis, MN 55406",Not locked,None,2019.4.26,Reported
+8,603396,"Bellevue, WA 98006",Not locked,Bike was not locked,2019.4.26,Reported
+9,603359,"212 loyola ave Saratoga bike storage, New Orleans, LA 70112",Cable lock,"Lock was cut, and left at the scene.",2019.4.26,None
+0,604247,"2240 Saint Claude Ave., New Orleans, LA 70117",Cable lock,"Lock was cut, and left at the scene.",2019.4.25,Reported
+1,604246,"New Orleans, LA 70117",Cable lock,"Lock was cut, and left at the scene.",2019.4.25,Reported
+2,603339,"Gainesville, FL 32607",None,None,2019.4.25,None
+3,604077,"6th Street and Nicollet Mall, Minneapolis, MN 55402",Cable lock,"Lock is missing, along with the bike.",2019.4.25,Reported
+4,603295,"Madison, WI 53715",Cable lock,"Lock was cut, and left at the scene.",2019.4.25,Reported
+5,650763,"Old orchard elementary , Valencia, CA 91355",None,None,2019.4.25,None
+6,603271,"913 E 11th AVE, Davies Hall, Ellensburg, WA 98926",Cable lock,"Lock was cut, and left at the scene.",2019.4.25,Reported
+7,642031,"Baton Rouge, LA 70805",Cable lock,"Lock is missing, along with the bike",2019.4.25,None
+0,603374,"Brunswick, GA 31523",None,None,2019.4.25,None
+1,603225,"San Francisco, CA 94102",Not locked,Bike was not locked,2019.4.25,Reported
+2,52890,"Portland, OR 97211",U-lock,"Lock is missing, along with the bike.",2019.4.25,Reported
+3,603394,"1816 Eddy Street, San Francisco, CA 94115",U-lock,"Lock was cut, and left at the scene.",2019.4.25,None
+4,603883,"Altoona, IA 50009",Other,"Other situation, please describe below.",2019.4.25,Reported

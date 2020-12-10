@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,4230,"Chicago, IL 60608",None,None,2005.8.1,None
+1,27827,"Sacramento, CA 95817",Cable lock,"Lock was cut, and left at the scene.",2005.7.29,Reported
+2,5555,"Sacramento, CA 95817",None,None,2005.7.29,None
+3,4202,"Chicago, IL 60613",None,None,2005.7.28,None
+4,4214,"Newport Beach, CA 92663",None,None,2005.7.28,None
+5,4196,"Coconut Grove, FL 33133",None,None,2005.7.26,None
+6,4207,"Mountain View, CA 94043",None,None,2005.7.26,None
+7,4200,"Austin, TX 78751",None,None,2005.7.25,None
+8,4199,"Buffalo, NY 14202",None,None,2005.7.25,None
+9,4201,"Baltimore, MD 21210",None,None,2005.7.24,None
+0,25196,"Cockeysville, MD 21204",None,None,2005.7.24,Reported
+1,4036,"Austin, TX 78722",None,None,2005.7.23,None
+2,3942,"Atlanta, GA 30318",None,None,2005.7.22,None
+3,4035,"Toledo, OH 43606",None,None,2005.7.22,None
+4,4190,"Scranton, PA 18510",None,None,2005.7.22,None
+5,4788,"Washington, TX 20003",None,None,2005.7.21,None
+6,4789,"Washington, DC 20003",None,None,2005.7.21,None
+7,4791,"Denver, CO 80218",None,None,2005.7.21,None
+8,4790,"Tinley Park, IL 60477",None,None,2005.7.19,None
+9,4184,"Arlington Heights, IL 60005",None,None,2005.7.18,None
+0,4131,"New York, NY 10017",None,None,2005.7.17,None
+1,4183,"Boston, MA 02116",None,None,2005.7.16,None
+2,4034,"Washington, DC 20007",None,None,2005.7.11,None
+3,4206,"Phoenix, AZ 85048",None,None,2005.7.9,None
+4,4735,"Houston, TX 77021",None,None,2005.7.7,None
+5,4786,"Seattle, WA 98144",None,None,2005.7.7,None
+6,8607,"Euclid, OH 44123",None,None,2005.7.7,None
+7,3956,"Hilliard, OH 43026",None,None,2005.7.6,None
+8,4178,"Seattle, WA 98121",None,None,2005.7.6,None
+9,4787,"Bothell, WA 98021",None,None,2005.7.6,None
+0,4784,"Cambridge, MA 02140",None,None,2005.7.3,None
+1,4189,"St. Helena, CA 94574",None,None,2005.7.2,None
+2,3961,"San Francisco, CA 94123",None,None,2005.7.1,None
+3,4357,"Pasadena, TX 77503",None,None,2005.7.1,None
+4,4171,"Greensboro, NC 27403",None,None,2005.6.30,None
+5,4176,"Salt Lake City, UT 84115",None,None,2005.6.30,None
+6,4188,"Mountainside, NJ 07092",None,None,2005.6.30,None
+7,4169,"Yonkers, NY 10704",None,None,2005.6.29,None
+8,4177,"Portland, OR 97239",None,None,2005.6.29,None
+9,4167,"Eugene, OR 97402",None,None,2005.6.25,None
+0,4781,"New Haven, CT 06519",None,None,2005.6.24,None
+1,4165,"New York, NY 10002",None,None,2005.6.24,None
+2,4163,"New Haven, CT 06519",None,None,2005.6.24,None
+3,4166,"Bend, OR 97701",None,None,2005.6.24,None
+4,4159,"St. Louis, MO 63130",None,None,2005.6.21,None
+5,4160,"Seattle, WA 98105",None,None,2005.6.21,None
+6,4168,"Milwaukee, WI 53211",None,None,2005.6.20,None
+7,4782,"Westerville, OH 43081",None,None,2005.6.19,None
+8,4029,"East Syracuse, NY 13057",None,None,2005.6.18,None
+9,4156,"Germantown, MD 20874",None,None,2005.6.17,None
+0,4158,"Lafayette, CA 94549",None,None,2005.6.16,None
+1,3955,"Seattle, WA 98115",None,None,2005.6.15,None
+2,4162,"Tucson, AZ 85721",None,None,2005.6.13,None
+3,4780,"Ardmore, PA 19003",None,None,2005.6.13,None
+4,4236,"Danville, IL 61832",None,None,2005.6.12,None
+5,4149,"Severn, MD 21144",None,None,2005.6.11,None
+6,4154,"Richmond, CA 94804",None,None,2005.6.11,None
+7,4148,"Maple Heights, OH 44137",None,None,2005.6.11,None
+8,4027,"Tucson, AZ 85711",None,None,2005.6.10,None
+9,3933,"Chicago, IL 60607",None,None,2005.6.9,None
+0,4731,"Boston, MA 02199",None,None,2005.6.9,None
+1,4145,"Voorhees, NJ 08043",None,None,2005.6.9,None
+2,4151,"Chicopee, MA 01020",None,None,2005.6.6,None
+3,4150,"Buffalo, NY 14201",None,None,2005.6.6,None
+4,4961,"Portland, OR 97215",None,None,2005.6.6,None
+5,4142,"Austin, TX 78751",None,None,2005.6.5,None
+6,3952,"Minneapolis, MN 55421",None,None,2005.6.4,None
+7,4173,"Tucson, AZ 85741",None,None,2005.6.4,None
+8,4143,"San Diego, CA 92109",None,None,2005.6.4,None
+9,4138,"Concord, CA 94519",None,None,2005.6.2,None
+0,4139,"Vancouver, WA 98665",None,None,2005.6.2,None
+1,3954,"Boston, MA 02114",None,None,2005.6.1,None
+2,4105,"San Antonio, TX 78212",None,None,2005.6.1,None
+3,3935,"Orem, UT 84057",None,None,2005.6.1,None
+4,3936,"Tucson, AZ 85721",None,None,2005.6.1,None
+5,4737,"Ames, IA 50014",None,None,2005.6.1,None
+6,4140,"Northfield, MN 55057",None,None,2005.5.31,None
+7,4135,"Seattle, WA 98105",None,None,2005.5.28,None
+8,4711,"Fayetteville, NC 28306",None,None,2005.5.27,None
+0,4710,"Menlo Park, CA 94025",None,None,2005.5.26,None
+1,4747,"San Francisco, CA 94121",None,None,2005.5.25,None
+2,4779,"Washington, DC 20015",None,None,2005.5.22,None
+3,4778,"Seattle, WA 98106",None,None,2005.5.22,None
+4,4133,"Austin, TX 78703",None,None,2005.5.21,None
+5,4155,"Urbana, IL 61801",None,None,2005.5.20,None
+6,4130,"San Francisco, CA 94131",None,None,2005.5.19,None
+7,4713,"Chula Vista, CA 91910",None,None,2005.5.19,None
+8,4024,"Grand Rapids, MI 49525",None,None,2005.5.16,None
+9,22770,"New Jersey, KS 07798",None,None,2005.5.15,None
+0,4127,"Indianapolis, IN 46203",None,None,2005.5.15,None
+1,4128,"Bettendorf, IA 52722",None,None,2005.5.15,None
+2,4776,"Massapequa, NY 11758",None,None,2005.5.14,None
+3,3951,"Washington, DC 20003",None,None,2005.5.13,None
+4,4774,"New York, NY 10017",None,None,2005.5.13,None
+5,11790,"Portland, OR",None,None,2005.5.13,None
+6,4021,"Nashville, TN 37212",None,None,2005.5.10,None
+7,4123,"Austin, TX 78705",None,None,2005.5.9,None
+8,4775,"Portland, OR 97221",None,None,2005.5.7,None
+9,4033,"Tucson, AZ 85730",None,None,2005.5.5,None

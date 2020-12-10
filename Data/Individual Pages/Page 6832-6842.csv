@@ -1,0 +1,98 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,20972,"Seattle, WA 98102",None,None,2013.8.29,Reported
+1,22534,"Portland, OR 97216",None,None,2013.8.29,Reported
+2,19930,"San Francisco, CA 94158",None,None,2013.8.29,Reported
+3,22255,"Brooklyn, NY 11231",None,None,2013.8.29,None
+4,16932,"Phoenix, AZ 85004",None,None,2013.8.29,Reported
+5,21044,"Portland, OR 97212",None,None,2013.8.29,None
+6,21035,"Brooklyn, NY 11216",None,None,2013.8.29,None
+7,22491,"Tempe, AZ 85282",None,None,2013.8.29,Reported
+8,19986,"Washington, DC 20003",None,None,2013.8.29,Reported
+9,20036,"New York, NY 10002",None,None,2013.8.29,None
+0,16975,"Portland, OR 97214",None,None,2013.8.28,None
+1,22446,"Los Angeles, CA 90024",None,None,2013.8.28,None
+2,16978,"Mountain View, CA 94043",None,None,2013.8.28,Reported
+3,20099,"Portland, OR 97215",None,None,2013.8.28,Reported
+4,5953,"Berkeley, CA 94702",None,None,2013.8.28,Reported
+5,22567,"Boulder, CO 80303",None,None,2013.8.28,Reported
+6,22554,"Portland, OR 97205",None,None,2013.8.28,Reported
+7,16819,"Henderson, NV 89052",None,None,2013.8.28,Reported
+8,20843,"Tucson, AZ 85719",None,None,2013.8.28,Reported
+9,21063,"Tucson, AZ 85719",None,None,2013.8.28,Reported
+0,22546,"Sacramento, CA 95834",None,None,2013.8.28,None
+1,21122,"Sacramento, CA 95818",None,None,2013.8.28,Reported
+2,20043,"Tucson, AZ 85705",None,None,2013.8.28,Reported
+3,21610,"Philadelphia, PA 19103",None,None,2013.8.28,None
+4,17018,"Washington, DC 20003",None,None,2013.8.27,Reported
+5,16760,"Monmouth, OR 97361",None,None,2013.8.27,Reported
+6,16757,"Monmouth, OR 97361",None,None,2013.8.27,Reported
+7,16669,"Anchorage, AK 99502",None,None,2013.8.27,Reported
+8,19591,"Portland, OR 97215",None,None,2013.8.27,Reported
+9,21065,"Portland, OR 97215",None,None,2013.8.27,Reported
+0,21168,"Denver, CO 80212",None,None,2013.8.27,None
+1,21156,"Portland, OR 97215",None,None,2013.8.27,Reported
+2,9987,"San Francisco, CA 94110",None,None,2013.8.27,None
+3,21130,"Portland, OR 97202",None,None,2013.8.27,Reported
+4,21707,"Washington, DC 20003",None,None,2013.8.27,Reported
+5,22321,"Vacaville, CA 95687",None,None,2013.8.27,Reported
+6,20046,"Mountain View, CA 94040",None,None,2013.8.27,Reported
+7,21633,"Seattle, WA 98109",None,None,2013.8.27,Reported
+8,20022,"Oakland, CA 94610",None,None,2013.8.27,Reported
+9,22586,"San Diego, CA 92101",None,None,2013.8.27,None
+0,17009,"San Francisco, CA 94116",None,None,2013.8.27,Reported
+1,21139,"Portland, OR 97209",None,None,2013.8.27,Reported
+2,17014,"Columbus, OH 43201",None,None,2013.8.27,None
+3,20543,"Portland, OR 97214",None,None,2013.8.26,None
+4,16980,"Houston, TX 77025",None,None,2013.8.26,None
+5,21749,"Portland, OR 97214",None,None,2013.8.26,Reported
+6,17110,"Atlanta, GA 30313",None,None,2013.8.26,None
+7,15783,"Jersey City, NJ 07302",None,None,2013.8.26,Reported
+8,21700,"Tucson, AZ 85719",None,None,2013.8.26,Reported
+9,20105,"San Francisco, CA 94115",None,None,2013.8.26,Reported
+0,21069,"Seattle, WA 98101",None,None,2013.8.26,Reported
+1,21178,"Oakland, CA 94610",None,None,2013.8.26,Reported
+2,21630,"Pleasanton, CA 94588",None,None,2013.8.26,Reported
+3,17147,"Atlanta, GA 30329",None,None,2013.8.26,None
+4,21776,"Atlan, GA 30329",None,None,2013.8.26,None
+5,21203,"Chicago, IL 60642",None,None,2013.8.26,None
+6,15780,"Jersey City, NJ 07302",None,None,2013.8.26,Reported
+7,17114,"Bend, OR 97702",None,None,2013.8.26,Reported
+8,21170,"Highland Village, TX 75077",None,None,2013.8.26,None
+9,17597,"Denver, CO 80201",None,None,2013.8.25,Reported
+0,17485,"Brooklyn, NY 11201",None,None,2013.8.25,None
+1,21185,"Portland, OR 97217",None,None,2013.8.25,Reported
+2,16172,"Philadelphia, PA 19107",None,None,2013.8.25,None
+3,20492,"Atlanta, GA 30309",None,None,2013.8.25,Reported
+4,21919,"Portland, OR 97202",None,None,2013.8.25,Reported
+5,22599,"Boise, ID 83706",None,None,2013.8.25,Reported
+6,20159,"Tucson, AZ 85705",None,None,2013.8.25,Reported
+7,20194,"Minneapolis, MN 55416",None,None,2013.8.25,Reported
+0,20620,"Media, PA 19063",None,None,2013.8.25,None
+1,22434,"Brooklyn, NY 11249",None,None,2013.8.25,None
+2,22559,"San Jose, CA 95123",None,None,2013.8.25,Reported
+3,20109,"Salt Lake City, UT 84103",None,None,2013.8.25,None
+4,21744,"Jersey City, NJ 07303",None,None,2013.8.25,Reported
+5,9688,"San Francisco, CA 94114",None,None,2013.8.25,None
+6,16396,"La Jolla, CA 92037",None,None,2013.8.25,None
+7,16236,"Hollis, NH 03049",None,None,2013.8.25,None
+8,21711,"Boston, MA 02114",None,None,2013.8.25,None
+0,21113,"Seattle, WA 98107",None,None,2013.8.24,Reported
+1,28760,"Portland, OR 97239",None,None,2013.8.24,Reported
+2,20387,"San Jose, CA 95126",None,None,2013.8.24,None
+3,21171,"Dumbo, NY 11201",None,None,2013.8.24,None
+4,21908,"Brooklyn, NY 11205",None,None,2013.8.24,None
+5,21895,"Elk Grove, CA 95624",None,None,2013.8.24,Reported
+6,15989,"Pittsburgh, PA 15232",None,None,2013.8.24,None
+7,20377,"Denver, CO 80211",None,None,2013.8.24,Reported
+8,20532,"Tucson, AZ 85711",None,None,2013.8.24,Reported
+9,22456,"Washington, DC 20007",None,None,2013.8.24,Reported
+0,17456,"New Yrk, NY 10025",None,None,2013.8.24,None
+1,30410,"Chicago, IL IL",Not locked,Bike was not locked,2013.8.24,Reported
+2,17467,"Santa, CA 95062",None,None,2013.8.24,None
+3,17458,"Portland, OR 97206",None,None,2013.8.24,Reported
+4,17468,"Corvallis, OR 97333",None,None,2013.8.24,None
+5,20362,"Norfolk, VA 23517",None,None,2013.8.23,None
+6,17450,"Spokane, WA 99207",None,None,2013.8.23,Reported
+7,21268,"Brooklyn, NY 11238",None,None,2013.8.23,None
+8,21644,"Huntington Beach, CA 92648",None,None,2013.8.23,Reported
+9,21904,"Palo Alto, CA 94304",None,None,2013.8.23,None

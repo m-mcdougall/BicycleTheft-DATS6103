@@ -1,0 +1,83 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,9388,"Walker, MI 49534",None,None,2009.5.24,None
+1,9651,"Portland, OR 97202",None,None,2009.5.24,None
+2,9378,"Erie, PA 16502",None,None,2009.5.23,Reported
+3,6086,"Portland, OR 97209",None,None,2009.5.23,Reported
+4,7585,"Yorktown, VA 23693",None,None,2009.5.23,Reported
+5,9373,"New York, NY 10003",None,None,2009.5.23,Reported
+6,9443,"Philadelphia, PA 19123",None,None,2009.5.23,None
+7,9371,"Portland, OR 97214",None,None,2009.5.23,None
+0,6080,"San Francisco, CA 94123",None,None,2009.5.22,Reported
+1,9361,"Columbus, OH 43201",None,None,2009.5.21,None
+2,9364,"Greensboro, NC 27407",None,None,2009.5.21,None
+3,9592,"Fort Worth, TX 76110",None,None,2009.5.21,None
+4,18512,"Rapid City, OR 57701",None,None,2009.5.21,None
+5,9356,"Cambridge, MA 02138",None,None,2009.5.21,Reported
+6,9363,"New York, NY 10016",None,None,2009.5.21,None
+7,9354,"Manchester, CT 06040",None,None,2009.5.20,None
+8,9360,"Madison, WI 53706",None,None,2009.5.20,Reported
+0,9358,"Boston, MA 02199",None,None,2009.5.20,None
+1,10689,"Springfield, VA 22150",None,None,2009.5.20,Reported
+2,6969,"Corvallis, OR 97333",None,None,2009.5.20,None
+3,9349,"Boulder, CO 80302",None,None,2009.5.19,Reported
+4,6093,"Washington, DC 20009",None,None,2009.5.19,Reported
+5,7553,"Oakland, CA 94609",None,None,2009.5.19,Reported
+6,7571,"Seattle, WA 98117",None,None,2009.5.19,Reported
+7,7714,"Healdsburg, CA 95448",None,None,2009.5.19,None
+8,9380,"Seattle, WA 98115",None,None,2009.5.19,None
+0,9347,"Seattle, WA 98118",None,None,2009.5.18,Reported
+1,7533,"East Lansing, MI 48823",None,None,2009.5.18,Reported
+2,7902,"Des Moines, IA 50311",None,None,2009.5.18,None
+3,9343,"Goleta, CA 93117",None,None,2009.5.18,None
+4,10688,"Boise, ID 83702",None,None,2009.5.18,None
+5,7564,"New York, NY 10018",None,None,2009.5.18,None
+6,9331,"Seattle, WA 98103",None,None,2009.5.17,Reported
+7,9330,"Irvine, CA 92612",None,None,2009.5.16,Reported
+8,9536,"Oberlin, OH 44074",None,None,2009.5.16,None
+0,9339,"Columbus, OH 43223",None,None,2009.5.16,Reported
+1,9458,"Portland, OR 97212",None,None,2009.5.16,None
+2,12600,"Evans, GA 30809",None,None,2009.5.16,None
+3,9328,"Denver, CO 80222",None,None,2009.5.15,None
+4,9542,"Woodinville, WA 98077",None,None,2009.5.15,Reported
+5,7594,"Rochester, NY 14609",None,None,2009.5.15,None
+6,7522,"Seattle, WA 98195",None,None,2009.5.15,Reported
+7,7687,"Westminster, CO 80030",None,None,2009.5.15,None
+8,9346,"Eau Claire, WI 54701",None,None,2009.5.15,None
+9,9531,"Philadelphia, PA 19123",None,None,2009.5.14,Reported
+0,9392,"Phoenix, AZ 85015",None,None,2009.5.14,Reported
+1,9520,"Cupertino, CA 95014",None,None,2009.5.14,None
+2,9340,"Flagstaff, AZ 86001",None,None,2009.5.14,Reported
+3,9514,"Los Angeles, CA 90025",None,None,2009.5.13,None
+4,10687,"Winter Park, FL 32792",None,None,2009.5.13,None
+5,9315,"Newark, DE 19711",None,None,2009.5.13,Reported
+6,9389,"Sunnyvale, CA 94087",None,None,2009.5.12,Reported
+0,9312,"Washington, DC 20012",None,None,2009.5.11,Reported
+1,10258,"Urbana, IL 61801",None,None,2009.5.11,Reported
+2,6434,"Minneapolis, MN 55414",None,None,2009.5.11,None
+3,9313,"Tulsa, OK 74104",None,None,2009.5.11,None
+4,6954,"Ventura, CA 93001",None,None,2009.5.11,None
+5,7098,"Nashville, TN 37212",None,None,2009.5.10,Reported
+6,9317,"Lexington, KY 40502",None,None,2009.5.10,Reported
+7,6179,"Davenport, IA 52807",None,None,2009.5.10,Reported
+8,9469,"Lake Zurich, IL 60047",None,None,2009.5.10,Reported
+0,9306,"Denver, CO 80211",None,None,2009.5.10,Reported
+1,9296,"Somerville, MA 02144",None,None,2009.5.10,None
+2,7490,"San Francisco, CA 94114",None,None,2009.5.9,None
+3,9310,"Walnut Creek, CA 94521",None,None,2009.5.9,None
+4,6462,"Davis, CA 95616",None,None,2009.5.9,None
+5,9301,"Mc Minnville, OR 97128",None,None,2009.5.8,None
+6,7505,"Venice, CA 90291",None,None,2009.5.7,None
+0,7480,"Vancouver, WA 98665",None,None,2009.5.7,Reported
+1,9822,"Portland, OR 97212",None,None,2009.5.7,None
+2,7826,"Foster City, CA 94404",None,None,2009.5.6,Reported
+3,10682,"Phoenix, AZ 85012",None,None,2009.5.6,Reported
+4,10683,"Austin, TX 78704",None,None,2009.5.6,Reported
+5,9351,"Berkeley, CA 94705",None,None,2009.5.6,Reported
+6,6956,"Orlando, FL 32806",None,None,2009.5.6,Reported
+7,9632,"Berkeley, CA 94705",None,None,2009.5.6,Reported
+0,6075,"Austin, TX 78751",None,None,2009.5.5,Reported
+1,7040,"Chicago, IL 60656",None,None,2009.5.5,None
+2,7475,"Ewing, NJ 08618",None,None,2009.5.5,Reported
+3,6076,"Austin, TX 78757",None,None,2009.5.5,None
+4,9413,"Austin, TX 78751",None,None,2009.5.4,None
+5,9271,"Arroyo Grande, CA 93420",None,None,2009.5.3,Reported

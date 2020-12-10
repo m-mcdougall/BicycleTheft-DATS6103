@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,835375,"Portland, OR 97210",Other,"Other situation, please describe below",2020.7.30,Reported
+1,675416,"Eureka, CA 95501",None,None,2020.7.29,None
+2,827550,"2020 E Madison St, Seattle, WA 98122",None,"Lock was cut, and left at the scene",2020.7.29,Reported
+3,827556,"Seattle, WA 98125",Cable lock,"Lock is missing, along with the bike",2020.7.29,Reported
+4,785678,"Seattle, WA 98107",None,None,2020.7.29,Reported
+5,827746,"Seattle, WA 98122",None,None,2020.7.29,Reported
+6,829924,"Boston, MA 02120",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.29,Reported
+0,848295,"Angle Lake, WA",Other,"Other situation, please describe below",2020.7.29,None
+1,827511,"5th and northgate way, Seattle, WA 98112",None,None,2020.7.29,None
+2,827501,"300 State Street, Cedar Falls, IA 50613",None,None,2020.7.29,None
+3,828741,"Asheville, NC 28801",None,None,2020.7.29,None
+4,829643,"100 I st se, Washington Dc, DC 20003",Cable lock,"Lock was cut, and left at the scene",2020.7.29,None
+5,827491,"Spokane, WA 99201",Not locked,None,2020.7.29,Reported
+6,841697,"Rolling Hills, CA 90274",Not locked,Bike was not locked,2020.7.29,Reported
+7,832650,"3000 west carson drive, Littleton, CO 80120",Chain with padlock,"Lock is missing, along with the bike",2020.7.29,Reported
+8,827446,"1056 haight street, San Francisco, CA 94117",U-lock and cable,"Lock was cut, and left at the scene",2020.7.29,Reported
+0,827448,"1056 Haight- street, San Francisco, CA 94117",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.29,Reported
+1,827472,"1056 haight street, San Francisco, CA 94117",U-lock and cable,"Lock was cut, and left at the scene",2020.7.29,Reported
+2,827458,"1056 haight street, San Francisco, CA 94117",U-lock and cable,"Lock was cut, and left at the scene",2020.7.29,Reported
+3,827462,"San Francisco, CA 94117",U-lock and cable,"Lock was cut, and left at the scene",2020.7.29,Reported
+4,827476,"1056 haight street, San Francisco, CA 94117",U-lock and cable,"Lock was cut, and left at the scene",2020.7.29,Reported
+5,827482,"Dallas, TX 75204",U-lock and cable,"Lock is missing, along with the bike",2020.7.29,Reported
+6,827865,"Ballard Ave and 22nd Street, Seattle, WA",Cable lock,"Lock is missing, along with the bike",2020.7.29,Reported
+7,832397,"Portland, OR 97206",None,None,2020.7.29,Reported
+8,827293,"New Orleans, LA 70130",None,None,2020.7.29,Reported
+0,827352,"Ithaca, NY 14850",None,None,2020.7.29,None
+1,827345,"Charlotte, NC 28205",Chain with padlock,"Lock is missing, along with the bike",2020.7.29,Reported
+2,827356,"1500 Lakeview Blvd E, Seattle, WA",None,None,None,None
+3,829859,"Shakopee, MN 55379",None,None,2020.7.29,Reported
+4,827287,"Lakewood, CO 80226",U-lock,"Lock is missing, along with the bike",2020.7.29,Reported
+5,603166,"10010 NE Halsey St, Portland, OR 97220",Cable lock,"Lock was cut, and left at the scene",2020.7.29,Reported
+0,733050,"9039 Alcott St, Los Angeles, CA 90035",U-lock,"Lock is missing, along with the bike",2020.7.29,Reported
+1,827312,"3550 S Clark St , Arlington, VA 22202",Cable lock,"Lock was cut, and left at the scene",2020.7.29,Reported
+2,827566,"2033 Mowry Road, Gainesville, FL 32608",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.7.29,None
+3,827259,"Van Ness Ave and Filbert Street, San Francisco, CA 94109",U-lock,"Lock was opened, and left unharmed at the scene",2020.7.29,Reported
+4,827183,"Metairie, LA 70005",None,None,2020.7.29,None
+5,827179,"Des Moines, WA 98198",None,None,2020.7.29,None
+6,829090,"716 E Ogden ave, Milwaukee, WI 53202",Cable lock,"Lock was cut, and left at the scene",2020.7.29,Reported
+0,827160,"1036 Clouet st, New Orlesan, LA 70117",Not locked,"Other situation, please describe below",2020.7.29,None
+1,827801,"Denver, CO 80219",Not locked,None,2020.7.29,Reported
+2,922210,"Revere, MA 02151",U-lock and cable,"Lock is missing, along with the bike",2020.7.29,None
+3,827127,"Austin, TX 78750",None,None,2020.7.29,None
+4,835760,"Rowlett, TX 75088",Two U-locks,"Lock was cut, and left at the scene",2020.7.29,Reported
+5,835756,"Rowlett, TX 75088",Two U-locks,"Lock was cut, and left at the scene",2020.7.29,Reported
+6,828295,"Boise, ID 83704",Not locked,Bike was not locked,2020.7.29,Reported
+0,830876,"200 Hawkins drive, Iowa City, IA 52240",Cable lock,"Lock is missing, along with the bike",2020.7.29,Reported
+1,794901,"1255 Harrison Street, Seattle, WA 98109",U-lock and cable,"Lock was opened, and left unharmed at the scene",2020.7.29,Reported
+2,827124,"Santa Rosa, CA 95407",None,None,2020.7.29,Reported
+3,102624,"Berkeley, CA 94704",U-lock,"Lock is missing, along with the bike",2020.7.29,None
+4,830060,"Salt Lake, UT 84105",Not locked,None,2020.7.29,Reported
+5,832071,"Bothell, WA 98011",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.29,Reported
+6,826949,"4704 52ND ST, Holla Nd, MO 49423-9316",None,None,2020.7.29,None
+7,826948,"1406 Greenwood Ave, Kalamazoo, MI 49006",None,None,2020.7.29,None
+8,393153,"Seattle, WA 98119-3928",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.29,None
+0,828160,"Tallahassee, FL 32304",Cable lock,"Lock is missing, along with the bike",2020.7.29,Reported
+1,826923,"Sandy, UT 84093",None,None,2020.7.29,None
+2,827140,"Muncie, IN 47303",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.7.28,Reported
+3,827545,"Seattle, WA 98109-4980",None,None,2020.7.28,Reported
+4,827564,"3333 Wallingford Ave N, Seattle, WA 98103",Cable lock,"Lock is missing, along with the bike",2020.7.28,None
+5,827915,"2839 NW market street, Seattle, WA 98107",Cable lock,"Lock is missing, along with the bike",2020.7.28,Reported
+6,829654,"Yarmouth, ME 04096",None,None,2020.7.28,None
+0,840044,"Portland, OR",Not locked,None,2020.7.28,None
+1,825406,"Montague and Remsen, Brooklyn Heights, Brooklyn, NY 11201",None,None,2020.7.28,Reported
+2,815695,"Salt Lake City, UT",None,None,2020.7.28,Reported
+3,815706,"1520 Hill st, Ann Arbor, MI 48104",None,None,2020.7.28,Reported
+4,119811,"2901 Mariposa, San Francisco, CA 94110",U-lock,"Lock was cut, and left at the scene",2020.7.28,Reported
+5,826916,"San Jose, CA 95112",None,None,2020.7.28,Reported
+6,372657,"Boise, ID 83709",Not locked,Bike was not locked,2020.7.28,Reported
+7,827019,"1811 S Street NW, Washington, DC 20009",Cable lock,"Lock was cut, and left at the scene",2020.7.28,Reported
+0,806999,"Cambridge, MA 02140",Cable lock,"Lock was cut, and left at the scene",2020.7.28,None
+1,815561,"419 NE 71st St,, Seattle, WA 98115",Chain with padlock,"Lock is missing, along with the bike",2020.7.28,None
+2,815692,"Palo Alto, CA 94303",Not locked,None,2020.7.28,Reported
+3,806945,"900 SE Hawthorne Blvd, Portland, OR 97214",Other,"Other situation, please describe below",2020.7.28,Reported
+4,807006,"Seattle, WA 98105",Chain with padlock,"Lock was cut, and left at the scene",2020.7.28,Reported
+5,827143,"Minneapolis, MN 55455",U-lock and cable,"Lock is missing, along with the bike",2020.7.28,Reported

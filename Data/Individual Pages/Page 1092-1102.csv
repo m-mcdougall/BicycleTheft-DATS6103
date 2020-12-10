@@ -1,0 +1,85 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,755918,"San Jose, CA 95125",None,"Other situation, please describe below",2020.5.29,Reported
+1,762744,"Indianapolis, IN 46220",None,None,2020.5.29,Reported
+2,671658,"612 NW 3rd St, Gainesville, FL 32601",Not locked,Bike was not locked,2020.5.29,Reported
+3,748552,"Bend, OR 97702",None,None,2020.5.29,None
+4,748503,"Pleasant View, UT 84414",None,None,2020.5.29,Reported
+5,794470,"Home garage, Roseville, MN 55113",None,None,2020.5.29,Reported
+6,748453,"Pleasant View, UT 84414",None,None,2020.5.29,None
+7,748454,"Pleasant View, UT 84414",None,None,2020.5.29,Reported
+8,749929,"Tucson, AZ 85712",None,None,2020.5.29,Reported
+0,748571,"1401 S 10th St Apt 1, Waco, TX 76706",None,None,2020.5.29,Reported
+1,748428,"100 Magnolia St, Jacksonville, FL 32204",None,None,2020.5.29,None
+2,748416,"Ridgewood, NY 11385",None,None,2020.5.29,None
+3,752242,"Portland, OR 97204",None,None,2020.5.29,Reported
+4,751622,"Portland, OR 97204",None,None,2020.5.29,Reported
+5,751640,"Portland, OR 97204",None,None,2020.5.29,Reported
+6,751652,"Portland, OR 97204",None,None,2020.5.29,Reported
+0,751658,"Portland, OR 97204",None,None,2020.5.29,Reported
+1,751659,"Portland, OR 97204",None,None,2020.5.29,Reported
+2,751663,"Portland, OR 97204",None,None,2020.5.29,Reported
+3,751666,"Portland, OR 97204",None,None,2020.5.29,Reported
+4,751672,"Portland, OR 97204",None,None,2020.5.29,Reported
+5,751677,"Portland, OR 97204",None,None,2020.5.29,Reported
+6,751686,"Portland, OR 97204",None,None,2020.5.29,Reported
+7,751705,"Portland, OR 97204",None,None,2020.5.29,Reported
+8,752239,"Portland, OR 97204",None,None,2020.5.29,Reported
+9,751650,"Portland, OR 97204",None,None,2020.5.29,Reported
+0,751669,"Portland, OR 97204",None,None,2020.5.29,Reported
+1,751670,"Portland, OR 97204",None,None,2020.5.29,Reported
+2,748403,"Orlando, FL 32824",None,None,2020.5.29,None
+3,708626,"Seattle, WA 98134",Not locked,None,2020.5.29,None
+4,751476,"Playa Del Rey, CA 90293",None,None,2020.5.29,None
+5,754271,"San Francisco, CA 94110",Not locked,Bike was not locked,2020.5.29,Reported
+6,748446,"Lakewood, OH 44107",Other,"Other situation, please describe below",2020.5.29,Reported
+7,672637,"Missouri and Cotner, Santa Monica, CA",Not locked,None,2020.5.29,None
+8,748366,"2800 Aurora Ave, Boulder, CO 80303",Other,"Lock was opened, and left unharmed at the scene",2020.5.29,None
+0,760926,"Salt Lake City, UT 84105",None,None,2020.5.29,Reported
+1,748367,"1050 NE Butler Market Rd, Bend, OR 97701",Not locked,"Other situation, please describe below",2020.5.29,Reported
+2,730131,"Fashion valley mall, San Diego, CA 92114",Cable lock,"Lock is missing, along with the bike",2020.5.29,None
+3,748297,"Seattle, WA 98102",None,None,2020.5.28,Reported
+4,693792,"Gainesville, FL 32601",Not locked,None,2020.5.28,Reported
+5,748267,"South Pasadena, CA 91030",Cable lock,"Lock was cut, and left at the scene",2020.5.28,None
+6,748691,"3121 Main Street apt #153, Philomath, OR 97370",Cable lock,"Lock was cut, and left at the scene",2020.5.28,Reported
+7,396658,"4509 W 36th 1/2 St, Saint Louis Park, MN 55416",Cable lock,"Lock is missing, along with the bike",2020.5.28,Reported
+0,749280,"Denver, CO 80223",None,Bike was not locked,2020.5.28,None
+1,748223,"Berkeley, CA 94702",None,None,2020.5.28,Reported
+2,748087,"Portland, OR 97214",None,None,2020.5.28,Reported
+3,748184,"N Warner and N 19th, Tacoma, WA 98406",None,None,2020.5.28,None
+4,710634,"South Fresno, Calwa, CA 93722",Cable lock,"Lock is missing, along with the bike",2020.5.28,None
+5,710633,"Fresno, CA 93722",Chain with padlock,None,2020.5.28,None
+6,748166,"3702 W Valley Hwy N, Auburn, WA 98001",None,None,2020.5.28,None
+7,748154,"Corning, NY 14830",None,None,2020.5.28,None
+8,748153,"2520 S 8th St apt 401, Minneapolis, MN 55454",None,None,2020.5.28,None
+0,748177,"Shoreline, WA 98133",Cable lock,"Lock was cut, and left at the scene",2020.5.28,Reported
+1,750090,"Petaluma, CA CA",Not locked,None,2020.5.28,Reported
+2,751456,"Liberty University, Lynchburg, VA 24515",Cable lock,"Lock was cut, and left at the scene",2020.5.28,None
+3,747994,"8502 stone ave N, Seattle, WA 98103",Cable lock,Bike was not locked,2020.5.28,None
+4,749792,"137th and Greenwood Ave N, Seattle, WA 98133",None,None,2020.5.28,None
+5,741917,"Potrero & 16th Street shopping center Safeway, San Francisco, CA 94107",Chain with padlock,"Lock was cut, and left at the scene",2020.5.28,None
+6,654447,"4145 Valley Dr, College Park, MD 20742",Cable lock,"Lock is missing, along with the bike",2020.5.28,Reported
+7,748769,"Boise, ID 83705",Cable lock,"Lock was cut, and left at the scene",2020.5.28,Reported
+8,747749,"Portland, OR 97214",None,None,2020.5.28,Reported
+0,748266,"New Orleans, LA 70115",None,None,2020.5.28,Reported
+1,747869,"1312 21st St NW, Washington, DC 20036",None,None,2020.5.28,None
+2,747870,"Mountain View, CA 94041",U-lock,None,2020.5.28,Reported
+3,748690,"Seattle, WA 98115",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.5.28,None
+4,747806,"Playa Del Ray, CA 90293",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.28,Reported
+5,747763,"Denver, CO 80203",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.28,Reported
+6,747792,"2380 S MacGregor Way, Houston, TX 77021",Cable lock,"Lock was cut, and left at the scene",2020.5.28,Reported
+0,521052,"Berkeley, CA 94704",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.28,Reported
+1,399721,"Berkeley, CA 94704",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.28,Reported
+2,747715,"Washington, DC 20001",None,None,2020.5.28,None
+3,747465,"Seattle, WA 98104",U-lock and cable,"Lock is missing, along with the bike",2020.5.28,None
+4,747576,"Omaha, NE 68106",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.5.28,Reported
+5,747759,"Portland, OR 97239",None,None,2020.5.28,Reported
+6,747607,"Brooklyn, NY",None,None,2020.5.28,None
+7,747784,"2634 N Stowell Ave, Milwaukee, WI 53211",Cable lock,"Lock is missing, along with the bike",2020.5.28,None
+8,747589,"2634 N Stowell Ave, Milwaukee, WI 53211",None,None,2020.5.28,Reported
+0,755001,"Seattle, WA 98109",None,None,2020.5.28,Reported
+1,748053,"Seattle, WA 98103",None,None,2020.5.28,Reported
+2,748064,"Seattle, WA 98103",None,None,2020.5.28,Reported
+3,747730,"Madison, WI 53703",Not locked,Bike was not locked,2020.5.28,Reported
+4,623583,"Seattle, WA 98107",U-lock and cable,"Lock was cut, and left at the scene",2020.5.28,Reported
+5,661891,"340 15th Ave E, Seattle, WA 98112",Not locked,None,2020.5.27,Reported
+6,747392,"San Francisco, CA 94103",U-lock,"Other situation, please describe below",2020.5.27,Reported

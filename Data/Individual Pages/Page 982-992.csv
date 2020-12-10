@@ -1,0 +1,67 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,766948,"Cambridge, MA 02138",U-lock,"Lock was opened, and left unharmed at the scene",2020.6.18,Reported
+1,765647,"Westminster, CA 92683",None,None,2020.6.18,None
+2,754013,"72nd and Aurora, Seattle, WA 91 / 3",Other,"Other situation, please describe below",2020.6.18,None
+3,694813,"Portland, OR 97210",None,None,2020.6.18,None
+4,765586,"2497 Se Burnside Rd, Gresham, OR 9708",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.18,Reported
+5,765573,"San Diego, CA 92116",U-lock,"Lock is missing, along with the bike",2020.6.18,Reported
+6,765538,"Seattle, WA 98177",None,None,2020.6.18,None
+0,765515,"Palo Alto, CA 94306",Not locked,None,2020.6.18,Reported
+1,768541,"3625 E. Colfax blvd, Denver, CO 80206",None,None,2020.6.18,None
+2,765461,"909 S 30th Avenue, Yakima, WA 98902",Cable lock,"Lock was cut, and left at the scene",2020.6.18,Reported
+3,765459,"909 S 30th Avenue, Yakima, WA 98902",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.18,Reported
+4,778585,"72 Seaport Blvd, Boston, MA 02210",Cable lock,"Lock is missing, along with the bike",2020.6.18,Reported
+5,773441,"Long Island Rail Road, Stony Brook, NY 11790",Cable lock,"Lock is missing, along with the bike",2020.6.18,None
+6,765450,"Bridgeport, CT 06605",None,None,2020.6.18,None
+0,765436,"743 west cornelia , Chicago, IL 60657",None,None,2020.6.18,None
+1,731589,"Portland, OR 97209",Chain with padlock,"Lock is missing, along with the bike",2020.6.18,Reported
+2,765357,"Dayton, OH 45439",Other,"Lock was cut, and left at the scene",2020.6.18,Reported
+3,765364,"Dayton, OH 45439",Other,"Other situation, please describe below",2020.6.18,Reported
+4,765370,"Sunnyvale, CA 94089",None,None,2020.6.18,None
+5,766926,"Seattle, WA 98107",None,None,2020.6.18,Reported
+6,765329,"513 East Broadway, Long Beach, CA 90802",None,None,2020.6.18,Reported
+7,765628,"12233 W. Olympic Blvd., Los Angeles, CA 90064",U-lock,"Lock was cut, and left at the scene",2020.6.18,Reported
+0,765238,"Salt Lake City, UT 84103",None,None,2020.6.18,Reported
+1,765250,"101 10th St. E , St. Paul, MN 55101",None,None,2020.6.18,None
+2,765229,"Denver, CO 80206",None,None,2020.6.18,None
+3,766286,"5322 W 119th Ter, Overland Park, KS 66209",Not locked,Bike was not locked,2020.6.18,Reported
+4,767701,"16500 Collins ave , Sunny Isles Beach, FL 33160",None,None,2020.6.18,None
+5,767686,"Palo Alto, CA 94306",U-lock,"Lock is missing, along with the bike",2020.6.18,Reported
+6,780502,"Washington, DC 20008",Cable lock,"Lock is missing, along with the bike",2020.6.18,Reported
+0,765867,"San Francisco, CA 94118",None,None,2020.6.18,Reported
+1,765581,"San Diego, CA 92116",U-lock,"Lock is missing, along with the bike",2020.6.18,Reported
+2,768070,"Calgary, T1Y 4P9",None,None,2020.6.18,None
+3,766475,"Seattle, WA 98119",None,None,2020.6.18,Reported
+0,765022,"Salt Lake City, UT 84103",Cable lock,"Lock was cut, and left at the scene",2020.6.18,Reported
+1,765101,"Se 14th ave and se stark st, Portland, OR 97214",U-lock,"Lock was cut, and left at the scene",2020.6.18,Reported
+2,764914,"Brooklyn, NY 11238",None,None,2020.6.17,None
+3,768768,"750 S Vance St, Lakewook, CO 80226",None,None,2020.6.17,Reported
+4,795308,"Houston, TX 77006",Cable lock,"Lock was cut, and left at the scene",2020.6.17,Reported
+5,788646,"Seattle, WA 98144",U-lock and cable,"Lock is missing, along with the bike",2020.6.17,Reported
+6,788651,"Seattle, WA 98144",U-lock and cable,"Lock is missing, along with the bike",2020.6.17,Reported
+7,765104,"210 Park Street, New Haven, CT 06511",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.17,Reported
+0,765291,"2723 N Houghton St, Portland, OR 97217",Other,Bike was not locked,2020.6.17,Reported
+1,764833,"New Orleans, LA 70116",None,None,2020.6.17,None
+2,774846,"San Jose, CA 95126",U-lock,Bike was not locked,2020.6.17,Reported
+3,766784,"3395 Michelson Dr, Irvine, CA 92612",None,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.17,Reported
+4,774627,"San Mateo, CA 94401",Cable lock,"Lock is missing, along with the bike",2020.6.17,Reported
+5,766821,"Irvine, CA 92612",None,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.17,Reported
+0,767177,"San, CA 94110",Not locked,None,2020.6.17,None
+1,764970,"Wall/Garland, Spokane, WA 99208",None,None,2020.6.17,Reported
+2,764736,"Belmar , Avon Lake, OH Ohio",None,None,2020.6.17,None
+3,765036,"15343 25th Ave NE, Shoreline, WA 98155",None,Bike was not locked,2020.6.17,Reported
+4,764687,"Salt Lake City, UT 84103",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.17,Reported
+5,838246,"Berkeley, CA 94702",None,None,2020.6.17,Reported
+0,764653,"Lombard and Franklin, San Francisco, CA 94123",None,None,2020.6.17,None
+1,633140,"Bellevue, WA 98007",Not locked,"Other situation, please describe below",2020.6.17,Reported
+2,252088,"Orchard St., Santa Rosa, CA 95404-3735",None,None,2020.6.17,None
+3,764592,"San Mateo, CA 94403",None,None,2020.6.17,Reported
+4,764559,"5765 W Broadway, Missoula, MT 59808",None,None,2020.6.17,None
+5,764539,"Phoenix, AZ 85029",Not locked,None,2020.6.17,None
+6,377190,"Seattle, WA 98112",U-lock,"Lock is missing, along with the bike",2020.6.17,Reported
+7,764542,"252 Redhill Ave, D, San Anselmo, CA 94960",None,None,2020.6.17,None
+0,760349,"San Jose, CA 95131",Other,"Other situation, please describe below",2020.6.17,Reported
+1,764452,"San Luis Obispo, CA 93405",None,None,2020.6.17,Reported
+2,363595,"Seattle, WA",Not locked,None,2020.6.17,Reported
+3,764343,"83st and 101st avenue , Ozone Park Queens, NY",None,None,2020.6.17,None
+4,764332,"8400 Golden Valley Road, Golden Valley, MN 55427",None,None,2020.6.17,Reported

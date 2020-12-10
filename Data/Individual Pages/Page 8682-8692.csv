@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,4647,"Princeton Junction, NJ 08550",None,None,2006.8.14,None
+1,4904,"El Segundo, CA 90245",None,None,2006.8.13,None
+2,4637,"Chicago, IL 60613",None,None,2006.8.12,None
+3,4636,"San Francisco, CA 94117",None,None,2006.8.12,None
+4,10733,"Wilkinsburg, PA 15221",None,None,2006.8.12,None
+5,4902,"San Francisco, CA 94121",None,None,2006.8.12,None
+6,4017,"Fort Atkinson, WI 53538",None,None,2006.8.11,None
+7,4010,"Portland, OR 97202",None,None,2006.8.11,None
+8,4290,"Portland, OR 97212",None,None,2006.8.11,None
+9,4901,"Allston, MA 02134",None,None,2006.8.11,None
+0,4635,"Pittsburgh, PA 15237",None,None,2006.8.11,None
+1,4765,"Portland, OR 97212",None,None,2006.8.11,None
+2,4670,"Chicago, IL 60616",None,None,2006.8.10,None
+3,4641,"Fresno, CA 93704",None,None,2006.8.10,None
+4,9799,"Bozeman, MT 59715",None,None,2006.8.10,None
+5,4632,"Seattle, WA 98121",None,None,2006.8.9,None
+6,4025,"Pacific Grove, CA 93950",None,None,2006.8.8,None
+7,4627,"Atlanta, GA 30324",None,None,2006.8.8,None
+8,4630,"Oakland, CA 94618",None,None,2006.8.8,None
+9,5149,"Fort Collins, CO 80521",None,None,2006.8.7,None
+0,4626,"Santa Monica, CA 90404",None,None,2006.8.6,None
+1,4625,"Beaverton, OR 97007",None,None,2006.8.6,None
+2,4621,"Portland, OR 97202",None,None,2006.8.5,None
+3,4631,"Grayslake, IL 60030",None,None,2006.8.4,None
+4,4633,"Chicago, IL 60614",None,None,2006.8.4,None
+5,4629,"Littleton, CO 80129",None,None,2006.8.4,None
+6,4619,"San Jose, CA 95112",None,None,2006.8.3,None
+7,4672,"Sacramento, CA 95816",None,None,2006.8.3,None
+8,4622,"Silver Spring, MD 20910",None,None,2006.8.3,None
+9,4617,"Baltimore, MD 21224",None,None,2006.8.2,None
+0,4628,"Austin, TX 78705",None,None,2006.8.2,None
+1,4623,"San Luis Obispo, CA 93405",None,None,2006.8.2,None
+2,3950,"Arcata, CA 95521",None,None,2006.8.1,None
+3,4900,"Portland, OR 97201",None,None,2006.8.1,None
+4,8392,"Orange, CA 92868",None,None,2006.8.1,None
+5,4618,"Portland, OR 97211",None,None,2006.7.31,None
+6,4615,"Elmhurst, IL 60126",None,None,2006.7.31,None
+7,5621,"Minneapolis, MN 55414",None,None,2006.7.30,None
+8,4610,"Santa Cruz, CA 95060",None,None,2006.7.28,None
+0,5036,"South Jordan, UT 84095",None,None,2006.7.28,None
+1,5702,"Sparks, NV 89431",None,None,2006.7.27,None
+2,4850,"Montevallo, AL 35115",None,None,2006.7.26,None
+3,4606,"Schuylerville, NY 12871",None,None,2006.7.26,None
+4,4764,"Seattle, WA 98117",None,None,2006.7.25,None
+5,4008,"Redding, CA 96001",None,None,2006.7.25,None
+6,4612,"Annapolis, MD 21401",None,None,2006.7.24,None
+7,4709,"Fort Collins, CO 80524",None,None,2006.7.23,None
+8,4889,"Seattle, WA 98122",None,None,2006.7.23,None
+9,4604,"Lake Como, NJ 07719",None,None,2006.7.22,None
+0,4849,"Tucson, AZ 85719",None,None,2006.7.22,None
+1,4599,"Somerville, MA 02144",None,None,2006.7.21,None
+2,4005,"San Francisco, CA 94102",None,None,2006.7.19,None
+3,4593,"Chicago, IL 60622",None,None,2006.7.19,None
+4,4595,"Chicago, IL 60611",None,None,2006.7.18,None
+5,4634,"Seattle, WA 98144",None,None,2006.7.18,None
+6,4607,"Mar Vista, CA 90066",None,None,2006.7.17,None
+7,4259,"Portland, OR 97207",None,None,2006.7.17,None
+8,4763,"Seattle, WA 98103",None,None,2006.7.16,None
+9,4598,"Chicago, IL 60657",None,None,2006.7.16,None
+0,4895,"San Diego, CA 92109",None,None,2006.7.15,None
+1,4847,"Sacramento, CA 95815",None,None,2006.7.13,None
+2,4004,"Portland, OR 97206",None,None,2006.7.12,None
+3,4251,"Portland, OR 97206",None,None,2006.7.12,None
+4,4580,"Madison, WI 53703",None,None,2006.7.12,None
+5,4584,"Portland, OR 97206",None,None,2006.7.12,None
+6,4894,"Los Angeles, CA 90041",None,None,2006.7.12,None
+7,4762,"Portland, OR 97206",None,None,2006.7.12,None
+8,4578,"Cedar Rapids, IA 52402",None,None,2006.7.10,None
+9,4590,"Orem, UT 84058",None,None,2006.7.9,None
+0,4579,"Seattle, WA 98115",None,None,2006.7.8,None
+1,4576,"Portland, OR 97232",None,None,2006.7.7,None
+2,24029,"Philadelphia, PA 19103",None,None,2006.7.6,None
+3,4893,"Annapolis, MD 21401",None,None,2006.7.4,None
+4,4575,"Denver, CO 80206",None,None,2006.7.4,None
+5,5230,"Menlo Park, CA 94025",None,None,2006.7.3,None
+6,4892,"Cambridge, MA 02139",None,None,2006.7.3,None
+7,4589,"Louisville, KY 40204",None,None,2006.7.3,None
+8,4246,"Royal Oak, MI 48073",None,None,2006.7.1,None
+9,4583,"Seattle, WA 98122",None,None,2006.7.1,None
+0,14176,"Portland, OR 97203",None,None,2006.7.1,None
+1,4572,"San Diego, CA 92110",None,None,2006.7.1,None
+2,4244,"Berkeley, CA 94708",None,None,2006.6.30,None
+3,4568,"Bloomington, IN 47405",None,None,2006.6.30,None
+4,4588,"Seattle, WA 98125",None,None,2006.6.30,None
+5,4897,"Seattle, WA 98125",None,None,2006.6.30,None
+6,405279,"Seattle, WA 98122",Cable lock,"Lock was cut, and left at the scene.",2006.6.29,None
+7,4239,"Minneapolis, MN 55402",None,None,2006.6.28,None
+8,4569,"Portland, OR 97213",None,None,2006.6.28,None
+9,4564,"Washington, DC 20037",None,None,2006.6.28,None
+0,4242,"Minneapolis, MN 55406",None,None,2006.6.28,None
+1,4573,"Seattle, WA 98112",None,None,2006.6.28,None
+2,5727,"Reston, VA 20190",None,None,2006.6.27,None
+3,4565,"Portland, OR 97209",None,None,2006.6.26,None
+4,4566,"Milwaukee, WI 53214",None,None,2006.6.26,None
+5,4240,"Chicago, IL 60618",None,None,2006.6.25,None
+6,4560,"Maple Grove, MN 55369",None,None,2006.6.24,None
+7,4561,"Columbus, OH 43201",None,None,2006.6.24,None
+8,4557,"Tampa, FL 33606",None,None,2006.6.24,None
+9,4843,"St. Louis, MO 63110",None,None,2006.6.24,None

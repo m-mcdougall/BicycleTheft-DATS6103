@@ -1,0 +1,67 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,849504,"1601 W School St, Chicago, IL 60618",None,None,2020.8.31,None
+1,853426,"Hawthorne, CA 90250",Not locked,Bike was not locked,2020.8.31,Reported
+2,845731,"3803 South Edmunds Street APT#25, Seattle, WA 98118",None,None,2020.8.31,None
+3,849455,"Eugene, OR 97404",U-lock,None,2020.8.31,None
+4,849391,"Cambridge, MA 02140",None,None,2020.8.31,None
+0,849380,"Seattle, WA 98105",None,None,2020.8.31,None
+1,849405,"Portland, OR 97227",None,None,2020.8.31,None
+2,849742,"54 South Elliott Place, Brooklyn, NY 11217",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.31,None
+3,849348,"Cole Street & Page Street, San Francisco, CA 94117",None,None,2020.8.31,Reported
+4,906317,"UW Health Sciences K-wing 1959 ne pacific st., Seattle, WA 98195",U-lock and cable,"Lock is missing, along with the bike",2020.8.31,Reported
+0,849279,"Minneapolis, MN 55406",None,None,2020.8.31,Reported
+1,849277,"Minneapolis, MN 55406",None,None,2020.8.31,Reported
+2,849254,"235 E 40th St. , New York, NY 10016",None,None,2020.8.31,None
+3,849247,"Pittsburgh, PA 15213",None,None,2020.8.31,None
+4,908290,"10 Otis Street, Westborough, MA 01581",Other,"Lock was opened, and left unharmed at the scene",2020.8.31,None
+5,853746,"Westborough, MA",None,None,2020.8.31,None
+6,853751,"Westborough, MA",Other,"Other situation, please describe below",2020.8.31,None
+0,910462,"10 Otis Street, Westborough, MA 01581",Other,"Lock was opened, and left unharmed at the scene",2020.8.31,None
+1,850424,"Rochester, NY 14608",None,None,2020.8.31,None
+2,849266,"New Orleans, LA 70130",None,None,2020.8.31,None
+3,866297,"Boise, ID 83075",Cable lock,"Lock was cut, and left at the scene",2020.8.31,Reported
+4,862479,"Salt Lake City, UT 84105",None,None,2020.8.31,None
+5,849619,"Seattle, WA 98107",Not locked,"Other situation, please describe below",2020.8.31,Reported
+6,853240,"Rocklin, CA 95765",Not locked,Bike was not locked,2020.8.31,Reported
+7,853279,"Rocklin, CA 95765",Not locked,Bike was not locked,2020.8.31,Reported
+0,849236,"Arlington, VA 22209",U-lock,"Lock was cut, and left at the scene",2020.8.31,Reported
+1,849297,"3500 Forbes Avenue, Pittsburgh, PA 15213",Cable lock,"Lock is missing, along with the bike",2020.8.31,Reported
+2,853818,"Austin, TX 78745",Not locked,"Other situation, please describe below",2020.8.31,Reported
+3,862754,"Portland, OR 97202",Not locked,None,2020.8.31,None
+4,853184,"200 Summit Blvd, Broomfield, CO 80021",Other,"Other situation, please describe below",2020.8.31,Reported
+5,853808,"Austin, TX 78745",Not locked,"Other situation, please describe below",2020.8.31,Reported
+6,853175,"200 Summit Blvd, Broomfield, CO 80021",Not locked,"Other situation, please describe below",2020.8.31,Reported
+7,849578,"New, LA 70115",None,None,2020.8.31,None
+0,723541,"3117 SE MILWAUKIE AVE, Portland, OR 97202",Cable lock,"Lock was cut, and left at the scene",2020.8.31,Reported
+1,852962,"Palo Alto, CA 94304",None,None,2020.8.31,Reported
+2,849174,"359 Alameda Ave, Astoria, OR 97103",None,None,2020.8.31,None
+3,853156,"Salt Lake, UT 84115",None,None,2020.8.31,None
+4,849157,"856 Greene Ave, Brooklyn, NY 11221",Not locked,"Other situation, please describe below",2020.8.31,Reported
+5,864520,"2501 Boston Street , Baltimore, MD 21224",None,None,2020.8.31,Reported
+6,929636,"Parkville, MO 64152",None,None,2020.8.31,Reported
+0,793014,"5130 leary ave nw. Seattle wa, 53rd St 15th Ave Nw., WA 98107",U-lock and cable,"Lock was cut, and left at the scene",2020.8.30,None
+1,849139,"Palo Alto, CA 94301",Not locked,Bike was not locked,2020.8.30,None
+2,849119,"San Francisco, CA 94158",None,None,2020.8.30,Reported
+3,697185,"Seattle, WA 98109",U-lock,"Lock was opened, and left unharmed at the scene",2020.8.30,None
+4,849060,"2323 San Antonio Street, Austin, TX 78705",None,None,2020.8.30,None
+5,849058,"1650 E Main St. , Waukesha, WI 53186",None,None,2020.8.30,None
+6,921482,"26th & Ferdinand, Tacoma, WA",U-lock and cable,"Lock was cut, and left at the scene",2020.8.30,None
+0,725749,"4145 Shadow Lane apt 625, Santa Rosa, CA 95405",Not locked,None,2020.8.30,Reported
+1,864185,"130 W Maryland Ave #10, Phoenix, AZ 85013",None,None,2020.8.30,Reported
+2,849875,"Littleton, CO 80128",None,None,2020.8.30,None
+3,849874,"Littleton, CO 80128",None,None,2020.8.30,None
+4,848935,"Irvine, CA 92618",Cable lock,"Lock was opened, and left unharmed at the scene",2020.8.30,Reported
+5,849384,"1416 Platte St, Denver, CO 53593",Cable lock,"Lock was cut, and left at the scene",2020.8.30,Reported
+6,849388,"1416 Platte St, Denver, CO 80202",Cable lock,"Lock was cut, and left at the scene",2020.8.30,Reported
+7,848886,"714 E Pike St, Seattle, WA 98122",Two U-locks,"Lock is missing, along with the bike",2020.8.30,Reported
+0,864164,"1030 South Street, Lincoln, NE 68502",Not locked,Bike was not locked,2020.8.30,Reported
+1,848906,"Denver, CO 80206",None,None,2020.8.30,None
+2,923790,"Boulder, CO 80303",None,None,2020.8.30,Reported
+3,852984,"Seattle, WA 98115",Not locked,Bike was not locked,2020.8.30,None
+4,848777,"Seattle, WA 98105",U-lock,None,2020.8.30,None
+5,848770,"Denver, CO 80209",Cable lock,"Lock was cut, and left at the scene",2020.8.30,Reported
+0,849766,"San Francisco, CA 94109",U-lock and cable,"Lock was cut, and left at the scene",2020.8.30,None
+1,848693,"Los Angeles, CA 90025",None,None,2020.8.30,Reported
+2,849477,"551 W 11th Ave, Eugene, OR 97401",Not locked,"Other situation, please describe below",2020.8.30,Reported
+3,774752,"Springfield, OR 97478",Not locked,Bike was not locked,2020.8.30,None
+4,849140,"Salt Lake City, UT 84111",None,None,2020.8.30,None

@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,698394,"San Francisco, CA",U-lock,"Lock was cut, and left at the scene",2020.3.4,None
+1,698159,"Shattuck and Rose, Berkeley, CA 94708",None,None,2020.3.4,Reported
+2,698143,"Oak Grove and Middlefield Rd, Atherton, CA 94028",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.3.4,Reported
+3,698135,"424 Stratford Ct, Del Mar, CA 92014",None,None,2020.3.4,None
+4,728803,"Curry ford Rd & semoran TD Bank, Orlando, FL 32827",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.3.4,None
+5,698075,"Larkspur, CA 94939",None,None,2020.3.4,None
+6,703183,"Venice, CA 90291",U-lock,"Other situation, please describe below",2020.3.4,Reported
+7,698054,"Brentwood, CA 94513",Other,None,2020.3.4,Reported
+8,697745,"Danville, VA 24541",Not locked,Bike was not locked,2020.3.4,None
+9,697702,"Santa Monica, CA 90404",Not locked,Bike was not locked,2020.3.4,Reported
+0,697453,WA 98043,None,None,2020.3.4,None
+1,393736,"Portland, OR 97239",None,None,2020.3.4,Reported
+2,698095,"Portland, OR 97214",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.3.4,Reported
+3,698581,"Portland, OR 97214",None,None,2020.3.4,Reported
+4,410477,"New York, NY 10029",Other,"Lock is missing, along with the bike",2020.3.4,None
+5,698244,"San Francisco, CA 94127",None,None,2020.3.4,Reported
+6,698245,"San Francisco, CA CA",Not locked,None,2020.3.4,Reported
+7,698242,"San Francisco, CA 94127",U-lock and cable,"Lock was cut, and left at the scene",2020.3.4,Reported
+0,698150,"Topeka, KS 66606",Other,"Other situation, please describe below",2020.3.4,None
+1,698059,"Topeka, KS 66606",None,"Other situation, please describe below",2020.3.4,Reported
+2,698442,"Fort Collins, CO 80521",U-lock,"Lock is missing, along with the bike",2020.3.4,Reported
+3,697964,"170 Century Square Dr, College Station, TX 77840",Cable lock,"Lock is missing, along with the bike",2020.3.3,Reported
+4,698128,"Park City, UT 84098",Other,"Other situation, please describe below",2020.3.3,Reported
+5,697938,"Los Angeles, CA 90027",None,None,2020.3.3,None
+6,697897,"Denver, CO 80203",U-lock and cable,"Other situation, please describe below",2020.3.3,None
+0,698076,"Bellingham, WA 98225",Cable lock,"Lock is missing, along with the bike",2020.3.3,Reported
+1,698326,"Fremont, CA 94538",Not locked,Bike was not locked,2020.3.3,Reported
+2,697846,"Moorpark, CA 93021",Cable lock,"Lock was cut, and left at the scene",2020.3.3,Reported
+3,577396,"San Francisco, CA 94102",Two U-locks,"Lock was cut, and left at the scene",2020.3.3,Reported
+4,108802,"San Francisco, CA 94158",U-lock,"Lock was cut, and left at the scene",2020.3.3,None
+5,603273,"Oakland, CA CA",None,None,2020.3.3,Reported
+6,697817,"5223 NE Sandy Blvd, Portland, OR 97213",Cable lock,"Lock was cut, and left at the scene",2020.3.3,Reported
+0,699086,"Castaic, CA 91384",Cable lock,"Lock is missing, along with the bike",2020.3.3,Reported
+1,774858,"7110 146th St SW, Lakewood, WA 98439",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.3,None
+2,698370,"San Diego, CA 92115",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.3.3,Reported
+3,697824,"New Orleans, LA 70119",None,None,2020.3.3,None
+4,697653,"Dropped pin Near Garfield Pl N E, Seattle, WA 98195",Cable lock,"Lock is missing, along with the bike",2020.3.2,None
+5,712836,"Brentwood, CA 94513",U-lock,Bike was not locked,2020.3.2,Reported
+0,697704,"Jackson Heights, NY 11370",None,None,2020.3.2,None
+1,697535,"San Diego, CA 92122",Cable lock,"Lock was cut, and left at the scene",2020.3.2,None
+2,697714,"Tchoupitoulas and St James Streets, New Orleans, LA 70130",Cable lock,"Lock was cut, and left at the scene",2020.3.2,None
+3,697514,"Olympia, WA 98501",None,None,2020.3.2,Reported
+4,698211,"Downey, CA 90241",Other,"Other situation, please describe below",2020.3.2,Reported
+5,697588,"New Orleans, LA 70119",None,None,2020.3.2,None
+0,697802,"New Orleans, LA 70119",None,None,2020.3.2,Reported
+1,697865,"Milwaukee, WI 53212",None,None,2020.3.2,None
+2,651902,"Everett, WA 98203",Not locked,None,2020.3.1,None
+3,697476,"Seattle, WA 98104",None,None,2020.3.1,Reported
+4,697468,"Seattle, WA 98106",None,None,2020.3.1,None
+5,697463,"New Orleans, LA 70130",None,None,2020.3.1,None
+6,721901,"22985 climbing rose dr #206 , Moreno Valley, CA 92557",None,None,2020.3.1,Reported
+7,697445,"Portland, OR 97217",U-lock,"Lock is missing, along with the bike",2020.3.1,Reported
+8,697414,"Los Angeles, CA 90015",None,None,2020.3.1,None
+0,697402,"200 cherry street, College Station, TX 77840",None,None,2020.3.1,None
+1,697394,"San Francisco, CA 94114",None,None,2020.3.1,None
+2,644994,"Austin, TX 78741",Other,"Other situation, please describe below",2020.3.1,Reported
+3,411528,"Seattle, WA 98109",None,None,2020.3.1,None
+4,697378,"Austin, TX 78722",None,None,2020.3.1,None
+5,697363,"641 Caffin Ave , New Orleans, LA 70117",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.3.1,Reported
+6,697657,"Los, CA 90021",Not locked,Bike was not locked,2020.3.1,Reported
+7,702537,"Napoleon st and Nashville st, New Orleans, LA 70118",None,None,2020.3.1,None
+8,712136,"Los Angeles, CA 90045",U-lock and cable,"Lock is missing, along with the bike",2020.3.1,Reported
+9,687614,"Glendale, AZ 85306",None,None,2020.3.1,None
+0,697290,"Chicago, IL 60618",U-lock and cable,"Lock was cut, and left at the scene",2020.3.1,Reported
+1,123398,"Orlando, FL 32803",Not locked,"Other situation, please describe below",2020.3.1,Reported
+2,698077,"Pacific Grove, CA 93950",Not locked,Bike was not locked,2020.3.1,Reported
+3,732979,"Seattle, WA 98112",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.1,None
+4,697231,"Portland, OR 97217",None,None,2020.3.1,Reported
+0,732351,"Oakland, CA 94611",None,None,2020.3.1,Reported
+1,697386,"New Orleans, LA 70116",None,None,2020.3.1,Reported
+2,697711,"2617 Roosevelt Ave, San Antonio, TX 78214",Cable lock,"Other situation, please describe below",2020.3.1,Reported
+3,697644,"San Francisco, CA 94115",Other,"Lock is missing, along with the bike",2020.3.1,Reported
+4,412687,"Palo Alto, CA 94306",Not locked,Bike was not locked,2020.3.1,None
+5,841317,"New Orleans, LA 70118",None,None,2020.3.1,None
+6,381074,"San Francisco, CA 94115",U-lock,"Lock is missing, along with the bike",2020.3.1,Reported

@@ -1,0 +1,91 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,34108,"Golden, CO 80401",Other,"Other situation, please describe below.",2014.10.28,Reported
+1,33970,"Columbus, OH",Cable lock,"Lock is missing, along with the bike.",2014.10.28,Reported
+2,34000,"Salem, OR 97301",Cable lock,"Lock is missing, along with the bike.",2014.10.28,None
+3,34544,"Atlanta, GA 30307",Not locked,Bike was not locked,2014.10.28,Reported
+4,34362,"Escondido, CA 92025",None,None,2014.10.28,Reported
+5,33988,"San Francisco, CA",None,None,2014.10.28,None
+6,29539,"Houston, TX 77008",Cable lock,"Lock is missing, along with the bike.",2014.10.28,Reported
+7,34098,"San Francisco, CA",Not locked,"Other situation, please describe below.",2014.10.28,Reported
+0,34036,"San Francisco, CA 94107",Not locked,Bike was not locked,2014.10.27,None
+1,34074,"Rapid City, SD 57702",None,None,2014.10.27,Reported
+2,33935,"San Francisco, CA 94110",Not locked,Bike was not locked,2014.10.27,Reported
+3,33959,CA 94703,U-lock,"Lock was cut, and left at the scene.",2014.10.27,Reported
+4,33930,"San Diego, CA 92109",Cable lock,"Lock was cut, and left at the scene.",2014.10.27,Reported
+5,33980,"Tucson, AZ 85711",Other,"Other situation, please describe below.",2014.10.27,None
+6,33943,"Mesa, AZ 85210",Cable lock,"Lock is missing, along with the bike.",2014.10.27,Reported
+7,34055,"Lake Oswego, OR 97035",Not locked,Bike was not locked,2014.10.27,Reported
+0,33929,"San Diego, CA 92109",Cable lock,"Lock was cut, and left at the scene.",2014.10.27,Reported
+1,33924,"Denver, CO 80203",Cable lock,"Lock is missing, along with the bike.",2014.10.27,Reported
+2,34179,"Fayetteville, AR 72701",None,None,2014.10.27,None
+3,33997,"Bothell, WA 98021",None,None,2014.10.27,Reported
+4,34251,"San Francisco, CA 94118",Other,"Other situation, please describe below.",2014.10.27,Reported
+5,33923,"Austin, TX 78701",Cable lock,None,2014.10.27,Reported
+6,60781,"Seattle, WA 98134-1855",Cable lock,"Lock is missing, along with the bike.",2014.10.27,Reported
+7,61496,"Los Angeles, CA 90007",Cable lock,None,2014.10.27,None
+0,34083,"San Francisco, CA 94110",Other,"Other situation, please describe below.",2014.10.27,Reported
+1,33990,"St. Louis, MO MO",None,"Other situation, please describe below.",2014.10.27,Reported
+2,34396,"Berkeley, CA 94704",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2014.10.27,Reported
+3,33975,"Portland, OR 97205",U-lock,"Lock is missing, along with the bike.",2014.10.27,Reported
+4,34057,"Brooklyn, NY",Chain with padlock,"Lock was cut, and left at the scene.",2014.10.26,None
+5,33908,"Clayton, CA",Cable lock,"Lock is missing, along with the bike.",2014.10.26,Reported
+6,33946,"Seattle, WA 98102",Cable lock,"Lock was cut, and left at the scene.",2014.10.26,Reported
+7,33937,"Fresno, CA 93721",U-lock and cable,"Lock is missing, along with the bike.",2014.10.26,Reported
+8,34038,"Lansing, MI 48911",Not locked,Bike was not locked,2014.10.26,None
+0,34126,"Seattle, WA 98133",Not locked,None,2014.10.26,Reported
+1,33987,"Phoenix, AZ 85054",None,None,2014.10.26,Reported
+2,61436,"Mountain View, CA 94043",Cable lock,"Lock is missing, along with the bike.",2014.10.26,Reported
+3,34225,"Oakland, CA 94612",None,None,2014.10.25,Reported
+4,33885,"Phoenix, AZ 85068",U-lock,Bike was not locked,2014.10.25,Reported
+5,34222,"Oakland, CA 94612",None,None,2014.10.25,Reported
+6,34211,"Oakland, CA 94612",None,None,2014.10.25,Reported
+0,33905,"San Francisco, CA 94122",Other,"Other situation, please describe below.",2014.10.25,Reported
+1,34203,"Oakland, CA 94612",None,None,2014.10.25,Reported
+2,34195,"Oakland, CA 94612",None,None,2014.10.25,Reported
+3,34212,"Oakland, CA 94612",None,None,2014.10.25,Reported
+4,33861,"Boston, MA 02114",Cable lock,"Lock was cut, and left at the scene.",2014.10.25,Reported
+5,33907,"San Francisco, CA 94122",Other,Bike was not locked,2014.10.25,Reported
+6,34192,"Oakland, CA 94612",None,None,2014.10.25,Reported
+7,33880,"Columbus, OH 43201",Cable lock,"Lock is missing, along with the bike.",2014.10.25,None
+8,34202,"Oakland, CA 94612",None,None,2014.10.25,Reported
+9,34214,"Oakland, CA 94612",None,None,2014.10.25,Reported
+0,34206,"Oakland, CA 94612",None,None,2014.10.25,Reported
+1,33871,"Berkeley, CA 94704",U-lock,"Lock is missing, along with the bike.",2014.10.25,None
+2,34210,"Oakland, CA 94612",None,None,2014.10.25,Reported
+3,33974,"Denver Co 80205, CO",Chain with padlock,"Lock is missing, along with the bike.",2014.10.25,None
+4,33897,"Portland, OR 97229",U-lock and cable,"Lock was cut, and left at the scene.",2014.10.25,Reported
+5,34205,"Oakland, CA 94612",None,None,2014.10.25,Reported
+6,34204,"Oakland, CA 94612",None,None,2014.10.25,Reported
+7,34234,"Oakland, CA 94612",None,None,2014.10.25,Reported
+8,34281,"North St. Paul, MN",Not locked,None,2014.10.25,Reported
+9,34209,"Oakland, CA 94612",None,None,2014.10.25,Reported
+0,34197,"Oakland, CA 94612",None,None,2014.10.25,Reported
+1,34208,"Oakland, CA 94612",None,None,2014.10.25,Reported
+2,34237,"Oakland, CA 94612",None,None,2014.10.25,Reported
+3,34416,"Portland, OR",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2014.10.25,Reported
+4,34229,"Oakland, CA 94612",None,None,2014.10.25,Reported
+5,34221,"Oakland, CA 94612",None,None,2014.10.25,Reported
+6,38467,"Richmond, CA 94804",Not locked,None,2014.10.25,Reported
+7,34471,"Philadelphia, PA 19130",U-lock,None,2014.10.25,Reported
+8,34752,"Phoenix, AZ 85003",Cable lock,"Lock is missing, along with the bike.",2014.10.25,None
+9,34207,"Oakland, CA 94612",None,None,2014.10.25,Reported
+0,34228,"Oakland, CA 94612",None,None,2014.10.25,Reported
+1,34215,"Oakland, CA 94612",None,None,2014.10.25,Reported
+2,34224,"Oakland, CA 94612",None,None,2014.10.25,Reported
+3,34235,"Oakland, CA 94612",None,None,2014.10.25,Reported
+4,34213,"Oakland, CA 94612",None,None,2014.10.25,Reported
+5,34201,"Oakland, CA 94612",None,None,2014.10.25,Reported
+6,34226,"Oakland, CA 94612",None,None,2014.10.25,Reported
+7,33891,"San Francisco, CA",U-lock and cable,"Lock is missing, along with the bike.",2014.10.25,Reported
+8,34196,"Oakland, CA 94612",None,None,2014.10.25,Reported
+9,34236,"Oakland, CA 94612",None,None,2014.10.25,Reported
+0,34194,"Oakland, CA 94612",None,None,2014.10.25,Reported
+1,34218,"Oakland, CA 94612",None,None,2014.10.25,Reported
+2,34216,"Oakland, CA 94612",None,None,2014.10.25,Reported
+3,34198,"Oakland, CA 94612",None,None,2014.10.25,Reported
+4,33925,"Albany, CA 94706",U-lock,"Lock is missing, along with the bike.",2014.10.25,Reported
+5,34193,"Oakland, CA 94612",None,None,2014.10.25,Reported
+6,34217,"Oakland, CA 94612",None,None,2014.10.25,Reported
+7,34227,"Oakland, CA 94612",None,None,2014.10.25,Reported
+8,34200,"Oakland, CA 94612",None,None,2014.10.25,Reported
+9,34232,"Oakland, CA 94612",None,None,2014.10.25,Reported

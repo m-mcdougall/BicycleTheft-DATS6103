@@ -1,0 +1,95 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,12656,"New York City, NY 10016",None,None,2010.1.6,None
+1,12667,"Stanford, CA 94305",None,None,2010.1.6,Reported
+2,12988,"Arlington, VA 22201",None,None,2010.1.6,None
+3,15135,"Orangevale, CA 95662",None,None,2010.1.6,Reported
+4,15886,"Chicago, IL 60637",None,None,2010.1.5,None
+5,15881,"Austin, FL 78704",None,None,2010.1.5,None
+6,15901,"Tallahassee, FL 32304",None,None,2010.1.5,Reported
+7,14201,"Richmond, CA 94805",None,None,2010.1.5,Reported
+8,12631,"Portland, OR 97266",None,None,2010.1.5,None
+9,17790,"Cape Coral, FL 33909",None,None,2010.1.4,None
+0,12632,"Portland, OR 97217",None,None,2010.1.4,None
+1,12724,"Douglaston, NY 11363",None,None,2010.1.4,Reported
+2,37817,"Berkeley, CA 94703",Cable lock,None,2010.1.4,None
+3,15917,"Phoenix, AZ 85018",None,None,2010.1.4,None
+4,12643,"Pomona, CA 91766",None,None,2010.1.3,Reported
+5,11657,"Livermore, CA 94551",None,None,2010.1.3,Reported
+6,12645,"Portland, OR 97211",None,None,2010.1.3,None
+7,12640,"Portland, OR 97209",None,None,2010.1.2,Reported
+8,12515,"Honolulu, HI 96822",None,None,2010.1.2,Reported
+9,12638,"Portland, OR 97209",None,None,2010.1.2,None
+0,22692,"Warrior, AL 35180",None,None,2010.1.2,None
+1,18834,"Santa Barbara, CA 93101",None,None,2010.1.2,None
+2,16661,"Vallejo, CA 04052",None,None,2010.1.1,Reported
+3,18753,"Novato, CA 94949",None,None,2010.1.1,Reported
+4,18287,"Santa Clara, CA 95054",None,None,2010.1.1,None
+5,12519,"Portland, OR 97239",None,None,2010.1.1,Reported
+6,12918,"Columbia, SC 29205",None,None,2010.1.1,None
+7,12767,"St. Petersburg, FL 33705",None,None,2010.1.1,Reported
+8,19317,"Denver, CO 80210",None,None,2010.1.1,Reported
+9,14613,"Santa Clara, CA 95054",None,None,2010.1.1,None
+0,19252,"Philadelphia, PA 19148",None,None,2010.1.1,Reported
+1,16793,"Tempe, AZ 85281",None,None,2010.1.1,Reported
+2,12678,"Belmar, NJ 07719",None,None,2009.12.31,None
+3,12624,"Portland, OR 97266",None,None,2009.12.30,None
+4,12637,"Honolulu, HI 96815",None,None,2009.12.30,Reported
+5,14486,"Portland, OR 97232",None,None,2009.12.30,None
+6,12627,"Portland, OR 97266",None,None,2009.12.30,None
+7,12649,"Campbell, CA 95008",None,None,2009.12.30,Reported
+8,12654,"Campbell, CA 95008",None,None,2009.12.30,Reported
+9,12635,"Portland, OR 97203",None,None,2009.12.29,None
+0,12615,"Phoenix, AZ 85050",None,None,2009.12.29,None
+1,14465,"Phoenix, AZ 85050",None,None,2009.12.29,None
+2,4111,"Phoenix, AZ 85016",None,None,2009.12.29,Reported
+3,14459,"Phoenix, AZ 85050",None,None,2009.12.29,None
+4,12705,"Portland, OR 97202",None,None,2009.12.29,None
+5,12619,"Charleston, SC 29403",None,None,2009.12.28,None
+6,12607,"San Francisco, CA 94110",None,None,2009.12.28,Reported
+7,18733,"Pittsburgh, PA 15208",None,None,2009.12.28,Reported
+8,12590,"Henderson, NV 89074",None,None,2009.12.27,Reported
+0,12598,"Portland, OR 97214",None,None,2009.12.27,None
+1,14455,"Portland, OR 97213",None,None,2009.12.27,Reported
+2,15118,"Tucson, AZ 85711",None,None,2009.12.27,None
+3,12611,"Colorado Springs, CO 80918",None,None,2009.12.26,Reported
+4,15408,"Portland, OR 97202",None,None,2009.12.26,Reported
+5,12933,"Coronado, CA 92118",None,None,2009.12.25,Reported
+6,14630,"North Hollywood, CA 91601",None,None,2009.12.25,None
+7,12606,"Portland, OR 97202",None,None,2009.12.25,Reported
+8,17607,"Portland, OR 97202",None,None,2009.12.25,None
+9,12974,"Houston, TX 77030",None,None,2009.12.25,Reported
+0,12596,"Portland, OR 97212",None,None,2009.12.25,None
+1,12592,"Los Angeles, CA 90025",None,None,2009.12.24,None
+2,18737,"Portland, OR 97202",None,None,2009.12.23,None
+3,12568,"Portland, OR 97210",None,None,2009.12.22,None
+4,14448,"Seattle, WA 98199",None,None,2009.12.22,Reported
+5,12484,"Seattle, WA 98199",None,None,2009.12.22,Reported
+6,12565,"Portland, OR 97212",None,None,2009.12.22,None
+7,12574,"Berkeley, CA 94703",None,None,2009.12.22,None
+8,18727,"Seattle, WA 98199",None,None,2009.12.22,Reported
+0,12480,"Portland, OR 97232",None,None,2009.12.22,Reported
+1,18773,"Portland, OR 97214",None,None,2009.12.22,Reported
+2,19244,"Buies Creek, NC 27506",None,None,2009.12.20,None
+3,12555,"San Francisco, CA 94105",None,None,2009.12.20,Reported
+4,12552,"San Francisco, CA 94114",None,None,2009.12.20,Reported
+5,12564,"Eugene, OR 97403",None,None,2009.12.20,None
+6,19240,"Buies Creek, NC 27506",None,None,2009.12.20,None
+7,18721,"Nacogdoches, TX 75962",None,None,2009.12.19,None
+8,18719,"Portland, OR 97214",None,None,2009.12.18,None
+0,12585,"Portland, OR 97239",None,None,2009.12.18,Reported
+1,15124,"Sandy, UT 84094",None,None,2009.12.18,Reported
+2,12569,"San Diego, CA 92122",None,None,2009.12.17,None
+3,12548,"Brooklyn, NY 11214",None,None,2009.12.17,None
+4,15094,"Portland, OR 97232",None,None,2009.12.17,None
+5,12537,"Fremont, CA 94538",None,None,2009.12.17,Reported
+6,12738,"Berkeley, CA 94710",None,None,2009.12.17,None
+7,18041,"San Diego, CA 92108",None,None,2009.12.17,None
+0,12533,"San Francisco, CA 94103",None,None,2009.12.16,Reported
+1,14530,"East Lansing, MI 48823",None,None,2009.12.16,None
+2,18144,"Houston, TX 77007",None,None,2009.12.16,None
+3,12525,"Shawnee, KS 66216",None,None,2009.12.15,Reported
+4,12591,"Carmicheal, CA 95608",None,None,2009.12.15,None
+5,15161,"Lexington, KY 40502",None,None,2009.12.15,None
+6,12536,"Atlanta, GA 30318",None,None,2009.12.14,Reported
+7,12517,"Portland, OR 97221",None,None,2009.12.14,Reported
+8,12562,"San Francisco, CA 94105",None,None,2009.12.14,Reported

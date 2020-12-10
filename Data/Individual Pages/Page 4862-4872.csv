@@ -1,0 +1,91 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,85893,"Philadelphia, PA 19130",None,None,2016.7.12,None
+1,85892,"London, N3 3QU",None,None,2016.7.12,None
+2,85891,"Jacksonville, FL 32205",None,None,2016.7.12,None
+3,85884,"Tacoma, WA 98405",None,None,2016.7.12,None
+4,86388,"Portland, OR 97227",Chain with padlock,"Lock was cut, and left at the scene.",2016.7.12,Reported
+5,86463,"Stillwater, OK 74074",U-lock and cable,"Lock was cut, and left at the scene.",2016.7.12,Reported
+6,86141,"San Francisco, CA 94121",U-lock and cable,"Lock is missing, along with the bike.",2016.7.12,None
+7,85757,"Seattle, WA 98109",Cable lock,"Lock was cut, and left at the scene.",2016.7.12,Reported
+0,86168,"Portland, OR 97212-3132",U-lock,Bike was not locked,2016.7.12,Reported
+1,85083,"Chicago, IL 60618",U-lock and cable,"Lock was cut, and left at the scene.",2016.7.12,None
+2,85882,"Seattle, WA 98112",None,None,2016.7.12,None
+3,85878,"Columbia, MO 65203",None,None,2016.7.11,None
+4,85873,"Brooklyn, NY 11211",None,None,2016.7.11,None
+5,85861,"Portland, OR 97220",None,None,2016.7.11,None
+6,85853,"Boise, ID 83702",None,None,2016.7.11,None
+7,85852,"Philadelphia, PA 19130",None,None,2016.7.11,None
+0,85850,"Vancouver, VGA 1G2",None,None,2016.7.11,None
+1,85849,"Portland, OR 97201",None,None,2016.7.11,None
+2,85834,"Washington, DC 20009",None,None,2016.7.11,None
+3,85832,"Evanston, IL 60201",None,None,2016.7.11,None
+4,85830,"Evanston, IL IL",None,None,2016.7.11,None
+5,85825,"Toronto, m6h3b4",None,None,2016.7.11,None
+6,85822,"Seattle, WA 98103",None,None,2016.7.11,None
+0,85813,"Portland, OR 97209",None,None,2016.7.11,None
+1,85812,"Los Angeles, CA 90041",None,None,2016.7.11,None
+2,85810,"Fargo, ND 58102",Chain with padlock,"Lock was cut, and left at the scene",2016.7.11,Reported
+3,85805,"Seattle, WA 98103",None,None,2016.7.11,None
+4,85804,"Washington, DC 20010",None,None,2016.7.11,None
+5,85802,"Reading, RG1 8BT",None,None,2016.7.11,None
+6,85798,"Seattle, WA 98103",None,None,2016.7.11,None
+7,85792,"Martinez, CA 94553",None,None,2016.7.11,None
+8,85790,"Portland, OR 97215",None,None,2016.7.11,None
+0,85785,"Ottawa, K1N 6K9",None,None,2016.7.11,None
+1,85776,"San Francisco, CA 94123",None,None,2016.7.11,None
+2,85777,"Seattle, WA 98103",Chain with padlock,"Lock was cut, and left at the scene.",2016.7.11,Reported
+3,86099,"Seattle, WA 98102",Other,"Other situation, please describe below.",2016.7.11,Reported
+4,46497,"San Francisco, CA 94133",Two U-locks,Bike was not locked,2016.7.11,Reported
+5,85876,"San Francisco, CA 94110",None,None,2016.7.11,None
+6,86870,"Seattle, WA 98103",U-lock,"Lock is missing, along with the bike.",2016.7.11,None
+7,88897,"Las Vegas, NV 89135",Cable lock,"Lock is missing, along with the bike.",2016.7.11,Reported
+8,86666,"Boulder, CO",Cable lock,"Lock is missing, along with the bike.",2016.7.11,Reported
+9,87873,"San Jose, CA 95126",U-lock,"Lock is missing, along with the bike.",2016.7.11,Reported
+0,86451,"Philadelphia, PA",Not locked,None,2016.7.11,Reported
+1,86194,"West Hollywood, CA 90046",None,None,2016.7.11,None
+2,46499,"San Francisco, CA 94133",Two U-locks,Bike was not locked,2016.7.11,Reported
+3,86609,"Buffalo, NY 14202",Cable lock,"Lock was cut, and left at the scene.",2016.7.11,Reported
+4,105647,"San Francisco, CA 94107",None,None,2016.7.11,Reported
+5,85768,"East Elmhurst, NY 11369",None,None,2016.7.11,None
+6,85765,"Liverpool, L9 6BN",None,None,2016.7.11,None
+7,85764,"Oviedo, FL 32765",None,None,2016.7.10,None
+8,85763,"Columbus, IN 46182",None,None,2016.7.10,None
+0,85744,"East Lansing, MI 48823",None,None,2016.7.10,None
+1,85738,"Minneapolis, MN 55406-2931",None,None,2016.7.10,None
+2,85735,"Seattle, WA 98122",None,None,2016.7.10,None
+3,85733,"Milwaukie, OR 97267",None,None,2016.7.10,None
+4,85727,"Venice, CA 90291",None,None,2016.7.10,None
+5,85717,"Portland, OR 97216",None,None,2016.7.10,None
+6,85711,"Dayton, OH 45410",None,None,2016.7.10,None
+7,85709,"Boston, MA 02215",None,None,2016.7.10,None
+8,85708,"Dayton, OH 45410",None,None,2016.7.10,None
+0,85703,"Waterloo, N2L6P4",None,None,2016.7.10,None
+1,85701,"Seattle, WA 98144",None,None,2016.7.10,None
+2,85696,"Houston, TX 77007",None,None,2016.7.10,None
+3,85693,"San Jose, CA 95129",None,None,2016.7.10,None
+4,85689,"Minneapolis, MN 55404",None,None,2016.7.10,None
+5,85639,"Norfolk, VA 23507",None,None,2016.7.10,None
+6,85638,"Holland, MI 49423",None,None,2016.7.10,None
+7,86311,"Minneapolis, MN 55404",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2016.7.10,Reported
+8,85752,"Urbandale, IA 50322",None,None,2016.7.10,Reported
+9,90733,"San Francisco, CA 94117",Heavy duty bicycle security chain,"Lock is missing, along with the bike.",2016.7.10,None
+0,85739,"Minneapolis, MN 55406-2931",None,"Other situation, please describe below.",2016.7.10,None
+1,40403,"Portland, OR",None,None,2016.7.10,None
+2,77323,"Seattle, WA 98115",Not locked,Bike was not locked,2016.7.10,Reported
+3,56961,"Portland, OR",None,None,2016.7.10,None
+4,56967,"Portland, OR",None,None,2016.7.10,None
+5,85637,"Houston, TX 77005",Cable lock,None,2016.7.10,None
+6,85753,"Urbandale, IA 50322",None,None,2016.7.10,Reported
+7,93661,"Woodland Hills, CA 91367",Cable lock,"Lock was cut, and left at the scene.",2016.7.10,Reported
+8,87224,"Portland, OR 97210",None,None,2016.7.10,Reported
+9,93024,"Norman, OK 73072",Cable lock,"Lock is missing, along with the bike.",2016.7.10,None
+0,87223,"Portland, OR 97210",None,None,2016.7.10,Reported
+1,88814,"Salt Lake City, UT 84106",U-lock and cable,"Lock was cut, and left at the scene.",2016.7.10,Reported
+2,85610,"Eugene, OR 97401",None,None,2016.7.9,None
+3,85576,"Beaverton, OR 97006",None,None,2016.7.9,Reported
+4,85536,"Geneva, IL 60134",None,None,2016.7.9,None
+5,85516,"San Francisco, CA 94102",None,None,2016.7.9,None
+6,85489,"Indianapolis, IN 46205",None,None,2016.7.9,None
+7,85481,"Salt Lake City, UT 84116",None,None,2016.7.9,Reported
+8,85480,"Sunnyvale, CA 94086",None,None,2016.7.9,None
+9,85589,"Berkeley, CA 94702",Not locked,Bike was not locked,2016.7.9,Reported

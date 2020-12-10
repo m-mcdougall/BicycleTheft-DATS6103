@@ -1,0 +1,92 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,20058,"East Lansing, MI 48823",None,None,2010.8.30,Reported
+1,13860,"Citrus Heights, CA 95610",None,None,2010.8.30,Reported
+2,19767,"Berkeley, CA 94703",None,None,2010.8.29,Reported
+3,19781,"Madison, WI 53703",None,None,2010.8.29,None
+4,14807,"Raleigh, NC 27606",None,None,2010.8.29,Reported
+5,14801,"New York City, NY 10036",None,None,2010.8.29,None
+6,19772,"Washington, DC 20009",None,None,2010.8.29,Reported
+7,15399,"Washington, DC 20004",None,None,2010.8.29,None
+8,19713,"Portland, OR 97219",None,None,2010.8.29,Reported
+0,16686,"Naperville, IL 60540",None,None,2010.8.29,None
+1,22712,"Turlock, CA 95382",None,None,2010.8.29,None
+2,19770,"Austin, TX 78745",None,None,2010.8.29,None
+3,13830,"Portland, OR 97209",None,None,2010.8.28,Reported
+4,19773,"San Francisco, CA 94103",None,None,2010.8.28,None
+5,14792,"Raymond, NH 03077",None,None,2010.8.28,None
+6,14778,"Portland, OR 97206",None,None,2010.8.28,Reported
+7,14769,"Fort Collins, CO 80526",None,None,2010.8.28,Reported
+8,19803,"Beaumont, CA 92223",None,None,2010.8.28,Reported
+0,16772,"Cambridge, MA 02139",None,None,2010.8.28,Reported
+1,19759,"Bloomington, MN 55420",None,None,2010.8.28,Reported
+2,19817,"P Ortland, OR 97202-2145",None,None,2010.8.28,Reported
+3,19792,"Denver, CO 80203",None,None,2010.8.28,Reported
+4,13827,"Norwalk, IA 50211",None,None,2010.8.27,None
+5,19786,"Vienna, VA 22181",None,None,2010.8.27,Reported
+6,20236,"Portland, OR 97202",None,None,2010.8.27,None
+7,19760,"Syracuse, NY 13057",None,None,2010.8.27,None
+8,25487,"Richmond, VA 23224",None,None,2010.8.27,None
+0,17493,"Portland, OR 97215",None,None,2010.8.27,None
+1,13818,"Arlington, VA 22201",None,None,2010.8.26,Reported
+2,14710,"Portland, OR 97204",None,None,2010.8.26,Reported
+3,14756,"Lincoln, NE 68503",None,None,2010.8.26,Reported
+4,18808,"Chicago, IL 60625",None,None,2010.8.26,Reported
+5,19738,"Phoenix, AZ 85034",None,None,2010.8.26,Reported
+6,19743,"Washington, DC 20006",None,None,2010.8.26,Reported
+7,14758,"Chicago, IL 60614",None,None,2010.8.26,None
+0,14717,"Groveport, OH 43125",None,None,2010.8.26,None
+1,19715,"Long B Each, CA 90804",None,None,2010.8.25,None
+2,19744,"Socorro, NM 87801",None,None,2010.8.25,Reported
+3,13786,"Huntersville, NC 28078",None,None,2010.8.25,Reported
+4,14746,"Portland, OR",None,None,2010.8.25,None
+5,14752,"Salt Lake City, UT 84112",None,None,2010.8.25,Reported
+6,15829,"Chicago, IL 60647",None,None,2010.8.25,Reported
+7,19751,"Portland, OR",None,None,2010.8.25,None
+0,14755,"Portland, OR 97220",None,None,2010.8.25,None
+1,17482,"Washington, DC 20010",None,None,2010.8.25,Reported
+2,19721,"Portland, OR 97202",None,None,2010.8.24,None
+3,17487,"Fresno, CA 93727",None,None,2010.8.24,None
+4,19733,"Philadelphia, PA 19129",None,None,2010.8.24,None
+5,19756,"Marina, CA 93933",None,None,2010.8.24,None
+6,20069,"Salt Lake City, UT 84108",None,None,2010.8.24,Reported
+7,14734,"Portland, OR 97214",None,None,2010.8.23,Reported
+8,14719,"Hillsboro, OR 97124",None,None,2010.8.23,Reported
+0,18802,"Portland, OR 97214",None,None,2010.8.23,Reported
+1,19777,"Alexandria, VA 22314",None,None,2010.8.23,Reported
+2,14741,"Portland, OR 97232",None,None,2010.8.23,Reported
+3,14739,"Portland, OR 97229",None,None,2010.8.23,None
+4,17474,"Tucson, AZ 85719",None,None,2010.8.23,Reported
+5,14731,"Salt Lake City, UT 84102",None,None,2010.8.23,Reported
+6,14732,"Washington, DC 20036",None,None,2010.8.23,Reported
+7,14767,"Chicago, IL 60641",None,None,2010.8.22,Reported
+8,14702,"Mundelein, IL 60060",None,None,2010.8.22,Reported
+9,17503,"Portland, OR 97209",None,None,2010.8.22,None
+0,14784,"Portland, OR",None,None,2010.8.22,None
+1,17466,"Washington, DC 20003",None,None,2010.8.21,Reported
+2,13753,"Portland, OR 97201",None,None,2010.8.21,None
+3,14697,"San Francisco, CA 94111",None,None,2010.8.21,None
+4,14709,"Seattle, WA 98122",None,None,2010.8.21,Reported
+5,14700,"San Jose, CA 95117",None,None,2010.8.21,Reported
+6,17489,"Long Beach, CA 90810",None,None,2010.8.21,Reported
+7,19719,"Austin, TX 78702",None,None,2010.8.21,Reported
+8,19709,"Salt Lake City, UT 84111",None,None,2010.8.21,Reported
+9,19707,"San Jose, CA 95117",None,None,2010.8.21,Reported
+0,13769,"Portland, OR 97231",None,None,2010.8.21,Reported
+1,19833,"Evansville, IN 47714",None,None,2010.8.21,Reported
+2,14688,"Portland, OR",None,None,2010.8.21,None
+3,17476,"Seattle, WA 98122",None,None,2010.8.21,Reported
+4,19758,"Grand Rapids, MI 49506",None,None,2010.8.20,None
+5,17566,"Cambridge, MA 02141",None,None,2010.8.20,None
+6,17477,"San Francisco, CA 91433",None,None,2010.8.20,None
+7,19723,"Bellingham, WA 98225",None,None,2010.8.20,Reported
+8,9003,"Washington, DC 20009",None,None,2010.8.20,None
+9,14696,"Manchester, NH 03103",None,None,2010.8.20,None
+0,19692,"Portland, OR 97209",None,None,2010.8.20,Reported
+1,19697,"Austin, TX 78701",None,None,2010.8.20,None
+2,19739,"Washington, DC 20016",None,None,2010.8.20,None
+3,19839,"Minneapolis, MN 55419",None,None,2010.8.20,Reported
+4,19639,"San Francisco, CA 94115",None,None,2010.8.20,Reported
+5,17713,"Boise, ID 83706",None,None,2010.8.20,None
+6,14713,"Seattle, WA 98102",None,None,2010.8.20,Reported
+7,14705,"Arlington, VA 22204",None,None,2010.8.20,None
+8,19623,"Indianapolis, IN 46205",None,None,2010.8.19,Reported

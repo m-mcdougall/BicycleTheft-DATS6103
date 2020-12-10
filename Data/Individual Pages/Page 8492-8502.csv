@@ -1,0 +1,98 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,7947,"Philadelphia, PA 19104",None,None,2008.7.11,None
+1,11050,"Palo Alto, CA 94304",None,None,2008.7.11,None
+2,6425,"Decorah, IA 52101",None,None,2008.7.11,None
+3,8120,"Holland, MI 49423",None,None,2008.7.11,None
+4,6749,"Colorado Springs, CO 80903",None,None,2008.7.11,None
+5,6756,"Sacramento, CA 95814",None,None,2008.7.10,None
+6,11057,"South Jordan, UT 84095",None,None,2008.7.10,None
+7,11045,"Palo Alto, CA 94301",None,None,2008.7.10,None
+8,6748,"Rockville, MD 20852",None,None,2008.7.10,None
+9,8116,"Denver, CO 80218",None,None,2008.7.9,None
+0,19022,"Asheville, NC 28801",None,None,2008.7.9,None
+1,111214,"Harrisburg, PA 17102",U-lock,Bike was not locked,2008.7.8,Reported
+2,6741,"Boulder, CO 80301",None,None,2008.7.8,None
+3,9677,"Seattle, WA 98122",None,None,2008.7.8,Reported
+4,8111,"Norden, CA 95724",None,None,2008.7.8,None
+5,8119,"Hightstown, NJ 08520",None,None,2008.7.8,None
+6,8121,"Longmont, CO 80504",None,None,2008.7.7,None
+7,8114,"Houston, TX 77098",None,None,2008.7.7,None
+8,8138,"Denver, CO 80303",None,None,2008.7.7,None
+9,8124,"Rolling Meadows, IL 60008",None,None,2008.7.7,None
+0,8112,"San Diego, CA 92104",None,None,2008.7.6,None
+1,8329,"Portland, OR 97209",None,None,2008.7.6,None
+2,6737,"Philadelphia, PA 19107",None,None,2008.7.6,None
+3,8125,"New Orleans, LA 70116",None,None,2008.7.5,None
+4,6775,"Lexington, MN 55014",None,None,2008.7.5,None
+5,11044,"La Jolla, CA 92037",None,None,2008.7.5,None
+6,8144,"Pflugerville, TX 78660",None,None,2008.7.5,None
+7,10084,"Denver, CO 80220",None,None,2008.7.5,None
+0,9649,"Des Moines, IA 50310",None,None,2008.7.4,Reported
+1,8097,"Cheney, WA 99004",None,None,2008.7.3,None
+2,10600,"West Valley, UT 84120",None,None,2008.7.3,None
+3,8109,"Bethlehem, PA 18018",None,None,2008.7.3,None
+4,8164,"Provo, UT 84602",None,None,2008.7.2,None
+5,6604,"Fremont, CA 94538",None,None,2008.7.2,None
+6,8093,"Portland, OR 97205",None,None,2008.7.2,None
+7,8085,"San Jose, CA 95112",None,None,2008.7.2,None
+8,6729,"Houston, TX 77005",None,None,2008.7.2,None
+9,8106,"Baltimore, MD 21201",None,None,2008.7.1,None
+0,6415,"Austin, TX 78705",None,None,2008.7.1,None
+1,9740,"Seattle, WA 98118",None,None,2008.7.1,None
+2,6730,"Florida, NY 10921",None,None,2008.7.1,None
+3,8338,"Williamsburg, VA 23185",None,None,2008.7.1,None
+4,8107,"Philadelphia, PA 19146",None,None,2008.6.30,None
+5,11036,"Cincinnati, OH 45219",None,None,2008.6.29,None
+6,10563,"San Francisco, CA 94103",None,None,2008.6.29,None
+7,8082,"St. Paul, MN 55117",None,None,2008.6.29,None
+8,11037,"Greenup, KY 41144",None,None,2008.6.29,None
+9,8352,"Squirrel Hill, PA 15217",None,None,2008.6.28,None
+0,9584,"Berkeley, CA 94705",None,None,2008.6.28,None
+1,8067,"Baltimore, MD 21213",None,None,2008.6.28,None
+2,8075,"Austin, TX 78702",None,None,2008.6.27,None
+3,8083,"Mount Clemens, MI 48043",None,None,2008.6.27,None
+4,8064,"Berkeley, CA 94703",None,None,2008.6.27,None
+5,11035,"Glendale, CA 91208",None,None,2008.6.27,None
+6,6718,"Denver, CO 80203",None,None,2008.6.26,None
+7,8341,"Provo, UT 84604",None,None,2008.6.26,None
+8,8057,"Birmingham, AL 35243",None,None,2008.6.26,None
+0,9567,"Washington, DC 20008",None,None,2008.6.25,Reported
+1,6405,"Berkeley, CA 94720",None,None,2008.6.25,None
+2,6716,"Lafayette, CA 94549",None,None,2008.6.25,None
+3,9618,"Baltimore, MD 21231",None,None,2008.6.25,Reported
+4,9704,"Bronx, NY 10454",None,None,2008.6.25,None
+5,26197,"Clearwater Beach, FL 33767",None,None,2008.6.25,None
+6,8059,"Stanford, CA 94305",None,None,2008.6.25,None
+7,8079,"San Jose, CA 95134",None,None,2008.6.25,None
+8,9714,"San Jose, CA 95134",None,None,2008.6.25,None
+9,10559,"Santa Clara, CA 95054",None,None,2008.6.25,None
+0,9566,"Cambridge, MA 02140",None,None,2008.6.25,None
+1,8038,"Long Island City, NY 11101",None,None,2008.6.25,None
+2,6739,"Eagan, MN 55122",None,None,2008.6.25,None
+3,9586,"Boston, MA 02130",None,None,2008.6.25,None
+4,8062,"Palo Alto, CA 94305",None,None,2008.6.25,None
+5,6704,"Denver, CO 80207",None,None,2008.6.24,None
+6,6714,"San Francisco, CA 94117",None,None,2008.6.24,None
+7,8247,"Tucson, AZ 85716",None,None,2008.6.24,None
+8,6390,"Manahawkin, NJ 08050",None,None,2008.6.24,None
+9,8053,"Saint Paul, MN 55104",None,None,2008.6.24,None
+0,8049,"Lafayette, CA 94549",None,None,2008.6.24,None
+1,11032,"San Francisco, CA 94122",None,None,2008.6.24,None
+2,6392,"Gainesville, FL 32609",None,None,2008.6.23,None
+3,6724,"Austin, TX 78705",None,None,2008.6.23,None
+4,7113,"New Orleans, LA 70115",None,None,2008.6.23,None
+5,8025,"Auburn, CA 95602",None,None,2008.6.23,None
+6,8055,"Richmond, VA 23220",None,None,2008.6.23,None
+7,11041,"Stockton, CA 95204",None,None,2008.6.23,None
+8,6702,"Eugene, OR 97401",None,None,2008.6.23,None
+9,8036,"Clearwater, FL 33756",None,None,2008.6.23,None
+0,6192,"Santa Monica, CA 90405",None,None,2008.6.23,None
+1,6394,"Washington, DC 20008",None,None,2008.6.23,None
+2,7987,"Los Angeles, CA 90019",None,None,2008.6.22,None
+3,8013,"Berkeley, CA 94709",None,None,2008.6.22,None
+4,8042,"Chicago, IL 60622",None,None,2008.6.22,None
+5,7988,"Newport Beach, CA 92663",None,None,2008.6.21,None
+6,9556,"Portland, OR 97202",None,None,2008.6.21,None
+7,11030,"Portland, OR 97202",None,None,2008.6.21,None
+8,7985,"Austin, TX 78751",None,None,2008.6.21,None
+9,9607,"Marina Del Rey, CA 90405",None,None,2008.6.21,None

@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,776028,"Eagan, MN 55121",None,None,2020.6.24,None
+1,773867,"Boston, MA 02115",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.24,Reported
+2,778593,"Portland, OR 97213",None,None,2020.6.24,Reported
+3,779261,"Portland, OR 97213",None,None,2020.6.24,Reported
+4,773687,"Kent, WA 98031",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.24,Reported
+5,774895,"Salt Lake City, UT 84106",Not locked,"Other situation, please describe below",2020.6.24,Reported
+6,778898,"Ann, MI 48103",None,None,2020.6.24,None
+0,773538,"3163 Larimer St, Denver, CO 80205",None,None,2020.6.24,None
+1,773746,"Lakewood, CO 80215",Cable lock,None,2020.6.24,Reported
+2,708069,"Steamboat Springs, CO 80487",None,None,2020.6.24,None
+3,777950,"1050 schooner dr, Ventura, CA 93001",Cable lock,"Lock was cut, and left at the scene",2020.6.24,Reported
+4,773402,"670 Shell Blvd, Foster City, CA 94404",Cable lock,"Lock is missing, along with the bike",2020.6.24,Reported
+5,783957,"1201 Braddock Pl, Alexandria, VA 22314",Chain with padlock,"Lock is missing, along with the bike",2020.6.24,Reported
+6,774542,"14th st and U st, Washington, DC 20009",U-lock,None,2020.6.23,None
+7,773320,"7525 Mallard Street, New Port Richey, FL 34654",None,None,2020.6.23,None
+8,775028,"2510 Lambert Lane, San Jose, CA 95125",None,None,2020.6.23,Reported
+0,773302,"Lantana, FL 33462",Not locked,None,2020.6.23,Reported
+1,766113,"Clearwater, FL 33755",Not locked,Bike was not locked,2020.6.23,None
+2,773240,"Portland, OR 97209",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.23,None
+3,773778,"Brooklyn, NY 11238",U-lock,"Lock was cut, and left at the scene",2020.6.23,None
+4,773201,"Portland, OR 97209",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.23,None
+0,773874,"4575 west 11th ave Target , Eugene, OR 97402",Chain with padlock,"Other situation, please describe below",2020.6.23,Reported
+1,772975,"San Diego, CA 92104",U-lock and cable,"Lock was cut, and left at the scene",2020.6.23,Reported
+2,773133,"1650 chambers st., Eugene, OR 97405",Cable lock,"Lock was cut, and left at the scene",2020.6.23,Reported
+3,771897,"Seattle, WA 98115",None,None,2020.6.23,None
+4,771894,"5055 S. Dorchester Ave., 101, Chicago, IL 60615",None,None,2020.6.23,None
+5,769081,"Houston, TX 77055",None,None,2020.6.23,None
+6,769058,"Glenwood Springs, CO 81601",None,None,2020.6.23,None
+7,769072,"3939 Chestnut Street, Philadelphia, PA 19010",None,None,2020.6.23,None
+0,773832,"Main & Warren Avenue, Downers Grove, IL 60515",Cable lock,"Lock was cut, and left at the scene",2020.6.23,Reported
+1,769035,"714 W IVANHOE RD, Spokane, WA 99218-2237",None,None,2020.6.23,Reported
+2,773690,"South San Francisco, CA 94080",Not locked,Bike was not locked,2020.6.23,Reported
+3,773681,"South San Francisco, CA 94080",Not locked,Bike was not locked,2020.6.23,Reported
+4,773434,"Cambridge, MA 02139",None,None,2020.6.23,Reported
+5,750184,"1215 Vega st, San Diego, CA 92117",None,None,2020.6.23,Reported
+6,773558,"San Francisco, CA 94117",Not locked,None,2020.6.23,None
+7,500527,"Los Angeles, CA 90048",U-lock,"Other situation, please describe below",2020.6.23,None
+8,773786,"Portland, OR 97212",Not locked,"Other situation, please describe below",2020.6.23,Reported
+0,769065,"Eugene, OR 97403",None,None,2020.6.23,None
+1,768918,"915 NW 45th St, Seattle, WA 908107",None,None,2020.6.23,Reported
+2,768886,"Austin, TX 78744",None,None,2020.6.23,None
+3,774719,"San Francisco, CA 94110",Other,"Other situation, please describe below",2020.6.23,Reported
+4,787229,"Sherwood Park, T8A3M9",Cable lock,"Lock is missing, along with the bike",2020.6.23,Reported
+5,71448,"Washington, DC 20011",None,None,2020.6.23,None
+6,584678,"Washington, DC 20011",None,None,2020.6.23,None
+0,775268,"Eugene, OR 97403",None,None,2020.6.23,Reported
+1,774864,"Seattle, WA 98116",U-lock,"Other situation, please describe below",2020.6.23,Reported
+2,610667,"4219 s othello st, Seattle, WA 98118",U-lock and cable,"Other situation, please describe below",2020.6.23,Reported
+3,769012,"Boston, MA 02115",Cable lock,"Lock is missing, along with the bike",2020.6.23,Reported
+4,596652,"Williamsville, NY 14221",Not locked,None,2020.6.23,Reported
+0,768982,"Gig Harbor, WA 98335",Cable lock,"Lock was cut, and left at the scene",2020.6.23,None
+1,768782,"Berkeley, CA 94703",None,None,2020.6.22,None
+2,503302,"50th And Spokane, Seattle, WA 98116",None,None,2020.6.22,Reported
+3,768683,"Seattle, WA 98115",Not locked,None,2020.6.22,Reported
+4,853683,"9620 28th Ave SW, Seattle, WA 98126",Cable lock,"Lock was cut, and left at the scene",2020.6.22,Reported
+5,715899,"Portland, OR 97209",U-lock,None,2020.6.22,None
+6,768600,"Cedar Rapids Iowa, IA 52404",Not locked,Bike was not locked,2020.6.22,Reported
+7,768627,"Gulfport, MS 39503",None,None,2020.6.22,None
+0,774546,"Arvada, CO 80002",Cable lock,"Lock was cut, and left at the scene",2020.6.22,Reported
+1,773022,"1800, N Oak St, Arlington, VA 22209",Cable lock,"Lock is missing, along with the bike",2020.6.22,Reported
+2,388383,"San Francisco, CA 94117",None,None,2020.6.22,Reported
+3,768533,"Yesler Ave. So. & 9th Ave., Seattle, WA 98124",None,None,2020.6.22,None
+4,768511,"3400 25th Ave W Apt 302, Seattle, WA 98199",None,None,2020.6.22,None
+5,767894,"234 Canal St, New York, NY 10013",Not locked,None,2020.6.22,Reported
+6,768604,"Grand Rapids, MI 49503",Cable lock,"Lock was cut, and left at the scene",2020.6.22,Reported
+7,768675,"220 Johnson St. Apt. 17B, Fall River, MA 02723",None,Bike was not locked,2020.6.22,None
+8,768699,"Los Angeles, CA 90049",None,None,2020.6.22,None
+0,385794,"San Francisco, CA 94103",Other,"Other situation, please describe below",2020.6.22,Reported
+1,768395,"Van Nuys, CA 91405",None,None,2020.6.22,None
+2,768386,"Denver, CO 80211",None,None,2020.6.22,None
+3,768385,"Wallla Walla, WA 99362",None,None,2020.6.22,None
+4,783006,"614 madison st, Albany, CA 94706",None,None,2020.6.22,Reported
+5,779201,"Saint Louis Park, MN 55416",U-lock and cable,"Lock was cut, and left at the scene",2020.6.22,Reported

@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,6161,"Lynnwood, WA 98087",None,None,2013.12.21,Reported
+1,6975,"Orlando, FL 32819",None,None,2013.12.21,None
+2,8137,"Louisville, CO 80027",None,None,2013.12.21,None
+3,8827,"San Jose, CA 95148",None,None,2013.12.20,None
+4,6120,"Portland, OR 97205",None,None,2013.12.20,None
+5,6483,"Potland, OR 97209",None,None,2013.12.20,Reported
+6,6957,"Atlanta, GA 30308",None,None,2013.12.20,Reported
+7,6288,"Gulfport, FL 3",None,None,2013.12.20,Reported
+8,9459,"Portland, OR 97212",None,None,2013.12.20,None
+9,9466,"Williamsburg, NY 11211",None,None,2013.12.20,None
+0,9446,"Portland, OR 97213",None,None,2013.12.20,Reported
+1,8649,"Portland, OR 97210",None,None,2013.12.20,Reported
+2,9480,"Portland, OR 97202",None,None,2013.12.20,Reported
+3,9468,"Portland, OH 97209",None,None,2013.12.20,Reported
+4,6142,"Carmichael, CA 95608",None,None,2013.12.19,None
+5,7027,"San Francisco, CA 94103",None,None,2013.12.19,None
+6,9463,"San Francisco, CA 94103",None,None,2013.12.19,None
+7,32428,"Seattle, WA 98115",Cable lock,"Lock was cut, and left at the scene.",2013.12.19,Reported
+8,6176,"Portland, OR 97202",None,None,2013.12.18,Reported
+9,8110,"Tempe, AZ 85281",None,None,2013.12.18,None
+0,6153,"Portland, OR 97232",None,None,2013.12.18,Reported
+1,6289,"Portland, OR 97201",None,None,2013.12.18,Reported
+2,1409,"Portland, OR 97220",U-lock,"Lock is missing, along with the bike.",2013.12.18,Reported
+3,6101,"Brooklyn, NY 11201",None,None,2013.12.18,None
+4,9432,"Portland, OR 97213",None,None,2013.12.18,None
+5,6644,"Portland, OR 97220",None,None,2013.12.18,Reported
+6,26960,"Nashville, TN 37214",Other,"Lock was cut, and left at the scene.",2013.12.18,Reported
+7,9821,"Galveston, TX 77551",None,None,2013.12.18,None
+8,20866,"Juneau, AK 99801",None,None,2013.12.18,Reported
+9,8105,"Portland, OR 97214",None,None,2013.12.18,None
+0,9427,"Seattle, WA 98103",None,None,2013.12.18,None
+1,6138,"Seattle, WA 98119",None,None,2013.12.17,Reported
+2,9397,"Portland, OR 97212",None,None,2013.12.17,None
+3,6131,"Portland, OR 97205",None,None,2013.12.17,None
+4,6139,"Portland, OR 97211",None,None,2013.12.17,Reported
+5,9401,"San Francisco, CA 94102",None,None,2013.12.17,None
+6,9414,"Seattle, WA 98119",None,None,2013.12.17,Reported
+7,9393,"San Jose, CA 95126",None,None,2013.12.17,Reported
+8,9421,"Portland, OR 97239",None,None,2013.12.17,Reported
+9,9416,"San Francisco, CA 94110",None,None,2013.12.17,None
+0,9634,"Portland, OR 97212",None,None,2013.12.17,Reported
+1,6463,"Oakland, CA 94610",None,None,2013.12.17,Reported
+2,70293,"Seattle, WA 98119",Not locked,Bike was not locked,2013.12.16,None
+3,6129,"Portland, OR 97266",None,None,2013.12.16,Reported
+4,9374,"Upland, CA 91786",None,None,2013.12.16,Reported
+5,28737,"Denver, CO 80220",None,None,2013.12.16,Reported
+6,6293,"Miami, FL 33145",None,None,2013.12.16,Reported
+7,8658,"Las Vegas, NV 89130",None,None,2013.12.16,Reported
+8,9444,"Tallahassee, FL 32303",None,None,2013.12.16,Reported
+9,10004,"Fairfax, CA 94930",None,None,2013.12.16,Reported
+0,9402,"Golden, CO 80401",None,None,2013.12.16,Reported
+1,6243,"Lancashire, OR fy1 1sb",None,None,2013.12.16,None
+2,6125,"Tucson, AZ 85719",None,None,2013.12.16,None
+3,6355,"Portland, OR 97206",None,None,2013.12.16,Reported
+4,61771,"Eugene, OR 97401",U-lock and cable,"Other situation, please describe below.",2013.12.16,Reported
+5,9690,"Portland, OR 97206",None,None,2013.12.16,Reported
+6,9503,"Portland, OR 97202",None,None,2013.12.15,Reported
+7,9377,"Portland, OR 97204",None,None,2013.12.15,Reported
+8,6115,"San Jose, CA 95117",None,None,2013.12.15,Reported
+9,1753,"Quakertown, PA 18951",Not locked,Bike was not locked,2013.12.15,None
+0,6126,"San Francisco, CA 94110",None,None,2013.12.15,Reported
+1,6121,"Palo Alto, CA 94306",None,None,2013.12.15,Reported
+2,9386,"Portland, OR 97216",None,None,2013.12.15,Reported
+3,9407,"Seattle, WA 98101",None,None,2013.12.15,Reported
+4,9367,"San Jose, CA 95117",None,None,2013.12.15,Reported
+5,9379,"Portland, OR 97215",None,None,2013.12.15,None
+6,6917,"San Jose, CA 95117",None,None,2013.12.15,Reported
+7,6633,"Marina Del Rey, CA 90292",None,None,2013.12.15,Reported
+8,9353,"Seattle, WA 98103",None,None,2013.12.15,None
+9,9447,"Portland, OR 97266",None,None,2013.12.15,Reported
+0,15202,"Redding, CA 96001",None,None,2013.12.15,Reported
+1,9430,"San Francisco, CA 94114",None,None,2013.12.15,None
+2,8581,"Portland, OR 97211",None,None,2013.12.15,Reported
+3,9333,"Portland, OR 97202",None,None,2013.12.15,Reported
+4,6574,"San Francisco, CA 94121",None,None,2013.12.15,None
+5,9412,"Portland, OR 97209",None,None,2013.12.15,Reported
+6,9368,"San Jose, CA 95117",None,None,2013.12.15,Reported
+7,9395,"San Francisco, CA 94108",None,None,2013.12.14,None
+8,9471,"Portland, OR 97202",None,None,2013.12.14,Reported
+9,53135,"Seattle, WA 98104",U-lock,"Lock was opened, and left unharmed at the scene.",2013.12.14,None
+0,6191,"Eugene, OR 97405",None,None,2013.12.14,Reported
+1,6923,"San, CA 94108",None,None,2013.12.14,None
+2,6908,"San Francisco, CA 94115",None,None,2013.12.14,None
+3,9387,"Oakland, CA 94609",None,None,2013.12.14,Reported
+4,9450,"Fresno, CA 93722",None,None,2013.12.14,Reported
+5,9326,"San Diego, CA 92122",None,None,2013.12.13,None
+6,8654,"Berkeley, CA 94705",None,None,2013.12.13,Reported
+7,6214,"Washington, DC 20002",None,None,2013.12.13,Reported
+8,6950,"Tucson, AZ 85705",None,None,2013.12.13,None
+9,7462,"San Francisco, CA 94110",None,None,2013.12.13,Reported
+0,9357,"Portland, OR 97214",None,None,2013.12.13,Reported
+1,9332,"Mountain View, CA 94040",None,None,2013.12.13,Reported
+2,9519,"Washington, DC 20002",None,None,2013.12.13,Reported
+3,392497,"Whittier, CA 90601",Not locked,None,2013.12.13,Reported
+4,6141,"Mesa, AZ 85203",None,None,2013.12.13,None
+5,6621,"Roseville, CA 95661",None,None,2013.12.13,Reported
+6,6905,"San Francisco, CA 94117",None,None,2013.12.13,None
+7,6919,"Portland, OR 97202",None,None,2013.12.13,None
+8,9304,"San Francisco, CA 94107",None,None,2013.12.12,Reported
+9,382764,"San Francisco, CA 94107",Cable lock,"Lock was cut, and left at the scene",2013.12.12,Reported

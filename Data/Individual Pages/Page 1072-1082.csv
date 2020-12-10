@@ -1,0 +1,71 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,750983,"York Avenue and east 70th street, New York, NY 10065",None,None,2020.6.1,None
+1,751004,"Los Angeles, CA 90046",None,None,2020.6.1,None
+2,790731,"Davidson and 36th Street, Charlotte, NC 28205",Cable lock,"Lock was cut, and left at the scene",2020.6.1,Reported
+3,751215,"3911 N 13th Street, Tacoma, WA 98406",None,None,2020.6.1,Reported
+4,750912,"Playa Del Rey, CA 90293",None,None,2020.6.1,None
+5,750891,"Seattle, WA 98112",U-lock,"Lock is missing, along with the bike",2020.6.1,Reported
+6,750873,"Edmonton, T5E6W2",None,None,2020.6.1,None
+0,751179,"417 Royal Street, New Orleans, LA 70130",None,None,2020.6.1,None
+1,694593,"905 51st avenue plaza west, Bradenton, FL 34207",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.1,None
+2,951084,"Pocatello, ID 83209",None,None,2020.6.1,None
+3,950595,"Pocatello, ID 83209",None,None,2020.6.1,None
+4,752283,"Portland, OR 97205",None,None,2020.6.1,Reported
+5,752293,"Portland, OR 97205",None,None,2020.6.1,Reported
+6,752298,"Portland, OR 97205",None,None,2020.6.1,Reported
+7,752310,"Portland, OR 97205",None,None,2020.6.1,Reported
+8,752311,"Portland, OR 97205",None,None,2020.6.1,Reported
+0,752303,"Portland, OR 97205",None,None,2020.6.1,Reported
+1,949861,"Redwood City, CA",None,None,2020.6.1,None
+2,752279,"Portland, OR 97205",None,None,2020.6.1,Reported
+3,755579,"Hillsboro, OR 97123",Not locked,None,2020.6.1,None
+4,776350,"500 S Genois Street , New Orleans, LA 70119",Not locked,None,2020.6.1,None
+5,750724,"Dallas, TX 75238",None,None,2020.6.1,None
+6,750718,"7270 W Manchester Avenue, Los Angeles, CA 90045",None,None,2020.6.1,None
+0,752815,"San Francisco, CA 94102",U-lock,"Lock was cut, and left at the scene",2020.6.1,None
+1,750708,"New Orleans, LA 70117",None,None,2020.6.1,None
+0,751609,"339 SE 28th Ave, Portland, OR 97214",Not locked,Bike was not locked,2020.6.1,Reported
+1,393959,"Seattle, WA 981442322",U-lock and cable,"Lock is missing, along with the bike",2020.6.1,Reported
+2,750695,"Ellensburg, WA 98926",Other,"Other situation, please describe below",2020.6.1,Reported
+3,751587,"Portland, OR 97214",None,None,2020.6.1,Reported
+4,751524,"23 Camp St, Norwalk, CT 06851",Not locked,Bike was not locked,2020.6.1,None
+5,750642,"Washington, DC 20016",None,None,2020.5.31,None
+6,755585,"Minnetonka, MN 55305",Cable lock,"Lock was cut, and left at the scene",2020.5.31,Reported
+7,755587,"Minnetonka, MN 55305",Cable lock,"Lock was cut, and left at the scene",2020.5.31,Reported
+0,750581,"Eugene, OR 97402",U-lock,"Other situation, please describe below",2020.5.31,Reported
+1,750545,"6512 westminster blvd, Westminster, CA 92683",None,None,2020.5.31,None
+2,750507,"Irvine, CA 92618",None,None,2020.5.31,None
+3,750494,"San Francisco, CA 94118",Not locked,Bike was not locked,2020.5.31,Reported
+0,750357,"New Orleans, LA 70119",None,None,2020.5.31,None
+1,750878,"Tulsa, OK 74136",None,None,2020.5.31,Reported
+2,750234,"Portland, OR 97205",None,None,2020.5.31,Reported
+3,750225,"Portland, OR 97205",None,None,2020.5.31,Reported
+4,750312,"Buffalo, NY 14222",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.31,None
+5,750255,"717 Battery Street, San Francisco, CA 94111",None,None,2020.5.31,None
+6,765807,"Houston, TX 77057",U-lock,"Lock is missing, along with the bike",2020.5.31,Reported
+7,750248,"Portland, OR 97205",None,None,2020.5.31,Reported
+8,750268,"620 N 34th St , Seattle, WA 98103",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.31,Reported
+0,750241,"Portland, OR 97205",None,None,2020.5.31,Reported
+1,753298,"1554 Market Street, Tacoma, WA 98402",Not locked,Bike was not locked,2020.5.31,Reported
+2,750784,"Portland, OR 97214",Not locked,"Other situation, please describe below",2020.5.31,Reported
+3,730134,"Hayward, CA 94544",Chain with padlock,None,2020.5.31,None
+4,789499,"Westport, WA 98595",None,None,2020.5.31,None
+5,834977,"Santa Barbara, CA",Cable lock,"Lock was cut, and left at the scene",2020.5.31,Reported
+0,834985,"Sandra Barbara, CA 93101",Cable lock,"Lock was cut, and left at the scene",2020.5.31,Reported
+1,752126,"New Orleans, LA 70118",None,None,2020.5.31,Reported
+2,750053,"Bellevue, WA 98004",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.30,Reported
+3,750640,"Columbus, OH 43202",U-lock,"Lock is missing, along with the bike",2020.5.30,None
+4,765399,"Rodeo and Santa Monica, Beverly Hills, CA 90210",None,None,2020.5.30,None
+5,750438,"New Orleans, LA 70117",None,None,2020.5.30,None
+6,749966,"10740 Westview Pkwy, San Diego, CA 92126",None,None,2020.5.30,None
+7,762825,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+0,762814,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+1,762788,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+2,762789,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+3,762790,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+4,762791,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+5,762794,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+6,762793,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+7,762792,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+8,762795,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+9,762803,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported

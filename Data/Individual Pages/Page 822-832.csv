@@ -1,0 +1,58 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,789271,"2121 SE Belmont St, #130, Portland, OR 97214",None,None,2020.7.14,None
+1,789257,"Monmouth Beach, NJ 07750",None,None,2020.7.14,None
+2,789871,"Cambridge, MA 02142",Cable lock,"Lock is missing, along with the bike",2020.7.14,Reported
+3,791172,"St. Louis, MO 63110",Not locked,None,2020.7.14,Reported
+4,788490,"Salt Lake City, UT 84108",None,None,2020.7.14,Reported
+5,786359,"Civic park, Denver, CO 80203",Cable lock,"Lock is missing, along with the bike",2020.7.14,None
+0,787923,"Spokane, WA 99202",U-lock,Bike was not locked,2020.7.14,None
+1,608790,"Concord, CA 94520",None,None,2020.7.14,None
+2,789126,"Brooklyn, NY 11225",U-lock,"Lock is missing, along with the bike",2020.7.14,None
+3,789272,"2200 Great Northern Ave, Missoula, MT 59808",Other,"Other situation, please describe below",2020.7.14,Reported
+4,449307,"San Francisco, CA 94112",Not locked,None,2020.7.14,Reported
+0,791840,"11679 Newton St., Westminster, CO 80031",Cable lock,"Lock was cut, and left at the scene",2020.7.14,Reported
+1,657513,"Kenneth City, FL 33709",Other,"Other situation, please describe below",2020.7.14,Reported
+2,790324,"Denver, CO 80203",U-lock,"Lock is missing, along with the bike",2020.7.14,Reported
+3,790362,"San Francisco, CA 94118",U-lock and cable,"Lock was cut, and left at the scene",2020.7.14,Reported
+0,791060,"Menlo Park, CA 94025",Not locked,Bike was not locked,2020.7.14,Reported
+1,790675,"San Francisco, CA 94115",U-lock and cable,"Other situation, please describe below",2020.7.14,Reported
+2,789269,"San Francisco, CA 94115",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.14,Reported
+3,789196,"Vining st, Bellingham, WA 98226",Not locked,Bike was not locked,2020.7.14,None
+4,794588,"San Francisco, CA 94115",None,None,2020.7.14,Reported
+0,788997,"Salt Lake City, UT 84102",None,None,2020.7.14,None
+1,917972,"Independence, MO 64055",Not locked,Bike was not locked,2020.7.14,Reported
+2,789687,"New Orleans, LA 70117",None,None,2020.7.14,None
+3,789118,"Venice, CA 90291",None,None,2020.7.14,Reported
+4,788703,"San Francisco, CA 94117",None,None,2020.7.14,Reported
+5,847313,"1230 South Peal Street, Independence, MO 64055",Not locked,Bike was not locked,2020.7.14,Reported
+0,788936,"San Francisco, CA 94107",None,None,2020.7.13,None
+1,793123,"New Orleans, LA 70130",None,None,2020.7.13,None
+2,789194,"Boise, ID 83705",Not locked,Bike was not locked,2020.7.13,Reported
+3,792449,"Grandview, OH 43212",None,None,2020.7.13,Reported
+4,788860,"303 JACKSON DRIVE , Golden, CO 80401",None,None,2020.7.13,None
+5,788851,"PO box151407, San Rafael, CA 94925",None,None,2020.7.13,None
+6,789334,"Atlanta, GA 30315",Not locked,Bike was not locked,2020.7.13,Reported
+7,829149,"22XX S. 9th St., Minneapolis, MN 55404",U-lock,"Lock is missing, along with the bike",2020.7.13,Reported
+0,788750,"Denver, CO 80218",None,None,2020.7.13,None
+1,788672,"512 Southridge Woods Blvd, Monmouth Junction, NJ 08852",None,None,2020.7.13,None
+2,790195,"401 University Ave SE, Minneapolis, MN 55414",Cable lock,"Lock was cut, and left at the scene",2020.7.13,Reported
+0,754973,"Detroit, MI 48227",Not locked,Bike was not locked,2020.7.13,Reported
+1,788609,"San Francisco, CA 94117",U-lock,"Lock is missing, along with the bike",2020.7.13,Reported
+2,788620,"3000 E 1st Ave, Denver, CO 80206",Not locked,Bike was not locked,2020.7.13,Reported
+3,788621,"4540 42nd ave SW, Seattle, WA 98116",Cable lock,"Lock was cut, and left at the scene",2020.7.13,Reported
+4,788581,"Sunnyvale, CA 94086",None,None,2020.7.13,None
+5,793266,"1242 Pearl st, Boulder, CO 80302",Cable lock,"Lock was cut, and left at the scene",2020.7.13,Reported
+6,776545,"14916-26 Street, 204 , Edmonton, T5Y 2H3",None,None,2020.7.13,None
+7,788473,"500 Washington Avenue, Brooklyn, NY 11238",None,None,2020.7.13,None
+8,788483,"Salt Lake City, UT 84108",None,None,2020.7.13,None
+0,451749,"Seattle, WA 98117",Not locked,Bike was not locked,2020.7.13,Reported
+1,788465,"16801 barberry st, Southgate, MI 48195",None,None,2020.7.13,Reported
+2,788884,"995 E Baseline Rd, Tempe, AZ 85283",Cable lock,"Lock was opened, and left unharmed at the scene",2020.7.13,Reported
+3,788431,"Philadelphia, PA 19107",None,None,2020.7.13,Reported
+4,790245,"3400 Civic Center Blvd, PCAM, Philadelphia, PA 19104",Chain with padlock,"Lock is missing, along with the bike",2020.7.13,Reported
+5,3231,"Berkeley, CA 94710",U-lock and cable,"Lock was cut, and left at the scene",2020.7.13,Reported
+0,788497,"13th & Spruce, Boulder, CO 80304",Cable lock,None,2020.7.13,Reported
+1,828008,"San Jose, CA 95125-5027",None,None,2020.7.13,Reported
+2,788508,"Santa Cruz, CA 95060",None,None,2020.7.13,Reported
+3,788731,"San Gabriel, CA 91775",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.13,Reported
+4,791105,"Oakland, CA 94612",None,None,2020.7.13,Reported

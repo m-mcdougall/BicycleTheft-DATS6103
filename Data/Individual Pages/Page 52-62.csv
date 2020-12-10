@@ -1,0 +1,91 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,949481,"San Francisco, CA 94109",Not locked,"Other situation, please describe below",2020.11.16,None
+1,949478,"4812 east 12th street, Cheyenne, WY 82001",None,None,2020.11.16,None
+2,951251,"1354 aloha street, Seattle, WA 98109",Cable lock,None,2020.11.16,Reported
+3,949538,"345 26th Avenue , San Francisco, CA 94121",U-lock and cable,None,2020.11.16,None
+4,949469,"Los Angeles, CA 90049",None,None,2020.11.16,Reported
+5,952275,"Charlotte Nc, NC 28207",None,None,2020.11.16,Reported
+6,949486,"462 1st Avenue, New York, NY 10016",None,None,2020.11.16,None
+7,949442,"Fargo, ND 58104",None,None,2020.11.16,None
+8,949643,"Seattle, WA 98126",Cable lock,"Lock was cut, and left at the scene",2020.11.16,Reported
+9,949911,"Mountain View, CA 94043",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.16,Reported
+0,949662,"Playa Del Rey, CA 90293",U-lock and cable,None,2020.11.16,None
+1,950168,"1818 Harvard Ave, Seattle, WA 98122",Cable lock,None,2020.11.16,None
+2,949417,"In-between 60th & 63rd on 4th Ave NE, Seattle, WA 98115",None,None,2020.11.15,None
+3,848928,"Oakland, CA 94609",Heavy duty bicycle security chain,"Other situation, please describe below",2020.11.15,Reported
+4,949206,"999 w hamilton ave, Campbell, CA 95008",None,None,2020.11.15,None
+5,949506,"520 Main Street, Mount Vernon, WA 982273",Cable lock,"Lock was cut, and left at the scene",2020.11.15,Reported
+6,952193,"Denver, CO 80222-4912",U-lock and cable,"Lock is missing, along with the bike",2020.11.15,None
+7,949143,"769 Memorial drive, Cambridge, MA 02139",Cable lock,"Lock was cut, and left at the scene",2020.11.15,None
+8,949128,"1240 N Midvale Pl, Seattle, WA 98103",None,None,2020.11.15,None
+0,949129,"Cambridge and Charles Streets, Boston, MA 02114",Cable lock,"Lock was cut, and left at the scene",2020.11.15,Reported
+1,949122,"915 Saint Paul St, Apt 1F, Baltimore, MD 21202",Other,"Other situation, please describe below",2020.11.15,Reported
+2,949155,"New Orleans, LA 70130",Chain with padlock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.15,None
+3,949107,"2601 S Grand Canyon Dr, Las Vegas, NV 89117",None,None,2020.11.15,None
+4,949007,"2300 16th St Suite 220, San Francisco, CA 94103",Cable lock,"Lock was cut, and left at the scene",2020.11.15,None
+5,949078,"Birmingham, AL 35233",Cable lock,"Lock was cut, and left at the scene",2020.11.15,None
+6,950602,"Seattle, WA 98144",Not locked,None,2020.11.15,Reported
+7,949471,"4001 S Lamar, Austin, TX 78704",Cable lock,"Lock is missing, along with the bike",2020.11.15,Reported
+0,949038,"7730 Hazard Center Drive, San Diego, CA 92108",Cable lock,"Lock is missing, along with the bike",2020.11.15,Reported
+1,949022,"Concord, CA 94518-1417",Not locked,"Other situation, please describe below",2020.11.15,Reported
+2,949004,"New York, NY 10023",None,None,2020.11.15,None
+3,949494,"2800 Aurora Ave Unit 200, Boulder, CO 80303",None,None,2020.11.15,Reported
+4,949491,"N Front St & Cecil B. Moore Ave, Philadelphia, PA 19122",Cable lock,"Lock is missing, along with the bike",2020.11.15,None
+5,949009,"Los Angeles, CA 90019",Two U-locks,"Lock is missing, along with the bike",2020.11.15,Reported
+6,949005,"1950 Woodcreek Blvd , Ann Arbor, MI 48104",None,None,2020.11.15,None
+7,949003,"1950 Woodcreek Blvd , Ann Arbor, MI 48104",U-lock,Bike was not locked,2020.11.15,None
+8,951430,"880 Freeway (north of Dixon Landing Exit), Fremont, CA 94538",Not locked,None,2020.11.15,Reported
+9,950266,"Boulder, CO 80303",None,None,2020.11.15,Reported
+0,948984,"Minneapolis, MN 55417",None,None,2020.11.15,None
+1,948980,"Baltimore, MD 21202",Other,"Other situation, please describe below",2020.11.15,None
+2,948967,"New Orleans, LA 70116",None,None,2020.11.15,None
+3,952685,"San Francisco, CA 94121",Other,"Other situation, please describe below",2020.11.15,Reported
+4,952481,"San Francisco, CA 94121",Other,"Other situation, please describe below",2020.11.15,Reported
+5,363865,"San Francisco, CA 94110",None,None,2020.11.15,None
+6,949805,"10 west rillito street, Tucson, AZ 85705",U-lock,"Lock is missing, along with the bike",2020.11.15,None
+7,949593,"New Orleans, LA 70116",Other,"Other situation, please describe below",2020.11.15,None
+0,948933,"NE Hoyt and 24th, Portland, OR 97232",None,None,2020.11.15,None
+1,948997,"Austin, TX 78735",Cable lock,"Lock was cut, and left at the scene",2020.11.15,None
+2,949610?locale=,"Seattle, WA 98118",Cable lock,"Lock is missing, along with the bike",2020.11.14,Reported
+3,674155,"35013 Snoqualmie Pkwy, Snoqualmie, WA 98065",Not locked,Bike was not locked,2020.11.14,Reported
+4,948873?locale=,"401 W La Veta Ave, Orange, CA 92866",None,None,2020.11.14,None
+5,949823,"Cambridge, MA 02141",None,None,2020.11.14,Reported
+6,949689,"10870 North Stelling Rd, Cupertino, CA 95014",Cable lock,"Lock was cut, and left at the scene",2020.11.14,Reported
+7,791431,"10870 North Stelling Rd, Cupertino, CA 95014",Cable lock,"Lock was cut, and left at the scene",2020.11.14,Reported
+0,952268,"14515 Ocean Gate Ave, Hawthorne, CA 90250",Cable lock,"Lock was cut, and left at the scene",2020.11.14,Reported
+1,558913,"20221 Aurora Ave , Shoreline, WA 98133",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.14,None
+2,82550,"1244 NW Marshall St, Portland, OR 97209",Not locked,None,2020.11.14,Reported
+3,793643,"2020 s Columbus blvd, Tucson, AZ 85711",None,None,2020.11.14,None
+4,948789,"Lynnwood, WA 98087",None,None,2020.11.14,None
+5,949060,"Pier 27 , San Francisco, CA 94111",Chain with padlock,"Lock is missing, along with the bike",2020.11.14,Reported
+6,948771,"32nd St, Bellingham, WA 98225",Cable lock,"Lock is missing, along with the bike",2020.11.14,Reported
+7,948404,"Los Angeles, CA 90026",None,None,2020.11.14,None
+8,948768,"Seattle, WA 98117",None,None,2020.11.14,None
+0,948766,"Seattle, WA 98117",None,None,2020.11.14,None
+1,953553,"Miami, FL 33132",U-lock,None,2020.11.14,Reported
+2,953549,"Miami, FL 33132",U-lock,None,2020.11.14,Reported
+3,948739,"195 Brookline St, Cambridge, MA 02139",None,None,2020.11.14,Reported
+4,948735,"Seattle, WA 98117",None,None,2020.11.14,None
+5,948729,"Chicago, IL 60647",Not locked,Bike was not locked,2020.11.14,Reported
+6,944745,"11100 w colfax ave., Lakewood, CO 80215",Other,None,2020.11.14,None
+7,948643,"Portland, OR 97205",None,None,2020.11.14,None
+8,952336,"Boise, ID 83702",Not locked,None,2020.11.14,Reported
+0,950232,"Catalina (between Mountain & Cress), Laguna Beach, CA 92651",None,"Lock is missing, along with the bike",2020.11.14,Reported
+1,949854,"North Campus Apartment 14, Lepley Lane, Gambier, OH 43022",None,None,2020.11.14,None
+2,949485,"1049 Elkelton blvd, Spring Valley, CA 91977",None,None,2020.11.14,Reported
+3,726025,"Portland, OR 97201",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.14,Reported
+4,950684,"Saint Paul, MN 55103",Not locked,Bike was not locked,2020.11.14,Reported
+5,950680,"Saint Paul, MN 55103",Not locked,None,2020.11.14,Reported
+6,731731,"1300 SW Park Ave, Portland, OR 97201",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.14,Reported
+7,948471,"315 1st Ave NE, Minneapolis, MN 55413",Cable lock,"Lock is missing, along with the bike",2020.11.14,None
+8,948469,"315 1st Ave NE, Minneapolis, MN 55413",Cable lock,"Lock is missing, along with the bike",2020.11.14,None
+0,947911,"Atlantis Resort and Casino, Reno, NV 89512",U-lock and cable,"Lock is missing, along with the bike",2020.11.14,None
+1,950504,"Santa Monica, CA 90403",None,None,2020.11.14,Reported
+2,950872,"Seattle, WA 98117",Not locked,"Other situation, please describe below",2020.11.14,None
+3,948823,"New Orleans, LA 70119",None,None,2020.11.14,Reported
+4,950227,"Seattle, WA 98103",Chain with padlock,"Lock was cut, and left at the scene",2020.11.14,Reported
+5,950519,"Denver, CO 80218",Not locked,None,2020.11.14,Reported
+6,950513,"Denver, CO 80218",Not locked,None,2020.11.14,Reported
+7,949549,"107 Teachers Way, Gaithersburg, MD 20877",Not locked,Bike was not locked,2020.11.14,Reported
+8,949572,"107 Teachers Way, Gaithersburg, MD 20877",Not locked,Bike was not locked,2020.11.14,Reported
+9,949553,"107 Teachers Way, Gaithersburg, MD 20877",Not locked,Bike was not locked,2020.11.14,Reported

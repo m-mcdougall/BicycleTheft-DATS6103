@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,25878,"Ashland, OR 97520",None,None,2012.4.1,Reported
+1,26220,"Fountain Valley, CA 92708",None,None,2012.4.1,Reported
+2,26224,"Chicago, IL 60618",None,None,2012.4.1,Reported
+3,41408,"Seattle, WA 98106",None,None,2012.4.1,None
+4,26258,"Ashland, OR 97520",None,None,2012.4.1,Reported
+5,8982,"San Francisco, CA 94117",None,None,2012.4.1,None
+6,23800,"San Pedro, CA 90731",None,None,2012.4.1,None
+7,25341,"Sun Valley, CA 91352",None,None,2012.3.31,None
+8,26222,"Richland Hills, TX 76053",None,None,2012.3.31,None
+9,26810,"Portland, OR 97203",None,None,2012.3.30,Reported
+0,26225,"San Diego/North Park, CA 92104",None,None,2012.3.30,Reported
+1,26250,"Orono, ME 04473",None,None,2012.3.30,None
+2,7139,"Walnut Creek, CA 94596",None,None,2012.3.30,Reported
+3,26215,"Phoenix, AZ 85013",None,None,2012.3.30,Reported
+4,26804,"Washington, DC 20009",None,None,2012.3.30,Reported
+5,26219,"Cambridge, MA 02140",None,None,2012.3.30,None
+6,25332,"Atlanta, GA 30305",None,None,2012.3.29,None
+7,26212,"Denver, CO 80218",None,None,2012.3.29,None
+8,25338,"Norwalk, CA 90706",None,None,2012.3.29,Reported
+0,25689,"Portland, OR 97215",None,None,2012.3.29,None
+1,26211,"Portland, OR 97217",None,None,2012.3.28,Reported
+2,26217,"Portland, OR 97214",None,None,2012.3.28,Reported
+3,23817,"Portland, OR 97205",None,None,2012.3.28,None
+4,26826,"San Francisco, CA 94117",None,None,2012.3.28,None
+5,26801,"Oakland, CA 94610",None,None,2012.3.28,None
+6,25691,"Deltona, FL 32725",None,None,2012.3.28,None
+7,26798,"Portland, OR 97213",None,None,2012.3.28,None
+8,26209,"Beverly, MA 01915",None,None,2012.3.28,None
+9,26319,"Orlando, FL 32804",None,None,2012.3.28,Reported
+0,26210,"San Diego, CA 92116",None,None,2012.3.28,None
+1,26341,"West Hollywood, CA 90069",None,None,2012.3.27,Reported
+2,25309,"Tampa, FL 33606",None,None,2012.3.27,None
+3,26207,"Gresham, OR 97030",None,None,2012.3.27,Reported
+4,25318,"Portland, OR 97205",None,None,2012.3.27,Reported
+5,25876,"Beaufort, SC 29902",None,None,2012.3.27,Reported
+6,26354,"Hattiesburg, MS 39401",None,None,2012.3.27,Reported
+7,26799,"Whitewater, WI 53190",None,None,2012.3.27,None
+8,26208,"Portland, OR 97220",None,None,2012.3.26,Reported
+9,26292,"Coronado, CA 91912",None,None,2012.3.26,Reported
+0,28736,"Denver, CO 80219",None,None,2012.3.26,None
+1,26551,"Citrus Heights, CA 95621",None,None,2012.3.26,Reported
+2,23651,"San Diego, CA 92101",None,None,2012.3.26,Reported
+3,26205,"Richmond, CA 94801",None,None,2012.3.26,Reported
+4,23671,"Broomfield, CO 80302",None,None,2012.3.26,Reported
+5,23644,"New York, OR 42304",None,None,2012.3.26,Reported
+6,23658,"Palo Alto, CA 94301",None,None,2012.3.26,Reported
+7,26794,"Portland, OR 97202",None,None,2012.3.26,Reported
+8,25300,"Marina Del Rey, CA 90292",None,None,2012.3.25,Reported
+9,26498,"Austin, TX 78704",None,None,2012.3.25,None
+0,26313,"Manhattan, NY 10013",None,None,2012.3.25,None
+1,26203,"Redondo Beach, CA 90277",None,None,2012.3.25,Reported
+2,26789,"Portland, OR 97211",None,None,2012.3.25,Reported
+3,26546,"New York, NY 10002",None,None,2012.3.25,None
+4,23684,"San Francisco, CA 94103",None,None,2012.3.25,None
+5,26790,"San Francisco, CA 94103",None,None,2012.3.25,Reported
+6,24718,"Citrus Heights, CA 95621",None,None,2012.3.25,Reported
+7,25560,"Citrus Heights, CA 95621",None,None,2012.3.25,Reported
+8,26814,"Portland, OR 97210",None,None,2012.3.25,Reported
+9,26788,"Portland, OR 97202",None,None,2012.3.25,None
+0,6174,"Denver, CO 80231",None,None,2012.3.24,None
+1,23629,"Portland, OR 97214",None,None,2012.3.24,Reported
+2,23647,"Denver, CO 80003",None,None,2012.3.24,Reported
+3,23637,"Citrus Heights, CA 95610",None,None,2012.3.24,Reported
+4,25688,"Fredonia, NY 14063",None,None,2012.3.24,None
+5,23650,"Portland, OR 97232",None,None,2012.3.24,Reported
+6,25299,"Boston, MA 02120",None,None,2012.3.24,None
+7,26784,"Santa Cruz, CA 95062",None,None,2012.3.24,Reported
+8,26815,"Pittsburgh, PA 15217",None,None,2012.3.23,None
+9,26206,"Fruitland Park, FL 34731",None,None,2012.3.23,None
+0,23631,"Boston, MA 02115",None,None,2012.3.23,None
+1,23829,"Vancouver, WA 98663",None,None,2012.3.23,Reported
+2,26267,"Vancouver, WA 98663",None,None,2012.3.23,Reported
+3,26202,"Portland, OR 97211",None,None,2012.3.23,Reported
+4,26216,"Murfreesboro, TN 37130",None,None,2012.3.22,None
+5,26201,"Lakewood, OH 44107",None,None,2012.3.22,Reported
+6,26199,"Happy Valley, OR 97086",None,None,2012.3.22,Reported
+7,25874,"Minneapolis, MN 55414",None,None,2012.3.22,None
+8,25908,"Portland, OR 97202",None,None,2012.3.22,None
+0,26288,"West County Sonoma, CA 94972",None,None,2012.3.22,Reported
+1,26809,"Allendale, MI 49401",None,None,2012.3.22,None
+2,10604,"Tucson, AZ 85718",None,None,2012.3.22,Reported
+3,26785,"Easton, PA 18042",None,None,2012.3.22,None
+4,26223,"Oakland, CA 94607",None,None,2012.3.22,Reported
+5,25690,"Stanford, CA 94305",None,None,2012.3.22,Reported
+6,26198,"Happy Valley, OR 97086",None,None,2012.3.22,None
+7,25349,"Portland, OR 97227",None,None,2012.3.22,None
+8,26779,"Philadelphia, PA 19123",None,None,2012.3.21,None
+9,23738,"Corvallis, OR 97333",None,None,2012.3.21,None
+0,26792,"Lansing, MI 48933",None,None,2012.3.21,Reported
+1,25354,"Haddonfield, NJ 08033",None,None,2012.3.21,None
+2,6875,"Portland, OR 97216",None,None,2012.3.21,Reported
+3,26780,"Billings, MT 59102",None,None,2012.3.21,Reported
+4,26195,"San Francisco, CA 94118",None,None,2012.3.21,Reported
+5,26189,"Medical Lake, WA 99022",None,None,2012.3.21,None
+6,26204,"Portland, OR 97211",None,None,2012.3.20,Reported
+7,26782,"Tucson, AZ 85719",None,None,2012.3.20,Reported
+8,26774,"Portland, OR 97213",None,None,2012.3.20,Reported
+9,25922,"Flagstaff, AZ 86001",None,None,2012.3.20,None

@@ -1,0 +1,96 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,21495,"Berkeley, CA 94704",None,None,2011.11.18,Reported
+1,21109,"Corvallis, OR 97331",None,None,2011.11.18,None
+2,24034,"Los Angeles, CA 90015",None,None,2011.11.18,None
+3,24091,"San Jose, CA 95112",None,None,2011.11.18,None
+4,23514,"Portland, OR 97214",None,None,2011.11.18,Reported
+5,24051,"Portland, OR 97202",None,None,2011.11.18,None
+6,21484,"Corvallis, OR 97330",None,None,2011.11.18,Reported
+7,24027,"Lubbock, TX 79406",None,None,2011.11.18,Reported
+8,22476,"Portland, OR 97206",None,None,2011.11.17,Reported
+0,23537,"Oakland, CA 94608",None,None,2011.11.17,None
+1,24025,"Del Mar, CA 92014",None,None,2011.11.17,Reported
+2,24820,"Auburn, WA 98002",None,None,2011.11.17,Reported
+3,25095,"Portland, OR 97212",None,None,2011.11.17,Reported
+4,24023,"Somverille, MA 02143",None,None,2011.11.17,Reported
+5,24318,"Hayward, CA 94541",None,None,2011.11.17,None
+6,24020,"Portland, OR 97205",None,None,2011.11.17,Reported
+7,24059,"Oakland, CA 94608",None,None,2011.11.17,None
+8,24022,"Bellingham, WA 98225",None,None,2011.11.17,None
+9,21479,"Austin, TX 78704",None,None,2011.11.16,None
+0,21697,"San Diego, CA 92131",None,None,2011.11.16,None
+1,22661,"Nyc, NY 10003",None,None,2011.11.16,None
+2,23995,"Rochester, NY 14621",None,None,2011.11.15,Reported
+3,21476,"Portland, OR 97201",None,None,2011.11.15,Reported
+4,25089,"Portland, OR 97239",None,None,2011.11.15,Reported
+5,23556,"Seattle, WA 98102",None,None,2011.11.15,Reported
+6,24093,"San Francisco, CA 94114",None,None,2011.11.15,Reported
+7,23998,"Portland, OR 97201",None,None,2011.11.15,Reported
+8,24004,"Long Beach, CA 90802",None,None,2011.11.15,Reported
+0,24005,"Omaha, NE 68131",None,None,2011.11.15,Reported
+1,21689,"Brooklyn, NY 11208",None,None,2011.11.15,None
+2,24035,"Los Angeles, CA 90015",None,None,2011.11.15,None
+3,24814,"Portland, OR 97205",None,None,2011.11.15,Reported
+4,24115,"Portland, OR 97209",None,None,2011.11.15,None
+5,21473,"Portland, OR 97214",None,None,2011.11.15,None
+6,24012,"Baton Rouge, LA 70802",None,None,2011.11.15,None
+7,23492,"Portland, OR 97239",None,None,2011.11.15,Reported
+8,23987,"Portland, OR",None,None,2011.11.14,None
+9,21102,"College Park, MD 20740",None,None,2011.11.14,None
+0,21691,"Portland, OR",None,None,2011.11.14,None
+1,21688,"Portland, OR",None,None,2011.11.14,None
+2,25132,"Portland, OR 97201",None,None,2011.11.14,None
+3,23965,"Portland, OR 97205",None,None,2011.11.14,Reported
+4,21475,"Portland, OR",None,None,2011.11.14,None
+5,23490,"Portland, OR 97202",None,None,2011.11.14,Reported
+6,23476,"Portland, OR 97205",None,None,2011.11.13,Reported
+7,21467,"Portland, OR 97209",None,None,2011.11.13,None
+8,23477,"Seattle, WA 98107",None,None,2011.11.13,Reported
+9,23984,"Portland, OR 97214",None,None,2011.11.13,None
+0,25131,"Windsor Heights, IA 50324",None,None,2011.11.13,Reported
+1,26124,"Rochester, NY 14612",None,None,2011.11.13,Reported
+2,23958,"Portland, OR 97209",None,None,2011.11.13,Reported
+3,28743,"Portland, OR",None,None,2011.11.13,Reported
+4,23467,"Portland, OR 97201",None,None,2011.11.13,Reported
+5,21471,"Omaha, NE 68105",None,None,2011.11.13,None
+6,23962,"Portland, OR 97201",None,None,2011.11.13,Reported
+7,21470,"Portland, OR 97229",None,None,2011.11.12,Reported
+8,23947,"Portland, OR 215",None,None,2011.11.12,Reported
+0,25816,"Cheney, WA 99004",None,None,2011.11.12,None
+1,23501,"Somerville, MA 02143",None,None,2011.11.12,None
+2,23483,"Portland, OR 97214",None,None,2011.11.12,Reported
+3,23935,"Sunnyvale, CA 94087",None,None,2011.11.12,Reported
+4,23496,"Omaha, NE 68131",None,None,2011.11.12,Reported
+5,23932,"Berkeley, CA 94709",None,None,2011.11.12,Reported
+6,23975,"Brooklyn, NY 11211",None,None,2011.11.12,None
+7,7184,"Indianapolis, IN 46202",None,None,2011.11.12,None
+8,21091,"Portland, OR 97236",None,None,2011.11.11,Reported
+9,23455,"Los Angeles, CA 90027",None,None,2011.11.11,Reported
+0,23916,"Portland, OR 97214",None,None,2011.11.11,Reported
+1,21461,"Portland, OR 97205",None,None,2011.11.11,Reported
+2,21778,"Los Angeles, CA 90027",None,None,2011.11.11,Reported
+3,24088,"Portland, OR 97219",None,None,2011.11.11,Reported
+4,12295,"Gainesville, FL 32601",None,None,2011.11.11,Reported
+5,23937,"Portland, OR 97239",None,None,2011.11.11,Reported
+6,28769,"Clark County, NV 89130",None,None,2011.11.11,Reported
+7,23972,"Arlington, VA 22202",None,None,2011.11.11,None
+8,23933,"Westlake, OH 44145",None,None,2011.11.11,Reported
+9,23900,"Portland, OR 97214",None,None,2011.11.10,Reported
+0,23911,"San Francisco, CA 94110",None,None,2011.11.10,None
+1,23912,"San Diego, CA 92107",None,None,2011.11.10,None
+2,23904,"Berkeley, CA 94701",None,None,2011.11.10,None
+3,23902,"Portland, OR 97227",None,None,2011.11.10,Reported
+4,23980,"Searcy, AR 72149",None,None,2011.11.10,None
+5,24010,"San Francisco, CA 94108",None,None,2011.11.10,None
+6,23896,"Portland, OR 97217",None,None,2011.11.9,Reported
+7,24809,"Portland, OR 97227",None,None,2011.11.9,Reported
+0,23991,"Seattle, WA 98102",None,None,2011.11.9,Reported
+1,21460,"Portland, OR 97211",None,None,2011.11.9,Reported
+2,23440,"Portland, OR 97202",None,None,2011.11.8,Reported
+3,25083,"Charlotte, NC 28209",None,None,2011.11.8,Reported
+4,13683,"Los Gatos, CA 95032",None,None,2011.11.8,None
+5,23913,"Portland, OR 97214",None,None,2011.11.8,Reported
+6,21452,"Chicago, IL 60618",None,None,2011.11.8,None
+7,23890,"Walnut Creek, CA 94598",None,None,2011.11.8,Reported
+8,23875,"San Diego, CA 92102",None,None,2011.11.8,Reported
+9,23925,"Spokane, WA 99258",None,None,2011.11.8,Reported

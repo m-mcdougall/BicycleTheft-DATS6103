@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,689319,"Sherwood elementary, Edmonds, WA 98020",None,None,2020.1.26,None
+1,689318,"215 bigler rd, State College, PA 16801",Not locked,Bike was not locked,2020.1.26,None
+2,689283,"1100 South Blvd, Charlotte, NC 28203",None,None,2020.1.26,None
+3,691719,"Minneapolis, MN 55403",U-lock and cable,"Lock is missing, along with the bike",2020.1.26,Reported
+4,689028,"Menlo Park, CA 94025",None,None,2020.1.26,Reported
+5,689260,"Palo Alto, CA 94306",None,None,2020.1.26,None
+6,689236,"Rverside, CA 92506",None,None,2020.1.26,Reported
+7,691125,"Chicago, IL 60657",None,None,2020.1.26,None
+8,689226,"Savannah, GA 31404",None,None,2020.1.26,Reported
+9,597454,"Savannah, GA 31404",Other,"Other situation, please describe below",2020.1.26,Reported
+0,689595,"San Jose, CA 95134",None,None,2020.1.26,Reported
+1,689202,"Fort Worth, TX 76107",None,None,2020.1.26,None
+2,689201,"Fort Worth, TX 76107",None,None,2020.1.26,None
+3,689185,"Seattle, WA WA",None,None,2020.1.26,Reported
+4,689395,"New Orleans, LA 70117",None,None,2020.1.26,None
+5,697284,"New Orleans, LA 70125",None,None,2020.1.25,Reported
+6,571168,"Portland, OR 97266",U-lock and cable,"Lock was cut, and left at the scene",2020.1.25,None
+7,689340,"Spokane, WA 99204",None,None,2020.1.25,Reported
+8,689124,"Portland, OR 97214",None,None,2020.1.25,None
+0,690626,"New Orleans, LA 70130",None,None,2020.1.25,None
+1,668544,"Bend, OR 97701",Cable lock,Bike was not locked,2020.1.25,None
+2,689069,"Portland, OR 97211",Other,None,2020.1.25,Reported
+3,689065,"Portland, OR 97211",Other,None,2020.1.25,Reported
+4,390521,"San Francisco, CA 94102",None,None,2020.1.25,None
+5,689030,"Burien, WA 98166",U-lock,"Lock was cut, and left at the scene",2020.1.25,Reported
+6,689347,"342 S Twin Oaks Valley Road, San Marcos, CA 92078",Not locked,None,2020.1.25,Reported
+0,689263,"2133 stockton st, San Francisco, CA 94133",U-lock,"Lock was cut, and left at the scene",2020.1.25,Reported
+1,689848,"Earlham Drive , Whittier, CA 90602",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.1.25,Reported
+2,688944,"Claremont, CA 94110",None,None,2020.1.25,None
+3,689324,"New Orleans, LA 70117",None,None,2020.1.25,None
+4,691095,"Portland, OR 97201",Not locked,Bike was not locked,2020.1.25,Reported
+5,688923,"395 Doherty Drive, Larkspur, CA 94939",None,None,2020.1.24,None
+6,688922,"612 Andover St, San Francisco, San Francisco, CA 94110",Not locked,"Other situation, please describe below",2020.1.24,Reported
+7,688907,"Market St @1st Street near Joe and the Juice, San Francisco, CA 94110",None,None,2020.1.24,None
+0,688852,"1526 se 40th, Portland, OR 97214",None,None,2020.1.24,None
+1,688855,"Seattle, WA 98107",U-lock and cable,"Lock was cut, and left at the scene",2020.1.24,None
+2,689229,"Los Angeles, CA 90012",None,None,2020.1.24,Reported
+3,663154,"Los Angeles, CA 90291",None,None,2020.1.24,None
+4,689270,"SE Cesar Chavez and SE Carlton, Portland, OR 97202",Not locked,None,2020.1.24,Reported
+5,690451,"17th Street East, E Ave Q6, Palmdale, CA 93550",Cable lock,"Lock is missing, along with the bike",2020.1.24,None
+6,659741,"Los Angeles, CA 90291",None,None,2020.1.24,None
+7,688780,"58 Mozart St, Boston, MA 02130",None,None,2020.1.24,None
+0,688779,"2218 K St, Sacramento, CA 95816",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.1.24,Reported
+1,697541,"Tucson, AZ 85701",Other,"Other situation, please describe below",2020.1.24,Reported
+2,657866,"Seattle, WA 98108",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.1.24,None
+3,688725,"Portland, OR 97227",None,None,2020.1.24,None
+4,689380,"Cambridge, MA 02139",Other,"Lock is missing, along with the bike",2020.1.24,None
+5,688721,"Lankershim and Weddington, North Hollywood, CA 91601",U-lock,"Lock was cut, and left at the scene",2020.1.24,None
+6,688714,"1373 Broadway, San Francisco, CA 94109",Not locked,Bike was not locked,2020.1.24,None
+7,687072,"Berkeley, CA 94709",U-lock,"Lock was cut, and left at the scene",2020.1.23,Reported
+0,688693,"1420 E Madison St, Seattle, WA 98122",Cable lock,"Lock was cut, and left at the scene",2020.1.23,Reported
+1,688894,"New Orleans, LA 70119",None,None,2020.1.23,None
+2,691138,"San Francisco, CA 94102",U-lock,"Lock is missing, along with the bike",2020.1.23,Reported
+3,688644,"585 Luneta Drive, San Luis Obispo, CA 93405",None,None,2020.1.23,None
+4,688643,"Austin, TX",None,None,2020.1.23,None
+5,687677,"Santa Monica, CA",None,None,2020.1.23,None
+6,688632,"3035 O’Neal Pkwy, Boulder, CO 80301",None,None,2020.1.23,None
+7,688637,"Austin, TX 78704",U-lock,"Other situation, please describe below",2020.1.23,Reported
+0,688810,"New Orleans, LA 70119",Not locked,"Lock was opened, and left unharmed at the scene",2020.1.23,None
+1,688594,"Denver, CO 80202",None,None,2020.1.23,None
+2,688593,"New Orleans, LA 70118",U-lock,"Lock is missing, along with the bike",2020.1.23,None
+3,688821,"New Orleans, LA 70119",Not locked,"Lock was opened, and left unharmed at the scene",2020.1.23,None
+4,688579,"5415 Connecticut avenue nw, Washington Dc, DC 20015",None,None,2020.1.23,None
+5,466548,"San Francisco, CA 94110",Not locked,Bike was not locked,2020.1.23,None
+6,691413,"Marina Del Rey, CA 90292",U-lock and cable,"Lock was cut, and left at the scene",2020.1.23,None
+7,688771,"Seattle, WA 98108",None,None,2020.1.23,None
+0,688472,"Concord, CA 94521",None,None,2020.1.23,Reported
+1,688464,"8671 N Ivanhoe , Portland, OR 97203",None,None,2020.1.22,None
+2,688929,"New Orleans, LA 70130",None,None,2020.1.22,None
+0,688827,"Salt Lake, UT 84102-4195",Not locked,Bike was not locked,2020.1.22,Reported
+1,688392,"Rochester, NY 14608",Not locked,Bike was not locked,2020.1.22,Reported
+2,700029,"Austin, TX 78757",Cable lock,"Lock was cut, and left at the scene",2020.1.22,Reported
+3,688309,"5018 17th AVE NE, Seattle, WA 98105",U-lock,"Lock is missing, along with the bike",2020.1.22,Reported
+4,687850,"New Orleans, LA 70116",Other,"Lock was opened, and left unharmed at the scene",2020.1.22,Reported
+5,688299,"Eugene, OR 97401",Cable lock,"Lock is missing, along with the bike",2020.1.22,None

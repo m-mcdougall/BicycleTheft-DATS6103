@@ -1,0 +1,85 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,665932,"San Francisco, CA 94109",None,None,2019.10.15,None
+1,665934,"Buffalo, NY 14221",None,None,2019.10.15,Reported
+2,665906,"Seattle, WA 98122",U-lock,None,2019.10.15,Reported
+3,665901,"University of Montana campus, Missoula, MT 59801",Cable lock,"Lock was cut, and left at the scene",2019.10.15,Reported
+4,665899,"Richland, WA 99352",Heavy duty bicycle security chain,None,2019.10.15,None
+5,674008,"Seattle, WA 98121",Cable lock,"Lock was cut, and left at the scene",2019.10.15,Reported
+6,666194,"Denver, CO 80206",Not locked,Bike was not locked,2019.10.15,None
+7,637741,"Austin, TX 78705",U-lock and cable,"Lock was cut, and left at the scene",2019.10.15,Reported
+8,665852,"1515 Plymouth ave, Bronx, NY 10461",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.10.15,Reported
+0,666983,"839 South Donovan Street, Seattle, WA 98108",None,None,2019.10.15,Reported
+1,665911,"Portland, OR 97217",None,None,2019.10.15,Reported
+2,645399,"New Orleans, LA 70115",Not locked,None,2019.10.15,None
+3,665926,"Medford, MA 02155",Other,None,2019.10.15,None
+4,611029,"Evanston, IL 60201",None,None,2019.10.15,None
+5,679540,"New Orleans, LA 70130",None,None,2019.10.15,None
+6,666104,"5803 UTSA Blvd. , San Antonio, TX 78249",Cable lock,"Lock was cut, and left at the scene",2019.10.14,None
+7,665788,"Sunnyvale, CA 94086",None,None,2019.10.14,Reported
+0,665775,"San Diego, CA 92119",None,None,2019.10.14,None
+1,665776,"Nampa, ID 83686",Not locked,"Other situation, please describe below",2019.10.14,None
+2,667215,"Eureka, CA 95501",Not locked,None,2019.10.14,Reported
+3,389953,"American Fork, UT 84003",Cable lock,"Lock is missing, along with the bike",2019.10.14,None
+4,665766,"Santa Rosa, CA 95403",Not locked,Bike was not locked,2019.10.14,None
+5,665796,"Portland, OR 97217",None,None,2019.10.14,Reported
+0,670996,"1401 Jackson St, Oakland, CA 94612",U-lock,"Lock was cut, and left at the scene",2019.10.14,None
+1,667462,"Seattle, WA 98122",None,None,2019.10.14,Reported
+2,667440,"San Francisco, CA 94109",Not locked,Bike was not locked,2019.10.14,None
+3,608260,"San Jose, CA 95131",Not locked,Bike was not locked,2019.10.14,Reported
+4,665687,"25 Heritage Halls, #3102, Provo, UT 84602",None,None,2019.10.14,None
+5,665814,"Seattle, WA 98118",Not locked,"Other situation, please describe below",2019.10.14,Reported
+6,665680,"Washington, DC 20007",None,None,2019.10.14,Reported
+7,665673,"Tucson, AZ 85719",None,None,2019.10.14,None
+8,665939,"Seattle, WA 98107",U-lock and cable,"Lock is missing, along with the bike",2019.10.14,Reported
+9,665685,"Tucson, AZ 85716",Cable lock,None,2019.10.14,None
+0,668734,"Portland, OR 97201",Cable lock,"Lock is missing, along with the bike",2019.10.14,Reported
+1,669845,"Colorado Springs, CO 80946",Other,None,2019.10.14,Reported
+2,666986,"Brooklyn, NY 11204",Cable lock,"Lock was cut, and left at the scene",2019.10.14,None
+3,665644,"Sunnyvale, CA 94086",None,None,2019.10.14,Reported
+4,665625,"24th Ave & Fulton, San Francisco, CA 94121",Cable lock,"Lock was cut, and left at the scene",2019.10.14,Reported
+5,665634,"310 S 4th st unit 1106, Phoenix, AZ 85004",Cable lock,"Lock is missing, along with the bike",2019.10.14,None
+6,665647,"Portland, OR 97211",Other,Bike was not locked,2019.10.14,Reported
+7,665529,"Sunnyvale, CA CA94085",Cable lock,"Lock is missing, along with the bike",2019.10.14,Reported
+8,665616,"St Bernard and Broad, New Orleans, LA 70117",None,None,2019.10.14,None
+0,61763,"Portland, OR 97232",Not locked,"Other situation, please describe below",2019.10.14,Reported
+1,665642,"Portland, OR 97214",U-lock,"Lock is missing, along with the bike",2019.10.14,None
+2,375331,"Mountain View, CA 94041",Not locked,None,2019.10.14,Reported
+3,667197,"New Orleans, LA 70112",None,None,2019.10.14,Reported
+4,665597,"2799 E Tropicana Ave, Las Vegas, NV 89121",U-lock,None,2019.10.13,Reported
+5,650747,"Portland, OR 97217",Not locked,None,2019.10.13,None
+6,665562,"San, CA 94123",Cable lock,"Lock is missing, along with the bike",2019.10.13,None
+7,667066,"139 State St, Rochester, NY 14614",Cable lock,"Lock is missing, along with the bike",2019.10.13,None
+0,665544,"1693 28th st , Boulder, CO 80302",Cable lock,"Lock was cut, and left at the scene",2019.10.13,Reported
+1,665536,"City, OR 97219",Not locked,None,2019.10.13,Reported
+2,665319,"Seattle, WA 98125",None,Bike was not locked,2019.10.13,None
+3,665521,"82nd and flavel, Portland, OR 97206",None,None,2019.10.13,None
+4,665646,"Golden, CO 80403",Not locked,Bike was not locked,2019.10.13,Reported
+5,665516,"Santa Cruz, CA 95062",None,None,2019.10.13,Reported
+6,665522,"Seattle, WA 98108",None,None,2019.10.13,Reported
+7,665704,"New Orleans, LA 70130",None,None,2019.10.13,None
+8,665520,"921 SW 6th Ave , Portland, OR 97204",Cable lock,"Lock was cut, and left at the scene",2019.10.13,None
+9,665517,"Portland, OR 97204",Cable lock,"Lock was cut, and left at the scene",2019.10.13,None
+0,665487,"Minneapolis, MN 55405",None,None,2019.10.13,Reported
+1,665494,"New Orleans, LA 70116",None,None,2019.10.13,None
+2,665615,"1525 russel St, Baltimore, MD",Cable lock,"Lock was cut, and left at the scene",2019.10.13,None
+3,665706,"Santa Rosa, CA",Cable lock,"Lock was cut, and left at the scene",2019.10.13,Reported
+4,665744,"Tucson, AZ 85719",None,None,2019.10.13,None
+5,665446,"Broadway & Lawrence, Chicago, IL 60640",None,"Lock is missing, along with the bike",2019.10.13,None
+6,665542,"San Diego, CA 92108",None,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.10.13,Reported
+7,664243,"Seattle, WA 98105",None,None,2019.10.13,None
+0,665476,"107 Ironside Ave, Charlotte, NC 28203",None,None,2019.10.13,Reported
+1,37998,"Portland, OR",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.10.13,Reported
+2,665369,"Blaine, WA 98230",None,None,2019.10.13,Reported
+3,665836,"Portland, OR 97214",None,None,2019.10.13,None
+4,665490,"San Francisco, CA 94103",U-lock and cable,"Lock is missing, along with the bike",2019.10.13,None
+5,665515,"Denver, CO 80202",U-lock,"Lock was cut, and left at the scene",2019.10.13,Reported
+6,665358,"San Diego, CA 92103",Cable lock,"Lock was opened, and left unharmed at the scene",2019.10.12,Reported
+7,665339,"Oakland, CA 94609",Other,"Lock was cut, and left at the scene",2019.10.12,Reported
+8,665326,"71 Curtner Ave #80, San Jose, CA 95125",U-lock,"Other situation, please describe below",2019.10.12,Reported
+0,665308,"Tukwilla, WA 98188",Not locked,"Other situation, please describe below",2019.10.12,Reported
+1,354374,"Portland, OR 97239",U-lock and cable,"Lock was cut, and left at the scene",2019.10.12,Reported
+2,665232,"Portland, OR 97266",None,None,2019.10.12,None
+3,665186,"Seattle, WA 98117",Cable lock,"Lock is missing, along with the bike",2019.10.12,Reported
+4,665228,"125th St and 26th Ave NE, Seattle, WA 98125",None,None,2019.10.12,None
+5,665364,"Denver, CO 80204",Cable lock,"Lock is missing, along with the bike",2019.10.12,Reported
+6,665203,"Omaha, NE 68132",None,None,2019.10.12,Reported

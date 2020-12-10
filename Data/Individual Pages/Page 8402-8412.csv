@@ -1,0 +1,95 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,9851,"Charleston, SC 29403",None,None,2009.1.25,Reported
+1,9913,"Columbus, OH 43229",None,None,2009.1.25,Reported
+2,9001,"Springfield, MO 65803",None,None,2009.1.25,None
+3,5836,"Portland, OR 97212",None,None,2009.1.24,Reported
+4,8985,"San Francisco, CA 94102",None,None,2009.1.24,None
+5,8987,"Austin, TX 78705",None,None,2009.1.24,None
+6,6308,"Albuquerque, NM 87106",None,None,2009.1.23,Reported
+7,6242,"Brea, CA 92821",None,None,2009.1.23,Reported
+8,9038,"Spokane, WA 99206",None,None,2009.1.23,None
+0,10363,"Portland, OR 97211",None,None,2009.1.23,None
+1,8997,"Baton Rouge, LA 70802",None,None,2009.1.23,None
+2,8095,"Springfield, VA 22150",None,None,2009.1.22,Reported
+3,12850,"Winter Park, FL 32792",None,None,2009.1.22,None
+4,8973,"Seattle, WA 98102",None,None,2009.1.21,None
+5,8980,"Seattle, WA 98122",None,None,2009.1.21,None
+6,6456,"New Brunswick, NJ 08901",None,None,2009.1.20,None
+0,9153,"Greenville, SC 29613",None,None,2009.1.20,None
+1,9816,"Brooklyn, NY 11215",None,None,2009.1.20,None
+2,7134,"Pasadena, CA 91125",None,None,2009.1.20,None
+3,16499,"Markham, IL 60428",None,None,2009.1.20,None
+4,8970,"Waco, TX 76706",None,None,2009.1.19,None
+5,9818,"Alexandria, VA 22314",None,None,2009.1.19,Reported
+6,12310,"San Jose, CA 95124",None,None,2009.1.19,None
+7,8028,"Costa Mesa, CA 92627",None,None,2009.1.19,None
+8,8969,"Irvine, CA 92617",None,None,2009.1.19,None
+9,5808,"Houston, TX 77098",None,None,2009.1.17,Reported
+0,8077,"Mt. Prospect, IL 60056",None,None,2009.1.17,Reported
+1,8978,"Denton, TX 76209",None,None,2009.1.17,None
+2,10346,"Beaverton, OR 97005",None,None,2009.1.17,Reported
+3,8005,"Portland, ME 04103",None,None,2009.1.17,None
+4,6551,"Portland, OR 97214",None,None,2009.1.15,Reported
+5,10349,"Seattle, WA 98122",None,None,2009.1.15,Reported
+6,9872,"Milwaukie, OR 97267",None,None,2009.1.15,None
+7,10391,"San Francisco, CA 94129",None,None,2009.1.15,None
+8,7124,"Tempe, AZ 85283",None,None,2009.1.15,None
+9,6735,"Baltimore, MD 21205",None,None,2009.1.14,None
+0,7972,"North Little Rock, AR 72118",None,None,2009.1.14,Reported
+1,9116,"Irving, TX 75063",None,None,2009.1.13,None
+2,6225,"Kensington, MD 20895",None,None,2009.1.13,None
+3,7962,"Portland, OR 97202",None,None,2009.1.13,Reported
+4,8961,"El Cerrito, CA 94706",None,None,2009.1.13,None
+5,9736,"Portland, OR 97211",None,None,2009.1.13,None
+6,10261,"New York City, NY 10024",None,None,2009.1.13,None
+7,8016,"Concord, CA 94520",None,None,2009.1.13,Reported
+8,6212,"San Francisco, CA 94117",None,None,2009.1.12,None
+0,7572,"Austin, TX 78756",None,None,2009.1.12,None
+1,7960,"Goleta, CA 93117",None,None,2009.1.12,Reported
+2,9715,"Tucson, AZ 85701",None,None,2009.1.11,Reported
+3,9015,"Alameda, CA 94501",None,None,2009.1.11,None
+4,10204,"Bend, OR 97701",None,None,2009.1.11,None
+5,10255,"Lombard, IL 60148",None,None,2009.1.11,Reported
+6,9712,"Seattle, WA 98109",None,None,2009.1.11,None
+7,6094,"Philadelphia, PA 19125",None,None,2009.1.10,None
+8,6764,"Philadelphia, PA 19103",None,None,2009.1.10,None
+9,7205,"Terre Haute, IN 47803",None,None,2009.1.10,None
+0,8895,"Provo, UT 84604",None,None,2009.1.10,None
+1,8957,"Los Angeles, CA 90046",None,None,2009.1.10,None
+2,8984,"Dallas, TX 75204",None,None,2009.1.10,None
+3,7156,"San Jose, CA 95192",None,None,2009.1.9,None
+4,8954,"Portland, OR 97202",None,None,2009.1.9,None
+5,9836,"San Francisco, CA 94111",None,None,2009.1.9,Reported
+6,9709,"Redwood City, CA 94063",None,None,2009.1.8,None
+7,10698,"Isla Vista, CA 93117",None,None,2009.1.8,None
+8,7924,"Baltimore, MD 21230",None,None,2009.1.7,Reported
+9,8944,"Los Angeles, CA 90024",None,None,2009.1.7,None
+0,8941,"Portland, OR 97214",None,None,2009.1.7,None
+1,9700,"Salisbury, MD 21804",None,None,2009.1.6,Reported
+2,9093,"Venice, CA 91604",None,None,2009.1.5,None
+3,8935,"Tallahassee, FL 32310",None,None,2009.1.5,None
+4,9679,"Yakima, WA 98902",None,None,2009.1.5,Reported
+5,7158,"Austin, TX 78705",None,None,2009.1.5,None
+6,7911,"San Francisco, CA 94103",None,None,2009.1.5,Reported
+7,8981,"Menlo Park, CA 94025",None,None,2009.1.5,None
+8,7127,"Portland, OR 97202",None,None,2009.1.4,None
+9,11583,"San Francisco, CA 94102",None,None,2009.1.4,Reported
+0,9643,"Boise, ID 83709",None,None,2009.1.4,Reported
+1,6058,"Charleston, SC 29403",None,None,2009.1.3,None
+2,6626,"Torrance, CA 90505",None,None,2009.1.3,None
+3,9610,"Hillsboro, OR 97124",None,None,2009.1.3,Reported
+4,8962,"Los Angeles, CA 90069",None,None,2009.1.3,None
+5,6628,"Houston, TX 77004",None,None,2009.1.2,None
+6,7961,"Portland, OR 97202",None,None,2009.1.2,Reported
+7,9605,"Minneapolis, MN 55408",None,None,2009.1.2,Reported
+8,9027,"East Lansing, MI 48824",None,None,2009.1.1,None
+9,6687,"Austin, TX 78712",None,None,2009.1.1,None
+0,7374,"Phoenix, AZ 85048",None,None,2009.1.1,None
+1,7914,"Austin, TX 78751",None,None,2009.1.1,Reported
+2,8865,"Jacksonville, FL 32221",None,None,2009.1.1,None
+3,10037,"Tucson, AZ 85719",None,None,2009.1.1,Reported
+4,10389,"Bergenfield, NJ 07621",None,None,2009.1.1,Reported
+5,7847,"Phoenix, AZ 85051",None,None,2009.1.1,None
+6,13637,"Stockton, CA 95207",None,None,2009.1.1,Reported
+7,9021,"San Luis Obispo, CA 94305",None,None,2009.1.1,None
+8,9671,"Portland, OR 97232",None,None,2009.1.1,None

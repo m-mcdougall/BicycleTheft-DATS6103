@@ -1,0 +1,71 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,934404,"Portland, OR 97217",None,None,2020.10.13,Reported
+1,934239,"Chicago, IL 60640",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.13,Reported
+2,934206,"San Diego, CA 92107",None,None,2020.10.13,None
+3,934185,"3040 22nd Street, San Francisco, CA 94110",U-lock,"Lock was cut, and left at the scene",2020.10.13,None
+4,934172,"1578 Navajo Dr, Xenia, OH 34481",None,None,2020.10.13,None
+5,663734,"Palo Alto, CA 94301",Two U-locks,"Lock is missing, along with the bike",2020.10.13,Reported
+6,934036,"Bend, OR 97703",Cable lock,"Lock was cut, and left at the scene",2020.10.13,Reported
+7,934095,"Denver, CO 80212",Other,"Other situation, please describe below",2020.10.13,Reported
+8,934296,"Wal-Mart Mount Dora, FL, Mount Dora, FL 32757",Chain with padlock,"Lock is missing, along with the bike",2020.10.13,Reported
+0,934054,"Elmwood Ave, Buffalo, NY 14222",None,None,2020.10.13,None
+1,934511,"College Park, MD 20742",None,None,2020.10.13,None
+2,721626,"Olive dr, Davis, CA 95618",Not locked,"Lock is missing, along with the bike",2020.10.13,None
+3,934166,"625 Robert St, St. Paul, MN 55164",Cable lock,"Lock is missing, along with the bike",2020.10.13,Reported
+4,933952,"Cedar Falls, IA 50613",None,None,2020.10.13,None
+5,933964,"Boston, MA",Other,"Other situation, please describe below",2020.10.13,None
+0,744081,"Salt Lake City, UT 84116",None,None,2020.10.13,Reported
+1,933903,"Dallas, TX 75604",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.10.13,Reported
+2,933934,"Shoreline, WA 98133",None,None,2020.10.13,Reported
+3,933942,"1200, 400 Dexter Ave N, Seattle, WA 98109",Cable lock,"Lock is missing, along with the bike",2020.10.13,Reported
+4,933930,"Georgia Ave NW and Kenyon st NW, Washington, MD 20010",None,None,2020.10.13,None
+5,933948,"Gov Nicholls & Miro st (Treme), New Orleans, LA 70119",Other,"Other situation, please describe below",2020.10.13,Reported
+0,933922,"Minneapolis, MN 55408",U-lock,"Lock is missing, along with the bike",2020.10.13,Reported
+1,933914,"Champaign, IL 61821",Not locked,"Lock is missing, along with the bike",2020.10.13,None
+2,934157,"Seattle, WA 98144",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.10.13,None
+3,934150,"Seattle, WA 98144",Cable lock,"Lock is missing, along with the bike",2020.10.13,None
+4,934020,"Los, CA 90025",None,None,2020.10.13,Reported
+0,933859,"180 Bromley Business Park, Brighton, CO 80601",None,None,2020.10.12,None
+1,934952,"Anchorage, AK 99503",U-lock and cable,"Lock was cut, and left at the scene",2020.10.12,Reported
+2,933832,"1075 Space Park Way, Mountain View, CA 94043",Not locked,None,2020.10.12,Reported
+3,933846,"Market and Joseph , Spokane, WA 99208",None,None,2020.10.12,Reported
+4,933816,"4900 S Rio Grande Av, Apt 18A, Orlando, FL 32839-2326",None,None,2020.10.12,None
+5,775889,"Seattle, WA 98102",U-lock,"Other situation, please describe below",2020.10.12,None
+6,933806,"Denver, CO 80209",Other,"Other situation, please describe below",2020.10.12,Reported
+7,935281,"Reseda, CA",None,None,2020.10.12,Reported
+0,933775,"Indianapolis, IN 46202",Cable lock,"Lock is missing, along with the bike",2020.10.12,None
+1,934158,"120 Lakeside Ave, Seattle, WA 98122",None,None,2020.10.12,None
+2,933770,"Portland, OR 97209",None,None,2020.10.12,None
+3,933748,"Columbus, GA 31906",None,None,2020.10.12,None
+4,936111,"960 Arrowhead Dr, Oxford, OH 45056",Cable lock,"Lock is missing, along with the bike",2020.10.12,None
+5,933792,"Austin, TX 78751",Chain with padlock,"Lock was cut, and left at the scene",2020.10.12,None
+6,933726,"3960 Salem blvd, Virginia Beach, VA 23456",None,None,2020.10.12,Reported
+0,933812,"Austin, TX 78751-2916",U-lock,"Lock is missing, along with the bike",2020.10.12,Reported
+1,933663,"Los Angeles, CA 90272",Cable lock,"Lock is missing, along with the bike",2020.10.12,Reported
+2,933685,"San Francisco, CA 94115",Other,"Other situation, please describe below",2020.10.12,Reported
+3,934041,"Cambridge, MA 02139",Cable lock,"Lock was cut, and left at the scene",2020.10.12,Reported
+4,933644,"Seattle, WA 98103",None,None,2020.10.12,None
+5,933634,"Phoenix, AZ 85209",U-lock,"Lock is missing, along with the bike",2020.10.12,Reported
+6,933655,"Seattle, WA 98103",None,None,2020.10.12,None
+0,929287,"Clackamas Town Center, Portland, OR 97206",Not locked,None,2020.10.12,Reported
+1,117387,"New Orleans, LA 70116",Not locked,"Other situation, please describe below",2020.10.12,Reported
+2,933178,"San Diego, CA 92108",None,None,2020.10.12,None
+3,935293,"Boise, ID 83702",Chain with padlock,"Lock is missing, along with the bike",2020.10.12,Reported
+4,933595,"712 Ashbury St., San Francisco, CA 94117",U-lock,Bike was not locked,2020.10.12,Reported
+5,933566,"Boston, MA",None,None,2020.10.12,None
+6,933580,"938 Pearl St, Boulde, CO 80304",Cable lock,None,2020.10.12,None
+7,933661,"Cambridge, MA 02138",Cable lock,"Lock was cut, and left at the scene",2020.10.12,Reported
+8,931372,"Boulder, CO 80304",None,None,2020.10.12,None
+0,933730,"Bozeman, MT 59715",Not locked,Bike was not locked,2020.10.12,None
+1,933797,"Redmond, WA 98052",Not locked,None,2020.10.12,Reported
+2,933802,"Redmond, WA 98052",Not locked,None,2020.10.12,Reported
+3,933530,"1332 35th st NW, Washington, PA 18224",None,None,2020.10.12,None
+4,933915,"Lincoln, NE 68503",Not locked,"Lock is missing, along with the bike",2020.10.12,Reported
+5,934040,"Bend, OR 97703",Cable lock,"Lock was cut, and left at the scene",2020.10.12,Reported
+6,933501,"Moss St, San Francisco, CA 94103",None,None,2020.10.12,None
+7,933500,"Moss st, San Francisco, CA 94103",None,None,2020.10.12,None
+0,382720,"Emeryville, CA 94608",Two U-locks,"Lock is missing, along with the bike",2020.10.12,Reported
+1,947256,"1100 S. Hope St., Los Angeles, CA",Cable lock,"Lock was cut, and left at the scene",2020.10.12,None
+2,937182,"Austin, TX 78751",U-lock,"Lock was cut, and left at the scene",2020.10.12,Reported
+3,933461,"Tukwila, WA 98188",None,None,2020.10.11,None
+4,933444,"Milwaukee, WI 53207",U-lock and cable,"Lock is missing, along with the bike",2020.10.11,Reported

@@ -1,0 +1,95 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,3836,"Tucson, AZ 85719",Cable lock,"Lock is missing, along with the bike.",2014.6.13,Reported
+1,27176,"Everett, WA 98204",Other,"Other situation, please describe below.",2014.6.13,Reported
+2,3840,"Seattle, WA 98117",None,None,2014.6.12,Reported
+3,7798,"Bethesda, MD 20817",None,None,2014.6.12,None
+4,8534,"Citrus Heights, CA 95610",None,None,2014.6.12,Reported
+5,26999,"San Francisco, CA 94114",Not locked,"Other situation, please describe below.",2014.6.12,Reported
+6,27844,"Portland, OR 97217",None,None,2014.6.12,None
+7,26940,"Minneapolis, MN 55416",Cable lock,"Lock was cut, and left at the scene.",2014.6.12,None
+8,7775,"Washington, DC 20007",None,None,2014.6.12,None
+9,8521,"Oakland, CA 94607",None,None,2014.6.12,Reported
+0,8516,"San Francisco, CA 94114",None,None,2014.6.12,Reported
+1,8527,"Portland, OR 97211",None,None,2014.6.12,Reported
+2,3828,"Boulder, CO 80304",Cable lock,"Lock is missing, along with the bike.",2014.6.12,Reported
+3,29034,"San, CA 94107",Cable lock,"Lock was cut, and left at the scene.",2014.6.12,None
+4,27646,"Salem, OR 97304",Not locked,Bike was not locked,2014.6.12,Reported
+5,6029,"San Francisco, CA 94123",None,None,2014.6.12,Reported
+6,8531,"Chico, CA 95926",None,None,2014.6.12,None
+7,8536,"Bethesda, MD 20815",None,None,2014.6.12,None
+8,8223,"Philadelphia, PA 19130",None,None,2014.6.11,Reported
+9,29521,"Saint Paul, MN 55108",Not locked,None,2014.6.11,None
+0,3811,"San Francisco, CA 94110",Cable lock,None,2014.6.11,Reported
+1,8625,"La Jolla, CA 92092",None,None,2014.6.11,Reported
+2,10268,"Northampton, MA 01063",None,None,2014.6.11,None
+3,33193,"Portland, OR 97211",Not locked,Bike was not locked,2014.6.11,None
+4,6022,"Catonsville, MD 21228",None,None,2014.6.11,None
+5,8529,"Lynnwood, WA 98087",None,None,2014.6.11,Reported
+6,8517,"San Francisco, CA 94110",None,None,2014.6.11,None
+7,5980,"Portland, OR 97205",None,None,2014.6.11,Reported
+8,6007,"Carbondale, CO 81623",None,None,2014.6.11,None
+9,5986,"New York, NY 10023",None,None,2014.6.10,None
+0,8488,"St Louis Park, MN 55416",Cable lock,"Lock was cut, and left at the scene.",2014.6.10,Reported
+1,8515,"Canton, GA 30114",None,None,2014.6.10,Reported
+2,29209,"Lakewood, CO 80214",None,Bike was not locked,2014.6.10,None
+3,3837,"Austin, TX 78702",Not locked,None,2014.6.10,Reported
+4,6006,"Orange Park, FL 32073",None,None,2014.6.10,None
+5,7730,"Boulder, CO 80304",None,None,2014.6.10,Reported
+6,47748,"San Francisco, CA 94158",Not locked,None,2014.6.10,None
+0,8533,"Portland, OR 97239",None,None,2014.6.10,None
+1,8496,"San Fransisco, CA 94107",None,None,2014.6.10,Reported
+2,5992,"Portland, OR 97203",None,None,2014.6.10,Reported
+3,8198,"Kenosha, WI 53140",None,None,2014.6.9,None
+4,5894,"Seattle, WA 98115",None,None,2014.6.9,Reported
+5,8463,"San Francisco, CA 94133",None,None,2014.6.9,Reported
+6,7709,"Portland, OR 97266",None,None,2014.6.9,None
+0,8206,"Dayton, OH 45432",None,None,2014.6.9,None
+1,3823,"Chicago, IL 60647",Two U-locks,"Lock is missing, along with the bike.",2014.6.9,Reported
+2,3874,"Seattle, WA 98105",Cable lock,None,2014.6.9,Reported
+3,5900,"Indianapolis, IN 46204",None,None,2014.6.9,None
+4,5977,"Seattle, WA 98109",None,None,2014.6.9,None
+5,7747,"Seattle, WA 98109",None,None,2014.6.9,None
+6,8177,"Portland, OR 97212",None,None,2014.6.9,None
+7,8221,"Seattle, WA 98109",None,None,2014.6.9,None
+8,8461,"Tigard, OR 97224",None,None,2014.6.9,Reported
+9,8471,"Brooklyn, NY 11205",None,None,2014.6.9,None
+0,8465,"Lafayette, CA 94549",None,None,2014.6.9,None
+1,5890,"Seattle, WA 98102",None,None,2014.6.9,None
+2,8441,"Bloomington, IN 47401",None,None,2014.6.9,None
+3,5937,"Portland, OR 97218",Cable lock,"Lock is missing, along with the bike.",2014.6.9,Reported
+4,8460,"Washington, DC 20005",None,None,2014.6.9,None
+5,8481,"Portland, OR 97232",None,None,2014.6.9,Reported
+6,5974,"Seattle, WA 98109",None,None,2014.6.9,None
+7,3931,"Brooklyn, NY 11210",Not locked,None,2014.6.9,None
+8,8468,"Fort Collins, CO 80525",None,None,2014.6.8,Reported
+9,3799,"Oakland, CA 94612",U-lock,"Other situation, please describe below.",2014.6.8,Reported
+0,3785,"Chicago, IL 60647",Not locked,Bike was not locked,2014.6.8,Reported
+1,26950,"Columbus, OH 43215",Cable lock,"Lock was cut, and left at the scene.",2014.6.8,Reported
+2,26932,"San Francisco, CA 94118",U-lock and cable,"Lock was cut, and left at the scene.",2014.6.8,None
+3,5888,"Salt Lake City, UT 84102",None,None,2014.6.8,None
+4,5855,"Portland, OR",None,None,2014.6.8,None
+5,5879,"San Francisco, CA 94103",None,None,2014.6.8,Reported
+6,6002,"Oakland, CA 94612",None,None,2014.6.8,Reported
+7,7688,"San Francisco, CA 94110",None,None,2014.6.8,None
+8,8606,"San Francisco, CA 94110",None,None,2014.6.8,None
+9,9033,"Washington, DC 20009",None,None,2014.6.8,Reported
+0,8422,"Billings, MT 59101",None,None,2014.6.8,None
+1,7694,"San Francisco, CA 94110",None,None,2014.6.8,None
+2,7329,"Sacramento, CA 95811",None,None,2014.6.8,Reported
+3,8188,"Eugene, OR 97401",None,None,2014.6.8,None
+4,5862,"Boston, MA 02138",None,None,2014.6.8,Reported
+5,47587,"Los Angeles, CA 90012",Cable lock,None,2014.6.8,None
+6,8497,"Sylvania, OH 43615",None,None,2014.6.7,None
+7,8127,"Washington, DC 20007",None,None,2014.6.7,None
+8,8136,"San, CA 94110",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2014.6.7,None
+9,27591,"San Diego, CA 92109",Cable lock,"Lock is missing, along with the bike.",2014.6.7,Reported
+0,8185,"Denver, CO 80206",None,None,2014.6.7,None
+1,27472,"Portland, OR",U-lock,None,2014.6.7,Reported
+2,29373,"Newark, DE 19702",None,"Other situation, please describe below.",2014.6.7,Reported
+3,5856,"Philadelphia, PA 19103",None,None,2014.6.7,Reported
+4,5854,"Vail, CO 81657",None,None,2014.6.7,Reported
+5,5906,"Portland, OR 97202",None,None,2014.6.7,Reported
+6,5875,"Columbus, OH 43201",None,None,2014.6.7,Reported
+7,5936,"Columbus, OH 43201",None,None,2014.6.7,Reported
+8,8152,"Minneapolis, MN 55406",None,None,2014.6.7,None
+9,5872,"Minneapolis, MN 55406",None,Bike was not locked,2014.6.7,Reported

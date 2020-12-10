@@ -1,0 +1,79 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,679222,"Tulsa, OK 74145",None,None,2019.12.9,Reported
+1,679219,"3332 S 79th East Ave , Tulsa, OK 74145",None,None,2019.12.9,Reported
+2,679210,"3332 S 79th East Ave , Tulsa, OK 74145",None,None,2019.12.9,None
+3,679208,"442 Chickamauga Ave, Knoxville, TN 37917",None,None,2019.12.9,None
+4,679213,"Tulsa, OK 74145",None,"Other situation, please describe below",2019.12.9,Reported
+5,392936,"Independence, KS",None,None,2019.12.9,None
+6,679203,"7731 SE Tibbetts Street, Portland, OR 97206",None,None,2019.12.9,None
+7,679197,"7731 SE Tibbetts Street, Portland, OR 97206",None,None,2019.12.9,None
+8,679195,"2600 Ellsworth Street, Uc Berkeley, CA 94704",None,None,2019.12.9,None
+0,679196,"Portland, OR 97211",Not locked,None,2019.12.9,Reported
+1,679182,"Palo Alto, CA 94301",Cable lock,"Lock was cut, and left at the scene",2019.12.9,None
+2,679229,"Palo Alto, CA 94301",U-lock,"Other situation, please describe below",2019.12.9,Reported
+3,679162,"Tucson, AZ 85716",None,None,2019.12.9,None
+4,679164,"624 Yale Avenue N, Seattle, WA 98109",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.12.9,Reported
+5,678681,"1855 41st Ave, Capitola Mall, Capitola, CA 95010",Cable lock,"Lock was opened, and left unharmed at the scene",2019.12.9,Reported
+6,679108,"1401 Boren ave, Seattle, WA 98101",None,None,2019.12.9,None
+0,705321,"St. Anthony, MN 55421",None,None,2019.12.9,Reported
+1,705322,"St. Anthony, MN 55421",None,None,2019.12.9,Reported
+2,705320,"St. Anthony, MN 55421",None,None,2019.12.9,Reported
+3,679494,"Detroit, MI 48202",None,None,2019.12.9,Reported
+4,649485,"Seattle, WA",None,None,2019.12.9,None
+5,679175,"Seattle, WA 98122",None,None,2019.12.9,None
+6,679552,"San Jose, CA 95125",None,None,2019.12.9,Reported
+7,679092,"81rstave and 144th st e, Puyallup, WA 98374",None,None,2019.12.9,None
+0,679091,"Puyallup, WA 98373",None,None,2019.12.9,None
+1,431868,"Portland, OR 97209",None,None,2019.12.9,None
+2,679151,"Seattle, WA 98108",Cable lock,"Lock is missing, along with the bike",2019.12.8,Reported
+3,679050,"Seattle, WA 98112",None,None,2019.12.8,Reported
+4,679022,"Seattle, WA 98125",None,None,2019.12.8,None
+5,679065,"Portland, OR 97219",Cable lock,"Lock was cut, and left at the scene",2019.12.8,Reported
+6,101793,"Seattle, WA 98107",Other,"Other situation, please describe below",2019.12.8,Reported
+7,678662,"New Orleans, LA 70119",None,None,2019.12.8,None
+8,679008,"se 30th hawthorne/ clay, Portland, OR 97214",Other,"Other situation, please describe below",2019.12.8,Reported
+0,678931,"303a Portland, OR 97217",U-lock,"Lock is missing, along with the bike",2019.12.8,None
+1,682773,"Orange City, FL 32763",Other,"Lock is missing, along with the bike",2019.12.8,Reported
+2,678905,"Redmond, WA 98052",None,None,2019.12.8,None
+3,679033,"Seattle, WA 98112",Other,None,2019.12.8,Reported
+4,679025,"Seattle, WA 98117",Other,"Other situation, please describe below",2019.12.8,Reported
+5,679785,"Knoxville, TN 37920",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2019.12.7,Reported
+6,66920,"San Rafael, CA 94903",Two U-locks,"Lock was cut, and left at the scene",2019.12.7,None
+0,678780,"Turlock, CA 95380",None,None,2019.12.7,Reported
+1,678746,"University Park, PA 16802",Cable lock,"Lock is missing, along with the bike",2019.12.7,Reported
+2,678952,"Oakland, CA 94618",Two U-locks,"Lock was cut, and left at the scene",2019.12.7,Reported
+3,612175,"Portland, OR 97227",Chain with padlock,"Lock is missing, along with the bike",2019.12.7,None
+4,665248,"Santa Monica, CA 90401",Other,None,2019.12.7,None
+5,101788,"Seattle, WA 98107",None,None,2019.12.7,Reported
+6,679453,"AFL bowling lanes, Massillon, OH 44646",None,None,2019.12.7,None
+0,678801,"Oakland, CA 94609",U-lock,"Lock was cut, and left at the scene",2019.12.7,Reported
+1,687152,"Jurupa Valley, CA 92509",Other,"Other situation, please describe below",2019.12.7,None
+2,678584,"Oakland, CA 94609",U-lock and cable,"Lock is missing, along with the bike",2019.12.7,None
+3,678581,"170 Locksunart way, Sunnyvale, CA 94087",None,None,2019.12.6,Reported
+4,678587,"New Orleans, LA 70113",None,"Lock is missing, along with the bike",2019.12.6,None
+5,678530,"Minneapolis, MN 55414",None,None,2019.12.6,None
+6,679079,"Salem, OR 97301",U-lock and cable,Bike was not locked,2019.12.6,None
+0,678765,"Seattle, WA 98103",None,None,2019.12.6,None
+1,94045,"San Francisco, CA 94110",U-lock,"Lock is missing, along with the bike",2019.12.6,None
+2,409754,"San Jose, CA 95110",U-lock,"Lock is missing, along with the bike",2019.12.6,Reported
+3,677234,"Boulder, CO 80303",U-lock,"Other situation, please describe below",2019.12.6,None
+4,681047,"New Orleans, LA 70112",None,None,2019.12.6,None
+5,678399,"17516 Ne 4th Circle, Vancouver, WA 98684",Cable lock,"Lock was cut, and left at the scene",2019.12.6,Reported
+6,679189,"Oakland, CA 94601",Not locked,"Other situation, please describe below",2019.12.6,None
+7,678582,"Oakland, CA 94609",U-lock and cable,"Lock is missing, along with the bike",2019.12.6,None
+0,678865,"San Jose, CA 95002",Not locked,Bike was not locked,2019.12.6,Reported
+1,678370,"Oakland, CA 94612",U-lock,"Lock was cut, and left at the scene",2019.12.5,Reported
+2,387492,"Bloomington, MN 55425",Cable lock,"Lock was cut, and left at the scene",2019.12.5,None
+3,678358,"Philadelphia, PA 19147",U-lock and cable,"Lock was cut, and left at the scene",2019.12.5,None
+4,678355,"1012 E Washington St, Phoenix, AZ 85034",U-lock and cable,"Lock is missing, along with the bike",2019.12.5,Reported
+5,678348,"Oxnard, CA 93036",None,None,2019.12.5,None
+6,678332,"Portland, OR 97211",Cable lock,"Lock is missing, along with the bike",2019.12.5,Reported
+7,679359,"New Orleans, LA 70112",None,None,2019.12.5,None
+0,678254,"Walgreens, Glendale, AZ 85302",None,None,2019.12.5,None
+1,678260,"Leesburg, VA 20175",Other,"Other situation, please describe below",2019.12.5,Reported
+2,678257,"Leesburg, VA 20175",Other,"Other situation, please describe below",2019.12.5,Reported
+3,678263,"Leesburg, VA 20175",Other,"Other situation, please describe below",2019.12.5,Reported
+4,678255,"Leesburg, VA 20175",Other,"Other situation, please describe below",2019.12.5,Reported
+5,678253,"Leesburg, VA 20175",Other,"Other situation, please describe below",2019.12.5,Reported
+6,678249,"Leesburg, VA 20175",Other,"Other situation, please describe below",2019.12.5,Reported
+7,678252,"Leesburg, VA 20175",Not locked,"Other situation, please describe below",2019.12.5,Reported

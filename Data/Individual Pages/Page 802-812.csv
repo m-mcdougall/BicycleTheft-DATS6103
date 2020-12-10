@@ -1,0 +1,73 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,791645,"Carlsbad, CA 92011",None,None,2020.7.17,Reported
+1,920350,"Bothell, WA 98012",Not locked,None,2020.7.17,Reported
+2,795486,"1333 Shore District Dr , Austin, TX 78741",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.7.17,None
+3,791593,"Louisville, KY 40217",None,None,2020.7.17,None
+4,792591,"Ann Arbor, MI 48104",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.17,Reported
+0,791599,"San Francisco, CA 94117",Chain with padlock,"Lock was cut, and left at the scene",2020.7.17,Reported
+1,827807,"23 Elm Street, Apt 101, Somerville, MA 02143",Cable lock,"Lock is missing, along with the bike",2020.7.17,None
+2,790961,"Cabrillo and 14th Ave , San Francisco, CA 94118",None,None,2020.7.17,Reported
+3,795432,"Boise, ID 83702",Other,None,2020.7.17,Reported
+4,791546,"6321 redwood road, Taylorsville, UT 84123",None,None,2020.7.17,None
+5,791767,"Lincoln, NH 03251",None,None,2020.7.17,None
+6,739318,"Portland, OR 97214",None,None,2020.7.17,None
+7,793578,"Santa Monica, CA 90272",Cable lock,"Lock is missing, along with the bike",2020.7.17,Reported
+8,791970,"Portland, OR 97206",None,None,2020.7.17,Reported
+0,791472,"804 10th Street, Bellingham, WA 98225",Cable lock,"Lock was cut, and left at the scene",2020.7.17,Reported
+1,791500,"Noblesville, IN 46060",None,None,2020.7.17,None
+2,795127,"1800 E. 4th St, Austin, TX 78702",None,"Lock is missing, along with the bike",2020.7.17,Reported
+3,791397,"San Antonio, TX 78220",None,None,2020.7.17,Reported
+4,793142,"Bellevue, WA 98006",None,None,2020.7.17,Reported
+5,831400,"Boulder, CO 80304",None,None,2020.7.17,Reported
+0,791330,"Cambridge, MA 02139",None,None,2020.7.17,None
+1,791314,"Seattle, WA 98108",None,None,2020.7.17,None
+2,791307,"Lake Forest, CA 92630",None,None,2020.7.17,Reported
+3,793283,"Chestnut and 20th King Soopers, Denver, CO 80202",Cable lock,"Lock was cut, and left at the scene",2020.7.17,Reported
+4,791264,"Oakland, CA 94608",None,None,2020.7.17,Reported
+5,790967,"Cabrillo and 14th Ave , San Francisco, CA 94118",None,None,2020.7.17,Reported
+6,787164,"Ventura, CA 93001",None,None,2020.7.17,None
+7,793133,"Bothell, WA 98011",None,None,2020.7.17,None
+8,791240,"Boulder, CO 80301",None,None,2020.7.17,Reported
+0,794419,"Farmingdale, NY 11735",Cable lock,"Lock is missing, along with the bike",2020.7.17,None
+1,792951,"Portland, OR",U-lock,"Lock is missing, along with the bike",2020.7.17,None
+2,776739,"Lynnwood, WA 98037",U-lock and cable,"Lock was opened, and left unharmed at the scene",2020.7.17,Reported
+3,832006,"Portland, OR 97218",Cable lock,"Lock was cut, and left at the scene",2020.7.17,Reported
+4,836535,"2601 Hyde Street, San Francisco, CA 94109",None,None,2020.7.17,None
+0,793614,"Santa Monica, CA 90405",None,None,2020.7.17,None
+1,834816,"Avery creek road, Pisgah Forest, NC",Cable lock,"Lock is missing, along with the bike",2020.7.17,None
+2,833023,"Metarie, LA 70005",None,None,2020.7.17,None
+3,396187,"Portland, OR 97220",Not locked,"Other situation, please describe below",2020.7.17,Reported
+4,791908,"2400 northview dr , Sacramento, CA 95833",U-lock,None,2020.7.17,None
+0,792710,"Missoula, MT 59802",None,None,2020.7.17,None
+1,791360,"1616 Spain Street, New Orleans, LA 70117",U-lock,"Lock is missing, along with the bike",2020.7.17,None
+2,766333,"Spokane, WA 99205",Other,"Other situation, please describe below",2020.7.17,Reported
+3,792242,"Los Angeles, CA 90048",U-lock,"Lock was cut, and left at the scene",2020.7.17,None
+4,791059,"2199 Turk Blvd , San Francisco, CA 94116",None,None,2020.7.17,Reported
+5,794537,"142 Falls Ave W, Twin Falls, ID 83301",Cable lock,"Lock was cut, and left at the scene",2020.7.17,Reported
+6,795784,"San Francisco, CA 94118",None,"Other situation, please describe below",2020.7.17,Reported
+7,829110,"463 Maria Ave, St. Paul, MN 55106",None,None,2020.7.17,Reported
+8,796621,"New Orleans, LA 70116",U-lock,"Lock is missing, along with the bike",2020.7.17,Reported
+0,790919,"Los Angeles, CA 90212",None,None,2020.7.16,None
+1,744454,"Civic center, San Francisco, CA",Not locked,None,2020.7.16,None
+2,791892,"2401 N Oakwood Ave, Muncie, IN 47304",Cable lock,"Lock was cut, and left at the scene",2020.7.16,Reported
+3,791497,"2412 Elmwood Ave, Kenmore, NY 14217",Not locked,Bike was not locked,2020.7.16,Reported
+4,840357,"Minneapolis, MN 55406",None,None,2020.7.16,Reported
+5,790914,"New Orleans, LA 70115",None,None,2020.7.16,None
+6,790923,"Cambridge, MA 02139",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.16,Reported
+7,791169,"375 W Erie Street, Chicago, IL 60654",U-lock,"Lock is missing, along with the bike",2020.7.16,Reported
+8,791259,"San Francisco, CA 94117",Cable lock,"Lock was cut, and left at the scene",2020.7.16,None
+0,790895,"Seattle, WA 98105",U-lock and cable,"Lock is missing, along with the bike",2020.7.16,Reported
+1,790868,"Zipps Liquor - Franklin and 27th Ave, Minneapolis, MN 55406",Not locked,None,2020.7.16,Reported
+2,791885,"Schiller Park, IL 60176",None,None,2020.7.16,Reported
+3,815693,"San Francisco, CA 94114",U-lock,Bike was not locked,2020.7.16,Reported
+4,790833,"New Orleans, LA 70115",None,None,2020.7.16,Reported
+5,796039,"Portland, OR 97215",U-lock and cable,"Lock was cut, and left at the scene",2020.7.16,Reported
+6,790783,"Lantana, FL 33462",None,None,2020.7.16,None
+7,790781,"Lantana, FL",None,None,2020.7.16,None
+0,789912,"720 Ralph McGill Blvd APT103, Atlanta, GA 30312",None,None,None,None
+1,828358,"Boise, ID 83704",Cable lock,"Lock was cut, and left at the scene",2020.7.16,Reported
+2,790722,"San Jose, CA 95126",None,None,2020.7.16,None
+3,791923,"900 N Stuart St, Arlington, VA 22203",Cable lock,"Lock is missing, along with the bike",2020.7.16,Reported
+4,844481,"94 west 18th street, New York, NY 10012",U-lock,None,2020.7.16,None
+5,790628,"Columbus, OH 43221",None,None,2020.7.16,None
+6,790598,"Chicago, IL 60647",Not locked,"Other situation, please describe below",2020.7.16,Reported

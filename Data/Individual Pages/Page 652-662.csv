@@ -1,0 +1,73 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,834734,"Denver, CO 80205",None,None,2020.8.9,None
+1,834736,"Santa, CA 95051-3079",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.8.9,Reported
+2,834757,"San Francisco, CA 94114",None,None,2020.8.9,Reported
+3,834818,"825 N 4th St, APT 317, Columbus, OH 43215",U-lock,"Lock is missing, along with the bike",2020.8.9,Reported
+4,834668,"4923 W Douglas Corrigan way, Salt Lake City, UT 84116",Cable lock,"Lock was cut, and left at the scene",2020.8.9,Reported
+5,834667,"2720 152nd AVE NE, Redmond, WA 98052",Cable lock,"Lock is missing, along with the bike",2020.8.9,None
+6,834632,"Ithaca, NY 14850",None,None,2020.8.9,None
+7,834765,"645 W 9Th St., Los Angeles, CA 90015",Cable lock,"Lock was cut, and left at the scene",2020.8.9,Reported
+0,834683,"Salt Lake City, UT 84116",Cable lock,"Lock was cut, and left at the scene",2020.8.9,Reported
+1,834741,"San Francisco, CA 94114",U-lock,"Lock is missing, along with the bike",2020.8.9,Reported
+2,847827,"814 Telluride Court, Piscataway, NJ 08854",Not locked,None,2020.8.9,Reported
+3,833188,"Bellingham, WA 98226",None,None,2020.8.9,None
+4,847808,"814 Telluride Court, Piscataway, NJ 08854",Not locked,None,2020.8.9,Reported
+5,835496,"River Rd & Hillside Dr, Milwaukie, OR 97267",Not locked,None,2020.8.9,Reported
+6,836025,"Seattle, WA 98115",U-lock,"Lock was cut, and left at the scene",2020.8.9,None
+0,836024,"Seattle, WA 98115",U-lock,"Lock was cut, and left at the scene",2020.8.9,None
+1,938331,"Aurora, CO",None,None,2020.8.9,Reported
+2,938329,"Aurora, CO",None,None,2020.8.9,Reported
+3,834565,"Deming, WA 98244",None,None,2020.8.9,None
+4,839724,"Oakland, CA 94611",Other,"Other situation, please describe below",2020.8.9,None
+5,834537,"1405 7TH ST, Berkeley, CA 94710",None,None,2020.8.9,None
+0,836674,"San Francisco, CA 94109",Not locked,Bike was not locked,2020.8.9,Reported
+1,836687,"San Francisco, CA 94109",Not locked,Bike was not locked,2020.8.9,Reported
+2,842303,"2761 crossroads blvd, Grand Junction, CO 81506",Not locked,Bike was not locked,2020.8.9,Reported
+3,835061,"San Vicente/Spaulding, Los Angeles, CA 90019",None,None,2020.8.9,Reported
+4,835584,"2613 N. Oakland Ave, Milwaukee, WI 53211",Cable lock,"Lock was cut, and left at the scene",2020.8.9,Reported
+5,839836,"Minneapolis, MN 55415",Other,"Other situation, please describe below",2020.8.9,Reported
+6,845128,"1401 E Howell St, Seattle, WA 98122",None,None,2020.8.9,None
+7,846441,"Seattle, WA 98119",None,None,2020.8.9,Reported
+8,834784,"New Orleans, LA 70119",None,None,2020.8.8,None
+0,835274,"675 N Highland Ave, Atlanta, GA 30306",U-lock and cable,"Lock was cut, and left at the scene",2020.8.8,None
+1,407332,"Mountain View, CA 94040",Not locked,None,2020.8.8,None
+2,784337,"151st stark street, Portland, OR 97233",Other,"Other situation, please describe below",2020.8.8,None
+3,835121,"Harrison, NJ 07029",Cable lock,"Lock was cut, and left at the scene",2020.8.8,Reported
+4,837968,"2355 E Old Penitentiary Rd, Boise, ID 83712",Not locked,Bike was not locked,2020.8.8,Reported
+0,840800,"2525 Kemper Road, Shaker Heights, OH 44120",Chain with padlock,None,2020.8.8,Reported
+1,836150,"New York City, NY 10016",Cable lock,"Lock is missing, along with the bike",2020.8.8,Reported
+2,835252,"East, MI 48823",U-lock,Bike was not locked,2020.8.8,Reported
+0,834285,"Commercial Point, OH 43116",None,None,2020.8.8,None
+1,834506,"Berkeley, CA 94710",None,None,2020.8.8,Reported
+2,84704,"Portland, OR 97214",U-lock,"Lock is missing, along with the bike",2020.8.8,Reported
+3,834255,"Beach, Santa Monica, CA",None,None,2020.8.8,None
+4,834240,"Seattle, WA 98109",None,None,2020.8.8,None
+5,834220,"Seattle, WA 98115",U-lock,"Other situation, please describe below",2020.8.8,None
+6,834221,"Seattle, WA 98115",U-lock,"Other situation, please describe below",2020.8.8,None
+7,833814,"305 N Hayden Bay Drive, Portland, OR 97217",Not locked,None,2020.8.8,Reported
+8,833407,"Salt Lake City, UT 84106",None,None,2020.8.8,Reported
+9,834169,"George Washington Memorial Pkwy., Rosslyn, VA 22209",None,None,2020.8.8,None
+0,844068,"1704 N Milwaukee Ave, Chicago, IL 60647",Cable lock,None,2020.8.8,Reported
+1,835590,"Milwaukee, WI 53208",Not locked,Bike was not locked,2020.8.8,Reported
+2,834114,"525 S Glassell Street, Orange, CA 92866",U-lock,"Lock is missing, along with the bike",2020.8.8,Reported
+3,836167,"Chicago, IL 60614",Other,"Lock is missing, along with the bike",2020.8.8,Reported
+4,838033,"Boise, ID 83706",Not locked,Bike was not locked,2020.8.8,Reported
+5,833963,"Portland, OR 97216",Cable lock,"Lock is missing, along with the bike",2020.8.8,Reported
+0,834473,"Arlington, VA 22207",U-lock,Bike was not locked,2020.8.8,None
+1,833936,"New Orleans, LA 70115",None,None,2020.8.8,None
+2,835304,"Salt Lake City, UT 84105",None,None,2020.8.8,Reported
+3,839306,"1000 W Bond Street, Lincoln, NE 68521",Chain with padlock,"Lock was cut, and left at the scene",2020.8.8,Reported
+4,839550,"Manhattan, KS 66502",Cable lock,"Lock is missing, along with the bike",2020.8.8,None
+5,835272,"Davis, CA 95616",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.8,Reported
+6,833857,"Sacramento, CA 95820",Not locked,Bike was not locked,2020.8.8,Reported
+7,834572,"Durango, CO 81301",Other,"Lock was cut, and left at the scene",2020.8.8,Reported
+0,835371,"Valparaiso, IN 46383",None,None,2020.8.8,Reported
+1,835585,"San Francisco, CA 94114",None,None,2020.8.8,Reported
+2,835589,"San Francisco, CA 94114",None,None,2020.8.8,Reported
+3,835601,"San Francisco, CA 94114",None,None,2020.8.8,Reported
+4,835592,"San Francisco, CA 94114",None,None,2020.8.8,Reported
+5,834049,"7340 56th Avenue NE, Seattle, WA 98115",None,None,2020.8.8,None
+6,834296,"Oakland, CA 94606",U-lock,"Lock was cut, and left at the scene",2020.8.8,Reported
+7,833881,"703 Hannah Court, Fenton, MO 63026",Not locked,Bike was not locked,2020.8.8,Reported
+8,836501,"Seattle, WA 98105",Cable lock,"Lock is missing, along with the bike",2020.8.8,Reported
+9,836505,"Seattle, WA 98105",Cable lock,"Lock is missing, along with the bike",2020.8.8,Reported

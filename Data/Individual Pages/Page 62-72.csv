@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,949533,"Tucson, AZ 85719",None,None,2020.11.14,Reported
+1,949918,"Seattle, WA 98116",None,None,2020.11.14,None
+2,948848,"Huntington Woods, MI 48070",Other,"Other situation, please describe below",2020.11.13,Reported
+3,948337,"1701 NE Columbia Rd University of Washington, Seattle, WA 98195",None,"Lock was cut, and left at the scene",2020.11.13,Reported
+4,948314,"Cedar Park, TX 78613",None,None,2020.11.13,None
+5,949948,"7912 S Dixie Hwy, West Palm Beach, FL 33405",Not locked,None,2020.11.13,Reported
+6,948631,"3050 south Shoshone , Boise, ID 83705",Not locked,Bike was not locked,2020.11.13,None
+0,948320,"Portland, OR 97201",None,None,2020.11.13,None
+1,948295,"6409 Higham, Alexandria, VA 22310",None,None,2020.11.13,None
+2,947637,"735 S Figueroa St., Los Angeles, CA 90017",Cable lock,"Lock is missing, along with the bike",2020.11.13,None
+3,948714,"10550 park Blvd n, Seminole, FL 33772",Cable lock,"Lock was cut, and left at the scene",2020.11.13,Reported
+4,948325,"New Orleans, LA 70117",None,None,2020.11.13,None
+5,948223,"San Diego, CA 92130",Other,"Lock was opened, and left unharmed at the scene",2020.11.13,None
+6,948200,"Saint, MN 55104",None,None,2020.11.13,None
+0,661946,"San Francisco, CA 94117",None,None,2020.11.13,Reported
+1,661489,"San Francisco, CA 94117",None,None,2020.11.13,Reported
+2,948162,"Cheney, WA 99004",U-lock and cable,"Lock is missing, along with the bike",2020.11.13,Reported
+3,948145,"San Francisco, CA 94107",None,None,2020.11.13,Reported
+4,948187,"Portland, OR 97201",None,None,2020.11.13,None
+5,948180,"Portland, OR 97201",None,None,2020.11.13,None
+6,948189,"Portland, OR 97201",None,None,2020.11.13,None
+0,948693,"Seattle, WA 98118",None,None,2020.11.13,None
+1,948226,"San Francisco, CA 94117",Other,"Other situation, please describe below",2020.11.13,Reported
+2,948210,"Los Angeles, CA 90019",None,None,2020.11.13,Reported
+3,949666,"Corner of S. Douglas Rd and Franklin Ave., Coconut Grove, FL 33133",Other,"Other situation, please describe below",2020.11.12,Reported
+4,836950,"3700 Casa Verde, San Jose, CA 95134",Other,"Other situation, please describe below",2020.11.12,Reported
+5,948039,"Chicago, IL 60602",U-lock,"Lock was cut, and left at the scene",2020.11.12,Reported
+0,843066,"Tempe, AZ 85202",None,None,2020.11.12,None
+1,947993,"230 Bay Place, Oakland, CA 94612",None,None,2020.11.12,None
+2,950685,"New Brighton, MN 55112",None,None,2020.11.12,Reported
+3,950683,"New Brighton, MN 55112",None,None,2020.11.12,Reported
+4,947981,"13705 Feather Sound Circle East, Clearwater, FL 33762",Cable lock,"Lock was cut, and left at the scene",2020.11.12,Reported
+5,947934,"San Jose, CA 95134",Cable lock,"Lock was cut, and left at the scene",2020.11.12,Reported
+6,947924,"1123 N Hayden Meadows DR, Portland, OR 97217",None,None,2020.11.12,None
+7,949448,"Tulsa, OK 74119",Not locked,None,2020.11.12,Reported
+8,948336,"1500 SW Chandler Ave, Bend, OR 97702",Cable lock,"Lock was cut, and left at the scene",2020.11.12,Reported
+0,947938,"Stanford, CA 94305",Not locked,Bike was not locked,2020.11.12,Reported
+1,954355,"Seattle, WA 98107",Cable lock,"Lock was cut, and left at the scene",2020.11.12,None
+2,948732,"5511 22nd Ave NW, Seattle, WA 98107",U-lock,"Lock was cut, and left at the scene",2020.11.12,Reported
+3,643741," 3576 Laurel Ave, Oakland, CA 94602",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.11.12,Reported
+4,947667,"Playa Del Rey, CA 90293",None,None,2020.11.12,None
+0,948097,"Coronado, CA 92118",Other,Bike was not locked,2020.11.12,Reported
+1,671204,"605 15th Ave E, Seattle, WA 98112",U-lock and cable,"Lock is missing, along with the bike",2020.11.12,Reported
+2,948238,"Pleasant Hill, CA 94523",Other,Bike was not locked,2020.11.12,Reported
+3,947956,"Sacramento, CA 95825",Cable lock,"Lock is missing, along with the bike",2020.11.12,Reported
+4,947995,"3001 Cedar Street, Austin, TX 78705",U-lock and cable,"Lock is missing, along with the bike",2020.11.12,Reported
+0,947723,"Davis, CA 95616",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.12,Reported
+1,947678,"Sausalito, CA 94965",Not locked,None,2020.11.11,None
+2,947656,"Austin, TX 78744",Two U-locks,"Other situation, please describe below",2020.11.11,Reported
+3,947644,"Spruce & 5th Ave., San Diego, CA 92103",U-lock,Bike was not locked,2020.11.11,Reported
+4,947635,"Seattle, WA 98103",U-lock,"Lock is missing, along with the bike",2020.11.11,Reported
+5,950300,"306 Oak Grove St, Minneapolis, MN 55403",U-lock,"Lock is missing, along with the bike",2020.11.11,Reported
+6,947579?locale=,"Phildelphia, PA 19107",None,None,2020.11.11,None
+7,845669?locale=,"Government Camp, OR 97028",Chain with padlock,"Lock was cut, and left at the scene",2020.11.11,Reported
+0,947705,"Baltimore, MD 21218",None,None,2020.11.11,None
+1,948203,"Baltimore, MD 21218",None,None,2020.11.11,None
+2,947566,"Chicago, IL 60642",U-lock and cable,"Lock is missing, along with the bike",2020.11.11,Reported
+3,947540,"666 W Olympic Pl Apt 402, Seattle, WA 98119",None,None,2020.11.11,None
+4,947529,"Westminster, CO 80234",Other,"Other situation, please describe below",2020.11.11,Reported
+5,941802,"502 s evens, Denver, CO 80121",None,None,2020.11.11,None
+6,945464,"900 iliff, Denver, CO 80121",Two U-locks,None,2020.11.11,None
+7,947502,"1231 NE Broadway, Portland, OR 97232",Chain with padlock,"Lock is missing, along with the bike",2020.11.11,Reported
+8,947474,"Library Bar, Bourbonnais, IL 60914",None,None,2020.11.11,None
+9,947459,"West Newton, MA 02465",None,None,2020.11.11,None
+0,947448,"3320 Fuhrman Ave E, Seattle, WA 98102",Cable lock,"Lock was cut, and left at the scene",2020.11.11,Reported
+1,947464,"Seattle, WA 98119",Cable lock,"Lock was cut, and left at the scene",2020.11.11,Reported
+2,947454,"Sacramento, CA 95820",Not locked,Bike was not locked,2020.11.11,Reported
+3,947452,"Sacramento, CA 95820",Not locked,Bike was not locked,2020.11.11,Reported
+4,947427,"15436 Lakeshore Boulevard, Apt 3, Cleveland, OH 44110",None,None,2020.11.11,None
+5,947437,"Seattle, WA 98133",None,None,2020.11.11,None
+6,947467,"Washington, DC 20009",None,None,2020.11.11,Reported
+7,955050,"Palm Beach Shores, FL 33404",Not locked,None,2020.11.11,Reported
+8,948150,"Melbourne, FL 32935",Not locked,None,2020.11.11,Reported

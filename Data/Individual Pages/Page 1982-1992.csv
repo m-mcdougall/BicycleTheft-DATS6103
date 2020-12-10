@@ -1,0 +1,78 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,636765,"Oakland, CA 94609",None,None,2019.7.28,Reported
+1,636055,"Sacramento, CA 95818",Cable lock,"Lock was cut, and left at the scene",2019.7.28,Reported
+2,636212,"Indianapolis, IN 46020",Cable lock,None,2019.7.28,None
+3,648369,"San Francisco, CA 94131",U-lock,"Other situation, please describe below",2019.7.28,Reported
+4,635920,"Seattle, WA 98101",None,None,None,None
+5,595338,"San Francisco, CA 94117",U-lock,"Lock is missing, along with the bike",2019.7.28,Reported
+6,635914,"Baltimore, MD 21210",None,None,2019.7.28,None
+0,639735,"New Orleans, LA 70116",None,None,2019.7.28,None
+1,636593,"Pittsburg, CA 94565",None,None,2019.7.27,Reported
+2,635782,"Portland, OR 97205",None,None,2019.7.27,Reported
+3,630136,"Seattle, WA 98117",U-lock,"Lock was opened, and left unharmed at the scene",2019.7.27,None
+4,635747,"Clarksville, TN 37040",None,None,2019.7.27,None
+5,635729,"San Francisco, CA 94110",None,None,2019.7.27,None
+6,635766,"15th and Platte, Denver, CO 80202",Cable lock,"Lock was cut, and left at the scene",2019.7.27,Reported
+7,636172,"Lincoln, NE 68508",Cable lock,"Lock is missing, along with the bike",2019.7.27,Reported
+8,635883,"Shaker Hts, OH 44120",None,None,2019.7.27,Reported
+0,636221,"Redmond, WA 98052",Cable lock,"Lock was cut, and left at the scene",2019.7.27,Reported
+1,669169,"Seattle, WA 98108",Cable lock,"Lock was cut, and left at the scene",2019.7.27,None
+2,635886,"Cleveland, OH 44113",None,None,2019.7.27,Reported
+3,635587,"747 Broadway St, Seattle, WA 98104",None,None,2019.7.27,None
+4,635561,"2841 Bryant Ave. S., Minneapolis, MN 55408",None,None,2019.7.27,None
+5,636635,"5001 McKinney ranch pkwy, Mc Kinney, TX 75070",None,None,2019.7.27,None
+6,636147,"New Haven, CT 06511",U-lock,"Other situation, please describe below",2019.7.27,Reported
+7,635752,"Cleveland, OH 44109",None,None,2019.7.27,Reported
+8,636421,"Portland, OR 97204",U-lock,Bike was not locked,2019.7.27,Reported
+9,635524,"315 PLAYA DEL SUR, San Diego, CA 92037",Cable lock,"Lock is missing, along with the bike",2019.7.27,None
+0,635759,"Golden, CO 80401",Cable lock,"Lock was cut, and left at the scene",2019.7.27,Reported
+1,635750,"1255 Harrison St, Seattle, WA 98109",U-lock,None,2019.7.27,None
+2,635509,"Portland, OR 97203",None,None,2019.7.27,Reported
+3,638341,"Milwaukee, WI 53212",None,None,2019.7.27,Reported
+4,636654,"Minneapolis, MN 55407",None,None,2019.7.27,Reported
+5,635449,"North Little Rock, AR 72114",None,None,2019.7.27,None
+6,635420,"13 Helen st, Buffalo, NY 14213",None,None,2019.7.27,None
+0,642494,"New Orleans, LA 70118",None,None,2019.7.27,None
+1,635383,"Saint Paul, MN 55102",None,None,2019.7.26,Reported
+2,635370,"Portland, OR 97202",None,"Lock was cut, and left at the scene",2019.7.26,Reported
+3,638299,"3600 Juliette Lane, Santa Clara, CA 95054",Cable lock,"Lock is missing, along with the bike",2019.7.26,Reported
+4,635719,"San Diego, CO 92109",Other,None,2019.7.26,None
+5,635337,"Saint Paul, MN 55102",U-lock and cable,"Lock was cut, and left at the scene",2019.7.26,Reported
+0,635326,"Idyllwild , Sunnyvale, CA 94085",None,None,2019.7.26,None
+1,635295,"1111 Ardsley road, Schenectady, NY 12309",None,None,2019.7.26,None
+2,636626,"Denver, CO 80207",U-lock,"Other situation, please describe below",2019.7.26,Reported
+3,587165,"Chicago, IL 60660",U-lock,"Lock is missing, along with the bike",2019.7.26,Reported
+4,636586,"Washington, DC 20037",Cable lock,"Lock is missing, along with the bike",2019.7.26,Reported
+5,638067,"Los Angeles, CA",None,None,2019.7.26,None
+6,635302,"East Elmhurst, NY 11369",Chain with padlock,"Lock is missing, along with the bike",2019.7.26,None
+0,635206,"Austin, TX 78704",Cable lock,"Lock is missing, along with the bike",2019.7.26,Reported
+1,643346,"101 New Montgomery St, San Francisco, CA 94105",Cable lock,"Lock was cut, and left at the scene",2019.7.26,None
+2,637027,"Portland, OR 97214",Not locked,Bike was not locked,2019.7.26,Reported
+3,635178,"Starvation Creek State Park, Cascade Locks, OR 97014",None,None,2019.7.26,None
+4,392872,"Los Angeles, CA 90024",U-lock,"Lock was opened, and left unharmed at the scene",2019.7.26,None
+5,635170,"Minneapolis, MN 55408",None,None,2019.7.26,None
+6,604373,"Portland, OR",None,None,2019.7.26,Reported
+7,640013,"Seattle, WA 98101",None,"Other situation, please describe below",2019.7.26,Reported
+0,635134,"Portland, OR 97217-4835",Other,"Other situation, please describe below",2019.7.26,Reported
+1,635403,"Luna Apartments, 6921 Roosevelt Way Ne, 98115, WA Seattle",None,None,2019.7.26,Reported
+2,635816,"Kenmore, WA 98028",Not locked,Bike was not locked,2019.7.26,Reported
+3,517719,"Portland, OR 97214",Other,"Other situation, please describe below",2019.7.26,None
+4,635104,"Denver, CO 80211",None,None,2019.7.25,None
+5,610659,"State College, PA 16803",None,None,2019.7.25,Reported
+0,635260,"Glendive, MT 59330",None,None,2019.7.25,None
+1,617448,"Venice, CA 90291",Chain with padlock,"Lock was opened, and left unharmed at the scene",2019.7.25,Reported
+2,633631,"Hayward, CA 94541",None,None,2019.7.25,Reported
+3,635115,"462 POWELL ST. AT O'FARRELL, San Francisco, CA 94102",U-lock,"Lock was cut, and left at the scene",2019.7.25,Reported
+4,635064,"Marina Del Rey, CA 90292",None,None,2019.7.25,None
+5,635042,"122nd and foster, Portland, OR 97202",None,None,2019.7.25,None
+6,662782,"San Francisco, CA 94114",Not locked,"Other situation, please describe below",2019.7.25,Reported
+7,635018,"Washington,Dc, DC 20009",None,None,2019.7.25,None
+8,634981,"Seattle, WA 98134",Cable lock,"Lock was cut, and left at the scene",2019.7.25,Reported
+0,635251,"Seattle, WA 98109",U-lock,"Lock is missing, along with the bike",2019.7.25,Reported
+1,635189,"Cascade Locks, OR",None,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.7.25,Reported
+2,634906,"Johnson City, TN 37614",None,None,2019.7.25,None
+3,635272,"Racine, WI 53404",None,None,2019.7.25,Reported
+4,634755,"10800 Torre Avenue , Cupertino, CA 95014",None,None,2019.7.25,None
+5,634848,"Bellingham, WA 98226",None,None,2019.7.25,None
+6,634864,"1141 Whipple Avenue, Redwood City, CA 94062",Cable lock,"Lock was cut, and left at the scene",2019.7.25,Reported
+7,634812,"Baltimore, MD 21218",None,None,2019.7.25,None

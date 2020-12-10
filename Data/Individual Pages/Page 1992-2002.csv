@@ -1,0 +1,81 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,634811,"Baltimore, MD 21218",None,None,2019.7.25,None
+1,688129,"CA, Crescent City, CA 95531",Cable lock,"Lock was cut, and left at the scene",2019.7.25,Reported
+2,635444,"Tucson, AZ 85701",Cable lock,"Lock was cut, and left at the scene",2019.7.25,None
+3,634870,"1405 N Wells St, Chicago, IL 60610",U-lock,"Lock is missing, along with the bike",2019.7.25,Reported
+4,635063,"Portland, OR 97219",None,None,2019.7.25,Reported
+5,634885,"Salt Lake City, UT 84111",None,None,2019.7.25,Reported
+6,634801,"114 E 37th, New York, NY 10016",None,None,2019.7.25,None
+7,634939,"Boise, ID 83702",None,None,2019.7.25,Reported
+0,635258,"Seattle, WA 98102",Not locked,Bike was not locked,2019.7.25,Reported
+1,636203,"New Haven, CT 06515",None,None,2019.7.25,None
+2,634782,"Seattle, WA 98109",Not locked,Bike was not locked,2019.7.25,None
+3,635945,"Canyonville, OR 97417",None,None,2019.7.25,Reported
+4,635942,"Canyonville, OR 97417",None,None,2019.7.25,Reported
+5,634796,"San Francisco, CA 94107",U-lock,"Lock is missing, along with the bike",2019.7.25,Reported
+6,635904,"714 Taylor ave , Seattle, WA 98109",None,None,2019.7.24,Reported
+7,634946,"10th and Ogden St, Denver, CO 80218",None,None,2019.7.24,Reported
+0,643041,"116 East 37th Street, New York, NY 10016",None,None,2019.7.24,None
+1,634721,"WeWork, 312 Arizona, Santa Monica, CA 90404",Cable lock,"Lock was cut, and left at the scene",2019.7.24,Reported
+2,636204,"The Dana on Mission Bay hotel 1710 W Mission Bay Dr, San Diego, CA 92109",Cable lock,"Lock was cut, and left at the scene",2019.7.24,Reported
+3,634698,"San Francisco, CA 94122",None,None,2019.7.24,None
+4,634719,"Eugene, OR 97401",U-lock and cable,"Lock was cut, and left at the scene",2019.7.24,Reported
+5,634688,"291 E,Berrien, Galesburg, IL 61401",None,None,2019.7.24,None
+0,634932,"New Orleans, LA 70118",None,None,2019.7.24,None
+1,634666,"Creative arts team 101 W 31st. street, New York, NY 10001",None,None,2019.7.24,None
+2,635033,"Bethesda, MD 20815",Cable lock,"Lock is missing, along with the bike",2019.7.24,Reported
+3,634984,"Bethesda, MD",Cable lock,"Lock is missing, along with the bike",2019.7.24,Reported
+4,634792,"Washington, DC 20004",Cable lock,"Lock is missing, along with the bike",2019.7.24,Reported
+5,634646,"Silver Lake, CA 90029",U-lock and cable,"Lock was cut, and left at the scene",2019.7.24,None
+6,634962,"San Jose, CA 95125",Other,"Other situation, please describe below",2019.7.24,Reported
+7,640107,"Rancho Cucmonga, CA",Two U-locks,"Lock was cut, and left at the scene",2019.7.24,None
+0,636228,"Indianapolis, IN 46203",Not locked,None,2019.7.24,Reported
+1,796748,"Portland, OR 97206",None,None,2019.7.24,Reported
+2,626959,"Milwaukee, WI 53204",None,None,2019.7.24,None
+3,635605,"Englewood, CO 80112-3686",Cable lock,"Lock was cut, and left at the scene",2019.7.24,Reported
+4,634562,"Texas, TX 78751",U-lock,None,2019.7.24,Reported
+5,634563,"University Pk, PA 16802",None,None,2019.7.24,None
+0,634553,"6th Ave and Spring Street, New York City, NY 10013",U-lock,"Lock was cut, and left at the scene",2019.7.24,Reported
+1,672916,"Williamsburg, VA 23188",None,None,2019.7.24,Reported
+2,672915,"Williamsburg, VA 23188",None,None,2019.7.24,Reported
+3,596781,"Seattle, WA 98103",Other,"Other situation, please describe below",2019.7.24,None
+4,634463,"Portland, OR 97219",Not locked,None,2019.7.24,Reported
+5,637131,"Minneapolis, MN",None,None,2019.7.24,Reported
+6,634597,"2300 14th st NW, Washington, DC 20009",U-lock,"Lock is missing, along with the bike",2019.7.24,Reported
+7,634608,"Tacoma, WA 98405",Other,"Other situation, please describe below",2019.7.24,None
+8,635333,"Seattle, WA",Other,"Other situation, please describe below",2019.7.24,None
+0,635205,"Santa Monica, CA 90403",U-lock and cable,"Lock is missing, along with the bike",2019.7.24,None
+1,637488,"Santa Monica, CA 90404",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.7.24,Reported
+2,505179,"Portland, OR 97215",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.7.24,Reported
+3,634889,"Portland, OR 97214",Not locked,None,2019.7.24,Reported
+4,637283,"W. Salem Avenue and S. Button Street , Indianola, IA 50125",None,None,2019.7.23,Reported
+5,634793,"Seattle, WA 98104",U-lock,"Lock is missing, along with the bike",2019.7.23,Reported
+6,634459,"1020 east 45th street , Austin, TX 78751",None,None,2019.7.23,None
+7,634482,"44009 Osgood Rd, Fremont, CA 94538",None,Bike was not locked,2019.7.23,Reported
+8,634453,"Redwood City, CA 94065",Not locked,None,2019.7.23,Reported
+9,634432,"655 5th street, San Francisco, CA 94107",U-lock,"Other situation, please describe below",2019.7.23,Reported
+0,634584,"San Jose, CA 95112",Not locked,Bike was not locked,2019.7.23,Reported
+1,634398,"Portland, OR 97214",None,None,2019.7.23,None
+2,634390,"San Francisco, CA 94103",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.7.23,Reported
+3,634376,"Eugene, OR 97402",None,None,2019.7.23,None
+4,635473,"1100 Helen Drive, Unit 203, Newark, DE 19702",Cable lock,"Lock was cut, and left at the scene",2019.7.23,Reported
+5,634363,"128 22nd ave, Seattle, WA 98122",None,None,2019.7.23,None
+6,634303,"Aurora, CO 80010",Cable lock,"Lock was cut, and left at the scene",2019.7.23,None
+7,634433,"1249 Lafond Avenue, St Paul, MN 55104",None,None,2019.7.23,Reported
+0,634323,"Brooklyn, NY 11238",None,None,2019.7.23,None
+1,634346,"Davis, CA 95616",U-lock,"Lock is missing, along with the bike",2019.7.23,Reported
+2,634344,"Seattle, WA 98101",Cable lock,"Lock is missing, along with the bike",2019.7.23,Reported
+3,634302,"The Brodie - 2346 Park Center Drive, Westminster, CO 80234",None,None,2019.7.23,None
+4,634466,"20745 N Scottsdale Rd, Scottsdale, AZ 85255",Cable lock,"Lock was cut, and left at the scene",2019.7.23,Reported
+5,634293,"900 Franklin St., San Francisco, CA 94107",Other,"Other situation, please describe below",2019.7.23,Reported
+6,634805,"San Francisco, CA",Chain with padlock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.7.23,Reported
+7,634472,"Milwaukee, WI 53212",None,None,2019.7.23,Reported
+8,634172,"San Francisco, CA 94109",None,None,2019.7.23,None
+9,632961,"San Francisco, CA 94122",None,None,2019.7.23,Reported
+0,119517,"Seattle, WA 98105",None,"Lock was cut, and left at the scene",2019.7.23,Reported
+1,634206,"Portland, OR 97202",None,None,2019.7.23,None
+2,634510,"Monticello, MN 55362",None,"Other situation, please describe below",2019.7.23,Reported
+3,634280,"Winter Park, CO 80482",Cable lock,"Lock was cut, and left at the scene",2019.7.23,Reported
+4,634938,"430 Buckingham Rd, Richardson, TX 75081",Cable lock,"Lock is missing, along with the bike",2019.7.23,Reported
+5,635716,"Seattle, WA 98102",Not locked,None,2019.7.23,Reported
+6,634426,"Berkeley, CA 94704",U-lock,"Lock was cut, and left at the scene",2019.7.23,Reported

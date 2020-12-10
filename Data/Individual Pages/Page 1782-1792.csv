@@ -1,0 +1,73 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,657516,"Provo, UT 84604",U-lock,None,2019.9.16,Reported
+1,658633,"Seattle, WA 98029",U-lock,"Lock was cut, and left at the scene",2019.9.16,None
+2,657501,"New York, NY 10035",None,None,2019.9.16,None
+3,665546,"Ypsilanti, MI 48197",Cable lock,"Lock was cut, and left at the scene",2019.9.16,Reported
+4,657827,"New Orleans, LA 70119",None,None,2019.9.16,None
+5,657484,"7028 9th Ave NW, Seattle, WA 98117",None,None,2019.9.16,None
+6,657444,"Oakridge, OR 97463",Other,"Other situation, please describe below",2019.9.16,Reported
+0,658053,"Minneapolis, MN 55402",Cable lock,"Lock was cut, and left at the scene",2019.9.16,Reported
+1,657399,"322 e illinois st, Chicago, IL 60611",Cable lock,"Lock is missing, along with the bike",2019.9.16,None
+2,657397,"Phx, AZ 85027",None,None,2019.9.16,None
+3,680989,"3928 N. Williams Avenue, Portland, OR 97227",Not locked,Bike was not locked,2019.9.16,Reported
+4,657360,"6040 us-41, Marquette, MI 49855",None,None,2019.9.16,None
+5,657605,"St Louis, MO 63112 ",Cable lock,"Lock was cut, and left at the scene",2019.9.16,Reported
+6,644123,"Seattle, WA 98108",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.9.16,None
+7,657756,"Minneapolis, MN 55455",Cable lock,"Lock is missing, along with the bike",2019.9.16,Reported
+0,657730,"San Francisco, CA 94123",None,None,2019.9.16,None
+1,657334,"Minneapolis, MN 55405",U-lock,"Other situation, please describe below",2019.9.16,Reported
+2,657330,"Boulder, CO 80310",U-lock,"Lock is missing, along with the bike",2019.9.16,Reported
+3,659724,"Long Beach, CA 90807",None,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.9.16,Reported
+4,657363,"Chicago, IL 60622",None,None,2019.9.16,Reported
+5,661960,"Portland, OR 97232",None,None,2019.9.16,Reported
+6,658540,"1816 New Hampshire Ave NW, Washington, DC 20009",Cable lock,"Lock is missing, along with the bike",2019.9.16,Reported
+0,657901,"1115 Eppley Recreation Center, College Park, MD 20742",U-lock and cable,"Lock is missing, along with the bike",2019.9.16,Reported
+1,657291,"Bakersfield, CA 93306",None,None,2019.9.16,Reported
+2,657290,"Oak flat lookout, Bakersfield, CA 93306",None,None,2019.9.16,Reported
+3,657281,"719 N Court St, Rockford, IL 61103",Not locked,Bike was not locked,2019.9.15,Reported
+4,657273,"Baton Rouge, LA 70808",None,None,2019.9.15,None
+5,657269,"Buffalo, NY 14222",U-lock,"Lock is missing, along with the bike",2019.9.15,Reported
+6,657265,"Seattle, WA 98122",Other,"Other situation, please describe below",2019.9.15,Reported
+7,657261,"8150 Baltimore Ave, College Park, MD 20740",Cable lock,"Lock was cut, and left at the scene",2019.9.15,None
+0,657279,"1115 Sturgus Ave S, Seattle, WA 98144",None,None,2019.9.15,None
+1,96072,"Washington, DC 20009",U-lock,"Lock is missing, along with the bike",2019.9.15,None
+2,54060,"Seattle, WA 98134",Other,"Lock was cut, and left at the scene",2019.9.15,None
+3,657244,"Bloomfield Township, MI 48301",None,None,2019.9.15,Reported
+4,661630,"The Woodlands, TX 77380",Other,"Other situation, please describe below",2019.9.15,None
+5,661628,"The Woodlands, TX 77380",Other,"Other situation, please describe below",2019.9.15,None
+6,657204,"Chained to a bike rack on the northeast corner of 5th and Main in Longmont, CO on the south side of Winchell's Donuts., Longmont, CO 80501",Cable lock,"Other situation, please describe below",2019.9.15,Reported
+7,657233,"1061 Bird Avenue, San Jose, CA 95125",Not locked,Bike was not locked,2019.9.15,Reported
+0,657171,"Englewood, CO 80110",Not locked,"Other situation, please describe below",2019.9.15,None
+1,657169,"4605 southeast 36th, Portland, OR 97202",Cable lock,None,2019.9.15,Reported
+2,657140,"Los Angeles, CA 90025",None,None,2019.9.15,None
+3,663552,"New Orleans, LA 70116",None,None,2019.9.15,Reported
+4,657537,"Long Beach, CA 90802",Cable lock,"Lock was cut, and left at the scene",2019.9.15,None
+5,657051,"Washington, DC 20001",None,None,2019.9.15,None
+6,657296,"Milwaukee, WI 53219",None,None,2019.9.15,Reported
+0,638714,"Miami Beach, FL 33139",Cable lock,"Lock is missing, along with the bike",2019.9.15,Reported
+1,657005,"1244 S Reisner st, Indianapolis, IN 46221",None,None,2019.9.15,None
+2,745355,"2150 Cypress Creek Rd., Cedar Park, TX 78613",None,Bike was not locked,2019.9.15,None
+3,656990,"Cambridge, MA 02139",None,None,2019.9.15,None
+4,657019,"Houston, TX 77025",None,None,2019.9.15,None
+5,657333,"Madison, WI 53703",Cable lock,"Lock was cut, and left at the scene",2019.9.15,Reported
+6,657114,"San Jose, CA 95134",U-lock,Bike was not locked,2019.9.15,Reported
+7,657256,"115 W Main Plaza, San Antonio, TX 78205",Cable lock,"Lock is missing, along with the bike",2019.9.15,Reported
+0,388216,"Washington, DC 20002",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.9.15,Reported
+1,662870,"New Orleans, LA 70121",None,None,2019.9.15,None
+2,658770,"Portland, OR 97206",None,None,2019.9.15,None
+3,657298,"1499 Post Alley, Seattle, WA 98101",None,None,2019.9.15,None
+4,635609,"Seattle, WA 98107",Two U-locks,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.9.15,Reported
+0,657739,"Pittsburgh, PA 15208",None,None,2019.9.14,Reported
+1,656827,"303 NE 16th Ave , Portland, OR 97232",None,None,2019.9.14,None
+2,656901,"San Francisco, CA 94103",U-lock,"Lock was cut, and left at the scene",2019.9.14,Reported
+3,656891,"Portland, OR 97212",Cable lock,"Lock is missing, along with the bike",2019.9.14,None
+4,658057,"Eugene, OR 97401",None,None,2019.9.14,Reported
+5,656807,"3677 Stevens Creek Blvd, Santa Clara, CA 95051",None,None,2019.9.14,None
+6,657009,"Bolingbrook, IL 60440",None,None,2019.9.14,Reported
+0,656682,"Portland, OR 97212",Not locked,"Other situation, please describe below",2019.9.14,None
+1,656686,"Tucson, AZ 85704",None,None,2019.9.14,Reported
+2,656557,"1611 East Avenue, Mc Lean, VA 22101",None,None,2019.9.14,Reported
+3,656593,"1616 J Street, Sacramento, CA 95814",None,None,2019.9.14,None
+4,660391,"518 University Dr., State College, PA 16801",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.9.14,None
+5,658590,"Denver, CO 80246",Cable lock,"Lock was cut, and left at the scene",2019.9.14,Reported
+6,577445,"Seattle, WA 98107",None,None,2019.9.14,Reported

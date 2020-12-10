@@ -1,0 +1,78 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,936554,"Richland, WA 99352",Other,"Other situation, please describe below",2020.10.6,Reported
+1,930646,"Albuquerque, NM 87111",Not locked,Bike was not locked,2020.10.6,Reported
+2,931840,"Portland, OR 97239",Not locked,"Other situation, please describe below",2020.10.6,Reported
+3,933705,"Portland, OR 97239",None,None,2020.10.6,Reported
+4,930522,"Seattle, WA 98116",None,None,2020.10.6,None
+5,930509,"754 Inca st, Denver, CO 80204",None,None,2020.10.5,None
+6,930617,"Somerville, MA 02145",None,None,2020.10.5,None
+7,932641,"701 Keystone Ave, Reno, NV 89503",Not locked,Bike was not locked,2020.10.5,Reported
+0,946673,"New Orleans, LA 70119",None,None,2020.10.5,None
+1,932933,"Washington, DC 20001",None,None,2020.10.5,Reported
+2,930432,"10th and Commercial, Leavenworth, WA",Not locked,Bike was not locked,2020.10.5,Reported
+3,931009,"Los Angeles, CA 90066",Not locked,None,2020.10.5,Reported
+4,930376,"San Jose, CA 95134",Not locked,None,2020.10.5,Reported
+5,930380,"San Jose, CA 95134",None,None,2020.10.5,Reported
+6,930386,"Tucson, AZ 85705",None,None,2020.10.5,Reported
+7,930364,"265 South 1850 East, Salt Lake City, UT 84112",None,None,2020.10.5,None
+0,930716,"Portland, OR 97206",None,None,2020.10.5,Reported
+1,932056,"777 Bannock St, Denver, CO 80204",U-lock and cable,"Lock was cut, and left at the scene",2020.10.5,None
+2,930343,"New Haven, CT 06511",None,None,2020.10.5,None
+3,929250,"1224 NE Sumner St, Portland, OR 97211",None,None,2020.10.5,None
+4,930308,"Seattle, WA 98121",U-lock,"Lock was cut, and left at the scene",2020.10.5,None
+5,930346,"Madison Lane , Falls Church, VA 22041",Not locked,None,2020.10.5,None
+6,932826,"Mountain View, CA 94040",Not locked,Bike was not locked,2020.10.5,Reported
+7,930303,"Hemmenway Street, Boston, MA 02115",U-lock,"Lock was cut, and left at the scene",2020.10.5,None
+8,930387,"Portland, OR 97212",Cable lock,"Lock is missing, along with the bike",2020.10.5,Reported
+0,929147,"2844 River Rd S, Salem, OR 97302, Salem, OR",None,"Other situation, please describe below",2020.10.5,None
+1,951204,"588 Del Monte Ave, Monterey, CA 93940",U-lock and cable,"Lock is missing, along with the bike",2020.10.5,Reported
+2,947506,"Portland, OR 97232",None,None,2020.10.5,Reported
+3,930873,"601 Bannock St, Denver, CO 80204",U-lock and cable,"Lock was cut, and left at the scene",2020.10.5,None
+4,931510,"New Orleans, LA 70533",None,None,2020.10.5,None
+5,930222,"Monroe, WA 98272",None,None,2020.10.5,None
+6,940372,"Santa Barbara, CA 93101",None,None,2020.10.5,None
+7,930207,"San Francisco, CA 94114",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.5,Reported
+8,930730,"Las Cruces, NM 88001",None,None,2020.10.5,Reported
+9,930752,"Denver, CO 80212",None,None,2020.10.5,Reported
+0,931472,"Chicago, IL 60637",Cable lock,"Lock is missing, along with the bike",2020.10.5,Reported
+1,927790,"24 Etruria, Seattle, WA 98109",U-lock and cable,"Lock is missing, along with the bike",2020.10.5,Reported
+2,930162,"2021 Lake Street, San Francisco, CA 94121",None,None,2020.10.5,None
+3,930195,"Bloomington, IN 47404-2481",Cable lock,"Lock is missing, along with the bike",2020.10.5,None
+4,931270,"1475 NW 92nd st, #7, Seattle, WA 98117",U-lock,"Lock is missing, along with the bike",2020.10.5,Reported
+5,929942,"715 57th street, Charleston, WV 25304",Not locked,"Other situation, please describe below",2020.10.5,None
+6,929934,"100 W89TH ST, New York, NY 10024",None,None,2020.10.5,None
+7,930131,"San, CA 95122",Not locked,"Other situation, please describe below",2020.10.5,Reported
+8,930136,"San Diego, CA 92101",None,None,2020.10.5,Reported
+0,930148,"Alexandria, VA 22301",Cable lock,"Lock is missing, along with the bike",2020.10.5,None
+1,930634,"Minneapolis, MN 55406",Other,Bike was not locked,2020.10.5,Reported
+2,930063,"Eugene, OR 97401",Cable lock,"Lock was cut, and left at the scene",2020.10.5,None
+3,930105,"1140 Texas Ave Tolman Hall, Grand Junction, CO 81501",Chain with padlock,"Lock was cut, and left at the scene",2020.10.5,Reported
+4,930094,"1351 SW Arvonia PL, Topeka, KS 66615",None,None,2020.10.5,None
+0,930046,"19 and T St NW , Washington, DC 20009",None,None,2020.10.5,None
+1,930054,"Portland, OR 97213",Other,"Other situation, please describe below",2020.10.5,Reported
+2,932435,"Portland, OR 97217",None,None,2020.10.5,Reported
+3,930307,"Worcester, MA 01609",U-lock and cable,"Lock is missing, along with the bike",2020.10.5,None
+4,930442,"Denver, CO 80209",Cable lock,"Lock was cut, and left at the scene",2020.10.5,Reported
+5,929995,"Methuen, MA 01844",None,None,2020.10.5,Reported
+6,930093,"New Orleans, LA 70116",None,None,2020.10.5,None
+0,930086,"New Orleans, LA 70116",None,None,2020.10.4,None
+1,935099,"West Street & 320 Hillcrest Ave, Ames, IA 50014",Cable lock,"Lock is missing, along with the bike",2020.10.4,Reported
+2,930045,"Washington, DC 20002",Not locked,None,2020.10.4,Reported
+3,932695,"Seattle, WA 98122",None,None,2020.10.4,None
+4,930052,"Evergreen, CO 80439",Other,"Other situation, please describe below",2020.10.4,Reported
+5,930991,"1429 7th Avenue , San Francisco, CA 94122",Not locked,None,2020.10.4,Reported
+0,929873,"Foster City, CA 94404",Other,"Other situation, please describe below",2020.10.4,Reported
+1,944371,"Sunnyvale, CA 94086",None,None,2020.10.4,Reported
+2,929885,"Portland, OR 97212",U-lock,"Lock was cut, and left at the scene",2020.10.4,Reported
+3,936511,"Salt Lake City, UT 84102",None,None,2020.10.4,Reported
+4,930157,"Portland, OR 97214",None,None,2020.10.4,Reported
+5,929628,"Damascus, VA",None,None,2020.10.4,Reported
+6,929777,"Columbus, OH 43215",Cable lock,"Lock is missing, along with the bike",2020.10.4,Reported
+7,927500,"Milwaukee, WI 53212",Not locked,Bike was not locked,2020.10.4,None
+0,929745,"2059 Market St, San Francisco, CA 94114",None,None,2020.10.4,None
+1,929734,"Maspeth, NY 11378",None,None,2020.10.4,None
+2,930649,"Denver, CO 80212",None,None,2020.10.4,None
+3,929681,"Boulder, CO 80304",None,None,2020.10.4,None
+4,929679,"Boulder, CO 80304",None,None,2020.10.4,None
+5,929687,"Pearl Parkway and Junction Place, Boulder, CO 80303",Not locked,Bike was not locked,2020.10.4,Reported
+6,678892,"7050 West Hampden Ave, Lakewood, CO",Cable lock,"Lock was cut, and left at the scene",2020.10.4,Reported

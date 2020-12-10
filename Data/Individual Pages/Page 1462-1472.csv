@@ -1,0 +1,80 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,687487,"Redmond, WA 98052",None,None,2020.1.17,None
+1,687486,"Redmond, WA 98052",None,None,2020.1.17,None
+2,689368,"Fremont, CA 94539",Not locked,None,2020.1.17,Reported
+3,687463,"3652 Interlake Ave N, Seattle, WA 98103",Not locked,None,2020.1.17,Reported
+4,688854,"414 ECota Street, Santa Barbara, CA 93101",U-lock,"Lock was cut, and left at the scene",2020.1.17,None
+5,687461,"Palo Alto, CA 94306",Cable lock,"Lock is missing, along with the bike",2020.1.17,None
+6,687434,"Portland, OR 97209-4135",Not locked,None,2020.1.17,Reported
+7,687430,"Seattle, WA 98112",None,None,2020.1.17,Reported
+8,426690,"Seattle, WA 98105",U-lock and cable,"Lock was cut, and left at the scene",2020.1.17,Reported
+0,687390,"Portland, OR 97215",U-lock,"Lock was opened, and left unharmed at the scene",2020.1.17,Reported
+1,687443,"Dallas, TX 75205",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.1.16,None
+2,687207,"Seattle, WA 98109",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.1.16,None
+3,687184,"1337 Mission St, San Francisco, CA 94103",None,None,2020.1.16,None
+4,689447,"Los Angeles, CA 90027",None,None,2020.1.16,Reported
+5,687183,"Montgomery, AL 36104",None,None,2020.1.16,Reported
+0,689098,"University of Washington, Seattle, WA 98105",Cable lock,"Lock was cut, and left at the scene",2020.1.16,None
+1,687170,"Cambridge, MA 02139",None,None,2020.1.16,None
+2,700301,"Aurora, CO 80010",None,None,2020.1.16,None
+3,688650,"Louisville, CO 80027",None,None,2020.1.16,None
+4,687158,"UCSD campus, La Jolla, CA 92092",Cable lock,"Lock is missing, along with the bike",2020.1.16,None
+5,687153,"Santa Monica, CA 90405",U-lock,Bike was not locked,2020.1.16,Reported
+6,687399,"New Orleans, LA 70112",None,None,2020.1.16,Reported
+7,687060,"New Orleans, LA 70118",None,None,2020.1.16,None
+8,687125,"Lansing, MI 48906",Not locked,"Other situation, please describe below",2020.1.16,Reported
+0,688143,"Montgomery, AL 36104",None,None,2020.1.16,Reported
+1,687075,"484 49th street, Oakland, CA 94609",None,Bike was not locked,2020.1.16,Reported
+2,609490,"Bellevue, WA 98005",U-lock and cable,"Lock is missing, along with the bike",2020.1.15,None
+3,687046,"2009 Milan St, New Orleans, LA 70115",None,None,2020.1.15,None
+4,687154,"Santa Monica, CA 90405",None,None,2020.1.15,Reported
+5,687029,"Tuscon, AZ",None,"Lock is missing, along with the bike",2020.1.15,Reported
+6,687028,"Tuscon, AZ",None,None,2020.1.15,Reported
+7,687008,"New London, CT 06320",None,None,2020.1.15,None
+0,687016,"Brooklyn, NY 11221",None,None,2020.1.15,None
+1,687011,"Pembroke Pines, FL 33029",Not locked,Bike was not locked,2020.1.15,Reported
+2,702302,"Portland, OR 97214",None,None,2020.1.15,Reported
+3,687017,"Brooklyn, NY 11221",Cable lock,None,2020.1.15,None
+4,691161,"1403 SW Sunset, Blue Springs, MO 64015",None,None,2020.1.15,Reported
+5,686912,"Seattle, WA 98144-7005",None,None,2020.1.15,None
+6,690264,"New Orleans, LA 70116",Not locked,Bike was not locked,2020.1.15,None
+7,686814,"905 NE 45th St, Ste B, Seattle, WA 98105",Other,"Other situation, please describe below",2020.1.15,Reported
+8,838645,"Houma, LA 70364",Not locked,"Other situation, please describe below",2020.1.15,None
+9,386344,"Portland, OR 97213",U-lock and cable,"Lock is missing, along with the bike",2020.1.15,None
+0,686837,"New Orleans, LA 70119",None,None,2020.1.15,Reported
+1,686905,"2011 Menaul Blvd NE, Albuquerque, NM 87107",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.1.15,Reported
+2,687308,"Venice, CA 90291",U-lock,"Lock is missing, along with the bike",2020.1.15,Reported
+3,687904,"Austin, TX 78705",U-lock and cable,"Lock was cut, and left at the scene",2020.1.15,Reported
+4,687052,"New Orleans, LA 70115",None,None,2020.1.15,Reported
+5,705345,"San Francisco, CA 94105",U-lock and cable,None,2020.1.14,Reported
+0,686782,"Austin, TX 78758",None,None,2020.1.14,None
+1,686778,"Austin, TX 78721",Cable lock,"Lock was cut, and left at the scene",2020.1.14,Reported
+2,686740,"Denver, CO",None,None,2020.1.14,None
+3,686713,"7111 talbert ave., Huntington Beach, CA 926248",None,None,2020.1.14,None
+4,686715,"San Francisco, CA 94102",U-lock and cable,"Lock is missing, along with the bike",2020.1.14,None
+5,687085,"Isla Vista Elementary School, Isla Vista, CA 93117",Not locked,None,2020.1.14,Reported
+6,686999,"Portland, OR 97266",Other,"Other situation, please describe below",2020.1.14,None
+0,688703,"San Francisco, CA 94117",None,None,2020.1.13,None
+1,686611,"Portland, OR 97266",None,None,2020.1.13,Reported
+2,686609,"1 LMU Drive, Los Angeles, CA 90045",Cable lock,"Lock was cut, and left at the scene",2020.1.13,None
+3,686810,"New Orleans, LA 70119",None,None,2020.1.13,None
+4,434182,"Los Angeles, CA 90025",None,None,2020.1.13,Reported
+5,686586,"8541 Villa La Jolla Drive, La Jolla, CA 92037",Cable lock,"Lock was cut, and left at the scene",2020.1.13,None
+6,65735,"Independence, KS",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.1.13,None
+7,64372,"Independence, KS",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.1.13,None
+8,79364,"Phoenix, AZ",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.1.13,None
+9,687447,"Tucson, AZ 95705",None,None,2020.1.13,Reported
+0,686582,"Denver, CO 80210",Not locked,Bike was not locked,2020.1.13,Reported
+1,686484,"2140 S Delaware St , Denver, CO 80223",None,None,2020.1.12,None
+2,689101,"Seattle, WA 98126",None,"Other situation, please describe below",2020.1.12,Reported
+3,686133,"Portland, OR 97215",None,None,2020.1.12,None
+4,686436,"Corvalis, OR 97330",None,None,2020.1.12,None
+5,686510,"3825 Alton Pkwy, Irvine, CA 92606",Cable lock,"Lock is missing, along with the bike",2020.1.12,Reported
+6,33296,"Visalia, CA 93291",Not locked,None,2020.1.12,Reported
+0,115365,"Berkeley, CA 94702",Not locked,Bike was not locked,2020.1.12,Reported
+1,686815,"Irvine, CA 92617",Cable lock,"Lock was cut, and left at the scene",2020.1.12,Reported
+2,691131,"Walmart on albree, Fremont, CA 94560",U-lock,Bike was not locked,2020.1.11,None
+3,689679,"Hopmeadow Street, Simsbury, CT 06070",Not locked,None,2020.1.11,None
+4,686254,"515 NE Tomahawk Island Dr, Portland, OR 97217",None,None,2020.1.11,None
+5,686775,"West Lafayette, IN 47906",Cable lock,"Lock was cut, and left at the scene",2020.1.11,Reported
+6,687642,"Oakland, CA 94618",None,None,2020.1.11,Reported

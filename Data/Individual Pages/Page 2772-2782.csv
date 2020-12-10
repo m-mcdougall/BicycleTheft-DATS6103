@@ -1,0 +1,86 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,412081,"Olalla, WA 98359",Other,"Object that bike was locked to was broken, removed, or otherwise compromised.",2018.9.4,Reported
+1,412251,"Iowa City, IA 52245",None,"Lock was cut, and left at the scene.",2018.9.4,None
+2,415327,"Denver, CO 80216",Not locked,"Other situation, please describe below.",2018.9.4,Reported
+3,511431,"San Francisco, CA 94121",U-lock,None,2018.9.4,None
+4,412131,"Los Angeles, CA 90007",U-lock,"Lock was cut, and left at the scene.",2018.9.4,Reported
+5,412370,"Portland, OR 97212",U-lock,"Lock is missing, along with the bike.",2018.9.4,None
+6,412123,"Portland, OR 97202",None,None,2018.9.4,Reported
+7,412196,"Seattle, WA 98122",U-lock,"Lock is missing, along with the bike.",2018.9.4,Reported
+0,412286,"Albuquerque, NM 87109",U-lock,"Other situation, please describe below.",2018.9.3,Reported
+1,412090,"Palo Alto, CA 94301",Not locked,Bike was not locked,2018.9.3,Reported
+2,440726,"Seattle, WA 98122",Not locked,None,2018.9.3,Reported
+3,412205,"Queens, NY 11105",Cable lock,"Lock is missing, along with the bike.",2018.9.3,None
+4,417887,"Austin, TX 78749",Other,"Other situation, please describe below.",2018.9.3,Reported
+5,411991,"Medford, OR 97501",Cable lock,"Lock is missing, along with the bike.",2018.9.3,None
+6,412126,"Boulder, CO 80302",Cable lock,"Lock was cut, and left at the scene.",2018.9.3,Reported
+7,411983,"Boston, MA 02115",None,None,2018.9.3,None
+0,412177,"Santa Clara, CA 95051",Cable lock,"Lock is missing, along with the bike.",2018.9.3,Reported
+1,412018,"Woodland, CA 95776",Not locked,"Other situation, please describe below.",2018.9.3,None
+2,412158,"Indianapolis, IN 46202",Not locked,None,2018.9.3,Reported
+3,412161,"Indianapolis, IN 46202",Not locked,None,2018.9.3,Reported
+4,411939,"Indianapoils, IN 46241",None,Bike was not locked,2018.9.3,None
+5,412014,"Federal Way, WA 98003",None,None,2018.9.3,None
+6,412217,"San Francisco, CA 94111",U-lock,"Lock is missing, along with the bike.",2018.9.3,Reported
+7,414972,"Bellevue, WA 98008",Not locked,"Other situation, please describe below.",2018.9.3,Reported
+0,411912,"Seattle, WA 98102",None,None,2018.9.3,None
+1,411906,"Sacramento, CA 95816-4362",Other,"Other situation, please describe below.",2018.9.3,Reported
+2,426305,"Pittsburgh, PA 15232",None,None,2018.9.3,None
+3,420575,"Fredericksburg, VA 22401",None,None,2018.9.3,Reported
+4,415323,"Lawrence, KS 66044",Chain with padlock,"Lock is missing, along with the bike.",2018.9.3,Reported
+5,411870,"Woodbridge, VA 22193",Cable lock,"Lock is missing, along with the bike.",2018.9.3,Reported
+6,411878,"New Orleans, LA 70112",None,None,2018.9.3,Reported
+0,411867,"Chicago, IL 60302",None,None,2018.9.3,None
+1,411868,"Boston, MA",U-lock,"Lock is missing, along with the bike.",2018.9.3,Reported
+2,411871,"Seattle, WA 98116",U-lock and cable,"Lock was cut, and left at the scene.",2018.9.3,None
+3,357864,"Los Angeles, CA 90064",U-lock,"Other situation, please describe below.",2018.9.3,Reported
+4,411872,"New Orleans, LA 70116",None,None,2018.9.3,None
+5,411862,"Chino Hills, CA 91709",Cable lock,"Lock is missing, along with the bike.",2018.9.3,None
+6,412530,"Philadelphia, PA 19107",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised.",2018.9.3,None
+7,412585,"Santa Monica, CA 90403",Cable lock,"Lock is missing, along with the bike.",2018.9.3,None
+8,411859,"San Diego, CA 92116",Chain with padlock,"Lock is missing, along with the bike.",2018.9.3,None
+0,411865,"New Orleans, LA 70118",None,None,2018.9.3,None
+1,420124,"New Bern, NC 28560",Not locked,"Other situation, please describe below.",2018.9.2,Reported
+2,412133,"Saint Paul, MN 55105",Cable lock,"Lock is missing, along with the bike.",2018.9.2,Reported
+3,412019,"D.C., DC 20008",Cable lock,"Lock was cut, and left at the scene.",2018.9.2,Reported
+4,413813,"Boulder, CO 80302",Cable lock,"Lock is missing, along with the bike.",2018.9.2,Reported
+5,413892,"Plymouth, IN 46563",Not locked,Bike was not locked,2018.9.2,Reported
+6,414799,"Federal Way, WA 98023",None,None,2018.9.2,Reported
+7,411826,"Santa Monica, CA 90405",None,None,2018.9.2,None
+8,411823,"Los Angeles, CA 90095",Cable lock,"Lock is missing, along with the bike.",2018.9.2,Reported
+0,411828,"Buffalo, NY 14222",Cable lock,"Lock was cut, and left at the scene.",2018.9.2,Reported
+1,651318,"Marina Del Rey, CA 90292",None,None,2018.9.2,None
+2,411812,"Seattle, WA 98119",Other,None,2018.9.2,None
+3,378097,"Concord, CA 94519",U-lock,"Lock is missing, along with the bike.",2018.9.2,None
+4,411808,"Phoenix, AZ 85044",None,None,2018.9.2,None
+5,411854,"Boston, MA 02135",U-lock,"Lock was cut, and left at the scene.",2018.9.2,Reported
+6,412307,"New Orleans, LA 70130",U-lock,"Lock is missing, along with the bike.",2018.9.2,Reported
+7,446761,"Amherst, NY 14228",Not locked,Bike was not locked,2018.9.2,Reported
+8,348146,"Seattle, WA 98105",Other,"Other situation, please describe below.",2018.9.2,Reported
+0,68950,"San Francisco, CA 94118",None,None,2018.9.2,Reported
+1,354871,"Renton, WA 98057",Not locked,Bike was not locked,2018.9.2,None
+2,411799,"San Francisco, CA 94122",Other,"Other situation, please describe below.",2018.9.2,None
+3,411771,"Portland, OR 97217",None,None,2018.9.2,None
+4,412178,"Shelby Township, MI 48317",Cable lock,"Lock was cut, and left at the scene.",2018.9.2,Reported
+5,416360,"Seattle, WA 98109",Cable lock,"Lock was cut, and left at the scene.",2018.9.2,Reported
+6,412304,"Salt Lake City, UT 84102",None,None,2018.9.2,Reported
+7,360585,"Portland, OR 97215",Not locked,None,2018.9.2,Reported
+8,411747,"Boulder, CO 80310",None,None,2018.9.2,None
+0,411899,"Seattle, WA 98126",None,None,2018.9.2,None
+1,411900,"Milwaukee, WI 53212",None,None,2018.9.2,None
+2,413782,"Moorhead, MN 56562",Cable lock,"Lock is missing, along with the bike.",2018.9.2,None
+3,411737,"New Haven, CT 06511",U-lock,"Lock is missing, along with the bike.",2018.9.2,Reported
+4,411795,"Providence, RI 02906",Cable lock,"Lock is missing, along with the bike.",2018.9.2,None
+5,411706,"New Orleans, LA 70125-5028",U-lock,"Lock is missing, along with the bike.",2018.9.2,Reported
+6,463966,"Avon, CO 81620",Cable lock,"Lock was cut, and left at the scene.",2018.9.2,Reported
+7,412694,"Seattle, WA 98108",U-lock and cable,"Lock was cut, and left at the scene.",2018.9.2,Reported
+0,412110,"Portland, OR 97217",Other,None,2018.9.2,Reported
+1,411893,"Milwaukee, WI 53212",None,None,2018.9.2,Reported
+2,411695,"Irvine, CA 92604",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2018.9.2,Reported
+3,411895,"Milwaukee, WI 53212",None,None,2018.9.2,Reported
+4,412560,"Portland, OR 97218",None,None,2018.9.1,Reported
+5,475838,"Indianapolis, IN 46202",None,None,2018.9.1,None
+6,419218,"Rochester, NY 14608",Cable lock,"Lock is missing, along with the bike.",2018.9.1,None
+7,412138,"Redmond, WA 98052",Not locked,None,2018.9.1,None
+8,436060,"Santa Monica, CA 90404",None,None,None,None
+9,411761,"Murray, UT 84123",Not locked,Bike was not locked,2018.9.1,None

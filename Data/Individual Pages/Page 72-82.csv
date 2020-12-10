@@ -1,0 +1,77 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,949018,"Biloxi, MS",Not locked,None,2020.11.11,Reported
+1,947581,"1600 W Struck Ave, Orange, CA 92867",Cable lock,"Lock was cut, and left at the scene",2020.11.11,Reported
+2,947322,"2021 ocean ave, Santa Monica, CA 90405",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.11,Reported
+3,121687,"Seattle, WA 98102",None,None,2020.11.10,None
+4,947266,"Oak Grove, OR",Cable lock,Bike was not locked,2020.11.10,None
+5,947800,"328 n. Milwaukee Ave, Libertyville, IL 60048",Cable lock,"Lock was cut, and left at the scene",2020.11.10,Reported
+0,947680,"Forbes St, Jamaica Plain, MA 02130",None,None,2020.11.10,Reported
+1,947671,"Forbes St, Jamaica Plain, MA 02130",None,None,2020.11.10,Reported
+2,952165,"Eugene, OR 97401",None,None,2020.11.10,None
+3,947246,"507 NE Northgate Way, Seattle, WA 98125",Not locked,None,2020.11.10,Reported
+4,947239,"NE 63rd street 98105, Seattle, WA 98105",Cable lock,Bike was not locked,2020.11.10,Reported
+5,947236,"1545 Amherst Ave, Los Angeles, CA 90025",U-lock,"Other situation, please describe below",2020.11.10,Reported
+6,947231,"Brooklyn, NY 11215",U-lock,None,2020.11.10,None
+7,724345,"Longmont, CO 80504",None,None,2020.11.10,None
+8,944914,"Littleton light rail station, Littleton, CO 80120",None,None,2020.11.10,None
+0,947223,"Elkgrove Ave. and Lake Street, Venice, CA 90291",Other,"Other situation, please describe below",2020.11.10,Reported
+1,947229,"Portland, OR 97219",None,None,2020.11.10,None
+2,947218,"Seattle, WA 98118",Not locked,Bike was not locked,2020.11.10,Reported
+3,947198,"Los Angeles, CA 90025",U-lock and cable,"Lock is missing, along with the bike",2020.11.10,Reported
+4,947213,"Seattle, WA 98118",Not locked,Bike was not locked,2020.11.10,Reported
+5,947194,"Washington, DC 20002",U-lock,"Lock is missing, along with the bike",2020.11.10,Reported
+6,947186,"Washington, DC 20009",Cable lock,None,2020.11.10,Reported
+7,947161,"Newark, NJ 07105",None,"Lock is missing, along with the bike",2020.11.10,None
+0,947145,"Chicago, IL 60657",None,None,2020.11.10,Reported
+1,950184,"1201 S McAllister Ave, Tempe, AZ 85281",None,None,2020.11.10,None
+2,947098,"441 Meeting Str, 328, Charleston, SC 29403",None,None,2020.11.10,None
+3,947094,"Pasadena, CA 91101",Cable lock,"Lock was cut, and left at the scene",2020.11.10,Reported
+4,947096,"Tacoma, WA 98418",None,None,2020.11.10,Reported
+5,947064,"Seattle, WA 98195",U-lock,"Lock was cut, and left at the scene",2020.11.10,Reported
+6,949916,"Indianapolis, IN 46201",None,None,2020.11.10,Reported
+0,947054,"507 17th ave, San Francisco, CA 94121",None,None,2020.11.10,Reported
+1,947034,"17th and Anza, San Francisco, CA 94121",None,None,2020.11.10,None
+2,947024,"Lexington, KY 40536",None,None,2020.11.10,None
+3,947358,"Huebner and Lockhill Selma, San Antonio, TX 78230",Not locked,None,2020.11.10,Reported
+4,947100,"Cleveland, OH 44106",None,None,2020.11.10,Reported
+5,946969,"Denver, CO 80230",None,None,2020.11.10,None
+6,947039,"Washington, DC 20002",Other,"Other situation, please describe below",2020.11.10,Reported
+7,947866,"123 N 103rd St, Seattle, WA 98133",U-lock and cable,None,2020.11.10,Reported
+0,947746,"Modesto, CA 95350",None,None,2020.11.10,Reported
+1,947080,"New Orleans, LA 70119",None,None,2020.11.10,None
+2,948318,"Santa Clara, CA 95051",None,None,2020.11.10,Reported
+3,947233,"Washington, DC 20002",Not locked,None,2020.11.10,Reported
+4,947499,"Chicago, IL 60618",None,None,2020.11.10,None
+5,947308,"San Francisco, CA 94117",Not locked,Bike was not locked,2020.11.10,Reported
+6,946941,"Denver, CO 80222",None,None,2020.11.10,None
+7,947477,"Austin, TX 78721",Other,"Lock is missing, along with the bike",2020.11.10,Reported
+0,948840,"San Francisco, CA 94117",None,"Lock is missing, along with the bike",2020.11.9,Reported
+1,947165,"SE Cesar E Chavez Blvd. and Holgate St, Portland, OR 97202",U-lock,"Lock is missing, along with the bike",2020.11.9,None
+2,946892,"Eugene, OR 97408",None,None,2020.11.9,Reported
+3,946900,"New Orleans, LA 70130",None,None,2020.11.9,None
+4,946878,"Kentfield, CA 94904",None,None,2020.11.9,None
+5,946842,"Somerville, MA 02143",None,None,2020.11.9,None
+6,946826,"Fremont, CA 94538",U-lock and cable,"Lock is missing, along with the bike",2020.11.9,Reported
+7,946800,"San Francisco, CA 94102",None,None,2020.11.9,None
+0,950264,"Denver, CO 80247",Not locked,None,2020.11.9,Reported
+1,947932,"New Orleans, LA 70117",None,None,2020.11.9,None
+2,947568,"Denver, CO 80221",None,None,2020.11.9,Reported
+3,946804,"Redwood City, CA 94062",Not locked,Bike was not locked,2020.11.9,None
+4,946789,"37140 Fremont Blvd, Fremont, California, CA 94536",None,None,2020.11.9,None
+5,946773,"Lone Tree, CO 80124",None,None,2020.11.9,None
+6,946764,"Orange, CA 92866",None,None,2020.11.9,Reported
+7,954993,"Langdon, ND 58249",None,None,2020.11.9,None
+8,953885,"501 E St Joseph St, Rapid City, SD 57701",None,None,2020.11.9,Reported
+9,438127,"New Orleans, LA 70117-8439",U-lock and cable,Bike was not locked,2020.11.9,None
+0,946720,"895 river rd., Eugene, OR 97403",None,None,2020.11.9,None
+1,946463,"Los Angeles, CA 90046",U-lock and cable,"Lock is missing, along with the bike",2020.11.9,None
+2,698258,"Mountain View, CA 94040",Not locked,Bike was not locked,2020.11.9,Reported
+3,952182,"Oakland, CA 94609",None,None,2020.11.9,Reported
+4,953205,"89 Guernsey St, Brooklyn, NY 11222",U-lock,"Lock is missing, along with the bike",2020.11.9,None
+5,946831,"Mountain View, CA 94040",Not locked,Bike was not locked,2020.11.9,Reported
+0,946709,"51 Melcher St, Boston, MA 02210",U-lock,"Lock was cut, and left at the scene",2020.11.9,None
+1,947984,"Los Angeles, CA 90025",None,None,2020.11.9,Reported
+2,948233,"San Francisco, CA 94110",None,"Other situation, please describe below",2020.11.9,Reported
+3,947092,"New Orleans, LA 70115",None,None,2020.11.9,Reported
+4,947252,"3595 Granada Avenue, Santa Clara, CA 95051",Other,"Other situation, please describe below",2020.11.9,Reported
+5,946515,"2251 S Fort Apache road, Las Vegas, NV 89117",U-lock,"Lock is missing, along with the bike",2020.11.9,Reported

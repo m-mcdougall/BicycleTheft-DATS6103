@@ -1,0 +1,95 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,70711,"Seattle, WA 98177",None,None,2016.3.16,Reported
+1,70781,"San Francisco, CA 94111",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised.",2016.3.16,Reported
+2,70878,"Long Beach, CA 90802",U-lock,"Lock is missing, along with the bike.",2016.3.16,Reported
+3,71481,"Honolulu, HI 96816",Chain with padlock,None,2016.3.16,None
+4,71478,"Honolulu, HI 96816",Chain with padlock,"Other situation, please describe below.",2016.3.16,None
+5,80329,"Scotts Valley, CA 95066",None,None,2016.3.16,Reported
+6,71800,"Seattle, WA 98105",U-lock,None,2016.3.16,Reported
+7,70784,"Chandler, AZ 85226",Not locked,None,2016.3.16,Reported
+8,70777,"Seattle, WA 98133",Cable lock,"Lock is missing, along with the bike.",2016.3.16,Reported
+0,59254,"Berkeley, CA 94703",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2016.3.16,None
+1,70720,"Flushing, NY 11367",Cable lock,"Lock is missing, along with the bike.",2016.3.16,None
+2,70664,"Beaverton, OR 97006",None,None,2016.3.16,Reported
+3,70638,"New Orleans, LA 70117",None,None,2016.3.15,None
+4,70630,"Burien, WA 98146",None,None,2016.3.15,Reported
+5,70579,"Long Beach, CA 90802",None,None,2016.3.15,None
+6,70552,"Seattle, WA 98103",None,None,2016.3.15,None
+7,70508,"Tacoma, WA 98408",None,None,2016.3.15,None
+8,70660,"Myrtle Beach, SC 29577",Cable lock,"Other situation, please describe below.",2016.3.15,None
+0,70615,"Boise, ID 83705",Not locked,Bike was not locked,2016.3.15,Reported
+1,70626,"Walnut Creek, CA 94596",Cable lock,None,2016.3.15,None
+2,71723,"Seattle, WA 98121",U-lock,"Lock is missing, along with the bike.",2016.3.15,Reported
+3,70546,"Modena, NY 12515",None,None,None,None
+4,70563,"Minneapolis, MN 55494",None,None,2016.3.15,Reported
+5,70586,"Seattle, WA 98125",None,None,2016.3.15,Reported
+6,70605,"Seattle, WA 98144",Cable lock,Bike was not locked,2016.3.15,Reported
+7,70647,"Maple Ridge, V2X 7X7",None,"Lock is missing, along with the bike.",2016.3.15,Reported
+8,70635,"New Orleans, LA 70117",Not locked,Bike was not locked,2016.3.15,Reported
+0,97429,"Fort Lauderdale, FL 33304",None,None,2016.3.15,None
+1,52915,"Portland, OR 97216",None,None,2016.3.15,None
+2,71309,"Redmond, WA 98052",Cable lock,"Lock was cut, and left at the scene.",2016.3.15,Reported
+3,70666,"San Francisco, CA 94123",Not locked,None,2016.3.15,None
+4,70498,"Oakland, CA 94607",U-lock and cable,"Lock was cut, and left at the scene.",2016.3.15,None
+5,70529,"Springfield, MO 65802",Not locked,None,2016.3.15,None
+6,70542,"Glendale, CA 90029",Chain with padlock,None,2016.3.15,None
+7,70499,"San Francisco, CA",None,"Lock was cut, and left at the scene.",2016.3.15,Reported
+8,70595,"Seattle, WA 98121",Not locked,Bike was not locked,2016.3.15,None
+9,70963,"Berkeley, CA 94703",Other,Bike was not locked,2016.3.15,Reported
+0,70490,"Portland, OR 97209",None,None,2016.3.14,None
+1,70482,"Richmond, CA 94805",None,None,2016.3.14,None
+2,70430,"Tucson, AZ 85710",None,None,2016.3.14,Reported
+3,70657,"Portland, OR 97209",U-lock and cable,"Lock was cut, and left at the scene.",2016.3.14,None
+4,70616,"San Antonio, TX 78215",Other,"Other situation, please describe below.",2016.3.14,Reported
+5,70474,"Denver, CO 80218",Other,"Other situation, please describe below.",2016.3.14,Reported
+6,70473,"San Francisco, CA 94107",Not locked,Bike was not locked,2016.3.14,Reported
+7,70491,"San Francisco, CA 94133",Not locked,"Other situation, please describe below.",2016.3.14,Reported
+0,70481,"Portland, OR 97206",Other,Bike was not locked,2016.3.14,Reported
+1,70614,"Minnetonka, MN 55305",Cable lock,"Lock was cut, and left at the scene.",2016.3.14,Reported
+2,70475,"Denver, CO 80218",None,None,2016.3.14,Reported
+3,70460,"Shoreview, MN 55126",None,"Lock is missing, along with the bike.",2016.3.14,Reported
+4,70476,"Los Angeles, CA 90032",Not locked,Bike was not locked,2016.3.14,None
+5,70419,"Denver, CO",None,None,2016.3.14,None
+6,70461,"Shoreview, MN 55126",Cable lock,"Lock is missing, along with the bike.",2016.3.14,Reported
+7,70545,"Boulder, CO 80302",Cable lock,"Lock is missing, along with the bike.",2016.3.14,None
+8,70479,"San Francisco, CA 94107",U-lock,"Lock is missing, along with the bike.",2016.3.14,Reported
+9,70478,"Portland, OR 97209",Cable lock,"Lock was cut, and left at the scene.",2016.3.14,Reported
+0,70470,"San Francisco, CA 94110",None,"Other situation, please describe below.",2016.3.14,Reported
+1,70382,"Eugene, OR 97403",None,None,2016.3.13,Reported
+2,70375,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+3,70376,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+4,70374,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+5,70372,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+6,70373,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+7,70371,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+8,70369,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+0,70370,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+1,70368,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+2,70367,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+3,70365,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+4,70366,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+5,70363,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+6,70364,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+7,70362,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+8,70361,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+9,70360,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+0,70359,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+1,70358,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+2,70356,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+3,70357,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+4,70355,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+5,70354,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+6,70352,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+7,70353,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+8,70351,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+9,70350,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+0,70349,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+1,70348,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+2,70346,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+3,70347,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+4,70344,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+5,70345,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+6,70343,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+7,70342,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+8,70341,"Los Angeles, CA 90012",None,None,2016.3.13,Reported
+9,70340,"Los Angeles, CA 90012",None,None,2016.3.13,Reported

@@ -1,0 +1,75 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,837133,"Chicago, IL 60660",None,None,2020.8.4,Reported
+1,831663,"1356 May Ave SE, Atlanta, GA 30316",None,None,2020.8.4,Reported
+2,831682,"309 n 36th street , Seattle, WA 98103 ",None,None,2020.8.4,Reported
+3,832089,"707 Goodrich Avenue, St. Paul, MN 55105",Not locked,"Other situation, please describe below",2020.8.4,Reported
+4,831606,"San Jose, CA 95131",None,None,2020.8.4,None
+5,832510?locale=,"New York, NY 10153",U-lock and cable,"Lock is missing, along with the bike",2020.8.4,Reported
+0,833086?locale=,"2200 Crenshaw BLVD , Torrance, CA 90501",None,None,2020.8.4,None
+1,833473?locale=,"Portland, OR 97233",None,None,2020.8.4,Reported
+2,837563?locale=,"222 Yale Ave N, Seattle, WA 98109",Other,"Other situation, please describe below",2020.8.4,Reported
+3,831519?locale=,"137 W CENTRAL AVE. UNIT B, Monrovia, CA 91016",None,"Lock is missing, along with the bike",2020.8.4,Reported
+4,831490?locale=,"Evanston, IL 60201",None,None,2020.8.4,None
+5,831449?locale=,"Seattle, WA 98134",None,None,2020.8.4,Reported
+6,831451,"Seattle, WA",None,None,2020.8.4,Reported
+0,831452,"Seattle, WA 98134",None,None,2020.8.4,Reported
+1,831453,"Seattle, WA 98134",None,None,2020.8.4,Reported
+2,831456,"Seattle, WA 98134",None,None,2020.8.4,Reported
+3,831459,"Seattle, WA 98134",None,None,2020.8.4,Reported
+4,831431,"Seattle, WA 98019",None,None,2020.8.4,None
+5,841645,"Orting, WA 98360",Not locked,"Other situation, please describe below",2020.8.4,Reported
+6,853019,"Somerville Ave @ Massachusetts Ave, Somerville, MA 02143",U-lock,"Other situation, please describe below",2020.8.4,Reported
+7,831415,"Minneapolis, MN 55401",U-lock,"Lock is missing, along with the bike",2020.8.4,Reported
+8,831411,"Austin, TX 78735",None,None,2020.8.4,Reported
+9,831405,"Austin, TX 78735",None,None,2020.8.4,Reported
+0,831425,"4424 Gaines Ranch Loop, Austin, TX 78735",None,None,2020.8.4,Reported
+1,832127,"Albuquerque, NM 87111",Cable lock,"Lock is missing, along with the bike",2020.8.4,Reported
+2,831299,"Los Angeles, CA 90025",Other,"Other situation, please describe below",2020.8.4,Reported
+3,831588,"351 W. 10th Street, Indianapolis, IN 46202",Not locked,Bike was not locked,2020.8.4,None
+4,831311,"Culver City, CA 90230",None,None,2020.8.4,Reported
+0,831283,"158 Brookline st, Cambridge, MA 02139",None,None,2020.8.4,None
+1,831282,"Los Angeles, CA 90025",Other,"Other situation, please describe below",2020.8.4,Reported
+2,831257,"Seattle, WA 98119",None,None,2020.8.4,None
+3,831193,"Holladay, UT 84124",None,None,2020.8.4,None
+4,831159,"Providence, RI 02908",Not locked,None,2020.8.4,Reported
+5,918838,"2823 Cherry St, New Orleans, LA 70118",None,None,2020.8.4,Reported
+6,831642,"393 Massachusetts Ave, Boston, MA 02118",U-lock and cable,"Lock is missing, along with the bike",2020.8.4,None
+0,835540,"Houston, TX 77054",Not locked,None,2020.8.4,Reported
+1,831051,"Denver, CO 80211",None,None,2020.8.4,None
+2,832083,"Minneapolis, MN 55404",U-lock,"Lock is missing, along with the bike",2020.8.4,Reported
+3,831252,"San Francisco, CA 94109",None,None,2020.8.4,None
+4,831494,"San Francisco, CA 94109",None,None,2020.8.4,None
+5,841587,"Austin, TX 78751",Not locked,Bike was not locked,2020.8.4,Reported
+6,838733,"11791 E Corning Rd., Corning, NY 14830",Not locked,Bike was not locked,2020.8.4,None
+7,833977,"Portland Ave S & 8th Street, Minneapolis, MN 55404",Cable lock,"Lock is missing, along with the bike",2020.8.4,None
+0,831326,"Portland, OR 97213",Other,"Other situation, please describe below",2020.8.4,Reported
+1,831267,"Portland, OR 97227",None,"Lock is missing, along with the bike",2020.8.4,Reported
+2,835071,"New Orleans, LA 70118",None,None,2020.8.4,Reported
+3,835080,"New Orleans, LA 70118",None,None,2020.8.4,Reported
+4,835076,"New Orleans, LA 70118",None,None,2020.8.4,Reported
+5,830960,"14506 NE 37TH PL, Bellevue, WA 98007",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.4,None
+6,830949,"14506 NE 37TH PL, Bellevue, WA 98007",None,None,2020.8.4,None
+7,832714,"1130 Broadway St. , San Antonio, TX 78215",Cable lock,"Lock was cut, and left at the scene",2020.8.3,Reported
+8,832718,"1130 Broadway St. , San Antonio, TX 78215",Cable lock,"Lock was cut, and left at the scene",2020.8.3,Reported
+0,709331,"333 E Colorado Ave, Colorado Springs, CO 80903",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.8.3,Reported
+1,833697,"Oakland, CA 94609",None,None,2020.8.3,None
+2,832184,"San Francisco, CA 94107",Other,"Other situation, please describe below",2020.8.3,Reported
+3,830986,"100 NW 20th Pl, Portland, OR 97209",Cable lock,"Lock was cut, and left at the scene",2020.8.3,Reported
+4,831442,"417 Westminster Ave., Venice, CA 90291",Not locked,None,2020.8.3,Reported
+5,830805,"Bend, OR 97702",None,None,2020.8.3,None
+0,747565,"La, WI 54601",None,Bike was not locked,2020.8.3,None
+1,830776,"Portland, OR 97202",Cable lock,"Lock is missing, along with the bike",2020.8.3,Reported
+2,713454,"Louisville, KY 40204-2177",None,None,2020.8.3,None
+3,830825,"200 Dr Justus Ohage Blvd, Saint Paul, MN 55104",Cable lock,"Other situation, please describe below",2020.8.3,Reported
+4,830848,"Corner of SE 20th Ave and SE Stark St, Portland, OR 97214",Cable lock,"Lock was cut, and left at the scene",2020.8.3,Reported
+5,830689,"Rancho Cucamonga, CA 91730",Other,"Other situation, please describe below",2020.8.3,Reported
+6,830696,"San Francisco, CA 94110",Other,"Other situation, please describe below",2020.8.3,None
+7,831598,"147 Grand Street, New York, NY 10013",Other,"Lock is missing, along with the bike",2020.8.3,None
+0,830701,"San Francisco, CA 94110",Other,"Other situation, please describe below",2020.8.3,None
+1,827894,"431 Royal St. , New Orleans, LA 70116",None,None,2020.8.3,None
+2,830860,"New Orleans, LA 70116",Not locked,None,2020.8.3,Reported
+3,831433,"920 Fifth Ave, Seattle, WA 98104",Other,"Other situation, please describe below",2020.8.3,Reported
+4,830595,"90 Myrtle Street, Apt 6, Boston, MA 02114",None,None,2020.8.3,None
+5,830537,"440 S 700 E, Salt Lake City, UT 84102",None,None,2020.8.3,None
+6,832123,"1121 W. A Street, Moscow, ID 83843",Cable lock,"Lock was cut, and left at the scene",2020.8.3,Reported
+7,836916,"95th way and 160th, Redmond, WA 98052",None,None,2020.8.3,Reported

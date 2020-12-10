@@ -1,0 +1,82 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,656553,"Philadelphia, PA 19130",Cable lock,"Lock is missing, along with the bike",2019.9.11,Reported
+1,656561,"Philadelphia, PA 19130",Cable lock,"Lock was cut, and left at the scene",2019.9.11,Reported
+2,603985,"Dallas, TX 75252",None,None,2019.9.11,None
+3,656925,"San Francisco, CA 94110",Other,Bike was not locked,2019.9.11,Reported
+4,656201,"Seattle, WA 98115",None,None,2019.9.11,None
+5,655896,"Arcata, CA 95521",None,None,2019.9.11,None
+6,655894,"New Orleans, LA 70116",None,None,2019.9.11,None
+7,658018,"Minneapolis, MN 55403",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.9.11,Reported
+8,655878,"450 Memorial Dr., Cambridge, MA 02139",None,None,2019.9.11,Reported
+9,655819,"700 Front St, Trader Joe's, Santa Cruz, CA 95060 ",Two U-locks,"Lock is missing, along with the bike",2019.9.11,Reported
+0,655834,"Happy Valley, OR",U-lock,"Other situation, please describe below",2019.9.11,Reported
+1,655709,"Milwaukee, WI 53212",Other,"Other situation, please describe below",2019.9.11,Reported
+2,655793,"Cambridge, MA 02139",None,"Lock is missing, along with the bike",2019.9.11,Reported
+3,659464,"2910 Lyndale ave south, Minneapolis, MN 55408",Cable lock,"Lock is missing, along with the bike",2019.9.11,None
+4,656134,"110 The Embarcadero, San Francisco, CA 94105",Cable lock,"Lock is missing, along with the bike",2019.9.11,Reported
+5,657774,"Mahtomedi, MN 55115",Not locked,Bike was not locked,2019.9.11,Reported
+0,655751,"Portland, OR 97211",None,None,2019.9.11,Reported
+1,655754,"Golden, CO 80401",None,None,2019.9.11,None
+2,655723,"Lincoln, RI 02865",None,None,2019.9.11,None
+3,656162,"Seattle, WA 98112",None,None,2019.9.11,Reported
+4,608986,"Portland, OR 97266",Not locked,None,2019.9.11,Reported
+5,656018,"2183 EAST PARK Drive East, Seattle, WA 98112",Not locked,None,2019.9.11,None
+6,655678,"Seattle, WA 98102",None,None,2019.9.11,Reported
+0,656250,"New Orleans, LA 70117",None,None,2019.9.11,None
+1,660998,"Denver, CO 80210",Not locked,"Other situation, please describe below",2019.9.11,Reported
+2,675328,"1000 Ft. Duquesne Blvd., Pittsburgh, PA 15222",None,None,2019.9.11,None
+3,658004,"New Orleans, LA 70115",None,None,2019.9.11,Reported
+4,656082,"New York City, NY 10002",U-lock,"Lock was cut, and left at the scene",2019.9.11,None
+5,656364,"Boise, ID 83704",None,None,2019.9.11,Reported
+0,646464,"Boise, ID 83706",Cable lock,"Lock is missing, along with the bike",2019.9.11,Reported
+1,656073,"Seattle, WA 98112",None,None,2019.9.11,None
+2,655814,"New Orleans, LA 70116",None,None,2019.9.11,None
+3,656344,"Portland, OR 97212",None,None,2019.9.11,Reported
+4,655615,"North Myrtle Avenue , New Smyrna Beach, FL 32168",None,None,2019.9.11,None
+5,412035,"West Jordan, UT 84081",None,None,2019.9.11,None
+6,920003,"100 baumer hall, Norte Dame, IN 46556",Cable lock,"Lock was cut, and left at the scene",2019.9.11,None
+7,655613,"135 12th St, Oakland, CA 94607",Other,"Lock is missing, along with the bike",2019.9.11,None
+8,655870,"4950 Almaden Expy , San Jose, CA 95118",Cable lock,"Lock is missing, along with the bike",2019.9.11,Reported
+0,663650,"122nd Sunnyside Road, Clackamas, OR 97015",None,None,2019.9.11,None
+1,655592,"2400 Boyer Ave E, Seattle, WA 98112",None,None,2019.9.10,None
+2,655584,"Bellingham, WA 98226-8138",None,None,2019.9.10,None
+3,687673,"Portland, OR 97211",Cable lock,"Lock was cut, and left at the scene",2019.9.10,Reported
+4,655710,"Seattle, WA 98115",None,None,2019.9.10,Reported
+5,655559,"San Francisco, CA 94118",None,"Lock is missing, along with the bike",2019.9.10,Reported
+6,672565,"Portland, OR 97232",None,None,2019.9.10,None
+7,655854,"5524 11th Ave. NE , Seattle, WA 98105",Other,"Lock was opened, and left unharmed at the scene",2019.9.10,None
+8,655528,"Seattle, WA 98121",U-lock and cable,"Lock is missing, along with the bike",2019.9.10,Reported
+9,655688,"Walgreens, Evergreen, CO 80439",Cable lock,"Lock is missing, along with the bike",2019.9.10,Reported
+0,655489,"27 Gladstone ave , West Islip, NY 11795",None,None,2019.9.10,None
+1,655501,"San Francisco, CA 94111",U-lock,"Lock was cut, and left at the scene",2019.9.10,Reported
+2,655472,"Seattle, WA 98103",None,None,2019.9.10,Reported
+3,655473,"Seattle, WA 98103",None,None,2019.9.10,Reported
+4,655414,"Seattle, WA 98119",Two U-locks,"Lock is missing, along with the bike",2019.9.10,Reported
+5,655427,"Warrensburg, MO 64093",None,None,2019.9.10,None
+6,714691,"3105 Kennard St, Maplewood, MN 55109",Cable lock,"Lock was cut, and left at the scene",2019.9.10,Reported
+0,655450,"100 LINCOLN VILLAGE CIRCLE 303, Larkspur, CA 94939",Cable lock,"Lock is missing, along with the bike",2019.9.10,Reported
+1,655447,"Unknown, NC",None,None,2019.9.10,None
+2,655446,"Unknown, NC",None,None,2019.9.10,None
+3,655398,"Brighton, CO 80601",None,None,2019.9.10,Reported
+4,655530,"Pine Bluff Ave and E Harding St, Orlando, FL 32806",Cable lock,"Lock is missing, along with the bike",2019.9.10,Reported
+5,655680,"Chicago, IL 60657",None,None,2019.9.10,Reported
+6,655351,"Seattle, WA 98122",Not locked,None,2019.9.10,Reported
+7,482436,"Austin, TX 78705",U-lock,"Lock was cut, and left at the scene",2019.9.10,Reported
+8,101148,"Independence, KS",Other,"Other situation, please describe below",2019.9.10,None
+9,838060,"Ithaca, NY 14850",None,None,2019.9.10,None
+0,655576,"Murray, UT 84123",None,None,2019.9.10,Reported
+1,670731,"Portland, OR 97201",None,None,2019.9.10,Reported
+2,655322,"865 Market Street, San Francisco, CA 94103",None,None,2019.9.10,None
+3,659151,"Seattle, WA",Cable lock,"Lock was cut, and left at the scene",2019.9.10,Reported
+4,655872,"Austin, TX 78705",U-lock,"Lock was cut, and left at the scene",2019.9.10,Reported
+5,655309,"Sacramento, CA 96824",None,None,2019.9.9,None
+6,655300,"Dog Canyon, Alamogordo, NM 88310",None,None,2019.9.9,None
+7,655424,"Norman, OK 73072",Other,"Other situation, please describe below",2019.9.9,Reported
+8,655490,"1375 Monroe Street NW, Washington, DC 20011",U-lock,"Lock is missing, along with the bike",2019.9.9,Reported
+0,663846,"640 Emerson St, Palo Alto, CA 94301",Not locked,Bike was not locked,2019.9.9,Reported
+1,655418,"Norman, OK 73072",Other,"Other situation, please describe below",2019.9.9,Reported
+2,655412,"Norman, OK 73072",Other,"Other situation, please describe below",2019.9.9,Reported
+3,655324,"216 Union St, Seattle, WA 98101",Cable lock,"Lock was opened, and left unharmed at the scene",2019.9.9,Reported
+4,661090,"Portland, OR 97214",None,None,2019.9.9,Reported
+5,655209,"226 New York Ave, Alamogordo, NM 88310",None,None,2019.9.9,None
+6,376182,"San Francisco, CA 94110",Chain with padlock,"Lock is missing, along with the bike",2019.9.9,Reported

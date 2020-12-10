@@ -1,0 +1,77 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,830928,"Falcon Heights, MN 55113",None,None,2020.7.25,None
+1,797218,"6705 W Buckeye Rd, Phoenix, AZ 85043",None,None,2020.7.25,None
+2,797538,"New Orleans, LA 70124",None,None,2020.7.25,None
+3,826865,"70 SW century dr., Bend, OR 97702",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.7.25,Reported
+4,797995,"San Diego, CA 92109",Not locked,None,2020.7.25,None
+5,798245,"5717 Greenbelt Metro Dr, Greenbelt, MD 20740",None,None,2020.7.25,Reported
+6,797097,"Redwood City, CA 94062",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.7.25,Reported
+7,797054,"Long Beach, CA 90814",Not locked,None,2020.7.25,Reported
+8,377949,"Seattle, WA 98105",U-lock and cable,"Lock is missing, along with the bike",2020.7.25,Reported
+0,796987,"San Francisco, CA 94117",None,None,2020.7.25,None
+1,796979,"1500 N Kiwanis Ave, Sioux Falls, SD 57104",U-lock and cable,"Other situation, please describe below",2020.7.25,Reported
+2,829243,"Seattle, WA 98105",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.7.25,None
+3,797221,"Near cal state northridge, Northridge, CA",None,None,2020.7.25,None
+4,796995,"Chicago, IL 60657",None,None,2020.7.25,Reported
+5,789866,"Salt Lake City, UT 84101",None,None,2020.7.25,None
+6,369176,"Boise, ID 83702",Other,"Other situation, please describe below",2020.7.25,Reported
+0,796848,"Coralville, IA 52241",None,None,2020.7.25,None
+1,639001,"Palo Alto, CA 94303",Cable lock,"Lock is missing, along with the bike",2020.7.25,None
+2,797090,"San Francisco, CA 94158",U-lock,"Lock was cut, and left at the scene",2020.7.25,Reported
+3,827049,"2061 15th Avenue West, Seattle, WA 98119-2798",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.25,Reported
+4,828494,"Wheat Ridge, CO 80033",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.25,Reported
+5,827783,"Seattle, WA 98103",None,None,2020.7.25,Reported
+6,611216,"Seattle, WA 98107",U-lock,"Other situation, please describe below",2020.7.25,None
+7,796795,"Davis, CA 95616",U-lock and cable,"Lock is missing, along with the bike",2020.7.25,Reported
+0,797668,"San Francisco, CA 94115",None,None,2020.7.25,Reported
+1,796756,"Tampa, FL 33612",Cable lock,"Lock is missing, along with the bike",2020.7.25,Reported
+2,796717,"Chicago, IL 60647",U-lock and cable,"Lock was opened, and left unharmed at the scene",2020.7.25,Reported
+3,111296,"Seattle, WA 98103",U-lock and cable,"Lock is missing, along with the bike",2020.7.25,None
+4,796844,"22 Andrew Drive , Tiburon, CA 94920",U-lock and cable,"Lock was cut, and left at the scene",2020.7.25,Reported
+5,796875,"22 Andrew Drive, Tiburon, CA 94920",U-lock and cable,"Lock was cut, and left at the scene",2020.7.25,Reported
+6,797589,"Bonney Lake, WA 98391",None,None,2020.7.25,Reported
+0,377523,"Los Angeles, CA 90025",U-lock,"Lock was cut, and left at the scene",2020.7.25,Reported
+1,796626,"Visalia, CA 93292",None,None,2020.7.25,None
+2,377522,"Los Angeles, CA 90025",U-lock,"Lock was cut, and left at the scene",2020.7.25,Reported
+3,798232,"9229 Regents Road, La Jolla, CA 92037",U-lock and cable,"Lock is missing, along with the bike",2020.7.25,None
+4,796801,"Denver, CO 80203",U-lock,"Other situation, please describe below",2020.7.25,None
+5,797731,"San Francisco, CA 94118",None,None,2020.7.25,Reported
+6,796537,"Palo Alto, CA 94303-",U-lock,None,2020.7.25,None
+7,796534,"Milpitas, CA 95035",None,None,2020.7.25,None
+8,574077,"Seattle, WA 98121",Heavy duty bicycle security chain,None,2020.7.24,None
+0,796941,"New Orleans, LA 70118",None,None,2020.7.24,None
+1,797487,"13512 Bustleton Ave , Philadelphia, PA 19116",Other,"Other situation, please describe below",2020.7.24,None
+2,797412,"Ann Arbor, MI 48104",Cable lock,"Lock is missing, along with the bike",2020.7.24,Reported
+3,827575,"2800 SE Hawthorne Blvd., Portland, OR 97214",Not locked,None,2020.7.24,Reported
+4,796209,"21701 Hwy 99, Lynnwood, WA 98036",Not locked,None,2020.7.24,Reported
+5,806639,"St Louis Park, MN 55416",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.24,Reported
+6,757727,"5239 Claremont Ave, Oakland, CA 94618",U-lock and cable,"Lock was cut, and left at the scene",2020.7.24,Reported
+0,796463,"Redwood City, CA 94061",None,None,2020.7.24,Reported
+1,796252,"Allston, MA 02134",None,None,2020.7.24,None
+2,796197,"Brooklyn, NY 11206",None,None,2020.7.24,None
+3,796182,"Columbus, OH 43201",None,None,2020.7.24,None
+4,796310,"Hale and Front Street, Wheaton, IL 60187",Cable lock,"Lock was cut, and left at the scene",2020.7.24,None
+5,796955,"Menlo Park, CA 94025",U-lock,"Lock was cut, and left at the scene",2020.7.24,Reported
+0,796130,"4501 West Saint Andrews drive, Boise, ID 83705",None,None,2020.7.24,None
+1,796124,"11102 la Cienega , Lennox, CA 90304",None,None,2020.7.24,None
+2,798370,"1349 W Belmont Ave 3E, Chicago, IL 60657",None,None,2020.7.24,None
+3,828071,"1425 Worthington Centre Dr, Worthington, OH 43085",Not locked,Bike was not locked,2020.7.24,None
+4,796061,"441 meeting st, Charleston, SC 29403",None,None,2020.7.24,None
+0,796041,"Green Lake East Swimming Beach, Seattle, WA",None,"Lock is missing, along with the bike",2020.7.24,None
+1,796036,"Lakewood, CO 80228",None,None,2020.7.24,Reported
+2,828304,"Boise, ID 82702",Cable lock,"Lock was cut, and left at the scene",2020.7.24,Reported
+3,796241,"Minneapolis, MN 55414",Cable lock,"Lock was cut, and left at the scene",2020.7.24,Reported
+4,806779,"New Orleans, LA 70130",None,None,2020.7.24,Reported
+5,795953,"Portland, OR 97206",None,None,2020.7.24,None
+6,795941,"Salt Lake City, UT 84109",None,None,2020.7.24,None
+7,796088,"New Orleans, LA 70117",None,None,2020.7.24,Reported
+0,696469,"Sunnyvale, CA 94085",None,None,2020.7.24,Reported
+1,756959,"Sunnyvale, CA 94085",None,None,2020.7.24,Reported
+2,796736,"600 H St NE, Washington, DC 20002",Chain with padlock,"Lock is missing, along with the bike",2020.7.24,Reported
+3,795882,"Boulder, CO 80303",None,None,2020.7.24,None
+4,795880,"562 s 600 e , Salt Lake City, UT 84102",None,None,2020.7.24,Reported
+5,346260,"40 East St. Clair St., Indianapolis, IN 46204",Chain with padlock,"Other situation, please describe below",2020.7.24,Reported
+6,798026,"441 Meeting Street, Charleston, SC 29403",None,None,2020.7.24,None
+7,796134,"4501 West Saint Andrews drive, Boise, ID 83705",Not locked,Bike was not locked,2020.7.24,None
+8,795860,"Tacoma, WA 98406",None,None,2020.7.24,None
+9,795852,"Arvada, CO 80005",None,None,2020.7.24,None

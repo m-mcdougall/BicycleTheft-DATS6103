@@ -1,0 +1,72 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,836500,"Seattle, WA 98105",Cable lock,"Lock is missing, along with the bike",2020.8.8,Reported
+1,838167,"Bellingham, WA 98225",None,None,2020.8.8,Reported
+2,834036,"Salt Lake City, UT 84105",Not locked,None,2020.8.8,Reported
+3,835638,"Columbus, OH 43201",Cable lock,"Lock is missing, along with the bike",2020.8.8,None
+4,833819,"Seattle, WA 98119",None,None,2020.8.8,None
+5,833818,"Seattle, WA 98119",None,None,2020.8.8,None
+6,835551,"Salt Lake, UT 84103",None,None,2020.8.8,None
+0,696636,"500 17th Ave, Seattle, WA 98122",Cable lock,"Lock is missing, along with the bike",2020.8.8,Reported
+1,834247,"Minneapolis, MN 55401",None,"Lock was cut, and left at the scene",2020.8.8,None
+2,384813,"Bothell, WA 98011",Other,"Other situation, please describe below",2020.8.8,Reported
+3,833790,"Santa Ana, CA 92703",None,None,2020.8.8,None
+4,834072,"Arlington, NY 12603",None,None,2020.8.7,Reported
+5,396865,"San Francisco, CA 94158",U-lock,"Lock was cut, and left at the scene",2020.8.7,None
+6,833727,"1235 wildwood Ave, APT 225, Sunnyvale, CA 94089",None,None,2020.8.7,Reported
+7,833712,"Texarkana, TX 75503",Other,"Other situation, please describe below",2020.8.7,Reported
+8,846304,"5650 West 36th Street , Saint Louis Park, MN 55416",Cable lock,"Lock is missing, along with the bike",2020.8.7,Reported
+0,833703,"New Orleans, LA 70116",None,None,2020.8.7,None
+1,834182,"Minneapolis, MN 55414",U-lock,"Lock was cut, and left at the scene",2020.8.7,Reported
+2,833627,"St Paul, MN 55106",None,None,2020.8.7,None
+3,833626,"3917 Bagley Ave N, Seattle, WA 98103",Not locked,None,2020.8.7,Reported
+4,833624,"Chicago, IL 60659",None,Bike was not locked,2020.8.7,Reported
+5,833611,"2630 Jerome Ave, The Bronx, NY 10468, Bronx, NY 10468",None,None,2020.8.7,None
+6,833598,"Berkeley, CA 94705",None,None,2020.8.7,None
+7,835624,"848 Mckenzie Crest Dr, Springfield, OR 97477",None,None,2020.8.7,Reported
+8,833587,"1001 Mercer St, Seattle, WA 98109",None,None,2020.8.7,Reported
+0,834184,"1011 S Dale St, Boise, ID 83706",U-lock,"Lock is missing, along with the bike",2020.8.7,None
+1,833485,"Minneapolis, MN 55410",None,None,2020.8.7,None
+2,833411,"Austin, TX 78735",None,None,2020.8.7,None
+3,833434,"Portland, OR 97217",Not locked,"Other situation, please describe below",2020.8.7,Reported
+4,833405,"Austin, TX 78735",None,None,2020.8.7,None
+5,833395,"4424 Gaines Ranch Loop, Austin, TX 78735",None,None,2020.8.7,None
+0,833361,"1502 1st, Cheney, WA 99004",None,None,2020.8.7,None
+1,806944,"Le brea & Venice Blvd , Los Angeles, CA",Not locked,Bike was not locked,2020.8.7,None
+2,704147,"Minneapolis, MN 5534034",U-lock and cable,Bike was not locked,2020.8.7,Reported
+3,833327,"Kalamazoo, MI 49006",Cable lock,"Lock is missing, along with the bike",2020.8.7,Reported
+4,833296,"Kalamazoo, MI 49006",Cable lock,"Lock is missing, along with the bike",2020.8.7,Reported
+5,833274,"Corpus Christi, TX 78412",None,None,2020.8.7,None
+6,835152,"San Francisco, CA 94114",Other,"Other situation, please describe below",2020.8.7,Reported
+7,835154,"San Francisco, CA 94114",Other,"Other situation, please describe below",2020.8.7,Reported
+0,833409,"Salt Lake City, UT 84106",None,None,2020.8.7,Reported
+1,842942,"488 N Main Street, Moab, UT 84532",U-lock,"Lock is missing, along with the bike",2020.8.7,Reported
+2,833172,"3901 Fabian Way, Palo Alto, CA 94303",Not locked,None,2020.8.7,None
+3,931656,"Washington, DC 20002",Other,"Other situation, please describe below",2020.8.7,Reported
+4,833584,"Sky3 Apartment, 1221 SW 11th Ave, Portland, OR 97205",Cable lock,None,2020.8.7,None
+5,930466,"5263 15th Ave NE, Seattle, WA 98105",Cable lock,"Lock is missing, along with the bike",2020.8.6,Reported
+6,833045,"Atlanta, GA 30324",Other,"Lock was cut, and left at the scene",2020.8.6,Reported
+0,836620,"Denver, CO 80204",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.6,Reported
+1,833035,"548 Cherry Plum ct, Sandy, UT 84070",None,None,2020.8.6,Reported
+2,833952,"Minneapolis, MN 55408",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.6,None
+3,836941,"San Francisco, CA 94115",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.6,Reported
+4,832802,"San Francisco, CA 94109",None,None,2020.8.6,None
+5,832952,"Milwaukee, WI 53212",None,None,2020.8.6,Reported
+6,832922,"6221 N Broadway, Chicago, IL 60626",U-lock,"Other situation, please describe below",2020.8.6,Reported
+7,746869,"Everett, WA 98204",None,None,2020.8.6,None
+0,832881,"Washington, DC 20002",None,None,2020.8.6,None
+1,832880,"Medford, MA 02155",None,None,2020.8.6,None
+2,832878,"Homeless camp linda riverbottoms, Linda, CA 95901",None,None,2020.8.6,None
+3,832873,"Medford, MA 02155",None,None,2020.8.6,None
+4,832871,"Arlington, VA 22204",None,None,2020.8.6,None
+5,832877,"Portland, OR 97209",Cable lock,"Lock was cut, and left at the scene",2020.8.6,Reported
+0,836202,"462 W 25th st, New York, NY 10001",None,"Lock is missing, along with the bike",2020.8.6,None
+1,734366,"Los Angeles, CA 90028",None,None,2020.8.6,None
+2,832742,"1530 Geary Road, Walnut Creek, CA 94597",Cable lock,"Lock was cut, and left at the scene",2020.8.6,Reported
+3,832719,"Superior, CO 80027",None,None,2020.8.6,Reported
+4,832728,"Dallas, TX 75230",Cable lock,"Lock was cut, and left at the scene",2020.8.6,Reported
+0,832725,"Dallas, TX 75230",Cable lock,"Lock was cut, and left at the scene",2020.8.6,Reported
+1,832730,"Dallas, TX 75230",Cable lock,"Lock was cut, and left at the scene",2020.8.6,Reported
+2,832603,"Seattle, WA 98103",Cable lock,"Lock is missing, along with the bike",2020.8.6,None
+3,641446,"Palo Alto, CA 94301",None,None,2020.8.6,None
+4,832617,"Denver, CO 80210",None,None,2020.8.6,None
+5,832816,"Boulder, CO 80301",None,None,2020.8.6,Reported

@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,652035,"Portland, OR 97209",U-lock,None,2019.9.4,None
+1,652578,"Seattle, WA 98122",U-lock and cable,"Lock is missing, along with the bike",2019.9.4,None
+2,652191,"1525 NW 53rd St, Seattle, WA 98107",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.9.4,Reported
+3,652029,"2825 Bellefontaine st, Houston, TX 77025",None,None,2019.9.4,Reported
+4,652007,"Tacoma, WA 98405",Other,"Other situation, please describe below",2019.9.4,Reported
+5,652001,"Tacoma, WA 98405",Other,"Other situation, please describe below",2019.9.4,Reported
+6,651990,"Denver, CO 80202",None,None,2019.9.4,None
+7,596475,"Burlington, VT 05401",Not locked,Bike was not locked,2019.9.4,Reported
+8,652162,"Portland, OR 97209",None,None,2019.9.4,Reported
+0,658388,"Seattle, WA 98104",Cable lock,"Lock was cut, and left at the scene",2019.9.4,None
+1,80145,"Seattle, WA 98107",Not locked,None,2019.9.4,Reported
+2,651949,"1621 Warmsprings ave, Boise, ID 83712",Not locked,None,2019.9.4,Reported
+3,651996,"Tucson, AZ 85712",None,None,2019.9.4,Reported
+4,651014,"Reno, NV 89503",Cable lock,"Lock is missing, along with the bike",2019.9.4,None
+0,653632,"North Olmsted, OH 44070",Cable lock,Bike was not locked,2019.9.4,Reported
+1,653582,"Fairview, OR",None,Bike was not locked,2019.9.4,None
+2,55648,"Seattle, WA 98107",Not locked,Bike was not locked,2019.9.4,Reported
+3,651890,"Back Bay, Boston, MA 021116",None,None,2019.9.4,Reported
+4,783035,"Denver, CO 80206",None,None,2019.9.4,None
+5,651866,"78 E Washington St, Chicago, IL 60602",None,None,2019.9.4,Reported
+6,651825,"Beaverton, OR 97005",None,None,2019.9.4,None
+7,655047,"1 Tampa General Circle, Tampa, FL 33606",None,None,2019.9.4,None
+0,640817,"Raytown, MO 64133",Not locked,"Other situation, please describe below",2019.9.4,Reported
+1,651936,"Lakewood, CO 80227",Not locked,None,2019.9.4,Reported
+2,652019,"Tacoma, WA 98405",None,None,2019.9.4,Reported
+3,651800,"Danville, CA 94526",Cable lock,"Lock was cut, and left at the scene",2019.9.4,None
+4,653538,"Minneapolis, MN 55404",None,None,2019.9.4,Reported
+5,663183,"Cottonwood Heights, UT 84121-7210",None,None,2019.9.4,Reported
+6,767774,"Lafayette, CA 94549",Cable lock,"Lock was cut, and left at the scene",2019.9.4,Reported
+0,659889,"Federal Way, WA 98023",None,None,2019.9.3,Reported
+1,651631,"Indianapolis, IN 46203",None,None,2019.9.3,None
+2,654071,"Seattle, WA 98101",None,None,2019.9.3,None
+3,651759,"Seattle, WA 98102",U-lock,"Lock was opened, and left unharmed at the scene",2019.9.3,None
+4,651594,"3625 Colfax Ave S, Minneapolis, MN 55409",None,None,2019.9.3,None
+5,651573,"Flatirons Crossing Mall, Broomfield, CO 80020",None,None,2019.9.3,None
+6,651576,"Caltrain #232 Departing Sf At 8:45am, Arriving San Jose 10:11am, CA 94110",Not locked,None,2019.9.3,Reported
+7,651587,"New Orleans, LA 70113",None,None,2019.9.3,None
+0,651545,"Issaquah, WA 98029",Cable lock,"Lock was cut, and left at the scene",2019.9.3,Reported
+1,651724,"Fort Collins, CO 80521",U-lock and cable,"Lock is missing, along with the bike",2019.9.3,None
+2,651541,"2500 Income Dr, Akron, OH 44305",None,None,2019.9.3,Reported
+3,613579,"Fort, CO 80524",Other,"Lock is missing, along with the bike",2019.9.3,None
+4,651536,"Redwood City, CA 94063",Not locked,Bike was not locked,2019.9.3,Reported
+5,651094,"1290 w San carlos st, San Jose, CA 95126",None,None,2019.9.3,None
+6,650485,"Boulder, CO 80301",Cable lock,"Lock is missing, along with the bike",2019.9.3,None
+0,651821,"Bloomington, IN 47401",None,None,2019.9.3,None
+1,651689,"Boise, ID 83706",None,None,2019.9.3,None
+2,651508,"McLeod Hall, Charlottesville, VA 22904",Cable lock,"Lock is missing, along with the bike",2019.9.3,None
+3,651426,"Tualatin, OR 97062",Cable lock,"Lock was opened, and left unharmed at the scene",2019.9.3,Reported
+4,651393,"Boise, ID 83714",None,None,2019.9.2,None
+0,651385,"Austin, TX 78704",Cable lock,"Lock was cut, and left at the scene",2019.9.2,Reported
+1,652431,"500 College Ave., Wheaton, IL 60187",Cable lock,"Lock is missing, along with the bike",2019.9.2,Reported
+2,651357,"Bronx, NY 10463",None,None,2019.9.2,None
+3,651371,"New Orleans, LA 70118",U-lock,"Other situation, please describe below",2019.9.2,None
+4,651531,"Long Beach, CA 90802",Cable lock,None,2019.9.2,Reported
+5,651534,"Long Beach, CA 90802",Cable lock,None,2019.9.2,Reported
+6,633959,"Sun Valley, CA 91352",Cable lock,"Lock was cut, and left at the scene",2019.9.2,Reported
+7,651303,"Menlo Park, CA 94025",U-lock,"Other situation, please describe below",2019.9.2,Reported
+0,651293,"1200 S Catalina Ave, Redondo Beach, CA 90277",Chain with padlock,"Lock was cut, and left at the scene",2019.9.2,Reported
+1,651246,"3606 Sonoma Blvd, Vallejo, CA 94590",None,None,2019.9.2,None
+2,686239,"Houston, TX 77021",Other,"Other situation, please describe below",2019.9.2,Reported
+3,686234,"Houston, TX 77021",Other,"Other situation, please describe below",2019.9.2,Reported
+4,651254,"Redmond, WA 98052",Cable lock,"Lock was cut, and left at the scene",2019.9.2,Reported
+5,651240,"Littleton, CO",None,None,2019.9.2,None
+6,628773,"Warrington D.C., DC 20560",Cable lock,"Lock is missing, along with the bike",2019.9.2,Reported
+7,651188,"Black Rock City, NV",None,None,2019.9.2,None
+0,651167,"Los Angeles, CA 90012",U-lock and cable,"Lock is missing, along with the bike",2019.9.2,Reported
+1,651176,"New Orleans, LA",Cable lock,"Lock was cut, and left at the scene",2019.9.2,None
+2,651128,"Chicago, IL 60622",Other,"Other situation, please describe below",2019.9.2,Reported
+3,616203,"Seattle, WA 98109",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.9.2,None
+4,654889,"Oakland, CA 94608",Not locked,Bike was not locked,2019.9.2,Reported
+5,651102,"Salt Lake City, UT 84101",None,None,2019.9.2,Reported
+6,651096,"5455 W 111th St, Los Angeles, CA 90045",Other,None,2019.9.2,Reported
+7,651127,"San Luis Rey/ocean front walk, San Diego, CA 92109",Cable lock,"Lock was cut, and left at the scene",2019.9.2,Reported

@@ -1,0 +1,70 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,732573,"San Francisco, CA 94109",Not locked,None,2020.5.10,None
+1,732489,"Foster City, CA 94404",None,None,2020.5.10,None
+2,732437,"San Francisco, CA 94114",None,None,2020.5.10,None
+3,732470,"San Francisco, CA 94102",U-lock,"Lock is missing, along with the bike",2020.5.10,Reported
+4,732977,"Santa Cruz, CA 95060",Not locked,"Other situation, please describe below",2020.5.10,Reported
+5,741168,"Baltimore, MD",None,None,2020.5.10,Reported
+6,741164,"Riverside , Maryland, MD",None,None,2020.5.10,Reported
+7,849824,"Batesburg, SC 29006",None,None,2020.5.10,None
+8,732387,"San Francisco, CA 94114",None,None,2020.5.10,Reported
+9,732386,"6956 N Wolcott ave , Chicago, IL 60626 ",Cable lock,"Lock was cut, and left at the scene",2020.5.10,Reported
+0,732646,"936 Azure Street, Sunnyvale, CA 94087",None,None,2020.5.10,None
+1,735580,"Sandy, UT 84093",None,None,2020.5.10,Reported
+0,735592,"Sandy, UT 84093",None,None,2020.5.10,None
+1,732258,"2680 Fayette Drive, Mountain View, CA 94040",None,None,2020.5.10,None
+2,733390,"Los Angeles, CA 90077",None,None,2020.5.10,None
+3,732129,"1625 Owens St, San Francisco, CA 94158",None,None,2020.5.9,None
+4,732049,"Bend, OR 97701",None,None,2020.5.9,None
+5,731986,"19523 AURORA AVE N UNIT 2 SHORELINE WA SHORELINE, WA, Shoreline, WA 98177",None,None,2020.5.9,None
+0,731982,"151 Southeast 1st Street, 2004, Miami, FL 33131",None,None,2020.5.9,None
+1,739458,"4755 Fauntleroy Way SW, Seattle, WA 98116",Other,"Other situation, please describe below",2020.5.9,None
+2,728967,"Pleasanton, CA 94588",Not locked,None,2020.5.9,Reported
+3,731891,"Carlsbad, CA 92000",Not locked,Bike was not locked,2020.5.9,Reported
+4,731847,"San Francisco, CA 94102",None,None,2020.5.9,None
+5,731832,"$store w11th, Eugene, OR",Cable lock,"Lock was cut, and left at the scene",2020.5.9,None
+6,673218,"Los Angeles, CA 90024",U-lock and cable,"Lock was cut, and left at the scene",2020.5.9,Reported
+7,745214,"Salt Lake, UT 84102-1807",Not locked,None,2020.5.9,Reported
+0,735954,"600 patty canyon road, Missoula, MT 59803",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.9,None
+1,731588,"Indianapolis, IN 46220",None,None,2020.5.9,Reported
+2,731404,"2706 NE Mason St, Portland, OR 97211",None,None,2020.5.9,None
+3,731391,"601 Broadway St, Denver, CO 80204",None,None,2020.5.9,None
+0,354388,"Mar Ista, CA 90066",None,None,2020.5.9,None
+1,731250,"Walnut Creek, CA 94597",None,None,2020.5.9,None
+2,731225,"Denver, CO 80204",None,None,2020.5.9,None
+3,734335,"4504 W Spruce st, Tampa, FL FL",Chain with padlock,"Lock is missing, along with the bike",2020.5.9,Reported
+4,731211,"San Francisco, CA",None,None,2020.5.9,None
+5,735533,"San Jose, CA 95120",None,None,2020.5.9,Reported
+6,735546,"San Jose, CA 95120",None,None,2020.5.9,Reported
+7,730557,"5 Yorktown Circle, Madison, WI 53711",None,"Other situation, please describe below",2020.5.9,Reported
+0,731987,"Redmond, WA 98052",None,None,2020.5.9,None
+1,700087,"Portland, OR 97206",Cable lock,"Lock was cut, and left at the scene",2020.5.9,None
+2,707169,"1318 Powderhorn Terrace, Minneapolis, MN 55407",U-lock,"Lock was cut, and left at the scene",2020.5.9,Reported
+3,745992,"Houston, TX 77054",None,None,2020.5.9,None
+4,750302,"13488 Maxella avenue Apt 566, Marina Del Rey, CA 90292",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.5.9,Reported
+5,691521,"Oakland, CA 94607",U-lock,"Lock is missing, along with the bike",2020.5.8,Reported
+6,731051,"Louisiana Avenue,, Lafayette, LA",Chain with padlock,"Lock is missing, along with the bike",2020.5.8,Reported
+7,734488,"Buffalo, NY 14214",None,None,2020.5.8,Reported
+8,732651,"219 Bellevue Ave E, Seattle, WA 98102",None,None,2020.5.8,Reported
+0,736609,"Portland, OR 97206",Other,"Lock was cut, and left at the scene",2020.5.8,Reported
+1,730933,"San Francisco, CA 94123",None,None,2020.5.8,None
+2,731586,"Portland, OR 97214",None,None,2020.5.8,Reported
+3,730775,"353 Highland Ave , Clifton, NJ 07011",None,None,2020.5.8,None
+4,731447,"Studio City, CA 91604",None,None,2020.5.8,None
+5,730785,"3155 SW Moody Ave, Portland, OR 97239",None,None,2020.5.8,Reported
+6,738811,"Portland, OR 97209",None,None,2020.5.8,Reported
+0,732862,"Boise, ID 83706",Not locked,Bike was not locked,2020.5.8,Reported
+1,747777,"Boise, ID 83706",None,None,2020.5.8,Reported
+2,632489,"Los Angeles, CA 90025",U-lock,"Lock was cut, and left at the scene",2020.5.8,None
+3,733690,"Los Angeles, CA 90063",None,None,2020.5.8,None
+4,730375,"Lafayette square , New Orleans, LA",None,None,2020.5.8,None
+5,617855,"Lakewood, CO 80214",None,None,2020.5.8,None
+6,739161,"New Orleans, LA 70115",None,None,2020.5.8,None
+7,730440,"Brooklyn, NY 11217",None,None,2020.5.8,None
+8,730385,"Maywood, NJ 07607",None,None,2020.5.8,None
+0,732550,"New Orleans, LA 70117",None,None,2020.5.8,None
+1,731039,"Burlington, VT 05401",Cable lock,"Lock was cut, and left at the scene",2020.5.8,Reported
+2,738382,"2420 Athania Parkway, Metairie, LA 70001",None,None,2020.5.8,Reported
+3,729900,"New Orleans, LA 70116",None,None,2020.5.8,None
+4,730287,"Chicago, IL 60657",None,None,2020.5.8,None
+5,729950,"Washington, DC 20002",None,None,2020.5.8,Reported

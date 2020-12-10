@@ -1,0 +1,68 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,774882,"Tallahassee, FL 32303",None,None,2020.6.25,None
+1,774881,"Tallahassee, FL 32303",None,None,2020.6.25,None
+2,774929,"Boise, ID 83706",None,None,2020.6.25,Reported
+3,774831,"870 E El Camino Real #97, Mountain View, CA 94040",None,None,2020.6.25,None
+4,774810,"Redmond, WA 98052",None,None,2020.6.25,None
+5,774793,"San Jose, CA 95123",None,None,2020.6.25,None
+6,781678,"620 Central Ave NE, Minneapolis, MN 55414",U-lock,None,2020.6.25,Reported
+7,779199,"Norwalk, CT 06855",None,None,2020.6.25,Reported
+8,796230,"4734 Kensington Dr, San Diego, CA 92116",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.25,Reported
+0,777398,"East River Track, New York, NY 10009",Cable lock,"Lock was cut, and left at the scene",2020.6.25,Reported
+1,774433,"Denver, CO 80218",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.25,Reported
+2,775113,"Saint Paul, MN 55130",U-lock and cable,"Lock is missing, along with the bike",2020.6.25,Reported
+3,775169,"Eugene, OR 97401",Other,"Other situation, please describe below",2020.6.25,Reported
+0,398570,"Easton, WA 98925",Not locked,"Other situation, please describe below",2020.6.25,None
+1,783189,"WES train station lockers, Barbur Avenue, Wilsonville, OR",Other,"Other situation, please describe below",2020.6.25,Reported
+2,774554,"New York, NY 10001",None,None,2020.6.25,None
+3,774556,"3951 Langley Court NW, Washington, DC 20016",U-lock,"Lock is missing, along with the bike",2020.6.25,Reported
+4,775525,"Altoona, PA 16602-3268",Not locked,None,2020.6.25,Reported
+5,774856,"Valencia, CA 91355",Cable lock,"Lock is missing, along with the bike",2020.6.25,None
+6,774480,"Los Angeles, CA 90034",Other,"Other situation, please describe below",2020.6.25,None
+7,774482,"Davis, CA 95616",None,None,2020.6.25,None
+8,65347,"Troutdale, OR 97060",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.25,None
+9,774285,"New Orleans, LA 70115",None,None,2020.6.25,None
+0,774445,"Oakland, CA 94602",None,None,2020.6.25,None
+1,774444,"Oakland, CA 94602",None,None,2020.6.25,None
+2,774465,"5525 Cedar Lake Rd S, , St. Louis Park, MN 55416",Cable lock,"Lock is missing, along with the bike",2020.6.25,Reported
+3,774394,"Oakland, CA 94602",None,None,2020.6.25,None
+4,774393,"Portland, OR 97206",None,None,2020.6.25,Reported
+5,774411,"Brooklyn, NY 11207",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.25,None
+6,774420,"Chicago, IL 60654",U-lock and cable,"Other situation, please describe below",2020.6.25,Reported
+7,778777,"East Sacramento, CA 95819",Cable lock,"Lock was cut, and left at the scene",2020.6.25,Reported
+8,774366,"Oakland, CA 94602",None,None,2020.6.25,None
+0,774280,"Hyattsville, MD 20782-2984",None,None,2020.6.25,None
+1,774464,"New Orleans, LA 70130",None,None,2020.6.25,None
+2,765173,"Washburn and Allen, North Las Vegas, NV 89031",Not locked,"Other situation, please describe below",2020.6.25,None
+0,774477,"Portland, OR 97214",Not locked,Bike was not locked,2020.6.25,Reported
+1,773403,"Los Angeles, CA 90017",None,None,2020.6.25,None
+2,774451,"Redwood City, CA 94062",None,None,2020.6.25,Reported
+0,774457,"Redwood City, CA 94062",None,None,2020.6.25,Reported
+1,775347,"Denver, CO 80203",Not locked,"Other situation, please describe below",2020.6.25,None
+2,789696,"San Francisco, CA 94103",U-lock,"Lock is missing, along with the bike",2020.6.25,Reported
+3,775293,"Washington, DC 20017",Other,None,2020.6.25,Reported
+4,774200,"Portland, OR 97227",None,None,2020.6.25,None
+5,774890,"Anaheim, CA 92805",None,None,2020.6.25,None
+6,774180,"New York, NY 10009",None,None,2020.6.24,None
+0,775047,"1450 Massachusetts Ave NW, Washington, DC 22312",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.24,None
+1,775053,"S Orange Blossom Trail & Morning Drive, Orlando, FL 32839",Cable lock,"Lock was cut, and left at the scene",2020.6.24,Reported
+2,778655,"Charleston, WV 25302",None,None,2020.6.24,Reported
+3,774110,"1101 Appian Way, Mount Pleasant, MI 48858",None,None,2020.6.24,None
+4,774101,"Claredon and Newbury St, Boston, MA",None,None,2020.6.24,None
+5,774079,"48 Autumn Ln, Central Point, OR 97502",None,None,2020.6.24,None
+6,781522,"Torrance, CA 90505",None,None,2020.6.24,Reported
+7,774104,"1351 SW Arvonia Pl, Topeka, KS 66615",U-lock and cable,"Lock was cut, and left at the scene",2020.6.24,Reported
+0,774075,"2937 Washington St., San Francisco, CA 94115",None,"Lock was cut, and left at the scene",2020.6.24,None
+1,774021,"San Jose, CA 95133",Not locked,Bike was not locked,2020.6.24,None
+2,744410,"Los Angeles, CA 90022",None,None,2020.6.24,None
+3,785289,"Minneapolis, MN 55406",Cable lock,"Lock was cut, and left at the scene",2020.6.24,Reported
+4,773828,"935 Ocean Avenue , Ocean City, NJ 08226",None,None,2020.6.24,None
+5,774183,"Portland, OR 97215",Not locked,None,2020.6.24,Reported
+6,780209,"Irvine, CA 92612",Other,"Lock is missing, along with the bike",2020.6.24,Reported
+7,773768,"367 Santana Heights, San Jose, CA 95128",None,None,2020.6.24,None
+0,773665,"Palo Alto, CA 94306",None,None,2020.6.24,None
+1,773664,"Seattle, WA 98119",None,None,2020.6.24,None
+2,773663,"Omaha, NE 68106",None,None,2020.6.24,None
+3,773370,"Marina Del Rey, CA 90292",U-lock,"Lock is missing, along with the bike",2020.6.24,Reported
+4,776349,"427 water st, Dayton, OH 45402",None,"Lock was cut, and left at the scene",2020.6.24,Reported
+5,773463,"Middlebury, VT 05753",None,None,2020.6.24,None

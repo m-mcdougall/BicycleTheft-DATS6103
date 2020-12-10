@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,406831,"Cambridge, MA 02139",U-lock,"Lock was cut, and left at the scene.",2018.8.7,Reported
+1,406817,"Ballard, WA 98107",Cable lock,"Lock was cut, and left at the scene.",2018.8.7,Reported
+2,406754,"Seattle, WA 98108",None,None,2018.8.7,None
+3,406792,"Seattle, WA 98105",Cable lock,"Lock is missing, along with the bike.",2018.8.7,Reported
+4,406724,"Washington, DC 20002",None,None,2018.8.7,None
+5,406720,"Wheat Ridge, CO 80033",Other,"Lock was opened, and left unharmed at the scene.",2018.8.7,Reported
+6,406924,"Dillon, CO 80435",Cable lock,"Lock was cut, and left at the scene.",2018.8.7,Reported
+7,406877,"Pasadena, CA 91125",Cable lock,"Lock is missing, along with the bike.",2018.8.7,Reported
+0,406923,"Portland, OR 97214",Not locked,Bike was not locked,2018.8.7,Reported
+1,406771,"Seattle, WA 98121",Cable lock,"Lock is missing, along with the bike.",2018.8.7,Reported
+2,406632,"Salt Lake City, UT 84124",Not locked,Bike was not locked,2018.8.7,Reported
+3,406812,"Mounds View, MN 55112",Heavy duty bicycle security chain,Bike was not locked,2018.8.7,Reported
+4,406594,"Seattle, WA 98105",U-lock,None,2018.8.7,Reported
+5,406589,"Seattle, WA 98103",None,None,2018.8.7,None
+6,406579,"Austin, TX 78727",U-lock,"Lock is missing, along with the bike.",2018.8.7,None
+7,406578,"Portland, OR 97214",U-lock and cable,"Lock is missing, along with the bike.",2018.8.7,None
+0,406544,"Arlington, VA 22201",Cable lock,"Lock is missing, along with the bike.",2018.8.7,Reported
+1,406545,"Dania, FL 33004",None,None,2018.8.7,None
+2,406555,"Washington, DC 20009",None,"Other situation, please describe below.",2018.8.7,Reported
+3,406538,"Wildey St, PA 19123",Cable lock,"Lock is missing, along with the bike.",2018.8.7,Reported
+4,407042,"Seattle, WA 98107",None,None,2018.8.7,Reported
+5,406541,"Indianapolis, IN 46219",Cable lock,"Lock is missing, along with the bike.",2018.8.7,None
+6,406930,"Lafayette, LA 70501",Cable lock,"Other situation, please describe below.",2018.8.7,Reported
+7,638849,"Redmond, WA 98053",Not locked,None,2018.8.7,Reported
+8,408079,"Portland, OR 97201",Cable lock,"Lock was cut, and left at the scene.",2018.8.7,Reported
+0,408167,"Portland, OR 97201",None,None,2018.8.7,Reported
+1,406768,"Seattle, WA 98136",Not locked,None,2018.8.7,Reported
+2,406494,"Jersey City, NJ 07307",Other,"Other situation, please describe below.",2018.8.7,Reported
+3,406516,"Oakland, CA",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2018.8.7,Reported
+4,406517,"Frontrunner Station, UT 84020",Not locked,"Other situation, please describe below.",2018.8.7,Reported
+5,407131,"Honolulu, HI 96826",Cable lock,"Lock is missing, along with the bike.",2018.8.6,None
+6,406522,"Los Angeles, CA 90045",None,None,2018.8.6,None
+0,406506,"Slc, UT 84111",None,None,2018.8.6,Reported
+1,407066,"Philadelphia, PA 19104",None,None,2018.8.6,None
+2,447570,"Buffalo, NY 14222",None,None,2018.8.6,None
+3,406464,"Portland, OR 97227",None,None,2018.8.6,Reported
+4,406489,"San Francisco, CA 94103",Cable lock,"Lock was cut, and left at the scene.",2018.8.6,None
+5,406459,"Portland, OR 97227",None,None,2018.8.6,None
+6,406455,"Chicago, IL 60618",None,None,2018.8.6,None
+0,406444,"Ann Arbor, MI 48104",Cable lock,"Lock was cut, and left at the scene.",2018.8.6,None
+1,406432,"Seattle, WA 98115",None,None,2018.8.6,None
+2,406425,"Buffalo, NY",None,None,2018.8.6,None
+3,407107,"Mountain View, CA 94041",U-lock,Bike was not locked,2018.8.6,Reported
+4,406390,"Seattle, WA 98115",U-lock and cable,"Lock is missing, along with the bike.",2018.8.6,None
+5,406345,"San Jose, CA 95133",Not locked,None,2018.8.6,None
+6,407270,"Buffalo, NY 14214",Cable lock,"Lock is missing, along with the bike.",2018.8.6,Reported
+7,406410,"Portland, OR 97206",Not locked,None,2018.8.6,Reported
+0,406549,"Seattle, WA 98112",Not locked,"Other situation, please describe below.",2018.8.6,None
+1,406543,"Tucson, AZ 85756",U-lock,None,2018.8.6,None
+2,406590,"Seattle, WA 98115",None,None,2018.8.6,Reported
+3,408234,"Temecula, CA 92592",None,None,2018.8.6,Reported
+4,407126,"Seattle, WA 98103",U-lock,"Lock is missing, along with the bike.",2018.8.6,Reported
+5,406435,"Gladstone, OR 97027",U-lock,"Lock is missing, along with the bike.",2018.8.6,Reported
+6,406438,"Gladstone, OR 97027",U-lock,"Lock is missing, along with the bike.",2018.8.6,Reported
+7,406361,"Atlanta, GA 30306",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised.",2018.8.6,None
+0,406342,"Mountain View, CA 94040",None,None,2018.8.5,None
+1,407328,"Los Angeles, CA 90034",None,None,2018.8.5,Reported
+2,406343,"Mountain View, CA 94040",Cable lock,"Lock was cut, and left at the scene.",2018.8.5,Reported
+3,407190,"Denver, CO 80209",Cable lock,"Lock was cut, and left at the scene.",2018.8.5,Reported
+4,406404,"El Paso, TX 79912",Cable lock,"Lock is missing, along with the bike.",2018.8.5,None
+5,496892,"New Orleans, LA 70116",None,None,2018.8.5,Reported
+0,407071,"Portland, OR 97209",U-lock,"Lock is missing, along with the bike.",2018.8.5,None
+1,465846,"Culver City, CA 90232",Cable lock,"Lock was cut, and left at the scene.",2018.8.5,None
+2,406285,"Jersey City, NJ 07307",None,None,2018.8.5,None
+3,406170,"Pittsburgh, PA 15224",None,None,2018.8.5,Reported
+4,406881,"Louisville, KY 40207",Cable lock,None,2018.8.5,Reported
+5,406257,"San Francisco, CA 94105",None,None,2018.8.5,None
+0,407441,"White Bear Lake, MN 55110",Not locked,None,2018.8.5,Reported
+1,406248,"Austin, TX 78705",U-lock,"Other situation, please describe below.",2018.8.5,None
+2,406258,"Brooklyn, NY 11201",U-lock,"Lock was opened, and left unharmed at the scene.",2018.8.5,None
+3,406575,"San Francisco, CA 32920",U-lock,"Lock was opened, and left unharmed at the scene.",2018.8.5,Reported
+4,406264,"Portland, OR 97214",None,None,2018.8.5,None
+5,408132,"Houston, TX 77006",Not locked,Bike was not locked,2018.8.5,Reported
+6,406346,"Seattle, WA 98103",Cable lock,"Lock was opened, and left unharmed at the scene.",2018.8.5,Reported
+7,406548,"Millcreek, UT 84106",None,None,2018.8.5,Reported

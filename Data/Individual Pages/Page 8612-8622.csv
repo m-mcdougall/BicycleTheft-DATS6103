@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,4977,"Erie, PA 16504",None,None,2007.7.11,None
+1,11160,"Austin, TX 78722",None,None,2007.7.11,None
+2,5074,"Boulder, CO 80302",None,None,2007.7.11,None
+3,5396,"Cambridge, MA 02139",None,None,2007.7.11,None
+4,5715,"Boston, MA 02115",None,None,2007.7.10,None
+5,4974,"Portland, OR 97205",None,None,2007.7.10,None
+6,8938,"St. Petersburg, FL 33712",None,None,2007.7.10,None
+7,5372,"Philadelphia, PA 19103",None,None,2007.7.9,None
+8,5632,"Hillsboro, OR 97124",None,None,2007.7.9,None
+9,5375,"Berkeley, CA 94704",None,None,2007.7.8,None
+0,10834,"Hawthorne, NJ 07506",None,None,2007.7.7,None
+1,18190,"Astoria, NY 11105",None,None,2007.7.7,None
+2,5009,"Cheney, WA 99004",None,None,2007.7.7,None
+3,5373,"San Francisco, CA 94102",None,None,2007.7.7,None
+4,5368,"Mercer Island, WA 98040",None,None,2007.7.7,None
+5,5390,"Seattle, WA 98118",None,None,2007.7.7,None
+6,5367,"St. Louis, MO 63132",None,None,2007.7.6,None
+7,5089,"San Diego, CA 92109",None,None,2007.7.6,None
+8,5365,"Seattle, WA 98112",None,None,2007.7.6,None
+9,11133,"Portland, OR 97232",None,None,2007.7.5,None
+0,5447,"Minneapolis, MN 55406",None,None,2007.7.5,None
+1,5405,"Portland, OR 97206",None,None,2007.7.4,None
+2,5072,"Arlington, VA 22202",None,None,2007.7.3,None
+3,4917,"Mesa, AZ 85205",None,None,2007.7.2,None
+4,5360,"San Diego, CA 92108",None,None,2007.7.2,None
+5,5362,"Spokane, WA 99202",None,None,2007.7.1,None
+6,10829,"San Marcos, CA 92078",None,None,2007.7.1,None
+7,5246,"Annapolis, MD 21403",None,None,2007.7.1,None
+8,5359,"Chicago, IL 60613",None,None,2007.7.1,None
+9,5713,"Bozeman, MT 59715",None,None,2007.6.30,None
+0,10835,"Swanzey, NH 03446",None,None,2007.6.30,None
+1,463997,"Santa Barbara, CA 93106",Cable lock,None,2007.6.30,Reported
+2,10830,"Ann Arbor, MI 48104",None,None,2007.6.28,None
+3,11158,"Chicago, IL 60604",None,None,2007.6.28,None
+4,5363,"Lexington, KY 40508",None,None,2007.6.27,None
+5,5577,"Columbus, OH 43201",None,None,2007.6.27,None
+6,5357,"Madison, OH 44057",None,None,2007.6.26,None
+7,5364,"Baltimore, MD 21211",None,None,2007.6.26,None
+8,5069,"Buffalo, NY 14222",None,None,2007.6.25,None
+9,5712,"Oakland, CA 94611",None,None,2007.6.24,None
+0,5356,"Cincinnati, OH 45219",None,None,2007.6.23,None
+1,10820,"Spokane, WA 99203",None,None,2007.6.23,None
+2,5355,"Philadelphia, PA 19147",None,None,2007.6.23,None
+3,5353,"Bellevue, NE 68123",None,None,2007.6.23,None
+4,10818,"Fremont, CA 94536",None,None,2007.6.22,None
+5,10822,"Seattle, WA 98104",None,None,2007.6.21,None
+6,5714,"Chelsea, MI 48118",None,None,2007.6.20,None
+7,5358,"Sherman Oaks, CA 91403",None,None,2007.6.20,None
+8,5352,"San Francisco, CA 94105",None,None,2007.6.20,None
+9,5350,"San Francisco, CA 94110",None,None,2007.6.20,None
+0,4969,"Seattle, WA 98103",None,None,2007.6.19,None
+1,5066,"Milwaukee, WI 53233",None,None,2007.6.19,None
+2,5348,"Falls Church, VA 22043",None,None,2007.6.19,None
+3,11078,"Salt Lake City, UT 84102",None,None,2007.6.19,None
+4,26385,"San Francisco, CA 94103",None,None,2007.6.19,Reported
+5,5606,"Indianapolis, IN 46205",None,None,2007.6.18,None
+6,5349,"St. Louis, MO 63130",None,None,2007.6.18,None
+7,4971,"Long Beach, CA 90804",None,None,2007.6.18,None
+8,11074,"Portland, OR 97211",None,None,2007.6.17,None
+9,5608,"Fort Worth, TX 76133",None,None,2007.6.17,None
+0,5344,"Houston, TX 77006",None,None,2007.6.16,None
+1,5347,"Burien, WA 98148",None,None,2007.6.16,None
+2,11098,"Provo, UT 84604",None,None,2007.6.16,None
+3,5345,"Denver, CO 80216",None,None,2007.6.16,None
+4,4972,"Denver, CO 80203",None,None,2007.6.16,None
+5,5070,"Seattle, WA 98101",None,None,2007.6.16,None
+6,4919,"San Diego, CA 92122",None,None,2007.6.15,None
+7,5342,"Montreal, NY 27516",None,None,2007.6.15,None
+8,5346,"San Francisco, CA 94114",None,None,2007.6.15,None
+9,5710,"Cordova, TN 38018",None,None,2007.6.14,None
+0,8336,"Tempe, AZ 85281",None,None,2007.6.13,None
+1,5341,"Merrick, NY 11566",None,None,2007.6.13,None
+2,4970,"College Park, MD 20740",None,None,2007.6.12,None
+3,10814,"Holland State Park, MI 49424",None,None,2007.6.11,None
+4,5340,"Columbus, OH 43202",None,None,2007.6.11,None
+5,5338,"Bend, OR 97702",None,None,2007.6.9,None
+6,4968,"Washington, DC 20015",None,None,2007.6.9,None
+7,5065,"Colorado Springs, CO 80903",None,None,2007.6.9,None
+8,5337,"Washington, DC 20001",None,None,2007.6.8,None
+9,5381,"Lowell, MA 01852",None,None,2007.6.8,None
+0,11065,"Santa Cruz, CA 95060",None,None,2007.6.8,None
+1,5532,"Circleville, OH 43113",None,None,2007.6.7,None
+2,4967,"Citrus Heights, CA 95621",None,None,2007.6.6,None
+3,10847,"Richmond, VA 23220",None,None,2007.6.6,None
+4,5008,"Portland, ME 04101",None,None,2007.6.5,None
+5,5351,"San Francisco, CA 94117",None,None,2007.6.4,None
+6,5064,"Seattle, WA 98103",None,None,2007.6.3,None
+7,5708,"Mendin, NV 89423",None,None,2007.6.2,None
+8,11063,"Wildwood, NJ 08260",None,None,2007.6.2,None
+9,10804,"Ridge Crest, CA 93555",None,None,2007.6.2,None
+0,8546,"Wilmette, IL 60091",None,None,2007.6.1,None
+1,5334,"Pittsburgh, PA 15217",None,None,2007.6.1,None
+2,15490,"Carson, NV 89706",None,None,2007.6.1,Reported
+3,5336,"Amherst, MA 01003",None,None,2007.6.1,None
+4,5335,"Pittsburgh, PA 15217",None,None,2007.6.1,None
+5,7622,"Rotterdam, NY 12303",None,None,2007.6.1,None
+6,5711,"Portland, OR 97214",None,None,2007.6.1,None
+7,5459,"Richmond, VA 23226",None,None,2007.6.1,None

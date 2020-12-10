@@ -1,0 +1,79 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,614952,"Chicago, IL 60610",U-lock,"Lock was cut, and left at the scene",2020.10.8,Reported
+1,932038,"Boise, ID 83702",Cable lock,"Lock was cut, and left at the scene",2020.10.8,Reported
+2,931898,"Berkeley, CA 94705",U-lock,None,2020.10.8,Reported
+3,658119,"Washington, DC 20011-6418",Not locked,"Other situation, please describe below",2020.10.8,Reported
+4,931869,"Goshen, IN 46528",None,None,2020.10.8,None
+5,931873,"Federal Heights, CO 80260",None,None,2020.10.8,Reported
+0,931795,"Hoboken, NJ 07030 ",None,"Lock is missing, along with the bike",2020.10.8,None
+1,931799,"Los Angeles, CA 90025",U-lock,None,2020.10.8,Reported
+2,931806,"Santa Monica, CA 90403",None,None,2020.10.8,None
+3,932928,"1019 La Rue Road, Davis, CA 95616",Cable lock,"Lock is missing, along with the bike",2020.10.8,Reported
+4,931783,"Oakdale, MN 55128",Not locked,None,2020.10.8,None
+5,931780,"Pony Express Self Storage 180 Bromley Business Pkwy , Brighton, CO 80601",U-lock and cable,None,2020.10.8,Reported
+6,933575,"1035 Broadripple Ave, Indianapolis, IN 46220",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.8,Reported
+7,934490,"New Orleans, LA 70115",None,None,2020.10.8,None
+8,931752,"Calgary, T2S0J7",None,None,2020.10.8,None
+0,931746,"Redwood, CA 94063",Not locked,None,2020.10.8,Reported
+1,933307,"Eugene, OR 97408",None,None,2020.10.8,Reported
+2,931701,"Washington, DC 20005",U-lock,None,2020.10.8,None
+3,932124,"Eugene, OR 97403-1753",None,None,2020.10.8,Reported
+4,936762,"Pueblo, CO 81004",Not locked,Bike was not locked,2020.10.8,None
+5,931674,"931 E. Harmony Road, Ft. Collins, CO 80525",None,None,2020.10.8,Reported
+6,931679,"931 E. Harmony Road, Ft. Collins, CO 80525",None,None,2020.10.8,Reported
+7,931684,"931 E. Harmony Road, Ft. Collins, CO 80525",None,None,2020.10.8,Reported
+0,931680,"931 E. Harmony Road, Ft. Collins, CO 80525",None,None,2020.10.8,Reported
+1,931681,"931 E. Harmony Road, Ft. Collins, CO 80525",None,None,2020.10.8,Reported
+2,931682,"931 E. Harmony Road, Ft. Collins, CO 80525",None,None,2020.10.8,Reported
+3,931683,"931 E. Harmony Road, Ft. Collins, CO 80525",None,None,2020.10.8,Reported
+4,931686,"931 E. Harmony Road, Ft. Collins, CO 80525",None,None,2020.10.8,Reported
+5,931893,"Pittsburgh, PA 15217",None,None,2020.10.8,Reported
+6,931643,"100 NW 85th St, Seattle, WA 98117",Not locked,"Other situation, please describe below",2020.10.8,Reported
+0,931665,"Jamaica Plain, MA 02130",None,None,2020.10.8,None
+1,932283,"San Francisco, CA 94118",None,None,2020.10.8,None
+2,932269,"San Francisco, CA 94118",None,None,2020.10.8,None
+3,932273,"San Francisco, CA 94118",None,None,2020.10.8,None
+4,933167,"Castle Rock, CO 80109",None,None,2020.10.8,None
+5,749572,"Seattle, WA 98105",Cable lock,"Lock was cut, and left at the scene",2020.10.8,Reported
+6,932627,"Washington, DC 20016",None,None,2020.10.8,Reported
+7,727499,"17th and Clayton, San Francisco, CA 94114",U-lock and cable,"Lock was cut, and left at the scene",2020.10.8,Reported
+0,931868,"Goshen, IN 46528",None,None,2020.10.8,None
+1,932335,"San Francisco, CA 94122",None,None,2020.10.8,Reported
+2,932712,"San Francisco, CA 94122",None,None,2020.10.8,Reported
+3,673239,"Seattle, WA 98103",U-lock,"Lock is missing, along with the bike",2020.10.8,Reported
+4,948642,"Chicago, IL 60647",Not locked,"Other situation, please describe below",2020.10.8,Reported
+5,931768,"Newport Beach, CA 92663",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.8,Reported
+6,931669,"1055 Dickson Pl NE, Atlanta, GA 30309",Cable lock,"Lock is missing, along with the bike",2020.10.8,Reported
+7,931787,"1055 Dickson Pl NE, Atlanta, GA 30309",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.10.8,Reported
+8,932113,"North Hollywood, CA 91601",None,None,2020.10.8,Reported
+0,931532,"Flagstaff, AZ 86004",Cable lock,"Lock is missing, along with the bike",2020.10.7,None
+1,931515,"Denver, CO 80207",Not locked,None,2020.10.7,Reported
+2,931531,"Flagstaff, AZ 86004",Cable lock,"Lock is missing, along with the bike",2020.10.7,None
+3,931512,"Cambridge, MA 02139",Cable lock,"Lock was cut, and left at the scene",2020.10.7,Reported
+4,931835,"Madison, WI 53704",None,None,2020.10.7,None
+5,931529,"Foster City, CA 94404",U-lock and cable,"Lock is missing, along with the bike",2020.10.7,None
+6,931499,"Erath, LA 70533",None,None,2020.10.7,None
+7,933929,"Washington, DC 20002",None,None,2020.10.7,Reported
+0,862573,"Seattle, WA 98121",U-lock,None,2020.10.7,None
+1,931474,"San Jose, CA 95131",None,None,2020.10.7,None
+2,268237,"Albany, CA 94720",None,None,2020.10.7,None
+3,411473,"Bend, OR 97702",Not locked,Bike was not locked,2020.10.7,None
+4,931462,"Fort Collins, CO 80152",None,None,2020.10.7,None
+5,931453,"Davis, CA",None,None,2020.10.7,None
+6,931445,"San Francisco, CA 94122",None,None,2020.10.7,None
+7,931897,"545 San Antonio Rd, Mountain View, CA 94040",Cable lock,"Other situation, please describe below",2020.10.7,Reported
+0,931606?locale=en,"Tulsa, OK 74112",None,None,2020.10.7,Reported
+1,931545,"Portland, OR 97232",None,None,2020.10.7,Reported
+2,931387,"Seattle, WA 98122",Not locked,Bike was not locked,2020.10.7,Reported
+3,931878,"1618 Black Lake Blvd, Olympia, WA",None,None,2020.10.7,Reported
+4,943679,"Portland, OR 97206",Not locked,Bike was not locked,2020.10.7,Reported
+0,665749,"5209 Renton Ave S., Seattle, WA 98118",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.10.7,None
+1,931348,"5460 S University ave, Chicago, IL 60637",Cable lock,"Lock is missing, along with the bike",2020.10.7,Reported
+2,931467,"724 north 30th, Lincoln, NE 68503",Not locked,Bike was not locked,2020.10.7,None
+3,931306,"Columbus, OH 43210",None,None,2020.10.7,None
+4,939481,"Boston, MA 02116",Not locked,"Other situation, please describe below",2020.10.7,None
+5,931314,"Boise, ID 83702",None,None,2020.10.7,Reported
+6,924649,"Washington, DC 20003",None,None,2020.10.7,Reported
+7,931308,"Madison, WI 53703",Cable lock,"Lock is missing, along with the bike",2020.10.7,Reported
+8,933683,"Culver City, CA 90232",None,None,2020.10.7,Reported
+9,931293,"San Francisco, CA 94122",U-lock,"Lock is missing, along with the bike",2020.10.7,Reported

@@ -1,0 +1,90 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,7691,"Notre Dame, IN 46556",None,None,2008.6.4,None
+1,7820,"Chester, VA 23836",None,None,2008.6.4,None
+2,6658,"Medford, MA 02155",None,None,2008.6.4,None
+3,6373,"Chicago, IL 60615",None,None,2008.6.3,None
+4,7853,"Washington, DC 20064",None,None,2008.6.3,None
+5,7838,"Magna, UT 84044",None,None,2008.6.3,None
+6,9451,"Milwaukee, WI 53207",None,None,2008.6.3,None
+7,9588,"Houston, TX 77006",None,None,2008.6.3,None
+0,9426,"Cambridge, MA 02139",None,None,2008.6.3,None
+1,5865,"Takoma Park, MD 20912",None,None,2008.6.2,None
+2,6371,"Santa Monica, CA 90401",None,None,2008.6.2,None
+3,6650,"Washington, DC 20005",None,None,2008.6.2,None
+4,7816,"Boise, ID 83706",None,None,2008.6.2,None
+5,9424,"Shawnee, OK 74801",None,None,2008.6.2,None
+6,7878,"Mar Vista, CA 90066",None,None,2008.6.2,None
+7,5926,"Portland, OR 97209",None,None,2008.6.1,None
+0,8087,"Fort Collins, CO 80526",None,None,2008.6.1,None
+1,8069,"Minneapolis, MN 55113",None,None,2008.6.1,None
+2,8187,"Honolulu, HI 96826",None,None,2008.6.1,None
+3,9150,"New Hope, MN 55428",None,None,2008.6.1,None
+4,11014,"Fresno, CA 93704",None,None,2008.6.1,None
+5,10556,"Washington, DC 20037",None,None,2008.6.1,None
+6,5921,"Raleigh, NC 27605",None,None,2008.6.1,None
+7,5839,"Fort Smith, AR 72903",None,None,2008.6.1,Reported
+8,6064,"New Hope, MN 55428",None,None,2008.6.1,None
+9,6692,"Bridgeport, CT 06604",None,None,2008.6.1,None
+0,7852,"Lackawanna, NY 14218",None,None,2008.6.1,None
+1,6656,"Washington, DC 20037",None,None,2008.6.1,None
+2,7090,"Seatttle, WA 98115",None,None,2008.6.1,Reported
+3,8189,"Chicago, IL 60622",None,None,2008.6.1,None
+4,6380,"St. Paul, MN 55104",None,None,2008.6.1,None
+5,7954,"Tucson, AZ 85719",None,None,2008.6.1,None
+6,6297,"Minneapolis, MN 55405",None,None,2008.5.31,None
+7,11010,"Philadelphia, PA 19116",None,None,2008.5.31,None
+8,7743,"Madison, WI 53726",None,None,2008.5.31,None
+0,9689,"Bellingham, WA 98225",None,None,2008.5.31,Reported
+1,6676,"San Francisco, CA 94107",None,None,2008.5.30,None
+2,7724,"La Jolla, CA 92092",None,None,2008.5.30,None
+3,8044,"Santa Rosa, CA 95404",None,None,2008.5.30,None
+4,9406,"New York, NY 10002",None,None,2008.5.30,None
+5,7811,"Lincoln, NE 68506",None,None,2008.5.30,None
+6,7662,"La Jolla, CA 92092",None,None,2008.5.30,None
+7,7855,"Washington, DC 20002",None,None,2008.5.30,None
+8,7665,"Minneapolis, MN 55405",None,None,2008.5.30,None
+0,11033,"Santa Rosa, CA 95404",None,None,2008.5.30,None
+1,8040,"Santa Rosa, CA 95404",None,None,2008.5.30,None
+2,11013,"Portland, OR 97201",None,None,2008.5.29,None
+3,6647,"Chicago, IL 60611",None,None,2008.5.29,None
+4,7900,"Columbus, OH 43210",None,None,2008.5.29,None
+5,6634,"Pittsburgh, PA 15217",None,None,2008.5.28,None
+6,7686,"Santa Cruz, CA 95060",None,None,2008.5.28,None
+7,7020,"Madeira Beach, FL 33708",None,None,2008.5.28,None
+8,7661,"Jacksonville, FL 32217",None,None,2008.5.28,None
+9,7683,"Columbus, OH 43230",None,None,2008.5.28,None
+0,7684,"Back Bay, MA 02115",None,None,2008.5.28,None
+1,9532,"Laramie, WY 82070",None,None,2008.5.27,None
+2,6369,"San Francisco, CA 94108",None,None,2008.5.27,None
+3,6361,"Greenville, NC 27858",None,None,2008.5.27,None
+4,11031,"Anchorage, AK 99577",None,None,2008.5.27,None
+5,6451,"Santa Barbara, CA 93101",None,None,2008.5.27,None
+6,8522,"Long Beach, CA 90803",None,None,2008.5.27,None
+7,6723,"Newport Beach, CA 92663",None,None,2008.5.26,None
+8,6794,"Watertown, MA 02472",None,None,2008.5.26,None
+9,6641,"Gainesville, FL 32603",None,None,2008.5.26,None
+0,8306,"Asheville, NC 28806",None,None,2008.5.26,None
+1,5907,"Chicago, IL 60611",None,None,2008.5.25,None
+2,6639,"Portland, OR 97202",None,None,2008.5.25,None
+3,7720,"Seattle, WA 98115",None,None,2008.5.24,None
+4,6296,"Washington, DC 20036",None,None,2008.5.24,None
+5,7675,"Buffalo, NY 14222",None,None,2008.5.24,None
+6,7285,"Atlanta, GA 30308",None,None,2008.5.23,None
+7,8008,"Green Bay, WI 54303",None,None,2008.5.23,None
+0,8334,"San Luis Obispo, CA 93405",None,None,2008.5.23,None
+1,7802,"Princeton, NJ 08540",None,None,2008.5.22,None
+2,6645,"San Francisco, CA 94121",None,None,2008.5.21,None
+3,6671,"Lake Charles, LA 70607",None,None,2008.5.21,None
+4,7678,"Ukiah, CA 95482",None,None,2008.5.21,None
+5,7872,"Atlanta, GA 30318",None,None,2008.5.21,None
+6,6665,"Chicago, IL 60622",None,None,2008.5.20,None
+7,7659,"Pasadena, CA 91103",None,None,2008.5.20,None
+0,5914,"Seattle, WA 98105",None,None,2008.5.20,None
+1,7294,"Ithaca, NY 14850",None,None,2008.5.20,None
+2,12366,"Washington, DC 20016",None,None,2008.5.20,None
+3,7759,"Chattanooga, TN 37412",None,None,2008.5.19,None
+4,5908,"Cincinnati, OH 45219",None,None,2008.5.19,None
+5,7760,"Austin, TX 78704",None,None,2008.5.19,None
+6,9352,"Palo Alto, CA 94301",None,None,2008.5.19,Reported
+7,11018,"Chattanooga, TN 37412",None,None,2008.5.19,None
+8,7749,"Spokane, WA 99218",None,None,2008.5.18,None

@@ -1,0 +1,92 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,7377,"Lansing, MI 48913",None,None,2009.7.31,None
+1,7331,"Portland, OR 97217",None,None,2009.7.31,None
+2,9916,"Portland, OR 97217",None,None,2009.7.31,None
+3,8181,"Pittsburgh, PA 15213",None,None,2009.7.31,Reported
+4,9892,"New Orleans, LA 70119",None,None,2009.7.31,None
+5,9908,"Eden Prairie, MN 55347",None,None,2009.7.30,None
+6,9902,"Chicago, IL 60608",None,None,2009.7.30,Reported
+7,10457,"Malden, MA 02148",None,None,2009.7.30,None
+8,9890,"Manitou Springs, CO 28730",None,None,2009.7.30,Reported
+9,10462,"Portland, OR 97215",None,None,2009.7.30,None
+0,9958,"Colorado Springs, CO 80919",None,None,2009.7.30,Reported
+1,10000,"Bothell, WA 98012",None,None,2009.7.29,Reported
+2,8170,"Portland, OR 97232",None,None,2009.7.29,None
+3,9887,"Bend, OR 97701",None,None,2009.7.29,Reported
+4,6145,"Eugene, OR 97405",None,None,2009.7.29,None
+5,10370,"Cleveland, OH 44135",None,None,2009.7.29,None
+6,13161,"Bexley, OH 43209",None,None,2009.7.29,None
+7,5762,"Portland, OR 97217",None,None,2009.7.29,None
+8,8173,"East Lansing, MI 48823",None,None,2009.7.29,None
+9,9920,"St. Paul, MN 55102",None,None,2009.7.29,Reported
+0,8182,"Denver, CO 80211",None,None,2009.7.28,Reported
+1,8160,"East Lansing, MI 48823",None,None,2009.7.28,None
+2,9883,"Portland, OR 97214",None,None,2009.7.28,None
+3,8172,"Portland, WA 97217",None,None,2009.7.28,None
+4,8161,"South Bend, IN 46637",None,None,2009.7.28,None
+5,10368,"Valley Village, CA 91607",None,None,2009.7.28,None
+6,8126,"Portland, OR 97210",None,None,2009.7.27,None
+7,10439,"Urbana, IL 61801",None,None,2009.7.27,None
+8,19898,"Portland, OR 97217",None,None,2009.7.27,None
+9,9878,"Spokane, WA 99201",None,None,2009.7.27,Reported
+0,10135,"Manhattan, NY 10009",None,None,2009.7.27,None
+1,6135,"Portland, OR 97214",None,None,2009.7.27,None
+2,9866,"Portland, OR 97211",None,None,2009.7.27,None
+3,7366,"Sacramento, CA 95826",None,None,2009.7.27,Reported
+4,8158,"San Francisco, CA 94103",None,None,2009.7.27,Reported
+5,10375,"Portland, OR 97209",None,None,2009.7.27,None
+6,7253,"Bellevue, WA 98005",None,None,2009.7.26,None
+7,8139,"Sacramento, CA 95816",None,None,2009.7.26,None
+0,6136,"Albuquerque, NM 87106",None,None,2009.7.26,None
+1,10137,"Baltimore, MD 21204",None,None,2009.7.26,Reported
+2,12830,"Holladay, UT 84124",None,None,2009.7.26,None
+3,8128,"Portland, OR 97212",None,None,2009.7.26,Reported
+4,9874,"Portland, OR 97222",None,None,2009.7.26,None
+5,9953,"Gulfport, FL 33707",None,None,2009.7.26,None
+6,10358,"Miami Beach, FL 33141",None,None,2009.7.26,None
+7,5751,"Portland, OR",None,None,2009.7.25,None
+8,9847,"Portland, OR 97212",None,None,2009.7.25,None
+9,9845,"Portland, OR 97213",None,None,2009.7.25,None
+0,9873,"West Palm Beach, FL 33409",None,None,2009.7.25,None
+1,6236,"Oxford, MS 38655",None,None,2009.7.25,Reported
+2,6134,"Portland, OR 97213",None,None,2009.7.25,None
+3,9862,"Portland, OR 97214",None,None,2009.7.25,None
+4,7302,"Normal, IL 61761",None,None,2009.7.24,None
+5,7327,"Columbus, OH 43229",None,None,2009.7.24,Reported
+6,9917,"Chico, CA 95973",None,None,2009.7.24,None
+7,9868,"Portland, OR 97232",None,None,2009.7.24,Reported
+8,10357,"Portland, OR 97215",None,None,2009.7.24,None
+0,9898,"Woodland, CA 95695",None,None,2009.7.23,Reported
+1,7107,"Minneapolis, MN 55414",None,None,2009.7.23,None
+2,5863,"Ithaca, NY 14850",None,None,2009.7.23,Reported
+3,9901,"Woodland, CA 95695",None,None,2009.7.23,Reported
+4,9963,"Philadelphia, PA 19147",None,None,2009.7.23,Reported
+5,10401,"San Jose, CA 95120",None,None,2009.7.23,Reported
+6,10383,"Pittsburgh, PA 15213",None,None,2009.7.23,Reported
+7,10387,"Brea, CA 92821",None,None,2009.7.23,Reported
+8,6711,"Philadelphia, PA 19104",None,None,2009.7.22,None
+0,9829,"Portland, OR",None,None,2009.7.22,None
+1,7236,"Rochester, NY 14620",None,None,2009.7.22,Reported
+2,6116,"Northridge, CA 91326",None,None,2009.7.21,None
+3,7244,"Muncie, IN 47304",None,None,2009.7.21,Reported
+4,9853,"Portland, OR 97211",None,None,2009.7.21,None
+5,9825,"Portland, OR 97203",None,None,2009.7.21,Reported
+6,7109,"Eden Prairie, MN 55346",None,None,2009.7.21,Reported
+7,10348,"Portland, OR 97214",None,None,2009.7.21,None
+8,9842,"Portland, OR 97211",None,None,2009.7.21,None
+0,8066,"Seattle, WA 98104",None,None,2009.7.21,None
+1,8051,"Buchanan, MI 49107",None,None,2009.7.20,None
+2,7638,"Duluth, MN 55804",None,None,2009.7.20,Reported
+3,6590,"San Gabriel, CA 91775",None,None,2009.7.20,Reported
+4,10454,"Notre Dame, IN 46556",None,None,2009.7.20,None
+5,9795,"Portland, OR 97214",None,None,2009.7.20,None
+6,6150,"Vallejo, CA 94590",None,None,2009.7.20,None
+7,5832,"Duluth, MN 55804",None,None,2009.7.20,Reported
+8,6227,"Portland, OR 97217",None,None,2009.7.19,None
+0,6130,"Denver, CO 80218",None,None,2009.7.19,None
+1,7212,"Portland, OR 97215",None,None,2009.7.18,Reported
+2,9915,"Bellingham, WA 989225",None,None,2009.7.18,Reported
+3,9786,"Jersey City, NJ 07302",None,None,2009.7.17,None
+4,9791,"Jersey City, NJ 07302",None,None,2009.7.17,None
+5,7997,"Battle Ground, WA 98604",None,None,2009.7.17,None
+6,6219,"Westerville, OH 43081",None,None,2009.7.17,Reported

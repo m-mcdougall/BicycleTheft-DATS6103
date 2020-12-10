@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,633276,"4281 Norwalk Drive, San Jose, CA 95129",None,None,2019.7.20,None
+1,633606,"Marina Del Rey, CA 90292",None,None,2019.7.20,None
+2,634359,"Royal Oak, MI 48067",Not locked,Bike was not locked,2019.7.20,Reported
+3,633943,"Durham, NC 27705",Cable lock,"Lock was cut, and left at the scene",2019.7.20,None
+4,635314,"Missoula, MT 59801",Cable lock,"Lock was cut, and left at the scene",2019.7.20,Reported
+5,395055,"Seattle, WA 98109",Other,"Lock was cut, and left at the scene",2019.7.20,None
+6,634188,"5420 University Way NE, Seattle, WA 98105",U-lock and cable,"Lock is missing, along with the bike",2019.7.20,Reported
+7,634497,"Los Angeles, AZ 90014",None,None,2019.7.20,None
+0,635495,"New Orleans, LA 70119",None,None,2019.7.20,None
+1,634931,"Lake Charles, LA",Not locked,Bike was not locked,2019.7.19,None
+2,633135,"Indianapolis, IN 46204",None,None,2019.7.19,None
+3,388403,"Los, CA 90036",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.7.19,Reported
+4,633114,"prudential center, Cambridge, MA 02116",Cable lock,"Lock was cut, and left at the scene",2019.7.19,Reported
+5,633048,"Eugene, OR 97401",None,None,2019.7.19,None
+0,633034,"San Francisco, CA 94115",None,None,2019.7.19,None
+1,633042,"Eugene, OR 97401",None,None,2019.7.19,Reported
+2,632997,"802 n charles St, Baltimore, MD 21202",None,None,2019.7.19,Reported
+3,633196,"Encino, CA 91436",None,"Lock was cut, and left at the scene",2019.7.19,None
+4,634794,"1332 6th street, Santa Monica, CA 90401",Cable lock,"Lock is missing, along with the bike",2019.7.19,Reported
+5,604489,"Seattle, WA 98195",Cable lock,"Lock is missing, along with the bike",2019.7.19,Reported
+6,632974,"Portland, OR 97212",Not locked,"Lock is missing, along with the bike",2019.7.19,Reported
+0,632920,"White Center, WA 98106",Not locked,Bike was not locked,2019.7.19,Reported
+1,632909,"15508 Main Street, Duvall, WA 98019",Not locked,None,2019.7.19,Reported
+2,633092,"Colorado Springs, CO 80920",None,None,2019.7.19,Reported
+3,632899,"Ocoee, FL 34761",None,None,2019.7.19,Reported
+4,70962,"Seattle, WA 98122",U-lock,"Lock was cut, and left at the scene",2019.7.19,Reported
+5,654015,"3822 General Taylor St, New Orleans, LA 70125",Other,"Other situation, please describe below",2019.7.19,Reported
+6,794793,"Islip, NY 11751",None,None,2019.7.19,Reported
+7,632845,"1200 WESTERN AVE , Seattle, WA 98101",None,None,2019.7.18,Reported
+0,634513,"Broad St CVS, Riverton, NJ 08077",Not locked,"Other situation, please describe below",2019.7.18,None
+1,632765,"Seattle, WA 98115",None,"Lock was cut, and left at the scene",2019.7.18,Reported
+2,632804,"22 NE Tillamook , Portland, OR 97212-3742",Not locked,None,2019.7.18,Reported
+3,633067,"Mount Pleasant, WI 53406",Cable lock,Bike was not locked,2019.7.18,None
+4,632726,"A Lbuquerque, NM 87110",None,None,2019.7.18,None
+5,633053,"Bay View, WI 53207",None,None,2019.7.18,Reported
+6,633660,"Denver, CO 80202",U-lock and cable,"Lock was cut, and left at the scene",2019.7.18,Reported
+0,633900,"Telegraph and Victoria, Ventura, CA 93003",Cable lock,"Lock is missing, along with the bike",2019.7.18,Reported
+1,633134,"614 Eastern Parkway, Brooklyn, NY 11225",None,None,2019.7.18,None
+2,632705,"Albuquerque, NM 87110",None,None,2019.7.18,None
+3,632701,"Albuuquerque, NM 87110",None,None,2019.7.18,None
+4,632670,"Albuquerque, NM 87110",None,None,2019.7.18,None
+5,632663,"1405 NW 14th Ave, Portland, OR 97209",U-lock,"Lock was cut, and left at the scene",2019.7.18,Reported
+6,632657,"4649 Sunnyside Ave N, Seattle, WA 98103",Cable lock,"Lock was cut, and left at the scene",2019.7.18,Reported
+0,632648,"Portland, OR 97207",U-lock,"Lock was cut, and left at the scene",2019.7.18,Reported
+1,632650,"150 s 800 e, Salt Lake City, UT 84102",Not locked,Bike was not locked,2019.7.18,Reported
+2,635039,"5th St S and 2nd Ave S, Minneapolis, MN 55402",Cable lock,"Lock was cut, and left at the scene",2019.7.18,Reported
+3,632628,"2646 Menlo Ave, Los Angeles, CA 90007",U-lock,"Lock was cut, and left at the scene.",2019.7.18,None
+4,632641,"57th & Chestnut, Philadelphia, PA 19139",None,None,2019.7.18,Reported
+5,632665,"New Orleans, LA 70112",None,None,2019.7.18,None
+0,633101,"Portland, OR 97217",U-lock and cable,"Lock was cut, and left at the scene",2019.7.18,Reported
+1,634142,"Mandeville, LA 70448",None,None,2019.7.18,None
+2,636370,"Fort Worth, TX 76177",Cable lock,"Lock was cut, and left at the scene",2019.7.18,Reported
+3,632547,"Santa Cruz, CA",None,None,2019.7.18,None
+4,632521,"Seattle, WA 98109",Cable lock,"Lock is missing, along with the bike.",2019.7.17,Reported
+5,661915,"St Paul, MN 55102",None,None,2019.7.17,None
+6,598536,"Portland, OR 97213",U-lock,"Lock was cut, and left at the scene",2019.7.17,Reported
+0,632500,"12 E 64th ST APT 4, Savannah, GA 31405",Cable lock,"Lock is missing, along with the bike.",2019.7.17,Reported
+1,632491,"1250 Skipper Rd Apt 111, Tampa, FL 33613",None,None,2019.7.17,None
+2,633992,"Montclair, NJ 07042",Not locked,Bike was not locked,2019.7.17,None
+3,632449,"85 5th St NW, Atlanta, GA 30308",None,None,2019.7.17,None
+4,632440,"jefferson park station, Chicago, IL 60630",None,None,2019.7.17,None
+5,632441,"Newberg, OR 97132",None,None,2019.7.17,Reported
+6,632462,"Battery & College, Burlington, VT 05401",Cable lock,"Lock is missing, along with the bike.",2019.7.17,None
+7,633620,"San Francisco, CA",U-lock and cable,"Lock was cut, and left at the scene",2019.7.17,Reported
+8,632761,"Medical Center Metro, Bethesda, MD 20814",None,None,2019.7.17,None
+9,616691,"Helena, MT 59601",Cable lock,"Lock was cut, and left at the scene",2019.7.17,None
+0,632460,"New Brunswick, NJ 08901",Cable lock,"Lock was cut, and left at the scene",2019.7.17,Reported
+1,632512,"Santa Cruz, CA 95060",Cable lock,"Lock is missing, along with the bike.",2019.7.17,None
+2,626117,"Denver, CT",Not locked,None,2019.7.17,None
+3,634029,"Berkeley, CA 94720",U-lock,"Lock is missing, along with the bike",2019.7.17,Reported
+4,632569,"Boston, MA 02215",Other,None,2019.7.17,Reported
+5,632852,"1408 Massachusetts Ave # 1414, Cambridge, MA 02138",Cable lock,"Lock is missing, along with the bike",2019.7.17,Reported
+6,632321,"900 N Ashley Dr, Tampa, FL 33602",None,None,2019.7.17,None

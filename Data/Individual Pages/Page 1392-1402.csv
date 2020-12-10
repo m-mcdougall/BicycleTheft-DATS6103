@@ -1,0 +1,77 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,694828,"129 W 12th Ave, Columbus, OH 43210",None,None,2020.2.20,None
+1,694810,"180 New Montgomery St. , San Francisco, CA 94133",U-lock,"Lock was opened, and left unharmed at the scene",2020.2.20,Reported
+2,695348,"Tucson, AZ 85719",Cable lock,"Lock is missing, along with the bike",2020.2.20,Reported
+3,694760,"9207 Bolton Ave, , Hudson, FL 34667",None,None,2020.2.20,None
+4,694743,"Seattle, WA 98105",None,None,2020.2.20,None
+5,696101,"3360 sawtelle, Los Angeles, CA 90066",None,None,2020.2.20,None
+6,694738,"Potrero Ave and 24th Street, San Francisco, CA 94110",None,None,2020.2.20,None
+7,694737,"San Francisco, CA 94110",Other,None,2020.2.20,None
+0,706228,"Portland, OR 97232",None,None,2020.2.20,None
+1,564867,"Los Angeles, CA 90039",U-lock,"Lock was cut, and left at the scene",2020.2.20,Reported
+2,694771,"New Orleans, LA 70113",None,None,2020.2.19,None
+3,697202,"Chico, CA 95973",None,None,2020.2.19,Reported
+4,712683,"425 W Beech St, San Diego, CA 92101",U-lock,None,2020.2.19,Reported
+5,674442,"Somerville, MA 02145",Cable lock,"Lock was cut, and left at the scene",2020.2.19,Reported
+6,679469,"Anaheim, CA",Not locked,None,2020.2.19,None
+7,694606,"Seattle, WA 98112-3314",None,None,2020.2.19,None
+0,694604,"Palmetto Bay, FL 33157",None,None,2020.2.19,None
+1,694596,"Seattle, WA 98015",None,None,2020.2.19,None
+2,694602,"Los Angeles, CA 90024",U-lock,"Lock was cut, and left at the scene",2020.2.19,Reported
+3,694346,"7987 Landon pl, San Diego, CA 92126",Cable lock,"Lock is missing, along with the bike",2020.2.19,None
+4,695036,"47 W Lancaster Ave., Ardmore, PA 19003",None,None,2020.2.19,None
+5,694598,"845 Camino De La Reina (near Habit), San Diego, CA 92108",Cable lock,"Lock is missing, along with the bike",2020.2.19,Reported
+6,694573,"Seattle, WA 98105",None,None,2020.2.19,None
+7,694613,"San Francisco, CA 94107",Not locked,Bike was not locked,2020.2.19,Reported
+0,694530,"Portland, OR 97207",Cable lock,"Lock was cut, and left at the scene",2020.2.19,None
+1,694890,"1Aerospace Blvd, Daytona Beach, FL 32114",Chain with padlock,"Lock is missing, along with the bike",2020.2.19,Reported
+2,694522,"New Orleans, LA 70115",U-lock,"Lock is missing, along with the bike",2020.2.19,Reported
+3,694591,"80th and Biscayne, Miami, FL 33138",U-lock,None,2020.2.19,None
+4,695093,"Sunnyvale, CA 94086",Cable lock,"Lock is missing, along with the bike",2020.2.19,Reported
+5,694904,"1520 2nd Street, Santa Monica, CA 90401",Cable lock,"Lock is missing, along with the bike",2020.2.19,None
+6,694735,"Omaha, NE 68106",U-lock,"Lock was cut, and left at the scene",2020.2.19,None
+7,696337,"New Orleans, LA 70115",None,None,2020.2.19,None
+0,694662,"Seattle, WA 98103",Not locked,None,2020.2.19,Reported
+1,678555,"Kent, WA 98030",Cable lock,"Lock is missing, along with the bike",2020.2.19,None
+2,694403,"643 E 9th Street, New York, NY 10009",None,None,2020.2.18,None
+3,692580,"Ca, CA 94610",U-lock,"Lock is missing, along with the bike",2020.2.18,Reported
+4,694404,"Washington, DC 20011",Chain with padlock,"Lock is missing, along with the bike",2020.2.18,Reported
+5,695598,"Seattle, WA 98122",None,None,2020.2.18,Reported
+6,694965,"Tampa, FL 33635",Cable lock,"Lock is missing, along with the bike",2020.2.18,None
+7,694324,"Chicago, IL 60622",None,None,2020.2.18,Reported
+0,694304,"Clarendon and Flatbush , Brooklyn, NY 11226",None,None,2020.2.18,None
+1,694289,"New Orleans, LA 70125",None,None,2020.2.18,None
+2,694288,"4215 Durant Rd, Valrico, FL 33596",None,None,2020.2.18,None
+3,693881,"Robert @ Prytania — Street pole by ATM, New Orleans, LA 70125",None,None,2020.2.18,None
+4,693856,"Chicago, IL 60641",Not locked,"Other situation, please describe below",2020.2.18,Reported
+0,694269,"350 Newbury Street, Boston, MA 02115",Cable lock,"Lock is missing, along with the bike",2020.2.18,Reported
+1,697933,"11101 Ulmerton Rd Largo, FL 33778 Store #1701, Largo, FL 33778",Cable lock,"Lock is missing, along with the bike",2020.2.18,Reported
+2,112094,"Cambridge, MA 02139",Not locked,"Other situation, please describe below",2020.2.18,None
+3,694326,"New Orleans, LA 70115",None,None,2020.2.18,Reported
+4,694267,"New Orleans, LA 70115",Cable lock,"Lock was cut, and left at the scene",2020.2.18,Reported
+5,694179,"2612 N. Tampa Ave, Tampa, FL 33602",None,None,2020.2.17,None
+6,694171,"San Diego, CA 92103",None,None,2020.2.17,None
+7,694853,"San Francisco, CA 94107",U-lock,"Lock is missing, along with the bike",2020.2.17,Reported
+8,694149,"Portland, OR 97202",U-lock,"Other situation, please describe below",2020.2.17,None
+0,695044,"Long Beach, CA 90802",Other,None,2020.2.17,None
+1,694165,"Betheada, MD 20814",None,None,2020.2.17,None
+2,694031,"New Orleans, LA 70116",Not locked,Bike was not locked,2020.2.17,None
+3,694266,"Austin, TX 78759",Cable lock,"Lock is missing, along with the bike",2020.2.17,Reported
+4,694180,"New Orleans, LA 70130",U-lock,None,2020.2.17,Reported
+5,694013,"Upper Darby, PA 19082",None,None,2020.2.17,None
+0,698537,"Portland, OR 97214",U-lock and cable,"Lock was cut, and left at the scene",2020.2.17,Reported
+1,693983,"Seattle, WA 98104-7043",None,None,2020.2.16,None
+2,693982,"Glendale, AZ 85304",None,None,2020.2.16,None
+3,694075,"Seattle, WA 98101",None,None,2020.2.16,Reported
+4,693980,"Milpitas, CA 95035",None,None,2020.2.16,Reported
+5,693977,"900 Folsom St, San Francisco, CA 94107",U-lock,"Other situation, please describe below",2020.2.16,Reported
+6,434293,"San Francisco, CA 94114",None,None,2020.2.16,Reported
+7,693963,"Austin, TX 78723",U-lock and cable,"Lock is missing, along with the bike",2020.2.16,Reported
+0,693995,"Torrance, CA 90503",None,None,2020.2.16,None
+1,694181,"3867 E Foothill Blvd, Pasadena, CA 91107",Cable lock,"Lock is missing, along with the bike",2020.2.16,Reported
+2,694174,"Mc Kinney, TX 75072",None,None,2020.2.16,Reported
+3,678939,"Denver, CO 80206",None,None,2020.2.16,Reported
+4,693917,"Baltimore, MD 21217",Cable lock,"Lock was cut, and left at the scene",2020.2.16,Reported
+5,694192,"343 Cumberland St, San Francisco, CA 94114",Other,None,2020.2.16,None
+6,693876,"Pleasant Hill, CA 94523",None,None,2020.2.16,None
+7,693870,"1528 CUNNINGHAM PARC LN, Houston, TX 77055",Cable lock,"Lock is missing, along with the bike",2020.2.16,None

@@ -1,0 +1,77 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,599306,"Helena, MT 59601",None,None,2019.4.5,Reported
+1,599297,"9 Redcliffe Avenue, Highland Park, NJ 08904",Cable lock,"Lock is missing, along with the bike.",2019.4.5,None
+2,599303,"805 Fremont, Manhattan, KS 66502",Cable lock,"Lock is missing, along with the bike.",2019.4.5,None
+3,600317,"Seattle, WA 98115",U-lock,"Lock is missing, along with the bike.",2019.4.5,Reported
+4,599300,"Saint Louis, MO 63108",None,Bike was not locked,2019.4.5,Reported
+5,600360,"1516 NW 51st st, Seattle, WA 98107",U-lock and cable,"Lock is missing, along with the bike.",2019.4.5,None
+0,600391,"Los Angeles, CA 90004",None,None,2019.4.4,Reported
+1,599133,"Seattle, WA 98107",Other,Bike was not locked,2019.4.4,Reported
+2,603401,"Knoxville, TN 37919",None,None,2019.4.4,None
+3,599158,"6334 Rainier Ave S, Apt. 110, Seattle, WA 98122",None,None,2019.4.4,None
+4,599157,"Philadelphia, PA 19107",Not locked,Bike was not locked,2019.4.4,Reported
+5,601247,"4313 N. 21st Drive, Phoenix, AZ 85015",Cable lock,"Lock is missing, along with the bike.",2019.4.4,Reported
+0,599131,"Seattle, WA 98103-7825",None,None,2019.4.3,None
+1,599116,"Montlake and N Pacific Street, Seattle, WA 98105",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.3,None
+2,599106,"Harbor City, CA 24180 Vermont Ave",Other,"Other situation, please describe below.",2019.4.3,Reported
+3,599123,"In front of burien library, Burien, WA 98166-1917",None,None,2019.4.3,None
+4,379840,"Harbor City, CA 90710",Other,"Other situation, please describe below.",2019.4.3,Reported
+5,599065,"Riverside, CA 92504",None,None,2019.4.3,None
+0,599060,"Washington, DC 20008",None,None,2019.4.3,None
+1,599146,"Aberdeen, MD 21001",None,Bike was not locked,2019.4.3,None
+2,599693,"Berkeley, CA 94707",None,None,2019.4.3,Reported
+3,599178,"Los Angeles, CA 90066",Other,"Other situation, please describe below.",2019.4.3,None
+4,752228,"New Orleans, LA 70116",None,None,2019.4.3,None
+5,601515,"Champaign, IL 61820",None,None,2019.4.3,Reported
+6,598997,"San Francisco, CA 94114",None,None,2019.4.3,None
+7,598949,"Spokane Valley, WA 99206",Not locked,None,2019.4.3,None
+8,598969,"Seattle, WA 98122",U-lock,"Lock is missing, along with the bike.",2019.4.3,Reported
+0,598983,"235 ne 103rd ave., Portland, OR 97220",None,None,2019.4.3,Reported
+1,599761,"540 W 149 Street, New York, NY 10031",Cable lock,"Lock is missing, along with the bike.",2019.4.3,Reported
+2,598976,"Fargo, ND 58102",None,None,None,None
+3,599013,"1400 detroit st, Denver, CO 80218",Chain with padlock,"Lock was cut, and left at the scene.",2019.4.3,Reported
+4,600162,"201 W Betz Rd, Apartment building 4, Cheney, WA 99004",Cable lock,"Lock was cut, and left at the scene.",2019.4.3,None
+5,600272,"Davis, CA 95616",U-lock,"Lock is missing, along with the bike.",2019.4.3,Reported
+6,598964,"290 California Drive, Burlingame 94010, Burlingame, CA 94010",None,None,2019.4.2,None
+7,598955,"Happy Valley, OR 97086",None,None,2019.4.2,None
+0,602956,"Los Altos, CA 94022",Cable lock,"Lock was cut, and left at the scene.",2019.4.2,Reported
+1,600648,"780 Mission St, San Francisco, CA 94103",U-lock and cable,"Other situation, please describe below.",2019.4.2,Reported
+2,598999,"8th Ave & 62 Str , Brooklyn, NY 11220",Cable lock,"Lock is missing, along with the bike.",2019.4.2,None
+3,598944,"Salmon Bay school, Seattle, WA 98117",Not locked,None,2019.4.2,Reported
+4,125758,"Tacoma, WA 98405",Cable lock,Bike was not locked,2019.4.2,None
+5,598925,"1601 13th Ave, Seattle, WA 98102",None,None,2019.4.2,None
+6,396791,"College Park, MD 20740",U-lock,"Lock is missing, along with the bike.",2019.4.2,None
+0,598909,"Fremont, CA 94536",None,None,2019.4.2,Reported
+1,611367,"Edmonds, WA 98020",Cable lock,"Lock is missing, along with the bike.",2019.4.2,Reported
+2,599472,"Grand Junction, CO 81501",Cable lock,Bike was not locked,2019.4.2,Reported
+3,598940,"624 South La Brea Ave, Los Angeles, CA 90036",Cable lock,"Lock is missing, along with the bike.",2019.4.2,None
+4,601499,"New Orleans, LA 70117",None,None,2019.4.2,None
+5,598934,"New York, NY 10009",Chain with padlock,None,2019.4.2,Reported
+6,598868,"5560 Lexington Ave, Apt 261, San Jose, CA 95123",None,None,2019.4.2,None
+0,598867,"Paso Robles, CA 93446",None,Bike was not locked,2019.4.2,None
+1,598858,"1623 Fifth Street, Davis, CA 95616",None,None,2019.4.2,None
+2,598852,"Sacramento, CA 95816",None,None,2019.4.2,None
+3,598948,"Emeryville, CA 94608",U-lock,"Lock is missing, along with the bike.",2019.4.2,Reported
+4,598902,"3020 Westlake ave n, Seattle, WA 98109",Not locked,None,2019.4.2,Reported
+5,598817,"19315 Parthenia St, Northridge, CA , Northridge, CA 91324",Not locked,Bike was not locked,2019.4.1,None
+6,598812,"99 H St NW, Washington, DC 20002",U-lock,"Lock is missing, along with the bike.",2019.4.1,Reported
+7,634335,"Philadelphia, PA 19104",U-lock,"Lock is missing, along with the bike",2019.4.1,None
+8,598790,"Austin, TX 78729",Cable lock,"Lock was cut, and left at the scene.",2019.4.1,Reported
+0,604514,"Portland, OR 97205",Cable lock,"Lock was cut, and left at the scene.",2019.4.1,Reported
+1,598760,"515 E Elmwood Ave, Burbank, CA 91501",Cable lock,"Lock was cut, and left at the scene.",2019.4.1,Reported
+2,602041,"1630 SE Rex St, Portland, OR 97202",None,"Lock was cut, and left at the scene.",2019.4.1,None
+3,598715,"Boise, ID 83702",None,None,2019.4.1,None
+4,598713,"Little Rock, AR 72202",Cable lock,None,2019.4.1,Reported
+5,598737,"6900 E Green Lake Way N, Seattle, WA 98115",U-lock,"Lock is missing, along with the bike.",2019.4.1,Reported
+6,598714,"Boise, ID 83702",None,None,2019.4.1,None
+7,609652,"Boston, MA 02115",Cable lock,"Lock is missing, along with the bike.",2019.4.1,Reported
+8,590457,"Magna, UT 84044",Not locked,None,2019.4.1,None
+0,598688,"Eau Claire, WI 54701",Cable lock,"Lock was cut, and left at the scene.",2019.4.1,Reported
+1,562241,"Littleton, CO 80120",Cable lock,"Lock was cut, and left at the scene.",2019.4.1,None
+2,598908,"San Francisco, CA 94117",U-lock,"Lock is missing, along with the bike.",2019.4.1,None
+3,605219,"Boston, MA 02215",Cable lock,"Lock is missing, along with the bike.",2019.4.1,None
+4,598797,"Madison, WI 53705",None,None,2019.4.1,Reported
+5,600982,"St Paul, MN 55105",Not locked,None,2019.4.1,Reported
+6,598641,"12434 N Cave Creek Rd , Phoenix, AZ 85022",Cable lock,"Lock is missing, along with the bike.",2019.3.31,Reported
+7,598645,"Carmichael, CA 95608",None,None,2019.3.31,None
+8,598640,"22 ne 2nd ave, Portland, OR 97232",Not locked,"Other situation, please describe below.",2019.3.31,None

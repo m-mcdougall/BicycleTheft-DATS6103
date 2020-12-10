@@ -1,0 +1,77 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,631355,"Minneapolis, MN 55407",Other,"Other situation, please describe below.",2019.7.14,Reported
+1,631758,"New Orleans, LA 70130",None,None,2019.7.14,None
+2,632104,"Buffalo, NY 14222",None,None,2019.7.13,None
+3,637449,"Portland, OR 97209",None,None,2019.7.13,Reported
+4,631248,"Portland, OR 97217",None,None,2019.7.13,Reported
+5,632216,"Minneapolis, MN 55406",Cable lock,None,2019.7.13,Reported
+6,631281,"Maynard avenue south, south lane st, Seattle, WA",None,None,2019.7.13,None
+7,631740,"Cleveland, OH 44106",None,None,2019.7.13,None
+0,631865,"Seattle, WA 98109",Cable lock,"Lock is missing, along with the bike.",2019.7.13,Reported
+1,631207,"Modesto, CA 95350",None,None,2019.7.13,None
+2,631202,"Seattle, WA 98122",Cable lock,"Lock was cut, and left at the scene.",2019.7.13,Reported
+3,631168,"2019 S Florida Way, Fayetteville, AR 72701",None,None,2019.7.13,None
+4,645495,"Chicago, IL 60657",None,None,2019.7.13,Reported
+5,631163,"Santa Rosa, CA 95401",None,None,2019.7.13,None
+6,631119,"Washington, DC 20009",None,None,2019.7.13,None
+7,631113,"540 Barnhill Dr. , Indianapolis, IN 46202",None,None,2019.7.13,None
+0,631115,"Sandy, UT 84070",None,None,2019.7.13,None
+1,631106,"Omaha, NE 68106",Cable lock,"Lock is missing, along with the bike.",2019.7.13,None
+2,632027,"Military Road and Pacific Avenue, Spanaway, WA 98444",U-lock and cable,"Other situation, please describe below.",2019.7.13,Reported
+3,631690,"Brooklyn Park, MN 55443",Cable lock,None,2019.7.13,Reported
+4,631048,"Seattle, WA 98107",None,None,2019.7.13,None
+5,631070,"CalTrain, San Francisco, CA 94117",U-lock,Bike was not locked,2019.7.13,Reported
+6,631349,"Between east 31st and east 34th st, New York, NY 10001",U-lock,"Lock is missing, along with the bike",2019.7.13,None
+7,631495,"Cleveland, OH 44106",None,None,2019.7.13,Reported
+0,633305,"430 Buckingham Rd, Richardson, TX 75081",Cable lock,"Lock is missing, along with the bike",2019.7.13,Reported
+1,630959,"335 N Causeway, New Smyrna Beach, FL 32169",None,None,2019.7.13,None
+2,616868,"Minneapolis, MN 55404",Not locked,"Other situation, please describe below.",2019.7.13,None
+3,631513,"Seattle, WA 98109-4871",U-lock and cable,"Lock was cut, and left at the scene",2019.7.13,Reported
+4,630955,"Portland, OR 97217",None,None,2019.7.13,Reported
+5,335847,"Columbus, OH 43212",U-lock and cable,"Lock was cut, and left at the scene.",2019.7.13,Reported
+0,631389,"Wenatchee, WA 98801",None,None,2019.7.13,Reported
+1,631808,"Minneapolis, MN 55408",Not locked,Bike was not locked,2019.7.12,None
+2,631584,"Seattle, WA 98102",Cable lock,"Lock is missing, along with the bike.",2019.7.12,None
+3,630913,"Fairfield, CA 94533",None,None,2019.7.12,None
+4,631363,"Minneapolis, MN 55419",Cable lock,None,2019.7.12,Reported
+5,631720,"Boston, MA 02115",Cable lock,"Lock is missing, along with the bike.",2019.7.12,Reported
+6,630892,"cherry and 18th, Seattle, WA",Two U-locks,"Lock is missing, along with the bike.",2019.7.12,Reported
+0,631875,"New Orleans, LA 70130",None,None,2019.7.12,Reported
+1,630862,"Spokane, WA 99206",None,None,2019.7.12,Reported
+2,630839,"42d Street NW, Washington, DC 20016",Cable lock,"Lock is missing, along with the bike.",2019.7.12,None
+3,630820,"Seattle, WA 3801",U-lock and cable,"Lock was cut, and left at the scene.",2019.7.12,Reported
+4,634978,"Chicago, IL 60605",Not locked,"Other situation, please describe below",2019.7.12,Reported
+5,630823,"Seattle, WA 98103",U-lock and cable,"Lock was cut, and left at the scene.",2019.7.12,Reported
+6,631607,"Addison, IL 60101",Other,"Other situation, please describe below.",2019.7.12,Reported
+7,630782,"San Francisco, CA 94115",None,None,2019.7.12,None
+0,630768,"Seattle, WA 98103",None,None,2019.7.12,None
+1,634146,"Everett, WA 98208",None,None,2019.7.12,Reported
+2,630757,"El Cerrito, CA 94530",None,None,2019.7.12,None
+3,630878,"1601 Kings Hwy, Brooklyn, NY 11229",Chain with padlock,"Lock was opened, and left unharmed at the scene.",2019.7.12,None
+4,630750,"Seattle, WA 98199",None,None,2019.7.12,Reported
+5,630758,"El Cerrito, CA 94530",None,None,2019.7.12,None
+6,630736,"Tulsa, OK 74120",None,None,2019.7.12,None
+7,631257,"Washington, DC 20001",None,None,2019.7.12,None
+0,630553,"3511 Fawn Drive valley , Dallas, TX 75224",None,None,2019.7.12,None
+1,630557,"3511 Fawn Drive valley , Dallas, TX 75224",None,None,2019.7.12,None
+2,630694,"Portland, OR 97217",None,None,2019.7.12,Reported
+3,630710,"Buffalo, NY 14202",U-lock,"Lock is missing, along with the bike",2019.7.12,Reported
+4,631379,"Tucson, AZ 85705",Not locked,None,2019.7.12,Reported
+5,642169,"Seattle, WA 98121",None,None,2019.7.12,Reported
+6,630683,"1701 NW 56th St, Seattle, WA 98107",U-lock,"Lock was cut, and left at the scene",2019.7.12,Reported
+0,631876,"Ames, IA 50010",Cable lock,"Lock is missing, along with the bike.",2019.7.12,Reported
+1,631515,"Salt Lake City, UT 84112",None,None,2019.7.11,Reported
+2,630647,"Denver, CO",None,None,2019.7.11,None
+3,630645,"Mountain View, CA 94040",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.7.11,None
+4,409156,"Portland, OR 97203",Other,"Lock was cut, and left at the scene",2019.7.11,Reported
+5,409807,"New Orleans, LA 70113",Not locked,None,2019.7.11,None
+6,674330,"Portland, OR 97239",None,None,2019.7.11,Reported
+7,630639,"Bellingham, WA WA",Not locked,None,2019.7.11,Reported
+0,630546,"Seattle, WA 98105",None,None,2019.7.11,None
+1,630627,"Milwaukee, WI 53202",Cable lock,"Lock is missing, along with the bike.",2019.7.11,Reported
+2,630895,"New York, NY 10002",U-lock,"Lock is missing, along with the bike.",2019.7.11,None
+3,630517,"Lloyd Center LA Fitness, Portland, OR Oregon",None,None,2019.7.11,None
+4,614966,"Buffalo, NY 14213",Cable lock,"Lock was cut, and left at the scene.",2019.7.11,Reported
+5,630628,"San Jose, CA 95129",None,None,2019.7.11,Reported
+6,630466,"Metuchen Train Station, Metuchen, NJ 08837",Cable lock,"Lock is missing, along with the bike.",2019.7.11,None
+7,630696,"Buffalo, NY 14213",Not locked,None,2019.7.11,Reported

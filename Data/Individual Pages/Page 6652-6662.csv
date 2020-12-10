@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,9543,"Portland, OR 97205",None,None,2014.1.1,Reported
+1,6249,"Portland, OR 97213",None,None,2014.1.1,Reported
+2,7119,"Portland, OR 97210",None,None,2014.1.1,None
+3,7788,"Las Vegas, NV 89109",None,None,2014.1.1,None
+4,7460,"Manchester, NH 03104",None,None,2014.1.1,None
+5,9895,"Portland, OR",None,None,2014.1.1,None
+6,11096,"Portland, OR 97210",None,None,2014.1.1,None
+7,11384,"Carlsbad, CA 92008",None,None,2014.1.1,None
+8,10094,"San Francisco, CA 94103",None,None,2014.1.1,Reported
+9,377866,"Salinas, CA 93906",Cable lock,"Lock is missing, along with the bike.",2014.1.1,None
+0,99932,"Alameda, CA 94501",Not locked,None,2014.1.1,Reported
+1,6230,"Oakland, CA 94610",None,None,2013.12.31,Reported
+2,7010,"San Francisco, CA 94103",None,None,2013.12.31,None
+3,9565,"97201, OR",None,None,2013.12.31,None
+4,6255,"Santa Cruz, CA 95060",None,None,2013.12.31,Reported
+5,7461,"Indianapolis, IN 46202",None,None,2013.12.31,None
+6,6512,"Palm Springs, CA 91040",None,None,2013.12.31,Reported
+7,7000,"Tempe, AZ 85284",None,None,2013.12.31,Reported
+8,9557,"Santa Cruz, CA 95060",None,None,2013.12.31,Reported
+9,9537,"Porltnad, OR 97210",None,None,2013.12.31,Reported
+0,6238,"Tucson, AZ 85719",None,None,2013.12.31,None
+1,9648,"Clayton, CA 94517",None,None,2013.12.31,Reported
+2,8692,"San Francisco, CA 94122",None,None,2013.12.31,None
+3,6247,"Portland, OR 97210",None,None,2013.12.31,None
+4,6222,"Denver, CO 80218",None,None,2013.12.30,None
+5,6228,"Sacramento, CA 95816",None,None,2013.12.30,Reported
+6,8447,"San Francisco, CA 94123",None,None,2013.12.30,None
+7,13540,"Seattle, WA 98117",None,None,2013.12.30,None
+8,6223,"Portland, OR 97210",None,None,2013.12.30,Reported
+9,6518,"Santa Monica, CA 90403",None,None,2013.12.30,Reported
+0,6995,"San Francisco, CA 94111",None,None,2013.12.30,Reported
+1,9691,"San Francisco, CA 94107",None,None,2013.12.30,None
+2,6257,"Oakland, CA 94610",None,None,2013.12.30,None
+3,6311,"Long Beach, CA 90802",None,None,2013.12.29,None
+4,9547,"San Francisco, CA 94133",None,None,2013.12.29,None
+5,6133,"Seattle, WA 98109",None,None,2013.12.29,Reported
+6,1531,"Saint Louis, MO 63110",Not locked,"Other situation, please describe below.",2013.12.29,Reported
+7,9613,"Portland, OR 97209",None,None,2013.12.29,Reported
+8,9512,"Portland, OR 97202",None,None,2013.12.29,Reported
+9,9508,"San Diego, CA 92110",None,None,2013.12.29,Reported
+0,6290,"Portland, OR 97209",None,None,2013.12.29,Reported
+1,9523,"Portland, OR 97202",None,None,2013.12.29,None
+2,9602,"Portland, OR 97213",None,None,2013.12.29,None
+3,9497,"Palm Harbor, FL 34683",None,None,2013.12.29,Reported
+4,9606,"Portland, OR 97213",None,None,2013.12.29,Reported
+5,6240,"Seattle, WA 98122",None,None,2013.12.29,None
+6,9551,"Seattle, WA 98122",None,None,2013.12.29,Reported
+7,9510,"Davis, CA 95616",None,None,2013.12.29,None
+8,6198,"Portland, OR 97232",None,None,2013.12.28,Reported
+9,9486,"Portland, OR 97210",None,None,2013.12.28,Reported
+0,9517,"Southern Pines, NC 28387",None,None,2013.12.28,Reported
+1,8171,"Portland, OR 97202",None,None,2013.12.28,None
+2,9494,"San, CA 95117",None,None,2013.12.28,None
+3,6511,"Sacramento, South, CA 95823",None,None,2013.12.28,Reported
+4,5989,"Sacramento, CA 95823",None,None,2013.12.28,Reported
+5,6207,"Tacoma, WA 98407",None,None,2013.12.28,Reported
+6,6264,"Portland, OR 97213",None,None,2013.12.28,Reported
+7,9268,"Portland, OR 97232",None,None,2013.12.28,None
+8,9487,"Wasington Dc, DC 20036",None,None,2013.12.27,Reported
+9,9521,"Portland, OR 98709",None,None,2013.12.27,None
+0,597617,"962 e 500 s, apt b, Salt Lake City, UT 84102",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2013.12.26,None
+1,9490,"Portland, OR 97203",None,None,2013.12.26,Reported
+2,6186,"Orem, UT 84058",None,None,2013.12.26,Reported
+3,9481,"Portland, OR 97211",None,None,2013.12.26,Reported
+4,9491,"Portland, OR 97203",None,None,2013.12.26,Reported
+5,9686,"Portland, OR 97214",None,None,2013.12.26,Reported
+6,9909,"Marina Del Rey, CA 90292",None,None,2013.12.26,Reported
+7,9906,"Marina Del Rey, CA 90292",None,None,2013.12.26,Reported
+8,9283,"Portland, OR",None,None,2013.12.26,None
+9,6180,"Everett, WA 98201",None,None,2013.12.25,None
+0,7155,"Lynnwood, WA 98037",None,None,2013.12.25,None
+1,8583,"Tucson, AZ 85719",None,None,2013.12.25,Reported
+2,44288,"Orlando, FL 32803",Cable lock,"Lock was cut, and left at the scene.",2013.12.25,Reported
+3,9509,"Hoboken, NJ 07030",None,None,2013.12.24,None
+4,6279,"Seattle, WA 98103",None,None,2013.12.24,Reported
+5,9765,"Portland, OR 97206",None,None,2013.12.24,Reported
+6,6178,"San Francisco, CA 94123",None,None,2013.12.23,Reported
+7,2194,"Oakland, CA 94612",Not locked,"Other situation, please describe below.",2013.12.23,Reported
+8,6982,"Seattle, WA 98108",None,None,2013.12.23,None
+9,9470,"Huntington Beach, CA 92746",None,None,2013.12.23,Reported
+0,9574,"San Francisco, CA 94110",None,None,2013.12.23,Reported
+1,6158,"Portland, OR 97209",None,None,2013.12.23,Reported
+2,28313,"Walla Walla, WA 99362",Chain with padlock,"Lock is missing, along with the bike.",2013.12.23,Reported
+3,6183,"San Francisco, CA 94117",None,None,2013.12.22,Reported
+4,6159,"Portland, OR 97206",None,None,2013.12.22,Reported
+5,6173,"St.Louis, MO 63106",None,None,2013.12.22,Reported
+6,6196,"Albany, CA 94706",None,None,2013.12.22,Reported
+7,17202,"Portland, OR 97211",None,None,2013.12.22,None
+8,9477,"San Jose, CA 95112",None,None,2013.12.22,None
+0,9488,"Albany, CA 94706",None,None,2013.12.22,Reported
+1,6972,"Portland, OR 97210",None,None,2013.12.22,Reported
+2,9478,"San Jose, CA 95113",None,None,2013.12.22,None
+3,9489,"Albany, CA 94706",None,None,2013.12.22,Reported
+4,6209,"Santa Rosa, CA 95401",None,None,2013.12.21,Reported
+5,9587,"Seattle/Ballard, WA 98107",None,None,2013.12.21,Reported
+6,6155,"Troutdale, OR 97060",None,None,2013.12.21,Reported
+7,6151,"San Francisco, CA 94110",None,None,2013.12.21,None
+8,6652,"Portland, OR 97214",None,None,2013.12.21,None
+9,9483,"Sunnyvale, CA 94089",None,None,2013.12.21,Reported

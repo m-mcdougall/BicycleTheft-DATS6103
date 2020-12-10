@@ -1,0 +1,70 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,764102," 2865 W. Elliott Dr, Apt A308, Spokane, WA 99224",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.6.14,Reported
+1,763908,"1421 Nelson st, Lakewood, CO 80215",U-lock and cable,"Lock was opened, and left unharmed at the scene",2020.6.14,Reported
+2,760035,"6350 Christie Ave, Emeryville, CA 94608",U-lock and cable,"Lock was cut, and left at the scene",2020.6.14,Reported
+3,760967,"Nokomis, FL 34275",Not locked,Bike was not locked,2020.6.14,Reported
+4,760946,"Nokomis, FL 34275",Not locked,Bike was not locked,2020.6.14,Reported
+5,760714,"Minnetonka, MN 55345",None,None,2020.6.14,Reported
+6,779809,"Minneapolis, MN 55401",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.14,Reported
+7,845350,"1850 North Moore Street, Arlington, VA 22209",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.14,Reported
+0,760177,"257 Hyde Street, San Francisco, CA 94102",None,None,2020.6.13,None
+1,760957,"New Orleans, LA 70130",None,None,2020.6.13,None
+2,760130,"Boston, MA 02129",Cable lock,"Lock was cut, and left at the scene",2020.6.13,Reported
+0,760116,"San Mateo, CA 94401",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.13,Reported
+1,760095,"San Mateo, CA 94401",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.13,Reported
+2,759978,"Arlington, MA 02474",U-lock,"Lock is missing, along with the bike",2020.6.13,None
+3,759881,"Austin, TX 78753",Not locked,"Other situation, please describe below",2020.6.13,Reported
+4,759900,"Portland, OR 97217",Not locked,None,2020.6.13,None
+5,759930,"375 11th St, San Francisco, CA 94103",None,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.13,Reported
+6,760644,"Rock Island, IL 61201",None,Bike was not locked,2020.6.13,None
+7,759818,"Houston, TX 77010",None,None,2020.6.13,None
+0,759742,"Chicago, IL 60622",None,None,2020.6.13,None
+1,760723,"Washington, DC 20009",U-lock and cable,"Lock is missing, along with the bike",2020.6.13,None
+2,759664,"1071 W Martin Luther King Jr Blvd, Los Angeles, CA 90007",None,None,2020.6.13,None
+3,758927,"Seattle, WA 98107",None,None,2020.6.13,None
+4,759635,"36 Tyng St, Portland, ME 04102",None,None,2020.6.13,Reported
+5,759649,"San Francisco, CA us, 94123",None,None,2020.6.13,None
+6,760199,"2246 serra ave, Santa Clara, CA 95050",Cable lock,"Lock was cut, and left at the scene",2020.6.13,Reported
+0,408663,"Seattle, WA 98107",Other,"Other situation, please describe below",2020.6.13,Reported
+1,759780,"Washington, DC 20018-3059",Not locked,Bike was not locked,2020.6.13,Reported
+2,763628,"Denver, CO 80204",None,None,2020.6.13,Reported
+3,752967,"2201 Stout Street , Denver, CO 80205",Other,Bike was not locked,2020.6.13,None
+4,760380,"Houston, TX 77007",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.13,None
+5,759915,"425 Portland Ave S, Minneapolis, MN 55488",Not locked,None,2020.6.13,Reported
+0,788454,"5546 Southern Oaks, San Antonio, TX 78261",Not locked,"Other situation, please describe below",2020.6.13,Reported
+1,759436,"District Of Columbia, DC",None,None,2020.6.13,Reported
+2,765044,"2102 East 21st Street, Signal Hill, CA 90755",Other,"Other situation, please describe below",2020.6.13,Reported
+3,768077,"Morgan Hill, CA 95037",Other,"Other situation, please describe below",2020.6.13,Reported
+4,759354,"Indianapolis, IN 46205",Not locked,None,2020.6.13,Reported
+0,760550,"Portland, OR 97215",None,None,2020.6.13,Reported
+1,710257,"9th and Lovejoy, Portland, OR 97209",Not locked,None,2020.6.13,Reported
+2,765980,"San Francisco, CA 94107",U-lock,Bike was not locked,2020.6.13,Reported
+3,760360,"Milwaukie, OR 97222",None,None,2020.6.13,Reported
+4,702547,"New Orleans, LA 70114",Not locked,Bike was not locked,2020.6.13,None
+5,425417,"Berkeley, CA 94709",Other,"Other situation, please describe below",2020.6.13,Reported
+6,762875,"Denver, CO 80203",U-lock,"Lock was cut, and left at the scene",2020.6.13,Reported
+7,764320,"Front St S, Issaquah, WA 98027",None,None,2020.6.13,Reported
+0,760375,"New Orleans, LA 70130",None,None,2020.6.13,None
+1,762960,"Portland, OR 97206",None,None,2020.6.13,Reported
+2,782093,"Allstar , Draper, UT 84070",Chain with padlock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.13,None
+3,759731,"San Francisco, CA 94114",U-lock,"Lock is missing, along with the bike",2020.6.13,Reported
+4,773132,"901 W 50th Street, North Little Rock, AR 72118",None,None,2020.6.13,Reported
+5,759442,"Menlo Park, CA 94025",Not locked,"Lock is missing, along with the bike",2020.6.12,Reported
+6,760120,"Hudson & Madrona, St Helena, CA 94574",None,None,2020.6.12,Reported
+0,760681,"Kansas City, MO 64110",None,None,2020.6.12,None
+1,788299,"1371 47th ave, San Francisco, CA 94122",Other,"Other situation, please describe below",2020.6.12,None
+2,759196,"Benicia, CA 94510",Not locked,None,2020.6.12,Reported
+3,760763,"Belmont and Columbia rds, Washington, DC 20009",Other,None,2020.6.12,None
+4,759156,"6815 Edgewater Drive, Coral Gables, FL 33133",U-lock,"Lock is missing, along with the bike",2020.6.12,Reported
+5,759131,"14 Lexington Ave Apt 2 C, Buffalo, NY 14222",None,None,2020.6.12,None
+6,759051,"Tacoma, WA 98407",None,None,2020.6.12,Reported
+0,763454,"Gainesville, FL 32601",None,None,2020.6.12,Reported
+1,760599,"Seattle, WA 98104",None,None,2020.6.12,Reported
+2,759045,"Salt Lake City, UT 84109",None,None,2020.6.12,None
+3,759030,"New Orleans, LA 70115",None,None,2020.6.12,None
+4,762929,"Seattle, WA 98107",None,None,2020.6.12,None
+5,758990,"10, Vairo Blvd, State College, PA 16803",None,None,2020.6.12,None
+6,766150,"Lehi, UT 84043",Cable lock,"Lock was cut, and left at the scene",2020.6.12,Reported
+7,758998,"Seattle, WA 98103",None,None,2020.6.12,Reported
+8,765483,"Boise, ID 83705",Not locked,Bike was not locked,2020.6.12,Reported
+9,758900,"Sherman Oaks, CA 91403",Other,"Other situation, please describe below",2020.6.12,None

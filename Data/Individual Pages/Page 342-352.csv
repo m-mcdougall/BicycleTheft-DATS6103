@@ -1,0 +1,77 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,922893?locale=en,"Chicago, IL 60640",None,None,2020.9.22,Reported
+1,923165?locale=en,"Columbia, MO 65201",Other,"Lock was opened, and left unharmed at the scene",2020.9.22,Reported
+2,922869,"Washington, DC 20005",U-lock,"Lock is missing, along with the bike",2020.9.22,Reported
+3,922849?locale=en,"Ninth and Jefferson, Seattle, WA 98104",None,None,2020.9.22,Reported
+4,922771,"Salt Lake City, UT 84105",None,None,2020.9.22,None
+5,922818,"Cambridge, MA 02138",None,None,2020.9.22,Reported
+0,922749,"6th and Lawrence, Tacoma, WA 98406",None,None,2020.9.22,None
+1,927414,"121 Carnegie st, Henderson, NV",Cable lock,None,2020.9.22,Reported
+2,923832,"San Diego, CA 92101",Other,"Other situation, please describe below",2020.9.22,Reported
+3,922721,"Corning, NY 14830",None,None,2020.9.22,None
+4,922740,"Tucson, AZ 85701",None,None,2020.9.22,Reported
+5,926032,"Columbus, OH 43215",Cable lock,"Lock is missing, along with the bike",2020.9.22,None
+6,839363,"Los Angeles, CA 90024",Cable lock,"Lock was cut, and left at the scene",2020.9.22,Reported
+7,922706,"Seattle, WA 98105",None,None,2020.9.22,None
+0,922733,"Portland, OR 97219",None,None,2020.9.22,Reported
+1,923905,"South Beach, Miami Beach, FL 33139",None,None,2020.9.22,None
+2,922533,"Salt Lake City, UT",None,None,2020.9.22,None
+3,922426,"2130 Oak Street, Santa Monica, CA 90405",None,None,2020.9.22,Reported
+4,922623,"2214 Nob Hill Ave N, Seatte, WA 98109",None,None,2020.9.22,None
+5,922628,"3823 Dream Circle 6, Santa Clara, UT 84765",Chain with padlock,"Lock was cut, and left at the scene",2020.9.22,Reported
+6,922633,"3823 Dream Circle 6, Santa Clara, UT 84765",Chain with padlock,"Lock was cut, and left at the scene",2020.9.22,Reported
+7,670271,"2901 Ocean Park Blvd #118, Santa Monica, CA 90405",U-lock and cable,"Lock was cut, and left at the scene",2020.9.22,Reported
+8,922999,"Brooklyn, NY 11211",Not locked,"Lock is missing, along with the bike",2020.9.22,Reported
+0,827950,"Chicago, IL 60642",U-lock,"Lock is missing, along with the bike",2020.9.22,None
+1,922625,"Santa Clara, UT 84765",Chain with padlock,"Lock was cut, and left at the scene",2020.9.22,Reported
+2,923319,"Seattle, WA 98118",U-lock and cable,"Lock was cut, and left at the scene",2020.9.22,None
+3,922589,"358 e 7th st, Long Beach, CA 90813",None,None,2020.9.22,None
+4,939780,"Baraboo, WI 53913",Other,"Other situation, please describe below",2020.9.22,Reported
+0,939778,"Baraboo, WI 53913",Other,"Other situation, please describe below",2020.9.22,Reported
+1,939776,"Barabooo, WI 53913",Other,"Other situation, please describe below",2020.9.22,Reported
+2,84619,"400 Grove Street, San Francisco, CA 94102",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.22,Reported
+3,924778,"Oakland, CA 94609 ",Other,None,2020.9.22,None
+4,926220,"Seattle, WA 98133",None,None,2020.9.22,None
+5,923267,"Portland, OR 97211",None,None,2020.9.22,Reported
+6,939383?locale=en,"880 State Road 136 Ste. #1, Baraboo, WI 53913",Other,None,2020.9.22,Reported
+7,922710?locale=en,"Sylmar, CA 91342",None,None,2020.9.22,None
+0,923140,"Rochester, MN 55902",Not locked,Bike was not locked,2020.9.22,None
+1,922875?locale=en,"938 Pearl, Boulder, CO 80202",Cable lock,"Lock is missing, along with the bike",2020.9.22,None
+2,922781?locale=en,"2010 Willard Loop Dr, Boulder, CO 80305",Cable lock,"Lock is missing, along with the bike",2020.9.22,Reported
+3,923043?locale=en,"2424 alcott st, Denver, CO 80211",U-lock and cable,"Lock was cut, and left at the scene",2020.9.21,Reported
+4,922510?locale=en,"Car wash, 19th Ave and Bell rd, Phoenix, AZ",None,None,2020.9.21,None
+5,922506?locale=en,"Oak Park, IL 60302",Other,"Other situation, please describe below",2020.9.21,Reported
+6,922496?locale=en,"Pawtucket, RI 02860",None,None,2020.9.21,None
+7,929955?locale=en,"9102 Bryant Ct (APT3A), Indianapolis, IN 46250",Cable lock,"Lock was cut, and left at the scene",2020.9.21,Reported
+8,922455?locale=en,"Los Angeles, CA 90031",None,None,2020.9.21,None
+0,922427?locale=en,"3150 N Sheffield Avenue, Chicago, IL 60657",U-lock,"Lock was cut, and left at the scene",2020.9.21,Reported
+1,922432?locale=en,"Fort Collins, CO 80525",Cable lock,"Lock is missing, along with the bike",2020.9.21,Reported
+2,924836,"600 H St. NE, Washington, DC 20002",Cable lock,"Lock was cut, and left at the scene",2020.9.21,Reported
+3,926850?locale=en,"New Orleans, LA 70117",None,None,2020.9.21,None
+4,922415?locale=en,"1115 17th Ave, APT 301, Seattle, WA 98122",None,None,2020.9.21,None
+5,950332?locale=en,"1777 Wewatta St, Denver, CO 80202",Heavy duty bicycle security chain,None,2020.9.21,Reported
+6,922412,"Portland, OR 97203",None,None,2020.9.21,Reported
+7,922390?locale=en,"1770 Chestnut Place, Denver, CO 80202",Cable lock,"Lock was opened, and left unharmed at the scene",2020.9.21,None
+8,922361,"6945 se 36th ave, Portland, OR 97202",None,None,2020.9.21,Reported
+0,934519?locale=en,"237 Trolley Square, Salt Lake City, UT 84102",Chain with padlock,"Lock was cut, and left at the scene",2020.9.21,Reported
+1,922331?locale=en,"Bristol, BS94QG",None,None,2020.9.21,None
+2,928766?locale=en,"2400 E 6th St, apt 202, Austin, TX 78702",Cable lock,"Lock was cut, and left at the scene",2020.9.21,Reported
+3,922313?locale=en,"Golden, CO 80403",None,None,2020.9.21,None
+4,922304?locale=en,"Bandera St, Los Angeles, CA 90002",None,None,2020.9.21,None
+0,922299?locale=en,"Santa Monica, CA 90405",None,None,2020.9.21,None
+1,922229?locale=en,"Los Angeles, CA 90025",None,None,2020.9.21,Reported
+2,922291?locale=en,"Oakbrook Terrace, IL 60181",None,None,2020.9.21,Reported
+3,926166,"East Lansing, MI 48823",Cable lock,"Lock was cut, and left at the scene",2020.9.21,None
+4,922265,"Iowa City, IA",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.21,Reported
+5,752711?locale=en,"1200 S Grand Ave, Los Angeles, CA 90019",Chain with padlock,"Lock was cut, and left at the scene",2020.9.21,None
+6,922272,"Arlington, VA 22201",None,None,2020.9.21,Reported
+7,922247?locale=en,"452/448 Park Drive, Boston, MA 02215",Cable lock,"Lock is missing, along with the bike",2020.9.21,Reported
+0,922218?locale=en,"13th St, Boulder, CO 80302",None,None,2020.9.21,None
+1,922204?locale=en,"Columbus, OH 43201",None,None,2020.9.21,Reported
+2,922214?locale=en,"Boulder, CO 80304",None,None,None,None
+3,922180?locale=en,"San Mateo, CA 94402",Other,"Other situation, please describe below",2020.9.21,Reported
+4,922191?locale=en,"Madison, WI 53711",None,None,2020.9.21,None
+5,922198?locale=en,"28 Queensberry Street, Boston, MA 02215",U-lock and cable,"Lock was cut, and left at the scene",2020.9.21,None
+6,922011,"2300 Lyndale Ave South, Minneapolis, MN 55405",U-lock,"Other situation, please describe below",2020.9.21,Reported
+7,922157,"Buffalo, NY 14216",None,None,2020.9.21,None
+8,922164,"1727 Central Ave , Indianapolis, IN 46202",None,None,2020.9.21,None

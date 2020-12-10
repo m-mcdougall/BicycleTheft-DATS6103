@@ -1,0 +1,95 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,25442,"Baltimore, MD 21231",None,None,2012.8.18,Reported
+1,24793,"Surprise, AZ 85379",None,None,2012.8.17,None
+2,25411,"Salt Lake City, UT 84103",None,None,2012.8.17,Reported
+3,25956,"Hilton Head, SC 29928",None,None,2012.8.17,Reported
+4,25626,"San Diego, CA 92122",None,None,2012.8.17,None
+5,24986,"Washington, DC 20009",None,None,2012.8.17,Reported
+6,19071,"White Bear Lake, MN 55110",None,None,2012.8.17,Reported
+7,25973,"Huntington, WV 25704",None,None,2012.8.17,None
+0,12613,"Tucson, AZ 85710",None,None,2012.8.17,None
+1,25958,"Sammamish, WA 98075",None,None,2012.8.17,None
+2,12236,"Portland, OR 97202",None,None,2012.8.16,Reported
+3,24708,"Salt Lake City, UT 84111",None,None,2012.8.16,Reported
+4,25627,"Lakewood, WA 98499",None,None,2012.8.16,Reported
+5,26761,"San Diego, CA 92121",None,None,2012.8.16,Reported
+6,25622,"Bend, OR 97701",None,None,2012.8.16,Reported
+7,24702,"San Francisco, CA 94110",None,None,2012.8.16,Reported
+8,25438,"Portland, OR 97209",None,None,2012.8.16,Reported
+9,25429,"Brooklyn, NY 11238",None,None,2012.8.16,None
+0,24732,"Bend, OR 97701",None,None,2012.8.16,Reported
+1,25620,"Portland, OR 97227-1146",None,None,2012.8.16,Reported
+2,24919,"Morgan Hill, CA 95037",None,None,2012.8.16,Reported
+3,26731,"Portland, OR 97266",None,None,2012.8.16,None
+4,25965,"Columbus, OH 43201",None,None,2012.8.15,None
+5,25439,"Bend, OR 997702",None,None,2012.8.15,Reported
+6,25465,"Tucson, AZ 85701",None,None,2012.8.15,Reported
+7,25954,"Sacramento, CA 95816",None,None,2012.8.15,Reported
+0,25616,"Savannah, GA 31401",None,None,2012.8.15,Reported
+1,26063,"Seattle, WA 98102",None,None,2012.8.15,None
+2,25530,"Colton, OR 97017",None,None,2012.8.15,Reported
+3,25434,"San Francisco, CA 94110",None,None,2012.8.15,Reported
+4,26738,"Minneaplis, MN 55403",None,None,2012.8.15,Reported
+5,25431,"Sacramento, CA 95819",None,None,2012.8.15,Reported
+6,25427,"Seattle, WA 98109",None,None,2012.8.14,None
+7,26529,"Raleigh, NC 27607",None,None,2012.8.14,Reported
+8,25950,"Seattle, WA 98122",None,None,2012.8.14,None
+9,26516,"Portland, OR 97219",None,None,2012.8.14,Reported
+0,25613,"Springfield, IL 62702",None,None,2012.8.14,None
+1,25612,"Portland, OR 97211",None,None,2012.8.14,Reported
+2,24659,"Worcestser, MA 01609",None,None,2012.8.14,Reported
+3,11893,"San Diego, CA 92107",None,None,2012.8.14,Reported
+4,24653,"San Francisco, CA 94118",None,None,2012.8.14,Reported
+5,24728,"San Diego, CA 92109",None,None,2012.8.14,Reported
+6,25424,"Portland, OR 97206",None,None,2012.8.14,None
+7,25448,"Tucson, AZ 85712",None,None,2012.8.14,Reported
+8,25436,"Santa Clara, CA 95051",None,None,2012.8.13,None
+0,26701,"Greenville, MI 48838",None,None,2012.8.13,None
+1,25955,"Chicago, IL 60642",None,None,2012.8.13,Reported
+2,26722,"Portland, OR 97214",None,None,2012.8.13,Reported
+3,22848,"Vancouver, WA 98662",Cable lock,"Lock is missing, along with the bike.",2012.8.13,Reported
+4,26735,"Olympia, WA 98502",None,None,2012.8.13,Reported
+5,24678,"Spokane, WA 99224",None,None,2012.8.13,Reported
+6,25082,"Brooklyn, NY 11219",None,None,2012.8.13,None
+7,24935,"Seattle, WA 98116",None,None,2012.8.13,Reported
+8,24796,"Portland, OR 97215",None,None,2012.8.13,Reported
+9,25422,"Portland, OR 97209",None,None,2012.8.12,Reported
+0,25432,"Menlo Park, CA 94025",None,None,2012.8.12,Reported
+1,25418,"Wenatchee, WA 98801",None,None,2012.8.12,Reported
+2,25614,"Portland, OR 97202",None,None,2012.8.12,Reported
+3,25407,"Portland, OR 97225",None,None,2012.8.12,Reported
+4,24640,"Portland, OR 97205",None,None,2012.8.12,Reported
+5,25412,"Portland, OR 97205",None,None,2012.8.12,Reported
+6,26464,"San Francisco, CA 94117",None,None,2012.8.12,Reported
+7,25413,"Wabasha, MN 55981",None,None,2012.8.12,None
+8,25416,"Minneapolis, MN 55401",None,None,2012.8.12,Reported
+9,24668,"Grand Junction, CO 81501",None,None,2012.8.12,Reported
+0,73927,"San Francisco, CA 94118",None,None,2012.8.12,Reported
+1,24623,"Canby, OR 90713",None,None,2012.8.12,None
+2,25405,"Sacramento, CA 95814",None,None,2012.8.12,Reported
+3,26700,"Fairless Hills, PA 19030",None,None,2012.8.12,None
+4,26724,"Portland, OR",None,None,2012.8.12,Reported
+5,24715,"Olympia, WA 98502",None,None,2012.8.12,Reported
+6,24946,"Chicago, IL 66047",None,None,2012.8.11,Reported
+7,25610,"Portland, OR 97239",None,None,2012.8.11,None
+8,25425,"Grand Junction, CO 81501",None,None,2012.8.11,Reported
+9,25957,"Solana Beach, CA 92075",None,None,2012.8.11,Reported
+0,25940,"Cleveland, OH 44106",None,None,2012.8.11,None
+1,26699,"Portland, OR 97213",None,None,2012.8.11,None
+2,24830,"Wenatchee, WA 98801",None,None,2012.8.11,None
+3,24802,"San Francisco, CA 94118",None,None,2012.8.11,Reported
+4,24631,"Ventura, CA 93004",None,None,2012.8.11,Reported
+5,25944,"Seattle, WA 98103",None,None,2012.8.11,None
+6,25970,"Olympia, WA 98501",None,None,2012.8.11,None
+7,25942,"Portland, OR 97215",None,None,2012.8.11,Reported
+8,25398,"Portland, OR 97203",None,None,2012.8.10,Reported
+9,21501,"Chicago, IL 60638",None,None,2012.8.10,None
+0,24658,"Campbell, CA 95008",None,None,2012.8.10,None
+1,25399,"Portland, OR 97212",None,None,2012.8.10,Reported
+2,25618,"Missoula, MT 59712",None,None,2012.8.10,Reported
+3,26706,"Portland, OR 97201",None,None,2012.8.10,None
+4,26689,"Portland, OR 97202",None,None,2012.8.10,Reported
+5,25941,"Boulder, CO 80304",None,None,2012.8.10,Reported
+6,25403,"Portland, OR",None,None,2012.8.10,None
+7,24595,"Fremont, CA 94536",None,None,2012.8.9,None
+8,24667,"Reno, NV 89501",None,None,2012.8.9,Reported

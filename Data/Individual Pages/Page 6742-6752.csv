@@ -1,0 +1,98 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,11534,"Seattle, WA 98133",None,None,2013.10.15,None
+1,11532,"Portland, OR 97202",None,None,2013.10.15,None
+2,23075,"Portland, OR 97202",None,None,2013.10.15,None
+3,18522,"San Jose, CA 96112",None,None,2013.10.15,Reported
+4,20806,"San Anslemo, CA 94930",None,None,2013.10.15,Reported
+5,20807,"Portland, OR 97213",None,None,2013.10.15,Reported
+6,11752,"East Lansing, MI 48825",None,None,2013.10.15,Reported
+7,23097,"Sacramento, CA 95819",None,None,2013.10.15,Reported
+8,19854,"Atlanta, GA 30306",None,None,2013.10.15,None
+9,23073,"Portland, OR 97202",None,None,2013.10.15,None
+0,27470,"San Francisco, CA 94102",Cable lock,"Other situation, please describe below.",2013.10.15,None
+1,18459,"New York, NY 11206",None,None,2013.10.15,None
+2,20803,"Buffalo, NY 14222",None,None,2013.10.15,None
+3,23072,"Austin, TX 78704",None,None,2013.10.15,Reported
+4,23078,"Portland, OR 97213",None,None,2013.10.15,Reported
+5,23087,"Austin, TX 78705",None,None,2013.10.15,Reported
+6,57083,"Brooklyn, NY 11215",U-lock,"Lock is missing, along with the bike.",2013.10.15,None
+7,18446,"Portland, OR 97204",None,None,2013.10.15,Reported
+8,18606,"Portland, OR 97202",None,None,2013.10.15,None
+9,20814,"Portland, OR 97214",None,None,2013.10.15,None
+0,20808,"Portland, OR 97212",None,None,2013.10.15,None
+1,18464,"Portland, OR 97222",None,None,2013.10.14,None
+2,949,"Campbell, CA 95008",Other,"Other situation, please describe below.",2013.10.14,Reported
+3,952,"Chicago, IL 60647",Cable lock,None,2013.10.14,None
+4,983,"Chicago, IL 60614",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2013.10.14,Reported
+5,20791,"Bay City, MI 48708",None,None,2013.10.14,None
+6,11736,"Colorado Springs, CO 80905",None,None,2013.10.14,Reported
+7,18398,"Portland, OR 97213",None,None,2013.10.14,Reported
+8,23058,"Portland, OR 97209",None,None,2013.10.14,Reported
+0,23045,"Portland, OR 97201",None,None,2013.10.14,Reported
+1,23060,"Mountain View, CA 94040",None,None,2013.10.14,Reported
+2,10651,"Sacramento, CA 95814",None,None,2013.10.14,Reported
+3,18460,"San Francisco, CA 94103",None,None,2013.10.14,Reported
+4,20903,"San Francisco, CA 94109",None,None,2013.10.14,None
+5,20785,"Campbell, CA 95008",None,None,2013.10.14,Reported
+6,23076,"New York, NY 10019",None,None,2013.10.14,Reported
+7,20804,"Portland, OR 97232",None,None,2013.10.14,Reported
+8,19053,"Portland, OR 97202",None,None,2013.10.14,None
+9,20796,"Mountain View, CA 94040",None,None,2013.10.14,Reported
+0,20789,"Portland, OR 97201",None,None,2013.10.14,None
+1,18365,"Austin, TX 78751",None,None,2013.10.13,Reported
+2,18632,"Nice, CA 95464",None,None,2013.10.13,Reported
+3,23068,"Portland, OR 97202",None,None,2013.10.13,Reported
+4,23136,"Portland, OR 97214",None,None,2013.10.13,Reported
+5,23056,"San Francisco, CA 94105",None,None,2013.10.13,Reported
+6,20787,"Seattle, WA 98105",None,None,2013.10.13,None
+7,20812,"Richmond, IL 60071",None,None,2013.10.13,None
+8,20800,"San Francisco, CA 94123",None,None,2013.10.13,None
+0,22407,"Hillsboro, OR 97124",None,None,2013.10.13,Reported
+1,23106,"Portland, OR 97209",None,None,2013.10.13,Reported
+2,23222,"Seattle, WA 98104",None,None,2013.10.13,Reported
+3,6657,"Ventura, CA 93003",None,None,2013.10.13,None
+4,13654,"Sausalito, CA 94965",None,None,2013.10.13,None
+5,20801,"San Francisco, CA 9",None,None,2013.10.13,None
+6,11718,"Portland, OR 97205",None,None,2013.10.13,Reported
+7,23039,"Portland, OR 97215",None,None,2013.10.13,Reported
+8,8584,"Ventura, CA 93003",None,None,2013.10.13,None
+9,23132,"Nice, CA 95464",None,None,2013.10.13,Reported
+0,18391,"Urbana, IL 61802",None,None,2013.10.13,Reported
+1,18379,"Portland, OR 97205",None,None,2013.10.13,None
+2,11529,"New Orleans, LA 70130",None,None,2013.10.12,None
+3,20776,"Oregon City, OR 97045",None,None,2013.10.12,Reported
+4,11715,"Tucson, AZ 85710",None,None,2013.10.12,None
+5,20783,"Atlanta, GA 30317",None,None,2013.10.12,None
+6,20790,"Flushing, NY 11355",None,None,2013.10.12,None
+7,20091,"North Richland Hills, TX 76117",None,None,2013.10.12,None
+8,18994,"Singer Island/Riviera Beach, FL 33404",None,None,2013.10.12,Reported
+9,22426,"Fairfield, CA 94533",None,None,2013.10.12,Reported
+0,18388,"Philadelphia, PA 19147",None,None,2013.10.12,None
+1,23026,"Austin, TX 78736",None,None,2013.10.12,None
+2,20899,"Bellingham, WA 98225",None,None,2013.10.12,None
+3,18530,"Portland, OR 97206",None,None,2013.10.12,Reported
+4,33220,"Seattle, WA",Not locked,None,2013.10.12,Reported
+5,20778,"San Francisco, CA 94102",None,None,2013.10.12,None
+6,18361,"Santa Rosa, CA 95403",None,None,2013.10.12,None
+7,14851,"Portland, OR 97211",None,None,2013.10.12,Reported
+8,23031,"Portland,Or 97201, OR",None,None,2013.10.12,None
+9,13642,"Boston, MA 02115",None,None,2013.10.11,None
+0,18462,"Syracuse, NY 13210",None,None,2013.10.11,Reported
+1,18623,"San Francisco, CA 94122",None,None,2013.10.11,Reported
+2,57354,"Tacoma, WA 98421",Cable lock,"Lock is missing, along with the bike.",2013.10.11,None
+3,18336,"Portland, OR 97214",None,None,2013.10.11,None
+4,11528,"Brooklyn, NY 11211",None,None,2013.10.11,None
+5,18360,"Odenton, MD 21113",None,None,2013.10.10,None
+6,23024,"Oregon City, OR 97045",None,None,2013.10.10,Reported
+7,23047,"Campbell, CA 95008",None,None,2013.10.10,Reported
+8,20821,"Portland, OR 97209",None,None,2013.10.10,None
+0,18564,"Portland, OR 97209",None,None,2013.10.10,None
+1,18561,"Portland, OR 97209",None,None,2013.10.10,None
+2,20166,"Seattle, WA 98107",None,None,2013.10.10,Reported
+3,18542,"Portland, OR 97209",None,None,2013.10.10,None
+4,20820,"Portland, OR 97209",None,None,2013.10.10,None
+5,23021,"River Forest, IL 60305",None,None,2013.10.10,None
+6,20825,"Portland, OR 97212",None,None,2013.10.10,Reported
+7,18322,"Tucson, AZ 85701",None,None,2013.10.10,Reported
+8,11711,"Portland, OR 97232",None,None,2013.10.10,Reported
+9,18357,"Houston Midtown, TX 77002",None,None,2013.10.10,Reported

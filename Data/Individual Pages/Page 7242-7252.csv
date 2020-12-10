@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,12276,"Portland, OR",None,None,2012.10.19,None
+1,12297,"Jacksonville, FL 32202",None,None,2012.10.19,None
+2,12554,"San Francisco, CA 94123",None,None,2012.10.19,None
+3,13371,"Berkeley, CA 94702",None,None,2012.10.19,Reported
+4,13378,"Washington D.C., DC 20002",None,None,2012.10.19,Reported
+5,13412,"Portland, OR",None,None,2012.10.19,Reported
+6,13532,"San Francisco, CA 94108",None,None,2012.10.19,Reported
+7,23081,"Portland, OR 97209",None,None,2012.10.19,None
+8,18431,"Portland, OR 97209",None,None,2012.10.19,Reported
+9,21799,"Jacksonville, FL 32202",None,None,2012.10.19,None
+0,23066,"Richardson, TX 75080",None,None,2012.10.19,Reported
+1,12290,"Lafayette, LA 70501",None,None,2012.10.19,None
+2,13428,"Jefferson, NJ 07885",None,None,2012.10.19,Reported
+3,12277,"Aloha, OR 97007",None,None,2012.10.18,Reported
+4,15375,"Eugene, OR 97403",None,None,2012.10.18,None
+5,12321,"Claremont, CA 91711",None,None,2012.10.18,Reported
+6,12350,"Eugene, OR 97403",None,None,2012.10.18,None
+7,13443,"Boise, IA 83706",None,None,2012.10.18,Reported
+8,18453,"Aloha, OR 97007",None,None,2012.10.18,Reported
+0,21872,"Austin, TX 78745",None,None,2012.10.18,Reported
+1,15354,"Seattle, WA 98105",None,None,2012.10.18,Reported
+2,15332,"Aloha, OR 97007",None,None,2012.10.18,Reported
+3,12293,"Eugene, OR 97403",None,None,2012.10.18,None
+4,18492,"Washington, DC 20009",None,None,2012.10.18,Reported
+5,23189,"Portland, OR 9721",None,None,2012.10.17,Reported
+6,15432,"Portland, OR 9721",None,None,2012.10.17,Reported
+7,12298,"Santa Monica, CA 90403",None,None,2012.10.17,Reported
+8,12270,"Somerville, MA 02143",None,None,2012.10.17,Reported
+9,13343,"Brooklyn, NY 11215",None,None,2012.10.17,None
+0,13365,"Portland, OR 97232",None,None,2012.10.17,None
+1,18468,"Sunnyvale, CA 94086",None,None,2012.10.17,Reported
+2,23095,"Portland, OR 97232",None,None,2012.10.17,Reported
+3,23043,"Gresham, OR 97030",None,None,2012.10.17,Reported
+4,12266,"Chicago, IL 60618",None,None,2012.10.17,Reported
+5,23094,"San Jose, CA 95138",None,None,2012.10.17,Reported
+6,12246,"Portland, OR 97217",None,None,2012.10.17,Reported
+7,12255,"Hollywood, FL 33020",None,None,2012.10.16,None
+8,12230,"El Paso, TX 79912",None,None,2012.10.16,None
+9,12250,"Tigard, OR 97224",None,None,2012.10.16,Reported
+0,12232,"El Paso, TX 79912",None,None,2012.10.16,None
+1,12476,"Chicago, IL 60647",None,None,2012.10.16,Reported
+2,12252,"Chicago, IL 60611",None,None,2012.10.16,Reported
+3,12242,"Cambridge, MA 02141",None,None,2012.10.16,None
+4,12309,"Seattle, WA 98195",None,None,2012.10.16,Reported
+5,13332,"Salem, OR 97301",None,None,2012.10.16,Reported
+6,13322,"Chicago, IL 60613",None,None,2012.10.16,None
+7,13355,"Portland, OR 97202",None,None,2012.10.16,Reported
+8,13352,"Tempe, AZ 85281",None,None,2012.10.16,Reported
+9,18376,"Tigard, OR",None,None,2012.10.16,None
+0,21742,"Columbus, OH 43202",None,None,2012.10.16,None
+1,15247,"Philadelphia, PA 19103",None,None,2012.10.16,Reported
+2,13326,"Traverse City, MI 49686",None,None,2012.10.16,None
+3,12273,"Las Vegas, NV 89154",None,None,2012.10.16,Reported
+4,18433,"San Jose, CA 95128",None,None,2012.10.16,Reported
+5,23054,"San Francisco, CA 94114",None,None,2012.10.16,Reported
+6,22874,"San Antonio, TX 78212",None,None,2012.10.15,None
+7,9609,"Spokane, WA 99258",None,None,2012.10.15,None
+8,12222,"Minneapolis, MN 55401",None,None,2012.10.15,None
+9,12518,"Portland, OR 97210",None,None,2012.10.15,Reported
+0,12653,"Chicago, IL 60622",None,None,2012.10.15,None
+1,13303,"Portland, OR 97218",None,None,2012.10.15,Reported
+2,13360,"Portland, OR 97213",None,None,2012.10.15,None
+3,13475,"Oakland, CA 94607",None,None,2012.10.15,None
+4,14251,"Portland, OR 97212",None,None,2012.10.15,Reported
+5,15210,"Nashville, TN 37209",None,None,2012.10.15,None
+6,15749,"Pacifica, CA 94044",None,None,2012.10.15,None
+7,21795,"Minneapolis, MN 55405",None,None,2012.10.15,None
+8,22949,"Portland, OR 97216",None,None,2012.10.15,Reported
+9,374689,"Westminster, CA 92683",Chain with padlock,"Lock was cut, and left at the scene.",2012.10.15,None
+0,13294,"El Cerrito, CA 94530",None,None,2012.10.15,None
+1,18325,"Portland, OR 97216",None,None,2012.10.15,None
+2,18342,"Davis, CA 95616",None,None,2012.10.15,None
+3,18362,"San Jose, CA 95110",None,None,2012.10.15,None
+4,23195,"Washington, DC 20002",None,None,2012.10.15,Reported
+5,12258,"San Francisco, CA 94122",None,None,2012.10.15,Reported
+6,12261,"Oakland, CA 94607",None,None,2012.10.15,Reported
+7,12312,"Indianapolis, IN 46202",None,None,2012.10.15,None
+8,15223,"Portland, OR 97232",None,None,2012.10.15,None
+9,18338,"Portland, OR 97212",None,None,2012.10.15,Reported
+0,16313,"San Luis Obispo, CA 93410",None,None,2012.10.15,None
+1,13302,"Portland, OR 97210",None,None,2012.10.15,Reported
+2,15377,"Ann Arbor, MI 48103",None,None,2012.10.15,None
+3,13313,"Portland, OR 97216",None,None,2012.10.15,Reported
+4,12229,"Portland, OR 97232",None,None,2012.10.15,None
+5,12227,"Portland, OR 97206",None,None,2012.10.14,Reported
+6,13334,"Tucson, AZ 85705",None,None,2012.10.14,Reported
+7,18296,"Portland, OR 97212",None,None,2012.10.14,Reported
+8,12219,"Westwood Village, CA 90024",None,None,2012.10.14,None
+9,13276,"Portland, OR 97212",None,None,2012.10.14,Reported
+0,12215,"Federal Way, WA 98003",None,None,2012.10.14,Reported
+1,12244,"Stanford, CA 94305",None,None,2012.10.14,None
+2,22906,"Houston, TX 77008",None,None,2012.10.14,None
+3,16202,"Reading, PA 19607",None,None,2012.10.14,None
+4,18303,"Bemidji, MN 56601",None,None,2012.10.13,Reported
+5,22860,"Austin, TX 78753",None,None,2012.10.13,None
+6,12327,"Oakland, CA 94607",None,None,2012.10.13,Reported
+7,13319,"Portland, OR 97236",None,None,2012.10.13,Reported
+8,13270,"San Francisco, CA 94123",None,None,2012.10.13,Reported
+9,15174,"San Francisco, CA 94115",None,None,2012.10.13,Reported

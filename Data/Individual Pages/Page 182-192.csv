@@ -1,0 +1,78 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,936391,"9525 Blake ln, APT 204, Fairfax, VA 22031",None,None,2020.10.19,None
+1,936941,"Seattle, WA 98103",None,"Other situation, please describe below",2020.10.19,None
+2,936453,"Fresno, CA 93720",None,None,2020.10.19,Reported
+3,937311,"New Orleans, LA 70119",None,None,2020.10.19,None
+4,936600,"San Francisco, CA 94116",None,None,2020.10.19,None
+5,937301,"Seattle, WA 98112",None,None,2020.10.19,Reported
+6,936355,"21st and Union , Seattle, WA 98112",None,None,2020.10.19,None
+0,939298,"2555 N Clark St, Chicago, IL 60614",U-lock and cable,"Lock is missing, along with the bike",2020.10.18,Reported
+1,937546,"2404 Menola Ave, Charleston, SC 29414",None,None,2020.10.18,Reported
+2,936358,"San Diego, CA 92110",None,None,2020.10.18,None
+3,936750,"Boise, ID 83706",Cable lock,"Lock is missing, along with the bike",2020.10.18,Reported
+4,936866,"Seattle, WA 98119",None,None,2020.10.18,None
+5,936865,"Seattle, WA 98119",None,None,2020.10.18,None
+6,942220,"Boulder, CO 80304",Other,None,2020.10.18,Reported
+0,936460,"New Orleans, LA 70124",None,None,2020.10.18,Reported
+1,936307,"Kent, WA 98032",None,None,2020.10.18,Reported
+2,936302,"Seattle, WA 98119",None,None,2020.10.18,None
+3,937212,"San Antonio, TX",None,None,2020.10.18,None
+4,934739,"Seattle, WA 98104",U-lock and cable,"Lock was cut, and left at the scene",2020.10.18,None
+5,685000,"Seattle, WA 98104",Chain with padlock,"Lock is missing, along with the bike",2020.10.18,Reported
+6,936248,"Burlington, VT 05401",None,None,2020.10.18,None
+7,936417,"Caldwell, ID 83605",None,None,2020.10.18,Reported
+8,936196,"47xx Ravenna Ave, Seattle, WA 99016",None,None,2020.10.18,None
+0,936220,"336 Flatbush Ave, Brooklyn, NY 11201",U-lock,"Lock was cut, and left at the scene",2020.10.18,None
+1,936222,"Seattle, WA 98109",None,None,2020.10.18,Reported
+2,936214,"Washington, DC 20002",Chain with padlock,"Lock is missing, along with the bike",2020.10.18,Reported
+3,937244,"1310 Minor Ave , Seattle, WA 98101",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.18,Reported
+4,936165,"Seattle, WA 98103",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.18,Reported
+5,936792,"Boise, ID 83702",Cable lock,"Lock was cut, and left at the scene",2020.10.18,Reported
+0,937187,"Santa Clara, CA 95051",None,None,2020.10.18,Reported
+1,941113,"2727 NE 125th St, Seattle, WA 98125",None,None,2020.10.18,None
+2,936114,"440 N Winchester Blvd, Santa Clara, CA 95050",Not locked,Bike was not locked,2020.10.18,Reported
+3,936333,"E 19th Street, New York, NY 10003",None,None,2020.10.18,None
+4,936068,"Olympia, WA 98501",None,None,2020.10.18,None
+5,936311,"Roslyn and 6th, Denver, CO 80230",Other,"Other situation, please describe below",2020.10.18,Reported
+6,937239,"Denver, CO 80230",Other,"Other situation, please describe below",2020.10.18,Reported
+7,936257,"San Francisco, CA 94121",Cable lock,"Lock was cut, and left at the scene",2020.10.18,None
+0,732406,"6th and Roslyn, Denver, CO 80230",Other,"Other situation, please describe below",2020.10.18,Reported
+1,936756,"Santa Monica, CA 90403",None,None,2020.10.18,Reported
+2,936246,"Las Vegas, NV 89119",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.10.18,Reported
+3,852883,"1330 S Union Ave, Los Angeles, CA 90015",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.18,None
+4,936320,"Portland, OR 97217",U-lock,"Lock is missing, along with the bike",2020.10.18,None
+5,755035,"Portland, OR 97215-2548",U-lock,"Lock is missing, along with the bike",2020.10.18,None
+6,937246,"Venice, CA 90291",None,None,2020.10.18,Reported
+7,937053,"1800 S Jackson St, Seattle, WA 98144",U-lock and cable,None,2020.10.18,None
+8,936793,"Boise, ID 83702",Cable lock,"Lock was cut, and left at the scene",2020.10.18,Reported
+0,936168,"San Francisco, CA 94123",U-lock,"Lock is missing, along with the bike",2020.10.18,Reported
+1,936692,"Fort Collins, CO 80521",U-lock and cable,"Other situation, please describe below",2020.10.18,None
+2,929322," Fred Meyer, Ballard, WA 98107",Heavy duty bicycle security chain,"Other situation, please describe below",2020.10.18,Reported
+3,935134,"Fred meyer, Ballard, WA 98107",Heavy duty bicycle security chain,"Other situation, please describe below",2020.10.18,Reported
+4,938019,"Portland, OR 97202",U-lock,"Lock is missing, along with the bike",2020.10.17,None
+5,935950,"1637 Westbridge, Ft. Collins, CO 80525",None,None,2020.10.17,None
+6,935937,"White Center near Saars supermarket, West Seattle, WA 98106",None,None,2020.10.17,None
+7,936788,"Tucson, AZ 85745",None,None,2020.10.17,None
+0,936166,"Langdon St, Cambridge, MA 02138",U-lock and cable,"Lock is missing, along with the bike",2020.10.17,Reported
+1,936015,"Draper, UT 84020",None,None,2020.10.17,Reported
+2,935914,"Boerne, TX 78006",None,None,2020.10.17,None
+3,936314,"Shoreline near Oakland Yacht Club, Alameda, CA 94501",Not locked,Bike was not locked,2020.10.17,Reported
+4,939173,"Durham, NC 27701",Other,"Other situation, please describe below",2020.10.17,None
+5,935890,"150, Melrose Ave E Apt 105, Seattle, WA 98102",None,"Lock was cut, and left at the scene",2020.10.17,Reported
+6,936397,"2929 Thousand Oaks, San Antonio, TX 78247",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.17,Reported
+7,935841,"Loveland, CO 80537",None,None,2020.10.17,None
+8,935824,"Morris chico, Albq, NM 87123",None,None,2020.10.17,None
+0,935785,"Davis, CA 95616",None,None,2020.10.17,None
+1,935781,"Portland, OR 97214",U-lock,"Lock is missing, along with the bike",2020.10.17,None
+2,863339,"141 Barr Lane, West Monroe, LA 71291",Other,"Other situation, please describe below",2020.10.17,None
+3,937541,"Houston, TX 77055",None,None,2020.10.17,Reported
+4,936282,"Denver, CO 80209",Cable lock,"Lock was cut, and left at the scene",2020.10.17,Reported
+5,935765,"6633 e greenway pkwy, Scottsdale, AZ 85254",U-lock and cable,"Lock is missing, along with the bike",2020.10.17,None
+6,935711,"Seattle, WA 98109",None,None,2020.10.17,None
+0,935723,"Seattle, WA 98109",U-lock,"Lock is missing, along with the bike",2020.10.17,None
+1,935678,"Seattle, WA 98102",None,None,2020.10.17,None
+2,935948,"3000 Connecticut Ave NW, Washington, DC 20008",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.10.17,Reported
+3,936212,"New York, NY 11233",Other,Bike was not locked,2020.10.17,None
+4,935609,"Denver, CO",None,None,2020.10.17,None
+5,935653,"Houston, TX 77004",None,None,2020.10.17,Reported
+6,936411,"Seattle, WA 98103",Not locked,"Other situation, please describe below",2020.10.17,Reported

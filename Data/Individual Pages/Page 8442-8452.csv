@@ -1,0 +1,95 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,8655,"Brookline, MA 02445",None,None,2008.10.8,None
+1,6952,"Columbus, OH 43212",None,None,2008.10.8,None
+2,8744,"Houston, TX 77055",None,None,2008.10.7,None
+3,8634,"Robbinsdale, MN 55422",None,None,2008.10.7,None
+4,8647,"San Jose, CA 95126",None,None,2008.10.7,None
+5,6000,"Statesboro, GA 30458",None,None,2008.10.7,None
+6,6004,"Portland, OR 97203",None,None,2008.10.6,None
+7,6961,"Sunnyvale, CA 94086",None,None,2008.10.6,None
+8,10411,"Portland, OR 97202",None,None,2008.10.6,None
+9,10617,"Davis, CA 95616",None,None,2008.10.6,None
+0,19295,"Washington, DC 20016",None,None,2008.10.6,None
+1,8646,"Lexington, KY 40507",None,None,2008.10.6,None
+2,8650,"Urbana, IL 61801",None,None,2008.10.5,None
+3,5997,"Ames, IA 50014",None,None,2008.10.5,None
+4,6951,"Newport News, VA 23606",None,None,2008.10.5,None
+5,8622,"St. Petersburg, FL 33705",None,None,2008.10.5,None
+6,8689,"Crownsville, MD 21032",None,None,2008.10.5,None
+7,11150,"Pomona, CA 91767",None,None,2008.10.5,None
+8,8626,"Redmond, WA 98052",None,None,2008.10.4,None
+9,6517,"Playa Del Rey, CA 90293",None,None,2008.10.4,None
+0,11147,"Knoxville, TN 37916",None,None,2008.10.4,None
+1,8616,"Washington, DC 20003",None,None,2008.10.3,None
+2,13383,"Reno, NV 89503",None,None,2008.10.3,None
+3,8628,"Stanford, CA 94305",None,None,2008.10.3,None
+4,8621,"Las Vegas, NV 89154",None,None,2008.10.3,None
+5,8614,"Kent, WA 98032",None,None,2008.10.2,None
+6,18519,"San Antonio, TX 78207",None,None,2008.10.2,Reported
+7,10610,"Los Angeles, CA 90007",None,None,2008.10.2,None
+0,10613,"Denver, CO 80211",None,None,2008.10.2,None
+1,10526,"B Altimore, MD 21202",None,None,2008.10.1,None
+2,8872,"Hermosa Beach, CA 90254",None,None,2008.10.1,None
+3,59553,"Reno, NV 89509",None,None,2008.10.1,None
+4,6208,"Burbank, CA 91506",None,None,2008.10.1,None
+5,9279,"Colorado Springs, CO 80903",None,None,2008.10.1,None
+6,73655,"Amherst, MA 01003",None,None,2008.10.1,None
+7,8591,"Herriman, UT 84096",None,None,2008.10.1,None
+8,6477,"Saint Louis, MO 63108",None,None,2008.10.1,None
+9,6503,"Omaha, NE 68144",None,None,2008.10.1,None
+0,7143,"Tempe, AZ 85281",None,None,2008.10.1,None
+1,8710,"Cardiff By The Sea, CA 92007",None,None,2008.10.1,None
+2,10304,"Stillwater, OK 74078",None,None,2008.10.1,None
+3,11145,"Boulder, CO 80303",None,None,2008.10.1,None
+4,6973,"San Antonio, TX 78256",None,None,2008.10.1,None
+5,8598,"Salt Lake City, UT 84103",None,None,2008.9.30,None
+6,8624,"Dover, NH 03820",None,None,2008.9.30,None
+7,8644,"San Francisco, CA 94111",None,None,2008.9.30,None
+8,10614,"Austin, TX 78702",None,None,2008.9.30,None
+9,8856,"Campbell, CA 95009",None,None,2008.9.30,None
+0,6960,"Davis, CA 95616",None,None,2008.9.30,None
+1,6936,"Denver, CO 80218",None,None,2008.9.30,None
+2,8725,"Oakland, CA 94609",None,None,2008.9.30,None
+3,6948,"College Station, TX 77840",None,None,2008.9.29,None
+4,72195,"Eugene, OR 97402",Cable lock,"Lock is missing, along with the bike.",2008.9.29,None
+5,8601,"Albany, NY 12203",None,None,2008.9.29,None
+6,6475,"Columbus, OH 43203",None,None,2008.9.29,None
+7,11151,"Washington, DC 20001",None,None,2008.9.28,None
+8,8582,"Chicago, IL 60601",None,None,2008.9.27,None
+0,8612,"Austin, TX 78701",None,None,2008.9.27,None
+1,8580,"Citrus Heights, CA 95621",None,None,2008.9.26,None
+2,8592,"Stillwater, OK 74075",None,None,2008.9.26,None
+3,11134,"Washington, DC 20001",None,None,2008.9.26,None
+4,11136,"Baltimore, MD 21202",None,None,2008.9.26,None
+5,6940,"San Jose, CA 95124",None,None,2008.9.26,None
+6,8579,"Citrus Heights, CA 95621",None,None,2008.9.26,None
+7,8569,"Pasadena, CA 91101",None,None,2008.9.26,None
+8,18182,"Phoenix, AZ 85034",None,None,2008.9.26,None
+9,8376,"Citrus Heights, CA 95621",None,None,2008.9.26,None
+0,10623,"Harrisburg, PA 17111",None,None,2008.9.25,None
+1,6480,"Golden, CO 80401",None,None,2008.9.25,None
+2,8439,"Providence, RI 02909",None,None,2008.9.25,None
+3,8618,"Evanston, IL 60201",None,None,2008.9.25,None
+4,11655,"San Francisco, CA 94110",None,None,2008.9.25,None
+5,10589,"Seattle, WA 98107",None,None,2008.9.25,None
+6,8587,"Denver, CO 80205",None,None,2008.9.25,None
+7,5991,"Milwaukee, WI 53211",None,None,2008.9.24,None
+8,11129,"Brooklyn, NY 11201",None,None,2008.9.24,None
+0,20343,"Brooklyn, NY 11211",None,None,2008.9.24,None
+1,6933,"San Francisco, CA 94105",None,None,2008.9.23,None
+2,6964,"Germantown, TN 38139",None,None,2008.9.23,None
+3,8575,"Asheville, NC 28801",None,None,2008.9.23,None
+4,10608,"Dallas, TX 75205",None,None,2008.9.22,None
+5,6931,"College Station, TX 77840",None,None,2008.9.22,None
+6,8653,"Collingswood, NJ 08107",None,None,2008.9.22,None
+7,8574,"Salt Lake City, UT 84101",None,None,2008.9.22,None
+0,6471,"East Lansing, MI 48825",None,None,2008.9.21,None
+1,6937,"San Marcos, TX 78666",None,None,2008.9.20,None
+2,8553,"Chattanooga, TN 37405",None,None,2008.9.20,None
+3,11120,"Los Angeles, CA 90041",None,None,2008.9.20,None
+4,11593,"Minneapolis, MN 55414",None,None,2008.9.20,Reported
+5,11669,"Sewell, NJ 08080",None,None,2008.9.20,None
+6,8555,"Portland, OR 97202",None,None,2008.9.20,None
+7,11126,"Palo Alto, CA 94301",None,None,2008.9.20,None
+8,11118,"Cambridge, MA 02140",None,None,2008.9.20,None
+9,11581,"Phoenix, AZ 85021",None,None,2008.9.20,None

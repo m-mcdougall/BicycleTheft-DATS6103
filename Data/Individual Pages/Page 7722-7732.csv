@@ -1,0 +1,98 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,23554,"Medford, MA 02155",None,None,2011.8.25,Reported
+1,25342,"San Francisco, CA 94110",None,None,2011.8.25,None
+2,23135,"Salt Lake City, UT 84112-",None,None,2011.8.25,Reported
+3,21539,"Portland, OR 97214",None,None,2011.8.25,None
+4,23082,"Seattle, WA 98101",None,None,2011.8.25,Reported
+5,23062,"Redding, CA 96003",None,None,2011.8.25,None
+6,21261,"Seattle, WA 98105",None,None,2011.8.25,Reported
+7,22895,"Portland, OR 97214",None,None,2011.8.25,None
+8,24794,"Albuquerque, NM 87111",None,None,2011.8.24,None
+9,25337,"Portland, OR 97211",None,None,2011.8.24,None
+0,24805,"Seattle, WA 98122",None,None,2011.8.24,Reported
+1,23301,"Minneapolis, MN 55413",None,None,2011.8.24,Reported
+2,22888,"Portland, OR 97206",None,None,2011.8.24,Reported
+3,23302,"Minnepolis, MN 55413",None,None,2011.8.24,Reported
+4,22890,"Long Beach, CA 90813",None,None,2011.8.24,Reported
+5,22892,"Seattle, WA 98105",None,None,2011.8.24,Reported
+6,21680,"Atlantic City, NJ 08401",None,None,2011.8.24,Reported
+7,22504,"Portland, OR 97221",None,None,2011.8.24,Reported
+8,22887,"Portland, OR 97214",None,None,2011.8.24,Reported
+0,77938,"Oakland, CA",Other,"Other situation, please describe below.",2011.8.24,None
+1,22017,"Portland, OR 97211",None,None,2011.8.24,Reported
+2,25357,"Berkeley, CA 94720",None,None,2011.8.24,Reported
+3,22899,"Seattle, WA 98101",None,None,2011.8.24,Reported
+4,22021,"Portland, OR 97212",None,None,2011.8.23,None
+5,21682,"San Jose, CA 95135",None,None,2011.8.23,None
+6,21721,"Portland, OR 97209",None,None,2011.8.23,None
+7,22862,"New York, OR 42111",None,None,2011.8.23,Reported
+8,22879,"Manchester, NH 03104",None,None,2011.8.23,None
+0,22406,"San Jose, CA 95129",None,None,2011.8.23,Reported
+1,22847,"Manchester, NH 03104",None,None,2011.8.23,None
+2,22884,"Glen Ellyn, IL 60137",None,None,2011.8.23,Reported
+3,22909,"Albuquerque, NM 87120",None,None,2011.8.23,Reported
+4,22886,"Pittsburgh/Allentown, PA 15210",None,None,2011.8.23,Reported
+5,25336,"Brooklyn, NY 11211",None,None,2011.8.23,None
+6,22005,"New York, OR 80538",None,None,2011.8.23,Reported
+7,21264,"Philadelphia, PA 19146",None,None,2011.8.23,None
+8,22596,"Ontario, CA 91762",None,None,2011.8.23,Reported
+9,21260,"Portland, OR 97209",None,None,2011.8.23,Reported
+0,22839,"Portland, OR 97214",None,None,2011.8.23,Reported
+1,22010,"Littleton, CO 80120",None,None,2011.8.22,Reported
+2,21818,"Colorado Springs, CO 80905",None,None,2011.8.22,Reported
+3,22881,"Portland, OR 97214",None,None,2011.8.22,Reported
+4,23230,"Santa Clara, CA 95051",None,None,2011.8.22,None
+5,25339,"Searcy, AR 72149",None,None,2011.8.22,None
+6,22009,"Cambridge, MA 02138",None,None,2011.8.22,None
+7,24807,"Clackamas, OR 97015",None,None,2011.8.22,Reported
+8,22917,"Dallas, TX 75206",None,None,2011.8.22,None
+0,21677,"Portland, OR 97232",None,None,2011.8.22,Reported
+1,22867,"Brooklyn, NY 11215",None,None,2011.8.22,None
+2,22864,"Portland, OR Raders",None,None,2011.8.22,Reported
+3,23528,"San Francisco, CA 94117",None,None,2011.8.22,Reported
+4,23251,"Tempe, AZ 85282",None,None,2011.8.22,None
+5,24783,"Portland, OR 97232",None,None,2011.8.22,Reported
+6,22870,"Chicago, IL 60607",None,None,2011.8.22,Reported
+7,24785,"Charlotte, NC 28262",None,None,2011.8.22,None
+8,22822,"Portland, OR 97202",None,None,2011.8.21,None
+9,22858,"San Francisco, CA 94015",None,None,2011.8.21,Reported
+0,22837,"New York, NY 10009",None,None,2011.8.21,None
+1,22833,"Englewood, CO 80110",None,None,2011.8.21,Reported
+2,22824,"Portland, OR 97212",None,None,2011.8.21,Reported
+3,21998,"Atlanta, GA 30318",None,None,2011.8.21,Reported
+4,22975,"Stillwater, OK 74079",None,None,2011.8.21,Reported
+5,22808,"Tacoma, WA 98405",None,None,2011.8.20,Reported
+6,22817,"Portland, OR",None,None,2011.8.20,None
+7,26221,"Redmond, WA 98052",None,None,2011.8.20,Reported
+8,22003,"Erie, PA 16503",None,None,2011.8.20,Reported
+9,22893,"Berkeley, CA 94703",None,None,2011.8.20,Reported
+0,23170,"Greenwood, IN 46184",None,None,2011.8.20,None
+1,24787,"Portland, OR 97205",None,None,2011.8.20,None
+2,25482,"Minneapolis, MN 55410",None,None,2011.8.20,None
+3,22085,"Portland, OR 97202",None,None,2011.8.20,None
+4,22832,"Amherst, MA 01002",None,None,2011.8.20,Reported
+5,23175,"New Orleans, LA 70119",None,None,2011.8.20,Reported
+6,25346,"San Anselmo, CA 94960",None,None,2011.8.20,Reported
+7,22873,"New York, NY 10027",None,None,2011.8.20,None
+8,24782,"Portland, OR 97213",None,None,2011.8.20,Reported
+9,24777,"Tacoma, WA 98405",None,None,2011.8.20,Reported
+0,24978,"Mountain View, CA 94043",None,None,2011.8.20,Reported
+1,24797,"Fairfax, CA 94930",None,None,2011.8.20,Reported
+2,25335,"San Francisco, CA 94114",None,None,2011.8.20,Reported
+3,22825,"Avondale Estates, GA 30002",None,None,2011.8.20,None
+4,22831,"Washington, DC 20009",None,None,2011.8.20,None
+5,23701,"Redmond, WA 98052",None,None,2011.8.20,Reported
+6,22001,"Kansas City, MO 64106",None,None,2011.8.19,Reported
+7,22925,"Beaverton, OR 97006",None,None,2011.8.19,None
+8,19861,"Portland, OR 97202",None,None,2011.8.19,None
+9,21715,"Tucson, AZ 85719",None,None,2011.8.19,None
+0,22800,"Denver, CO 80203",None,None,2011.8.19,Reported
+1,22918,"Beaverton, OR 97006",None,None,2011.8.19,Reported
+2,22810,"Portland, OR 97232",None,None,2011.8.19,Reported
+3,21988,"Tucson, AZ 85730",None,None,2011.8.19,Reported
+4,24774,"Bend, OR 97701",None,None,2011.8.19,Reported
+5,24789,"Portland, OR 97211",None,None,2011.8.19,Reported
+6,23359,"Portland, OR 97217",None,None,2011.8.19,Reported
+7,23507,"St Pete, FL 33713",None,None,2011.8.19,None
+8,22016,"Portland, OR 97212",None,None,2011.8.18,None
+9,22805,"Portland, OR 97227",None,None,2011.8.18,Reported

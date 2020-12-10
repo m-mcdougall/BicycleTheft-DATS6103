@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,23181,"Seattle, WA 98122",None,None,2013.10.21,Reported
+1,18726,"Seattle, WA 98117",None,None,2013.10.21,None
+2,18857,"San Francisco, CA 94110",None,None,2013.10.20,Reported
+3,15730,"Portland, OR 97214",None,None,2013.10.20,Reported
+4,23145,"Portland, OR 97214",None,None,2013.10.20,Reported
+5,18893,"San Francisco, CA 94110",None,None,2013.10.20,Reported
+6,20836,"Gresham, OR 97233",None,None,2013.10.20,None
+7,18638,"Portland, OR",None,None,2013.10.20,Reported
+8,18859,"San Francisco, CA 94110",None,None,2013.10.20,Reported
+9,18692,"Denver, CO 80203",None,None,2013.10.20,Reported
+0,20844,"Seattle, WA 98112",None,None,2013.10.20,None
+1,20831,"Portland, OR 97211",None,None,2013.10.20,Reported
+2,20838,"Los Gatos, CA 95032",None,None,2013.10.20,Reported
+3,20184,"Portland, OR 97211",None,None,2013.10.20,Reported
+4,20904,"San Francisco, CA 94110",None,None,2013.10.20,Reported
+5,18686,"San Francisco, CA 94102",None,None,2013.10.20,Reported
+6,20852,"Chico, CA 95928",None,None,2013.10.20,Reported
+7,20833,"Seattle, WA 98107",None,None,2013.10.20,None
+8,20875,"San Francisco, CA 94110",None,None,2013.10.20,Reported
+9,23149,"Portland, OR 97205",None,None,2013.10.20,Reported
+0,11741,"Portland, OR 97202",None,None,2013.10.20,Reported
+1,18699,"Ithaca, NY 14850",None,None,2013.10.20,None
+2,20835,"Berkeley, CA 94705",None,None,2013.10.20,Reported
+3,18656,"Portland, OR 97232",None,None,2013.10.20,Reported
+4,23120,"Portland, OR 97266",None,None,2013.10.20,Reported
+5,23113,"Tempe, AZ 85283",None,None,2013.10.19,Reported
+6,18614,"Portland, OR 97225",None,None,2013.10.19,Reported
+7,11739,"Portland, OR 97214",None,None,2013.10.19,Reported
+8,17155,"Portland, OR 97219",None,None,2013.10.19,None
+9,18640,"Portland, OR 97209",None,None,2013.10.19,Reported
+0,20850,"San Mateo, CA 94003",None,None,2013.10.19,Reported
+1,20840,"Portland, OR 97209",None,None,2013.10.19,Reported
+2,20828,"Atlanta, GA 30318",None,None,2013.10.19,None
+3,33528,"Madison, WI 53706",U-lock,Bike was not locked,2013.10.19,Reported
+4,33527,"Washington, DC 20037",U-lock,None,2013.10.19,Reported
+5,22441,"Portland, OR 97239",None,None,2013.10.19,Reported
+6,6674,"Chicago, IL 60618",None,None,2013.10.19,None
+7,18649,"Kansas City, MO 64109",None,None,2013.10.19,None
+8,20842,"Austin, TX 78705",None,None,2013.10.19,None
+9,23140,"Austin, TX 78705",None,None,2013.10.19,None
+0,18642,"Portland, OR 97209",None,None,2013.10.19,Reported
+1,23128,"Portland, OR 97219",None,None,2013.10.19,None
+2,18732,"Denver, CO 80238",None,None,2013.10.19,None
+3,23138,"Portland, OR 97209",None,None,2013.10.19,Reported
+4,23123,"Portland, OR 97219",None,None,2013.10.19,None
+5,20841,"Portland, OR 97209",None,None,2013.10.19,Reported
+6,20827,"University Heights, CA 92116",None,None,2013.10.19,Reported
+7,9442,"Burlington, VT 05405",None,None,2013.10.19,None
+8,23129,"Portland, OR 97219",None,None,2013.10.19,None
+9,18626,"Portland, OR 97219",None,None,2013.10.19,None
+0,18645,"Portland, OR 97209",None,None,2013.10.19,Reported
+1,20892,"St. Louis, MO 63104",None,None,2013.10.18,Reported
+2,1018,"Chicago, IL 60613",Cable lock,"Lock is missing, along with the bike.",2013.10.18,Reported
+3,6245,"Pittsburgh, PA 15221",None,None,2013.10.18,Reported
+4,11535,"Philadelphia, PA 19148",None,None,2013.10.18,Reported
+5,17181,"San Francisco, CA 94105",None,None,2013.10.18,None
+6,18154,"Portland, OR 97212",None,None,2013.10.18,Reported
+7,18593,"Atherton, CA 94027",None,None,2013.10.18,Reported
+8,18590,"Portland, OR 97212",None,None,2013.10.18,Reported
+9,23143,"Portland, OR 97227",None,None,2013.10.18,Reported
+0,23147,"Fort Worth, TX 76110",None,None,2013.10.18,Reported
+1,23111,"Chicago, IL 60659",None,None,2013.10.18,None
+2,8979,"Toledo, WA 98591",None,None,2013.10.18,Reported
+3,23117,"San Francisco, CA 94114",None,None,2013.10.18,None
+4,18608,"San Francisco, CA 94109",None,None,2013.10.18,Reported
+5,18577,"Phoenix, AZ 85003",None,None,2013.10.17,None
+6,991,"Cranford, NJ 7016",Cable lock,"Lock was cut, and left at the scene.",2013.10.17,None
+7,11549,"Union City, CA 94587",None,None,2013.10.17,None
+8,23101,"Madison, WI 53703",None,None,2013.10.17,Reported
+9,23167,"Portland, OR 97215",None,None,2013.10.17,Reported
+0,22430,"Mountain View, CA 94043",None,None,2013.10.17,None
+1,18575,"Seattle, WA 98117",None,None,2013.10.17,Reported
+2,18728,"Fresno, CA 93710",None,None,2013.10.17,None
+3,18591,"Houston, TX 77007",None,None,2013.10.17,Reported
+4,18981,"Chicago, IL 60610",None,None,2013.10.17,None
+5,23103,"Logan, UT 84321",None,None,2013.10.17,None
+6,20823,"Clarksville, TN 37044",None,None,2013.10.17,Reported
+7,20862,"Portland, OR 97239",None,None,2013.10.17,Reported
+8,18586,"Portland, OR 97201",None,None,2013.10.17,Reported
+9,23105,"Portland, OR 97201",None,None,2013.10.17,Reported
+0,20824,"Portland, OR 97201",None,None,2013.10.17,Reported
+1,18625,"Portland, OR 97214",None,None,2013.10.17,Reported
+2,18538,"Iowa City, IA 52246",None,None,2013.10.17,Reported
+3,11574,"Oakland, CA 94618",None,None,2013.10.16,Reported
+4,11576,"Oakland, CA 94618",None,None,2013.10.16,Reported
+5,11759,"Mc Kinney, TX 75069",None,None,2013.10.16,None
+6,18617,"Portland, OR 97201",None,None,2013.10.16,Reported
+7,20822,"Philadelphia, PA 19140",None,None,2013.10.16,Reported
+8,20813,"San Francisco, CA 94105",None,None,2013.10.16,None
+9,18513,"Brooklyn, NY 11222",None,None,2013.10.16,None
+0,18496,"San Francisco, CA 94103",None,None,2013.10.16,None
+1,18535,"Salt Lake City, UT 84112",None,None,2013.10.16,Reported
+2,6036,"Folsom, CA 95630",None,None,2013.10.16,Reported
+3,18470,"Portland, OR 97202",None,None,2013.10.16,Reported
+4,20809,"Portland, OR 97202",None,None,2013.10.16,Reported
+5,23092,"Portland, OR 97206",None,None,2013.10.16,Reported
+6,33408,"Providence, RI 02909",U-lock and cable,"Lock was cut, and left at the scene.",2013.10.16,None
+7,18531,"Tucson, AZ 85719",None,None,2013.10.16,Reported
+8,18566,"Mountain View, CA 94040",None,None,2013.10.15,Reported
+9,9919,"San Diego, CA 92116",Cable lock,None,2013.10.15,Reported

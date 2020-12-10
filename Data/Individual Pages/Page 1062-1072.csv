@@ -1,0 +1,71 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,753354,"Seven Corner , Falls Church, VA 22044",None,None,2020.6.4,None
+1,754268,"Seattle, WA 98102",U-lock and cable,"Lock is missing, along with the bike",2020.6.4,Reported
+2,677730,"Seattle, WA 98144",None,None,2020.6.4,None
+3,753243,"1200 Bannock St, Denver, CO 80204",None,None,2020.6.4,None
+4,753980,"Seattle, WA 98112",Other,"Other situation, please describe below",2020.6.4,Reported
+5,753101,"Orange, CA 92867",None,None,2020.6.4,None
+6,784028,"995 Potrero Avenue, San Francisco, CA 94110",Other,"Lock was cut, and left at the scene",2020.6.4,Reported
+7,755611,"Mountain View, CA 94040",Other,"Other situation, please describe below",2020.6.4,Reported
+0,746992,"Tukwila, WA 98168",Not locked,Bike was not locked,2020.6.4,Reported
+1,753012,"Atlanta, GA 30319",U-lock and cable,"Lock is missing, along with the bike",2020.6.4,None
+2,754530,"Milwaukee, WI 53203",Cable lock,"Lock is missing, along with the bike",2020.6.4,Reported
+3,698418,"The Dalles, OR 97058",None,None,2020.6.4,None
+4,752951,"Oakland, CA 94608",None,None,2020.6.4,None
+5,752943,"Houston, TX 77063",None,None,2020.6.4,None
+0,752927,"Draper, UT 84020",None,None,2020.6.4,Reported
+1,756099,"11 W Aloha St. RM, Seattle, WA 98119",Not locked,None,2020.6.4,Reported
+2,753710,"Irvine, CA 92618",Cable lock,"Lock is missing, along with the bike",2020.6.4,None
+3,752920,"Houston, TX 77019",U-lock,"Lock was cut, and left at the scene",2020.6.4,Reported
+4,404377,"Se 14th and Stark, Portland, OR 97214",U-lock and cable,"Lock is missing, along with the bike",2020.6.4,Reported
+5,768571,"Austin, TX 78759",None,None,2020.6.4,Reported
+6,766324,"San Francisco, CA 94102",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.4,Reported
+7,766285,"Seattle, WA 98119",None,None,2020.6.4,Reported
+0,700828,"New York, NY 10040",Not locked,None,2020.6.4,None
+1,752762,"Paul Allen Center, 185 E Stevens Way NE AE100R, Seattle, WA 98195",None,None,2020.6.4,None
+2,753485,"Portland, OR 97210",None,None,2020.6.4,None
+3,752745,"Chicago, IL 60613",None,None,2020.6.3,Reported
+4,753973,"1350 Speer Blvd, Denver, CO 80204",None,None,2020.6.3,None
+5,752969,"Portland, OR 97217",None,None,2020.6.3,Reported
+0,753223,"New Orleans, LA 70117",None,None,2020.6.3,None
+1,753216,"New Orleans, LA 70117",None,None,2020.6.3,None
+2,753020,"1220 S Lincoln Ave, Boise, ID 83706",Other,"Other situation, please describe below",2020.6.3,Reported
+3,752592,"High Street & Hickam Terrace, Fremont, CA 94538",None,None,2020.6.3,None
+4,752534,"Toledo, OH 43614",Other,"Other situation, please describe below",2020.6.3,Reported
+5,752267,"Portland, OR 97205",None,None,2020.6.3,Reported
+0,752274,"Portland, OR 97205",None,None,2020.6.3,Reported
+1,779003,"Boston, MA 02114",U-lock and cable,"Lock was cut, and left at the scene",2020.6.3,Reported
+2,752307,"Vienna, VA 22182",None,None,2020.6.3,None
+3,752326,"Palm Springs, CA 92262",None,None,2020.6.3,None
+4,755543,"1712 14th St NW, Washington, DC 20009",U-lock,"Lock is missing, along with the bike",2020.6.3,Reported
+5,752208,"California Valley, CA 93453",None,None,2020.6.3,None
+6,778891,"2900 Northwind Dr, East Lansing, MI 48823",None,None,2020.6.3,Reported
+0,752872,"New Orleans, LA",None,None,2020.6.3,Reported
+1,775300,"Eugene, OR 97403",None,None,2020.6.3,Reported
+2,752234,"New York, NY 10128",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.3,None
+3,754791,"New Orleans, LA 70117",None,None,2020.6.2,None
+4,752613,"807 SW 14th Avenue, Portland, OR 97205",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.2,Reported
+0,751762,"Pompano Beach, FL 33062",Chain with padlock,"Lock was cut, and left at the scene",2020.6.2,Reported
+1,751811,"5353 Memorial Drive, Houston, TX 77007",None,None,2020.6.2,None
+2,755340,"3600 W Broad St, Richmond, VA 23230",Cable lock,"Lock is missing, along with the bike",2020.6.2,Reported
+3,751759,"Ann Arbor, MI 48104",None,None,2020.6.2,None
+4,751698,"1100 East, Salt Lake City, UT 84105",None,None,2020.6.2,None
+5,751613,"321 S Pierce Street, New Orleans, LA 70115",Cable lock,"Lock is missing, along with the bike",2020.6.2,None
+6,753015,"New Orleans, LA",None,None,2020.6.2,None
+0,650040,"Surrey, v3c2b9",Chain with padlock,"Lock is missing, along with the bike",2020.6.2,None
+1,750590,"Santa Monica, CA 90405",Cable lock,"Lock is missing, along with the bike",2020.6.2,Reported
+2,751460,"Cottonwood Heights, UT 84121",None,None,2020.6.2,Reported
+3,751445,"2202 W NORTH LOOP BLVD APT 232, Austin, TX 78756",None,None,2020.6.2,None
+4,751558,"San Francisco, CA 94107",Cable lock,"Lock is missing, along with the bike",2020.6.2,None
+5,753102,"Mill Valley, CA 94941",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.2,Reported
+6,753232,"New Orleans, LA 70117",None,None,2020.6.2,None
+7,754236,"Hayward, CA 94541",Not locked,"Other situation, please describe below",2020.6.2,Reported
+0,751265,"Peninsula, OH 44264",None,None,2020.6.2,None
+1,751248,"Tacoma, WA 98406",None,None,2020.6.1,Reported
+2,752507,"Portland, OR 97204",None,None,2020.6.1,Reported
+3,751226,"San Francisco, CA 94110",Not locked,"Lock is missing, along with the bike",2020.6.1,Reported
+4,787759,"Everett, WA 98201",Not locked,Bike was not locked,2020.6.1,None
+5,751544,"Des Moines, IA 50309",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.1,Reported
+6,751651,"Walnut Creek, CA 94598",Other,None,2020.6.1,Reported
+7,783414,"San Diego, CA 92103",None,None,2020.6.1,Reported
+8,430620,"5255 19th Avenue NE, Seattle, WA 98105",Cable lock,"Lock is missing, along with the bike",2020.6.1,None

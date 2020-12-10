@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,688247,"Rochester, NY 14608",Not locked,Bike was not locked,2020.1.22,Reported
+1,688598,"Portland, OR 97217",None,None,2020.1.22,None
+2,688493,"New Orleans, LA 70130",U-lock,"Lock is missing, along with the bike",2020.1.22,None
+3,688242,"100 NW 85th St , Seattle, WA 98117 ",None,None,2020.1.22,None
+4,696564,"San Francisco, CA 94110",Not locked,"Other situation, please describe below",2020.1.22,None
+5,696570,"San Francisco, CA 94110",Not locked,"Other situation, please describe below",2020.1.22,None
+6,699604,"Philadelphia, PA 19123",Not locked,"Other situation, please describe below",2020.1.21,Reported
+0,688221,"Portland, OR 97227",None,None,2020.1.21,None
+1,688199,"Pittsburgh, PA 15232",None,None,2020.1.21,Reported
+2,406356,"Seattle, WA 98105",Other,"Other situation, please describe below",2020.1.21,Reported
+3,576782,"San Francisco, CA 94107",Other,"Other situation, please describe below",2020.1.21,None
+4,688304,"Eugene, OR 97401",None,None,2020.1.21,None
+5,688153,"Oakland, CA 94607-1655",U-lock and cable,"Other situation, please describe below",2020.1.21,Reported
+6,688118,"14106 Pacific Avs. S., Tacoma, WA 98444",None,None,2020.1.21,None
+0,380510,"Carmichael, CA 95608",Not locked,"Other situation, please describe below",2020.1.21,Reported
+1,689400,"Cleveland St. and Park St., Mount Vernon, WA 98273",None,None,2020.1.21,Reported
+2,688196,"Portland, OR 97214",None,None,2020.1.21,Reported
+3,688624,"Centennial, CO 80112",Not locked,Bike was not locked,2020.1.21,Reported
+4,690402,"Mount Vernon, WA 98273",None,None,2020.1.21,Reported
+5,688294,"Chicago, IL 60647",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.1.21,Reported
+6,635053,"Los Angeles, CA 90024",Not locked,Bike was not locked,2020.1.20,Reported
+7,688067,"18101 Coit rd, Dallas, TX 75252",None,None,2020.1.20,None
+0,688055,"736 Walnut Street, San Carlos, CA 94070",Other,"Other situation, please describe below",2020.1.20,Reported
+1,688030,"1425 Spring Street, Apt 1202, Seattle, WA 98104",Cable lock,"Lock was cut, and left at the scene",2020.1.20,Reported
+2,688038,"Oakland, CA 94609",Two U-locks,"Lock was cut, and left at the scene",2020.1.20,Reported
+3,688036,"Oakland, CA 94609",Two U-locks,"Lock was cut, and left at the scene",2020.1.20,Reported
+4,687990,"San Francisco, CA 94114",Not locked,"Other situation, please describe below",2020.1.20,Reported
+5,687991,"Seattle, WA 98103",U-lock and cable,"Lock was cut, and left at the scene",2020.1.20,None
+6,490028,"San Francisco, CA 94110",None,None,2020.1.20,None
+7,688361,"Las Vegas, NV 89119",Cable lock,"Lock was cut, and left at the scene",2020.1.20,Reported
+8,687968,"Denver, CO 80211",None,None,2020.1.20,Reported
+0,687964,"Denver, CO 80202",Cable lock,"Lock was cut, and left at the scene",2020.1.20,None
+1,688063,"Irvine, CA 92604",Cable lock,"Lock is missing, along with the bike",2020.1.20,Reported
+2,688314,"Las Vegas, NV 89119",Cable lock,"Lock was cut, and left at the scene",2020.1.20,Reported
+3,701466,"Portland, OR",Not locked,Bike was not locked,2020.1.20,None
+0,679332,"Aurora, CO 80013",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.1.19,None
+1,687893,"Seattle, WA",U-lock,"Lock was cut, and left at the scene",2020.1.19,None
+2,687876,"4609 14th Ave NW, Seattle, WA 98107",None,"Lock was cut, and left at the scene",2020.1.19,Reported
+3,688149,"Vancouver, WA 98665",None,None,2020.1.19,Reported
+4,665656,"Venice, CA 90291 ",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.1.19,Reported
+5,687858,"Redwood City, CA 94063",None,None,2020.1.19,None
+6,690409,"3 bethesda metro center, Bethesda, MD 20814",Other,"Other situation, please describe below",2020.1.19,Reported
+7,688062,"Seattle, WA 98144",U-lock,"Lock is missing, along with the bike",2020.1.19,Reported
+8,688230,"Folsom St and Mapleton Ave, Boulder, CO 80304",Not locked,Bike was not locked,2020.1.19,None
+0,687770,"San Francisco, CA 94110",None,None,2020.1.19,None
+1,687771,"Somerville, MA 02143",Other,"Lock is missing, along with the bike",2020.1.19,None
+2,687766,"Lutz, FL 33549",None,None,2020.1.19,Reported
+3,393374,"Seattle, WA 98122",None,None,2020.1.19,None
+4,687797,"Portland, OR 97211",None,None,2020.1.19,Reported
+5,688088,"Newhall, CA 91321",None,None,2020.1.19,Reported
+6,687780,"St. Paul, MN 55105",Other,"Other situation, please describe below",2020.1.19,Reported
+7,689808,"78 Fairmount Ave, Oakland, CA 94611",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.1.19,Reported
+8,384398,"San Francisco, CA 94117",U-lock,"Other situation, please describe below",2020.1.19,Reported
+0,687798,"New Orleans, LA 70115",U-lock,"Lock is missing, along with the bike",2020.1.19,None
+1,687698,"Hamilton, NJ 08610",Not locked,None,2020.1.18,None
+2,688473,"3838 Centinela Ave, Los Angeles, CA 90066",Cable lock,"Lock is missing, along with the bike",2020.1.18,Reported
+3,688117,"14106 Pacific Avs. S., Tacoma, WA 98444",Not locked,None,2020.1.18,Reported
+4,687639,"Seaside, CA 93955",None,None,2020.1.18,None
+5,687777,"Los Angeles, CA 90066",Cable lock,"Lock is missing, along with the bike",2020.1.18,Reported
+6,687613,"New Braunfels, TX 78130",Cable lock,"Lock is missing, along with the bike",2020.1.18,None
+7,687625,"San Francisco, CA 94117",None,"Other situation, please describe below",2020.1.18,Reported
+0,688312,"South Salt Lake, UT 84115",None,None,2020.1.18,Reported
+1,159989,"Denver, CO 80210",None,None,2020.1.18,None
+2,376985,"Minneapolis, MN 55402",U-lock,"Lock was opened, and left unharmed at the scene.",2020.1.18,Reported
+3,687326,"Austin, TX 78734",Not locked,None,2020.1.18,None
+4,645912,"Las Cruces, NM 88003",Cable lock,"Lock is missing, along with the bike",2020.1.18,None
+5,687754,"Home Depot - 1325 W Route 66, Flagstaff, AZ 86001",Cable lock,"Lock was cut, and left at the scene",2020.1.18,Reported
+0,687996,"3820 Grand Way, St. Louis Park, MN 55416",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.1.18,Reported
+1,687512,"San Francisco, CA 94110",Not locked,Bike was not locked,2020.1.18,None
+2,687841,"New Orleans, LA 70122",None,None,2020.1.18,Reported
+3,688023,"Stanford, CA 94305",U-lock,None,2020.1.18,Reported
+4,687504,"820 W 3rd St, Austin, TX 78701",None,None,2020.1.18,Reported
+5,687499,"50 Embarcadero Road, Palo Alto, CA 94301",None,None,2020.1.18,None
+6,347374,"Salem, OR 97302",None,None,2020.1.18,None
+7,687494,"Redmond, WA 98052",None,None,2020.1.17,None

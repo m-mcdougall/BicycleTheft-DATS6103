@@ -1,0 +1,98 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,18406,"New York, NY 10012",None,None,2013.5.18,None
+1,18563,"Baltimore, MD 21231",None,None,2013.5.18,None
+2,18484,"Chicago, IL 60614",None,None,2013.5.18,Reported
+3,18501,"Portland, OR 97210",None,None,2013.5.18,Reported
+4,18508,"San Rafael, CA 94901",None,None,2013.5.18,None
+5,18966,"Philadelphia, PA 19148",None,None,2013.5.18,Reported
+6,20595,"Portland, OR 97212",None,None,2013.5.18,None
+7,18477,"Washington, DC 20001",None,None,2013.5.17,Reported
+8,15111,"Salt Lake City, UT 84121",None,None,2013.5.17,None
+9,16298,"Atlanta, GA 30308",None,None,2013.5.17,None
+0,18868,"Omaha, NE 68104",None,None,2013.5.17,None
+1,20594,"Austin, TX 78705",None,None,2013.5.17,None
+2,14982,"Salt Lake City Utah, UT 84105",None,None,2013.5.17,Reported
+3,14977,"Rock Hill, SC 29732",None,None,2013.5.17,None
+4,15003,"Portland, OR 0650",None,None,2013.5.17,None
+5,18503,"Huntington Beach, CA 92648",None,None,2013.5.17,None
+6,18828,"Tacoma, WA 98405",None,None,2013.5.17,Reported
+7,18479,"Morgan Hill, CA 95037",None,None,2013.5.17,Reported
+8,20590,"Mercer Island, WA 98040",None,None,2013.5.17,Reported
+9,14997,"Denver, CO 80211",None,None,2013.5.17,None
+0,18374,"Vancouver, WA 98664",None,None,2013.5.17,None
+1,20589,"San Jose, CO 95123",None,None,2013.5.17,Reported
+2,20597,"New York, NY 10009",None,None,2013.5.17,None
+3,14991,"Park Slope, Brooklyn, NY 11215",None,None,2013.5.17,None
+4,18884,"Brooklyn, NY 11215",None,None,2013.5.17,None
+5,14988,"Shasta Lake, CA 96019",None,None,2013.5.17,None
+6,15023,"Huntington Beach, CA 92648",None,None,2013.5.17,None
+7,20948,"Corvallis, OR 97331",None,None,2013.5.17,None
+8,20586,"Tacoma, WA 98405",None,None,2013.5.17,Reported
+9,20599,"Pensacola, FL 32503",None,None,2013.5.16,Reported
+0,654992,"Los Angeles, CA 90032",Cable lock,"Lock is missing, along with the bike",2013.5.16,None
+1,15015,"Fresno, CA 93726",None,None,2013.5.16,Reported
+2,14989,"Seattle, WA 98133",None,None,2013.5.16,Reported
+3,18494,"Denver, CO 80227",None,None,2013.5.16,Reported
+4,19752,"Fremont, CA 94538",None,None,2013.5.16,Reported
+5,21865,"Portland, OR 97214",None,None,2013.5.16,Reported
+6,14995,"Boulder, CO 80303",None,None,2013.5.16,None
+7,18372,"Portland, OR 97202",None,None,2013.5.16,Reported
+8,18613,"Staten Island, NY 10310",None,None,2013.5.16,None
+9,28561,"Happy Valley, OR 97086",None,None,2013.5.16,None
+0,28312,"Walla Walla, WA 99362",U-lock,"Other situation, please describe below.",2013.5.15,Reported
+1,398029,"Seattle, WA 98105",Cable lock,"Lock was cut, and left at the scene.",2013.5.15,Reported
+2,21573,"Menomonie, WI 54751",None,None,2013.5.15,None
+3,14974,"Seattle, WA 98109",None,None,2013.5.15,Reported
+4,15048,"Portland, OR 97205",None,None,2013.5.15,Reported
+5,18300,"Portland, OR 97214",None,None,2013.5.15,Reported
+6,18717,"Portland, OR 97217",None,None,2013.5.15,None
+7,20582,"San Diego, CA 92102",None,None,2013.5.15,Reported
+8,20581,"Raleigh, NC 27607",None,None,2013.5.15,Reported
+9,20587,"Santa Rosa, CA 95404",None,None,2013.5.15,None
+0,404475,"Seattle, WA 98102",None,None,2013.5.15,Reported
+1,18307,"Detroit, MI 48226",None,None,2013.5.15,Reported
+2,18482,"Las Vegas, NV 89106",None,None,2013.5.15,Reported
+3,20651,"New Castle, DE 19720",None,None,2013.5.15,None
+4,19185,"Seattle, WA 98199",None,None,2013.5.15,Reported
+5,15101,"Portland, OR 97203",None,None,2013.5.15,None
+6,14972,"Portland, OR 97215-1969",None,None,2013.5.15,Reported
+7,18316,"Portland, OR 97214",None,None,2013.5.15,Reported
+8,20584,"Portland, OR 97215",None,None,2013.5.15,None
+9,18573,"Lacey, WA 98503",None,None,2013.5.14,Reported
+0,14965,"Portland, OR 97210",None,None,2013.5.14,Reported
+1,18166,"Hyattsville, MD 20783",None,None,2013.5.14,Reported
+2,18176,"Bellingham, WA 98229",None,None,2013.5.14,None
+3,18777,"Grafton, WI 53024",None,None,2013.5.14,None
+4,18770,"Bryan, TX 77803",None,None,2013.5.14,Reported
+5,18793,"Oakland, TN 38060",None,None,2013.5.14,Reported
+6,14960,"Tigard, OR 97224",None,None,2013.5.14,None
+7,18346,"Riverside, CA 92507",None,None,2013.5.14,Reported
+8,20571,"Hyattsville, MD 20783",None,None,2013.5.14,Reported
+9,18355,"Oakland, CA 94612",None,None,2013.5.14,None
+0,18290,"Portland, OR 97209",None,None,2013.5.14,Reported
+1,20500,"San Jose, CA 95131",None,None,2013.5.14,Reported
+2,18924,"Chicago, IL 60610",None,None,2013.5.14,None
+3,14962,"Brooklyn, NY 11238",None,None,2013.5.14,None
+4,97370,"Indianapolis, IN 46240",Not locked,"Other situation, please describe below.",2013.5.14,None
+5,20575,"Lindenhurst, NY 11757",None,None,2013.5.13,None
+6,14347,"San Diego, CA 92104",None,None,2013.5.13,Reported
+7,15010,"San Luis Obispo, CA 93405",None,None,2013.5.13,None
+8,15050,"Portland, OR 97212",None,None,2013.5.13,None
+9,18245,"San Diego, CA 92102",None,None,2013.5.13,Reported
+0,20576,"Tucson, AZ 85701",None,None,2013.5.13,None
+1,18234,"Spokane Valley, WA 99016",None,None,2013.5.13,Reported
+2,18235,"Portland, OR 97202",None,None,2013.5.13,Reported
+3,18585,"Oakland, CA 94611",None,None,2013.5.13,Reported
+4,20579,"Madison, WI 53711",None,None,2013.5.13,Reported
+5,15009,"Oakland, CA 94611",None,None,2013.5.13,Reported
+6,18294,"Amherst, MA 01002",U-lock,Bike was not locked,2013.5.13,None
+7,18907,"San Luis Obispo, CA 93405",None,None,2013.5.13,None
+0,18177,"Oakhurst, CA 93644",None,None,2013.5.12,Reported
+1,18745,"Brooklyn, NY 11216",None,None,2013.5.12,None
+2,11311,"Portland, OR 97219",None,None,2013.5.12,Reported
+3,20573,"Lubbock, TX 79406",None,None,2013.5.12,None
+4,11309,"Atlanta, GA 30312",None,None,2013.5.12,None
+5,17235,"South Beach.Miami Beach, FL 33139",None,None,2013.5.12,None
+6,20593,"Fremont, CA 94536",None,None,2013.5.12,Reported
+7,18180,"Madison, WI 53703",None,None,2013.5.12,Reported
+8,28735,"Milwaukie, OR 97267",None,None,2013.5.12,None

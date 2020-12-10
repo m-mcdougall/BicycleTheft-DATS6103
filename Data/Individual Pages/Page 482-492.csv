@@ -1,0 +1,61 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,858248,"San Antonio, TX 78204",Not locked,Bike was not locked,2020.9.1,Reported
+1,853607,"1 S. Lake St, Reno, NV 63021",U-lock and cable,"Lock was cut, and left at the scene",2020.9.1,Reported
+2,853617,"Reno, NV 89501",U-lock and cable,"Lock was cut, and left at the scene",2020.9.1,Reported
+3,853342,"Los Angeles, CA 90035 ",None,None,2020.9.1,None
+4,853343,"721 Edgewod St, Inglewood, CA 90302",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.1,None
+5,853405,"Irvine, CA 92602",Not locked,Bike was not locked,2020.9.1,Reported
+6,853144,"New, LA 70115",None,None,2020.9.1,Reported
+7,853866,"Santa Monica, CA 90401",U-lock and cable,Bike was not locked,2020.9.1,Reported
+0,853286,"Escondido Rd, Stanford, CA 94305",U-lock and cable,"Lock was cut, and left at the scene",2020.9.1,Reported
+1,923814,"2200 Baker Drive, Boulder, CO 80309",U-lock and cable,"Lock is missing, along with the bike",2020.9.1,Reported
+2,853226,"Pdx, OR 97217",None,None,2020.9.1,None
+3,853197,"48800-48806 Ave A, Index, WA 98256",None,None,2020.9.1,None
+0,918955,"Milwaukee, WI 53211",None,None,2020.9.1,Reported
+1,843194,"Hayward, CA",None,None,2020.9.1,None
+2,853154,"Greenville, SC 29617",None,None,2020.9.1,None
+3,853151,"1467 NW Monroe AVE, Corvallis, OR 97330",Chain with padlock,Bike was not locked,2020.9.1,Reported
+4,853149,"South Salt Lake, UT 84115",None,None,2020.9.1,None
+5,852967,"Cambridge, MA 02138",Other,"Other situation, please describe below",2020.9.1,Reported
+6,853147,"2 Irving St, San Francisco, CA 94122, San Francisco, CA 94122",U-lock and cable,"Lock was cut, and left at the scene",2020.9.1,Reported
+0,615891,"Boise, ID 83706",Not locked,Bike was not locked,2020.9.1,Reported
+1,863911,"2250 Clarendon Blvd , Arlington, VA 22201",None,"Lock is missing, along with the bike",2020.9.1,None
+2,853060,"Park Ave, New York, NY 10017",Chain with padlock,"Lock is missing, along with the bike",2020.9.1,Reported
+3,852942,"Federal Way, WA 98003",Other,"Other situation, please describe below",2020.9.1,Reported
+4,852998,"Portland, OR 97210",None,None,2020.9.1,None
+5,92754,"Eugene, OR 97404",Not locked,None,2020.9.1,None
+0,853015,"Norman, OK 73072",Cable lock,"Lock is missing, along with the bike",2020.9.1,Reported
+1,852975,"San Francisco, CA 94122",None,None,2020.9.1,None
+2,852936,"Sarasota, FL 34231",Cable lock,"Lock was opened, and left unharmed at the scene",2020.9.1,None
+3,852900,"San Francisco, CA 94118",None,None,2020.9.1,Reported
+4,852872,"San Francisco, CA 94118",Not locked,None,2020.9.1,Reported
+0,862739,"Madison, WI 53715",U-lock and cable,"Other situation, please describe below",2020.9.1,Reported
+1,920410,"Arctic Island, Syracuse, NY 13205",Not locked,None,2020.9.1,Reported
+2,852861,"Edmonds, WA 98026",None,None,2020.9.1,Reported
+3,853323,"Superior, CO 80027",Not locked,Bike was not locked,2020.9.1,Reported
+4,923748,"Berkeley, CA 94703",None,None,2020.9.1,Reported
+5,863176,"1057 Lombard St, San Francisco, CA 94109-1514",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.1,Reported
+0,411643,"Seattle, WA 98122",U-lock and cable,"Lock is missing, along with the bike",2020.9.1,None
+1,863975,"Seattle, WA 98102",U-lock,"Other situation, please describe below",2020.9.1,Reported
+2,110328,"Seattle, WA 98102",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.1,Reported
+3,853971,"Eugene, OR 97401",None,None,2020.9.1,Reported
+4,864041,"Mercer Island, WA 98040",None,None,2020.9.1,Reported
+5,853988,"Pasadena, CA 91105",Not locked,Bike was not locked,2020.9.1,Reported
+0,863831,"Portland, OR 97209",None,None,2020.9.1,None
+1,922542,"San Jose, CA 95124",None,"Other situation, please describe below",2020.9.1,Reported
+2,849777,"Havana and Iola, Denver, CO 80238",Not locked,None,2020.8.31,Reported
+3,853347,"2525 Kittredge loop drive, Boulder, CO 80310",Cable lock,"Lock was cut, and left at the scene",2020.8.31,None
+0,853091,"West Seneca, NY 14224",None,None,2020.8.31,Reported
+1,849668,"20812 Bothell Everett HWY, Bothell, WA 98021",None,None,2020.8.31,None
+2,850797,"St. Louis, MO 63108",U-lock and cable,"Other situation, please describe below",2020.8.31,Reported
+3,849674,"Denver, CO 80209",None,None,2020.8.31,Reported
+4,849760,"10561 West Pico Blvd, Los Angeles, CA 90064",None,Bike was not locked,2020.8.31,Reported
+0,112169,"266 King St, San Francisco, CA 94107",U-lock,"Lock was cut, and left at the scene",2020.8.31,Reported
+1,853324,"400 Pike Street, Seattle, WA 98101",None,None,2020.8.31,Reported
+2,853608,"Milwaukee, WI 53208",None,None,2020.8.31,Reported
+3,385421,"Portland, OR 97209",Other,None,2020.8.31,None
+4,849584,"Virginia Beach, VA 23454",Not locked,None,2020.8.31,Reported
+5,862428,"3117 SE Milwaukie Ave, Portland, OR 97202",Cable lock,"Lock was cut, and left at the scene",2020.8.31,Reported
+6,926213,"1128 Ocean Park Blvd., Santa Monica, CA 90405",U-lock,"Lock is missing, along with the bike",2020.8.31,Reported
+7,849576,"Charlotte, NC 28262",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.8.31,None
+8,849511,"1350 W Van Buren Street, Phoenix, AZ 85007",None,None,2020.8.31,None

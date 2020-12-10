@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,21134,"Austin, TX 78731",None,None,2011.12.29,Reported
+1,21563,"Portland, OR 97212",None,None,2011.12.29,Reported
+2,23931,"Lakewood Ranch, FL 34202",None,None,2011.12.29,None
+3,24448,"Portland, OR 97210",None,None,2011.12.28,Reported
+4,23906,"Tualatin, OR 97062",None,None,2011.12.27,Reported
+5,24439,"Portland, OR",None,None,2011.12.27,None
+6,24428,"Portland, OR",None,None,2011.12.27,Reported
+7,24643,"San Francisco, CA 94117",None,None,2011.12.27,None
+8,24061,"San Francisco, CA 94122",None,None,2011.12.26,Reported
+9,24473,"Huntington Beach, CA 92647",None,None,2011.12.26,None
+0,24410,"Portland, OR 97206",None,None,2011.12.25,None
+1,24418,"Seattle, WA 98103",None,None,2011.12.25,Reported
+2,24414,"Portland, OR 97217",None,None,2011.12.25,Reported
+3,21562,"Seattle, WA 98107",None,None,2011.12.25,Reported
+4,23868,"Honolulu, HI 96815",None,None,2011.12.25,Reported
+5,24565,"Santa Cruz, CA 95060",None,None,2011.12.24,Reported
+6,24540,"San Diego, CA 92104",None,None,2011.12.24,Reported
+7,24494,"Portland, OR",None,None,2011.12.23,None
+8,21136,"Houston, TX 77006",None,None,2011.12.23,None
+0,24395,"Pico Rivera, CA 90660",None,None,2011.12.23,Reported
+1,24408,"Portland, OR 97209",None,None,2011.12.23,None
+2,25215,"Brooklyn, NY 11211",None,None,2011.12.23,None
+3,24390,"Portland, OR 97214",None,None,2011.12.23,Reported
+4,24375,"Portland, OR 97212",None,None,2011.12.22,Reported
+5,23842,"Vancouver, WA 98660",None,None,2011.12.22,None
+6,24381,"Seattle, WA 98117",None,None,2011.12.22,None
+7,24400,"Portland, OR 97206",None,None,2011.12.22,Reported
+8,24379,"Vancouver, WA 98660",None,None,2011.12.22,None
+9,26087,"Portland, OR",None,None,2011.12.22,None
+0,25154,"Atlanta, GA 30307",None,None,2011.12.22,None
+1,15273,"Austin, TX 78705",None,None,2011.12.22,None
+2,24856,"Philadelphia, PA 19130",None,None,2011.12.21,Reported
+3,21553,"Portland, OR 97233",None,None,2011.12.21,Reported
+4,21668,"Portland, OR 97212",None,None,2011.12.21,Reported
+5,23811,"Portland, OR 97233",None,None,2011.12.21,Reported
+6,24858,"Dallas, TX 75209",None,None,2011.12.21,Reported
+7,24391,"Oakland, CA 94611",None,None,2011.12.21,Reported
+8,24857,"Portland, OR 97203",None,None,2011.12.21,None
+9,21576,"Portland, OR 97201",None,None,2011.12.21,Reported
+0,24363,"Miami Beach, FL 33140",Cable lock,None,2011.12.20,None
+1,23796,"Brooklyn, NY 11215",None,None,2011.12.20,None
+2,13171,"Las Vegas, NV 89122",None,None,2011.12.20,None
+3,23807,"San Francisco, CA 94103",None,None,2011.12.20,Reported
+4,26670,"Philadelphia, PA 19149",None,None,2011.12.20,None
+5,24370,"Seattle, WA 98109",None,None,2011.12.20,None
+6,24352,"Portland, OR 97210",None,None,2011.12.20,Reported
+7,21549,"Portland, OR 97232",None,None,2011.12.20,None
+8,23836,"San Francisco, CA 94118",None,None,2011.12.20,None
+9,21550,"San Diego, CA 92104",None,None,2011.12.19,Reported
+0,24436,"Austin, TX 78702",None,None,2011.12.19,Reported
+1,24855,"Seattle, WA 98102",None,None,2011.12.19,None
+2,21805,"Livermore, CA 94550",None,None,2011.12.19,Reported
+3,24569,"Astoria, NY 11102",None,None,2011.12.19,None
+4,24366,"Austin, TX 78704",None,None,2011.12.19,Reported
+5,24333,"Phoenix, AZ 85003",None,None,2011.12.19,None
+6,24327,"Long Beach, CA 90802",None,None,2011.12.18,None
+7,25150,"Portland, OR 97232",None,None,2011.12.18,Reported
+8,24349,"Fort Collins, CO 80526",None,None,2011.12.18,Reported
+9,24394,"San Francisco, CA 94103",None,None,2011.12.18,Reported
+0,25156,"Sacramento, CA 95816",None,None,2011.12.18,Reported
+1,24336,"Silver Spring, MD 20910",None,None,2011.12.18,Reported
+2,24331,"Portland, OR 97212",None,None,2011.12.18,None
+3,21547,"Portland, OR 97217",None,None,2011.12.17,None
+4,24313,"Saint Petersburg, FL 33705",None,None,2011.12.17,None
+5,24433,"San Francisco, CA 94122",None,None,2011.12.17,None
+6,24450,"Portland, OR 97232",None,None,2011.12.17,Reported
+7,24358,"Seattle, WA 98103",None,None,2011.12.17,Reported
+8,24854,"Aurora, IL 60503",None,None,2011.12.17,Reported
+9,24362,"Seattle, WA 98103",None,None,2011.12.17,Reported
+0,38402,"Berkeley, CA 94709-2119",Cable lock,"Lock was cut, and left at the scene.",2011.12.16,None
+1,24306,"Portland, OR 97214",None,None,2011.12.16,Reported
+2,24325,"Portland, OR 97239",None,None,2011.12.16,Reported
+3,21128,"Tempe, AZ 85282",None,None,2011.12.16,None
+4,24402,"Portland, OR 97212",None,None,2011.12.16,None
+5,21555,"San Francisco, CA 94114",None,None,2011.12.16,Reported
+6,24328,"San, CA 94118",None,None,2011.12.16,Reported
+7,21548,"Portland, OR 97211",None,None,2011.12.16,Reported
+8,24427,"San Francisco, CA 94117",None,None,2011.12.15,Reported
+9,24307,"Portland, OR 97210",None,None,2011.12.15,Reported
+0,24103,"Oxford, OH 45056",None,None,2011.12.15,Reported
+1,24326,"San Francisco, CA 94107",None,None,2011.12.15,Reported
+2,87662,"Pleasanton, CA 94588",Cable lock,"Lock was cut, and left at the scene.",2011.12.15,None
+3,24332,"Seattle, WA 98122",None,None,2011.12.15,Reported
+4,23783,"Seattle, WA 98122",None,None,2011.12.15,Reported
+5,24303,"Los Angeles, CA 90095",None,None,2011.12.15,None
+6,21129,"San Francisco, CA 94110",None,None,2011.12.15,Reported
+7,24319,"San Francisco, CA 94110",None,None,2011.12.15,Reported
+8,24853,"Portland, OR 97205",None,None,2011.12.15,None
+9,25662,"San Francisco, CA 94110",None,None,2011.12.14,None
+0,23851,"Willow Glen, CA 95125",None,None,2011.12.14,Reported
+1,24296,"Los Angeles, CA 90019",None,None,2011.12.14,None
+2,26707,"Tampa, FL 33617",Cable lock,"Lock is missing, along with the bike.",2011.12.14,Reported
+3,24852,"Portland, OR 97214",None,None,2011.12.14,Reported
+4,24468,"San Francisco, CA 94103",None,None,2011.12.14,None
+5,21557,"Willow Glen, CA 95125",None,None,2011.12.14,Reported
+6,24536,"Ridgefield, WA 98642",None,None,2011.12.14,None
+7,26107,"Sacramento, CA 95821",None,None,2011.12.14,None
+8,24859,"Pico Robertson Area, CA 90035",None,None,2011.12.14,None
+9,23722,"San Diego, CA 919113",None,None,2011.12.13,None

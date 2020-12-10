@@ -1,0 +1,73 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,689333,"Los Angeles, CA 90291",None,None,2020.2.11,None
+1,692756,"Portland, OR 97217",Cable lock,"Other situation, please describe below",2020.2.10,Reported
+2,692678,"San Francisco, CA 94112",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.2.10,Reported
+3,693973,"San Diego, CA 92093",Cable lock,"Lock is missing, along with the bike",2020.2.10,None
+4,692857,"New Orleans, LA 70115",None,None,2020.2.10,None
+5,692660,"1122 W Catalpa Ave , Chicago, IL 60640",U-lock and cable,"Other situation, please describe below",2020.2.10,Reported
+6,692674,"Portland, OR 97205",None,None,2020.2.10,Reported
+7,695342,"Portland, OR 97213",None,None,2020.2.10,Reported
+0,692631,"525 W Oakdale Ave, Chicago, IL 60657",U-lock and cable,"Lock was cut, and left at the scene",2020.2.10,Reported
+1,696720,"Pittsburg, CA 94565",Cable lock,"Lock was cut, and left at the scene",2020.2.10,None
+2,694787,"Portland, OR 97217",Cable lock,"Lock is missing, along with the bike",2020.2.10,Reported
+3,692598,"Brooklyn, NY 11231",None,None,2020.2.10,None
+4,694060,"New Orleans, LA 70130",None,None,2020.2.10,None
+5,692571,"El Cajon, CA 92021",Other,"Other situation, please describe below",2020.2.10,None
+6,697300,"Davis, CA 95616",Cable lock,"Lock was cut, and left at the scene",2020.2.10,None
+0,668359,"Portland, OR 97210",Other,"Other situation, please describe below",2020.2.10,Reported
+1,693974,"New Orleans, LA 70117",None,None,2020.2.10,None
+2,692530,"New Orleans, LA",None,None,2020.2.10,None
+3,692525,"Seattle, WA 98122",Not locked,None,2020.2.10,Reported
+4,692501,"Eugene, OR 97402",None,None,2020.2.10,Reported
+5,692541,"New Orleans, LA 70115",None,None,2020.2.10,None
+6,862403,"Denver, CO 80204",Cable lock,"Lock was cut, and left at the scene",2020.2.9,Reported
+0,683912,"Salt Lake City, UT 84111",None,None,2020.2.9,None
+1,693214,"Boston, MA 02119",None,None,2020.2.9,Reported
+2,692434,"Holladay, UT 84117-6928",None,None,2020.2.9,None
+3,642885,"Venice, CA 90402",None,None,2020.2.9,None
+4,692659,"1818 Barnes av , Bronx, NY 10462",Not locked,"Other situation, please describe below",2020.2.9,None
+5,671417,"Venice, CA 90401",U-lock and cable,"Lock is missing, along with the bike",2020.2.9,None
+6,686770,"Independence, KS",Other,"Lock is missing, along with the bike",2020.2.9,None
+7,692353,"Chelsea, MA 02150",U-lock and cable,"Lock is missing, along with the bike",2020.2.9,None
+8,691979,"Menlo Park, CA 94027",None,None,2020.2.9,None
+9,692383,"Austin, TX 78705",None,"Lock is missing, along with the bike",2020.2.9,Reported
+0,692384,"3101 20th st, Otherlab, San Francisco, CA 94110",Heavy duty bicycle security chain,"Lock was opened, and left unharmed at the scene",2020.2.9,Reported
+1,699363,"New Orleans, LA 70116",Not locked,None,2020.2.9,None
+2,699365,"New Orleans, LA 70116",Not locked,None,2020.2.9,None
+3,692328,"New, LA 70130",None,None,2020.2.9,Reported
+4,692394,"New Orleans, LA 70117",None,None,2020.2.9,None
+5,678518,"Portland, OR 97216",None,None,2020.2.9,None
+6,692607,"363 Bioletti Way , Davis, CA 95616",Chain with padlock,"Lock was cut, and left at the scene",2020.2.9,Reported
+7,692293,"Austin, TX 78705",Cable lock,"Lock is missing, along with the bike",2020.2.8,Reported
+0,692350,"West Palm Beach, FL 33401",Cable lock,"Lock is missing, along with the bike",2020.2.8,Reported
+1,165640,"San Francisco, CA 94110",Other,"Other situation, please describe below",2020.2.8,Reported
+2,692210,"Philadelphia, PA 19146",None,None,2020.2.8,None
+3,692141,"Philadelphia, PA 19146",None,None,2020.2.8,None
+4,692121,"Linden, NJ 07036",None,None,2020.2.8,Reported
+5,692096,"Portland, OR 97210",Cable lock,"Lock was cut, and left at the scene",2020.2.8,None
+6,692984,"New Orleans, LA 70117",None,None,2020.2.8,None
+7,692020,"240 N Bayshore blvd, 213, San Mateo, NC 94401",None,None,2020.2.8,None
+0,697213,"Broomfield, CO 80020",None,None,2020.2.8,Reported
+1,692355,"Los Angeles, CA 90035",Cable lock,"Lock was cut, and left at the scene",2020.2.8,None
+2,691985,"Los Angeles, CA 90045",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.2.7,None
+3,691971,"151 3rd St (MOMA), San Francisco, CA 94103",U-lock,"Lock was cut, and left at the scene",2020.2.7,Reported
+4,732518,"Mountain View, CA 94040",Other,"Other situation, please describe below",2020.2.7,Reported
+5,691805,"3838 S Centinela Ave, Los Angeles, CA 90066",Cable lock,"Lock was cut, and left at the scene",2020.2.7,Reported
+0,691973,"New Orleans, LA 70119",None,None,2020.2.7,Reported
+1,691870,"Eugene, OR 94703",None,None,2020.2.7,Reported
+2,691783,"Colorado Springs, CO 80907",None,None,2020.2.6,None
+3,691766,"Glendale, AZ",Cable lock,"Other situation, please describe below",2020.2.6,Reported
+4,691751,"Roseville, CA 95661",None,None,2020.2.6,None
+5,692605,"San Diego, CA 92101",Other,None,2020.2.6,Reported
+6,691739,"17544 SE Stark St, Portland, OR 97233, Portland, OR 97233",None,None,2020.2.6,None
+0,693610,"Aurora, CO 80010",None,None,2020.2.6,Reported
+1,693966,"Seattle, WA 98102",U-lock,"Lock is missing, along with the bike",2020.2.6,None
+2,691710,"Missoula, MT 59808",None,None,2020.2.6,None
+3,677088,"Seattle, WA 98107",Cable lock,"Lock is missing, along with the bike",2020.2.6,None
+4,692341,"La Jolla, CA 92092",Chain with padlock,"Lock was cut, and left at the scene",2020.2.6,Reported
+5,77810,"Los Angeles, CA 90005",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.2.6,Reported
+6,691517,"Denver, CO 80203",U-lock,"Lock was cut, and left at the scene",2020.2.6,Reported
+0,691666,"Burbank, CA 91501",Cable lock,"Lock was cut, and left at the scene",2020.2.6,Reported
+1,689801,"San Luis Obispo, CA 93401",Not locked,Bike was not locked,2020.2.6,None
+2,691790,"San Francisco, CA 94103",Chain with padlock,"Lock is missing, along with the bike",2020.2.5,Reported
+3,654665,"San Francisco, CA 94102",Other,"Other situation, please describe below",2020.2.5,None

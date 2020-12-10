@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,674178,"Washington, DC 20001",Heavy duty bicycle security chain,"Other situation, please describe below",2019.11.13,None
+1,674467,"701 Mission Street, San Francisco, CA",U-lock and cable,"Lock was cut, and left at the scene",2019.11.13,None
+2,673864,"625 8th St, , San Francisco, CA 94103",None,None,2019.11.13,None
+3,673833,"Oakland, CA 94611-5445",None,None,2019.11.13,None
+4,673906,"Clackamas, OR 97015",None,None,2019.11.13,None
+5,673854,"Bellevue, WA 98007",None,None,2019.11.13,None
+6,673834,"3400 Harmon Ave , Austin, TX 78705",None,None,2019.11.13,None
+7,648520,"Portland, OR 97214",None,None,2019.11.13,None
+8,673832,"Oakland, CA 94611-5445",U-lock,"Other situation, please describe below",2019.11.13,None
+9,674124,"Chicago, IL 60606",Two U-locks,"Lock is missing, along with the bike",2019.11.13,Reported
+0,673812,"20 6th St NE, Minneapolis, MN 55418",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.11.13,Reported
+1,673808,"The University of Arizona, Tucson, AZ 85721",Cable lock,"Lock is missing, along with the bike",2019.11.13,Reported
+2,773468,"San José, CA 95112",U-lock,None,2019.11.13,None
+3,673786,"441 W Lindsey St, Norman, OK 73019",Cable lock,"Lock was cut, and left at the scene",2019.11.13,Reported
+4,673769,"2115 Westlake Ave, Seattle, WA 98121",None,None,2019.11.13,None
+5,660584,"Portland, OR 97203",Not locked,None,2019.11.13,None
+6,673496,"Seattle, WA 98101",Not locked,None,2019.11.13,None
+0,673929,"Seattle, WA 98121",None,None,2019.11.12,None
+1,673765,"Portland, OR 97239",None,None,2019.11.12,None
+2,472171,"Portland, OR 97215",None,None,2019.11.12,None
+3,673630,"2360 India St., San Diego, CA 92101",Not locked,None,2019.11.12,Reported
+4,673650,"Seattle, WA 98117",None,None,2019.11.12,Reported
+5,600435,"Seattle, WA 98117",None,None,2019.11.12,Reported
+6,673647,"New Orleans, LA",None,None,2019.11.12,Reported
+0,673629,"9th and G Street, Eureka, CA 95501",None,None,2019.11.12,Reported
+1,673867,"625 8th St, , San Francisco, CA 94103",U-lock and cable,"Lock is missing, along with the bike",2019.11.12,Reported
+2,673621,"Seattle, WA 98115",None,None,2019.11.12,None
+3,673620,"838 NE 66th St #111, , Seattle, WA 98115",None,None,2019.11.12,None
+4,673164,"Los Angeles, CA 90007",Cable lock,"Lock was cut, and left at the scene",2019.11.12,None
+5,673602,"New Orleans, LA 70115",U-lock,"Lock is missing, along with the bike",2019.11.12,None
+6,673594,"Berkeley, CA 94703",U-lock,"Lock is missing, along with the bike",2019.11.12,Reported
+0,673558,"Oakland, CA 94611",None,None,2019.11.12,None
+1,673557,"Seattle, WA 98103",Not locked,None,2019.11.12,Reported
+2,673809,"Sacramento, CA",Not locked,"Lock is missing, along with the bike",2019.11.12,Reported
+3,673572,"Denver, CO 80211",Not locked,"Other situation, please describe below",2019.11.12,Reported
+4,645796,"Las Cruces, NM 88001",Cable lock,"Lock is missing, along with the bike",2019.11.12,None
+5,673483,"Colorado Springs, CO 80909",None,None,2019.11.12,None
+6,673938,"Atlanta, GA 30363",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.11.11,Reported
+0,680678,"Sunnyvale, CA 94086",None,None,2019.11.11,Reported
+1,680680,"Sunnyvale, CA 94086",None,None,2019.11.11,Reported
+2,673443,"7707 Sycamore street, New Orleans, LA 70118",None,None,2019.11.11,None
+3,673476,"San Francisco, CA 94110",None,None,2019.11.11,Reported
+4,673428,"Court Street and Joralemon Street, Brooklyn, NY 11201",U-lock,"Lock was cut, and left at the scene",2019.11.11,None
+5,673419,"Tucson, AZ 85712",None,None,2019.11.11,Reported
+6,697866,"Fremont, CA 94538",Other,"Lock was cut, and left at the scene",2019.11.11,Reported
+0,673386,"Portland, OR 97202",None,None,2019.11.11,None
+1,673378,"Van Munching Hall, College Park, MD 20742",None,None,2019.11.11,None
+2,673655,"Raleigh, NC 27603",None,None,2019.11.11,Reported
+3,673369,"New Orleans, LA 70117",None,None,2019.11.11,None
+4,673439,"Austin, TX 78702",Cable lock,"Lock is missing, along with the bike",2019.11.11,Reported
+5,673330,"Portland, OR 97214",None,None,2019.11.11,None
+0,673324,"Tacoma, WA 98465",Other,"Other situation, please describe below",2019.11.11,None
+1,673318,"Vallejo, CA 94590",Cable lock,"Lock was cut, and left at the scene",2019.11.11,Reported
+2,673654,"Phoenix, AZ 85015",Cable lock,"Lock is missing, along with the bike",2019.11.11,Reported
+3,672945,"Portland, OR 97202",None,None,2019.11.11,Reported
+4,674500,"3311 Perkins Avenue, Cleveland, OH 44113",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.11.11,Reported
+5,674047,"Salt Lake City, UT 84111",None,None,2019.11.11,Reported
+6,673299,"65 Calumet St, Apt 2, Roxbury Crossing, MA 02120",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.11.11,Reported
+7,673627,"11615 S.W. Center Street, Beaverton, OR 97005",Cable lock,"Lock was cut, and left at the scene",2019.11.11,Reported
+8,127485,"Seattle, WA 98117",None,None,2019.11.11,Reported
+0,675994,"Billings, MT 59102",None,None,2019.11.11,None
+1,85750,"Portland, OR 97232",Not locked,None,2019.11.10,None
+2,673470,"Santa Clara, CA 95051",Cable lock,"Lock was cut, and left at the scene",2019.11.10,Reported
+3,673241,"Seattle, WA 98103",Not locked,None,2019.11.10,Reported
+4,673694,"15890 NE 83rd way, Redmond, WA 98052",Cable lock,"Lock was cut, and left at the scene",2019.11.10,Reported
+5,673232,"Chicago, IL",U-lock,"Lock is missing, along with the bike",2019.11.10,Reported
+6,674778,"Littleton, CO 80120",Not locked,"Other situation, please describe below",2019.11.10,Reported
+7,673448,"Tucson, AZ 85719",None,None,2019.11.10,Reported
+0,795632,"219 e grand Ave , Des Moines, IA 50309",None,None,2019.11.10,None
+1,673189,"NE Heights, Albuquerque, NM 87111",None,"Other situation, please describe below",2019.11.10,Reported
+2,673163,"Omaha, NE 68111",None,None,2019.11.10,None
+3,673471,"New Orleans, LA 70118",None,None,2019.11.10,None
+4,673140,"Amante Coffee, 4580 Broadway, Boulder, CO 80304",None,None,2019.11.10,None
+5,351324,"Concord, CA 94520",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.11.10,Reported
+6,675197,"New Orleans, LA 70125",None,None,2019.11.10,Reported

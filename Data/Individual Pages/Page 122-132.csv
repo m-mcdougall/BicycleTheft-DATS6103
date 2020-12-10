@@ -1,0 +1,77 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,941520,"Meridian, ID 83646",Cable lock,None,2020.10.31,Reported
+1,941469,"New Orleans, LA",None,None,2020.10.31,Reported
+2,941048?locale=en,"301 W Third St., Aberdeen, WA 98520",None,None,2020.10.31,None
+3,941767,"Eau Claire, WI 54703",Cable lock,None,2020.10.31,None
+4,941093,"112 S Camino Seco, Tucson, AZ 85710",None,None,2020.10.30,Reported
+5,941020,"Austin, TX 78704",Cable lock,"Lock is missing, along with the bike",2020.10.30,Reported
+6,843017,"651 Addison st, Berkeley, CA 94710",None,None,2020.10.30,Reported
+0,946467,"Olympia, WA 98501",Other,"Other situation, please describe below",2020.10.30,Reported
+1,941002,"San Francisco, CA 94122",None,None,2020.10.30,None
+2,947686,"Houston, TX",None,None,2020.10.30,None
+3,940988,"Rural and Elliott, Tempe, AZ 85284",None,None,2020.10.30,None
+4,946505,"22 n spruce st, #204, Colorado Springs, CO 80905",None,None,2020.10.30,None
+5,940934,"310 Se 12th Ave, Portland, OR 97214",U-lock,"Lock is missing, along with the bike",2020.10.30,Reported
+6,942122,"1 n. wacker , Chicago, IL 60606",U-lock,"Lock is missing, along with the bike",2020.10.30,Reported
+7,940824,"San Francisco, CA 94117",None,None,2020.10.30,Reported
+0,940825,"San Francisco, CA 94117",None,None,2020.10.30,Reported
+1,841591,"Boise, ID 83706",Cable lock,None,2020.10.30,Reported
+2,941318,"Portland, OR 97214",None,None,2020.10.30,Reported
+3,940821,"San Francisco, CA 94117",None,None,2020.10.30,Reported
+4,940590,"Boulder, CO 80305",None,None,2020.10.30,None
+5,940752,"Tacoma, WA 98403",None,None,2020.10.30,Reported
+6,940724,"Portland, OR 97212",None,None,2020.10.30,None
+0,940728,"Minneapolis, MN 55414",None,None,2020.10.30,Reported
+1,849071,"Seattle, WA 98117",Not locked,None,2020.10.30,Reported
+2,940593,"Denver, CO",None,None,2020.10.30,None
+3,941258,"Kirk and lancaster Drive, San Jose, CA 95124",Other,"Other situation, please describe below",2020.10.30,Reported
+4,941597,"Portland, OR 97210",None,None,2020.10.30,None
+5,940667,"4411 Stone Way N, Seattle, WA 98103",None,None,2020.10.30,None
+6,618118,"San Francisco, CA 94110",U-lock and cable,"Other situation, please describe below",2020.10.30,None
+0,942089,"Eugene, OR 97403",None,None,2020.10.30,Reported
+1,931517,"Kennewick, WA 99336",Not locked,None,2020.10.30,None
+2,945234,"15th and pacific, San Pedro, CA 90731",Cable lock,"Lock was cut, and left at the scene",2020.10.29,Reported
+3,941518,"Austin, TX 78704",None,None,2020.10.29,Reported
+4,940601,"6610 San Ignacio Avenue, San, CA 95119",None,None,2020.10.29,None
+5,940822,"Seattle, WA 98104",Cable lock,"Lock is missing, along with the bike",2020.10.29,None
+6,943653,"1004 W Royal Blvd, Boise, ID 83706",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.10.29,Reported
+7,865311,"Brooklyn, NY 11206",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.10.29,None
+0,940551,"Palo Alto, CA 94303",Chain with padlock,"Lock is missing, along with the bike",2020.10.29,Reported
+1,940538,"San Francisco, CA 94117",Other,None,2020.10.29,Reported
+2,940516,"Flagstaff, AZ 86001",None,None,2020.10.29,None
+3,940512,"Gilbert, AZ 85234",None,None,2020.10.29,None
+4,940521,"North Weymouth Ma 02191, MA 02191",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.10.29,None
+5,940511,"San Francisco, CA 94121",Not locked,Bike was not locked,2020.10.29,Reported
+6,940491,"Mira Mesa, CA 92126",None,None,2020.10.29,None
+0,940482,"Watseka Parking garage, Culver City, CA 90232",None,None,2020.10.29,None
+1,948262,"Oklahoma State University, Stillwater, OK 74078",Chain with padlock,"Lock was cut, and left at the scene",2020.10.29,Reported
+2,744565,"Milwaukee, WI 53202",Cable lock,"Other situation, please describe below",2020.10.29,Reported
+3,940422,"1841 W 1590 S, Woods Cross, UT 84087",Other,None,2020.10.29,Reported
+4,940427,"915 Olive , St Louis, MO 63101",None,None,2020.10.29,None
+5,943836,"1725 Humboldt st, Bellingham, WA 98225",None,Bike was not locked,2020.10.29,None
+6,940566,"3223 Ortega, San Francisco, CA 94122",Cable lock,"Lock is missing, along with the bike",2020.10.29,Reported
+7,942065,"Denver, CO 80203",U-lock,"Lock was opened, and left unharmed at the scene",2020.10.29,None
+8,940397,"Rogers, AR 72756",None,None,2020.10.29,None
+0,940996,"Saint Paul, MN 55104",U-lock and cable,"Lock was cut, and left at the scene",2020.10.29,Reported
+1,360615,"Portland, OR 97214",None,None,2020.10.29,Reported
+2,940360,"Seattle, WA 98107",None,None,2020.10.29,None
+3,943895,"Boulder, CO 80302",None,None,2020.10.29,Reported
+4,941135,"New Orleans, LA 70119",None,None,2020.10.29,None
+5,940348,"1414 W 28th St, Minneapolis, MN 55408",Not locked,"Lock is missing, along with the bike",2020.10.29,None
+6,701327,"2302 a st se, Auburn, WA 98002",Cable lock,"Lock was cut, and left at the scene",2020.10.29,Reported
+7,941448,"Corona, CA 92882",Not locked,None,2020.10.29,Reported
+0,940507,"San Francisco, CA 94121",None,None,2020.10.29,Reported
+1,940394,"3530 Toulouse St , New Orleans, LA 70119 ",None,None,2020.10.29,Reported
+2,940406,"1841 W 1590 S, Woods Cross, UT 84087",Other,None,2020.10.29,Reported
+3,941570,"Los Angles, CA 90065",None,None,2020.10.29,None
+4,941175,"New York, NY 10032",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.29,Reported
+5,941172,"New York, NY 10032",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.29,Reported
+0,952681,"Oakland, CA 94611",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.29,Reported
+1,948003,"Issaquah, WA 98029",U-lock and cable,"Lock was cut, and left at the scene",2020.10.29,Reported
+2,940417,"Santa Monica, CA 90405",Cable lock,"Lock was cut, and left at the scene",2020.10.29,Reported
+3,941130,"Salt Lake City, UT 84108",None,None,2020.10.29,Reported
+4,940580,"Manhattan, CA 90266",None,None,2020.10.28,None
+5,940217,"Belmont, MA 02478",None,None,2020.10.28,None
+6,701922,"620 ne. Oakland Ave., Topeka, KS 66616",None,None,2020.10.28,None
+7,737194,"1326 ne. Quincy, Topeka Ks, KS 66608",None,None,2020.10.28,None
+8,867124,"Boise, ID 83706",Cable lock,"Lock was cut, and left at the scene",2020.10.28,Reported

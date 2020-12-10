@@ -1,0 +1,93 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,9303,"Kearns, UT 84118",None,None,2009.4.7,Reported
+1,7384,"Ketchum, ID 83340",None,None,2009.4.6,None
+2,7306,"Berkeley, CA 94720",None,None,2009.4.6,Reported
+3,9192,"Foster City, CA 94404",None,None,2009.4.6,Reported
+4,10654,"Memphis, TN 38112",None,None,2009.4.6,Reported
+5,9973,"Portland, OR 97214",None,None,2009.4.6,None
+6,7288,"Berkeley, CA 94703",None,None,2009.4.4,Reported
+7,9172,"Bellingham, WA 98225",None,None,2009.4.4,Reported
+8,9169,"Portland, OR 97212",None,None,2009.4.4,None
+0,22607,"Portland Oregon, OR 97212",None,None,2009.4.4,None
+1,9166,"Hanover Park, IL 60133",None,None,2009.4.3,Reported
+2,7287,"Portland, OR 97232",None,None,2009.4.3,Reported
+3,6258,"Seattle, WA 98195",None,None,2009.4.3,None
+4,9167,"Portland, OR 97214",None,None,2009.4.3,Reported
+5,10652,"Irvine, CA 92612",None,None,2009.4.3,Reported
+6,9281,"Minneapolis, MN 55455",None,None,2009.4.3,Reported
+7,9164,"Dallas, TX 75214",None,None,2009.4.2,Reported
+8,7281,"Brooklyn, NY 11206",None,None,2009.4.1,None
+9,7420,"Madison, WI 53701",None,None,2009.4.1,None
+0,9291,"Philadelphia, PA 19148",None,None,2009.4.1,None
+1,9214,"Norfolk, VA 23517",None,None,2009.4.1,None
+2,9203,"Dayton, OH 45402",None,None,2009.4.1,Reported
+3,9160,"Santa Monica, CA 90401",None,None,2009.4.1,None
+4,72099,"Seattle, WA 98103",Cable lock,"Lock was cut, and left at the scene.",2009.3.31,None
+5,9158,"Pasadena, CA 91101",None,None,2009.3.31,None
+6,9246,"Millersville, PA 17551",None,None,2009.3.31,None
+7,9155,"Whitewater, WI 53190",None,None,2009.3.31,None
+8,10648,"Minneapolis, MN 55418",None,None,2009.3.30,Reported
+9,7261,"Whitewater, WI 53190",None,None,2009.3.30,None
+0,10646,"Los Angeles, CA 90007",None,None,2009.3.30,Reported
+1,7254,"Burbank, CA 91505",None,None,2009.3.29,None
+2,7372,"Eugene, OR 97405",None,None,2009.3.28,Reported
+3,9147,"San Francisco, CA 94117",None,None,2009.3.28,None
+4,9151,"Menomonie, WI 54751",None,None,2009.3.28,None
+5,9366,"Washington, DC 20001",None,None,2009.3.27,None
+6,7258,"Oxford, MS 38655",None,None,2009.3.27,None
+7,9220,"Torrance, CA 90501",None,None,2009.3.27,Reported
+8,7264,"Chico, CA 95926",None,None,2009.3.26,None
+9,7250,"Seattle, WA 98105",None,None,2009.3.26,Reported
+0,9240,"Seattle, WA 98105",None,None,2009.3.26,Reported
+1,6822,"Austin, TX 78702",None,None,2009.3.26,Reported
+2,10645,"Pasadena, CA 91101",None,None,2009.3.25,None
+3,9145,"Santa Monica, CA 90405",None,None,2009.3.25,Reported
+4,9063,"Dallas, TX 75204",None,None,2009.3.24,Reported
+5,7240,"Los Angeles, CA 90089",None,None,2009.3.24,Reported
+6,15412,"Denver, CO 80202",None,None,2009.3.24,Reported
+7,7238,"Oakland, CA 94610",None,None,2009.3.23,None
+0,9140,"Playa Del Rey, CA 90293",None,None,2009.3.23,None
+1,9135,"Pleasant Hill, CA 94523",None,None,2009.3.23,Reported
+2,9154,"Seattle, WA 98101",Cable lock,"Lock is missing, along with the bike.",2009.3.21,Reported
+3,9139,"Salt Lake City, UT 84106",None,None,2009.3.21,Reported
+4,9162,"Durham, NC 27705",None,None,2009.3.21,Reported
+5,9143,"Austin, TX 78750",None,None,2009.3.21,None
+6,7242,"New Orleans, LA 70118",None,None,2009.3.21,Reported
+7,10640,"Tucson, AZ 85719",None,None,2009.3.20,Reported
+8,9319,"Austin, TX 78740",None,None,2009.3.20,Reported
+0,19704,"Tucson, AZ 85705",None,None,2009.3.20,None
+1,9138,"Portland, OR 97202",None,None,2009.3.20,Reported
+2,6942,"Brooklyn, NY 11216",None,None,2009.3.20,None
+3,399177,"Santa Barbara, CA 93101",Cable lock,"Lock is missing, along with the bike",2009.3.20,Reported
+4,9133,"Pleasant Hill, CA 94523",None,None,2009.3.19,Reported
+5,7204,"Austin, TX 78705",None,None,2009.3.19,Reported
+6,9465,"Arlington, WA 98223",None,None,2009.3.19,None
+7,9126,"Hermosa Beach, CA 90254",None,None,2009.3.19,None
+8,9156,"Davis, CA 95616",None,None,2009.3.19,None
+0,6799,"Saint Petersburg, FL 33713",None,None,2009.3.18,None
+1,6084,"Downtown Dallas, TX 75201",None,None,2009.3.18,None
+2,7218,"Austin, TX 78705",None,None,2009.3.18,Reported
+3,7446,"Santa Barbara, CA 93117",None,None,2009.3.15,None
+4,7190,"Berkeley, CA 94709",None,None,2009.3.15,None
+5,7194,"New Orleans, LA 70119",None,None,2009.3.15,None
+6,9194,"Seattle, WA 98121",None,None,2009.3.15,None
+7,6057,"Nashville, TN 37206",None,None,2009.3.15,Reported
+8,6798,"Denver, CO 80209",None,None,2009.3.15,Reported
+0,6078,"Phoenix, AZ 85001",None,None,2009.3.14,None
+1,6754,"Portland, OR 97211",None,None,2009.3.14,Reported
+2,10586,"Cypress, CA 90630",None,None,2009.3.14,None
+3,9118,"Folsom, CA 95630",None,None,2009.3.13,Reported
+4,9115,"Seattle, WA 98105",None,None,2009.3.12,Reported
+5,10643,"Somerville, MA 02143",None,None,2009.3.12,None
+6,9173,"San Francisco, CA 94117",None,None,2009.3.12,Reported
+7,6796,"Ft. Lauderdale, FL 33312",None,None,2009.3.11,None
+8,7172,"Las Cruces, NM 88001",None,None,2009.3.11,None
+0,9144,"Portland, OR 97209",None,None,2009.3.10,None
+1,18106,"Eugene, OR 97401",None,None,2009.3.10,Reported
+2,9528,"Portland, OR",None,None,2009.3.10,None
+3,9108,"Stillwater, OK 74074",None,None,2009.3.9,None
+4,6792,"New Orleans, LA 40115",None,None,2009.3.9,None
+5,7167,"Montclair, NJ 07042",None,None,2009.3.9,None
+6,10578,"Montclair, NJ 07042",None,None,2009.3.9,None
+7,7163,"Los Angeles, CA 90089",None,None,2009.3.9,None
+8,7165,"Livermore, CA 94550",None,None,2009.3.9,None

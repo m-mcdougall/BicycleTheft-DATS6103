@@ -1,0 +1,69 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,847325,"San Francisco, CA 94102",Other,"Other situation, please describe below",2020.8.20,Reported
+1,842213,"Weddington, Fayetteville, AR 72704",None,None,2020.8.20,None
+2,842946,"Salt Lake, UT 84115",None,None,2020.8.20,None
+3,743227,"Portland, OR 97202",U-lock,"Lock is missing, along with the bike",2020.8.20,None
+4,842080,"San Francisco, CA 94117",Not locked,Bike was not locked,2020.8.20,None
+5,787634,"Atlas Condo Bldg 3650 5th Ave unit 412, San Diego, CA 92103",Other,"Other situation, please describe below",2020.8.20,None
+0,842122,"1325 Boylston st, Boston, MA 02215",U-lock,"Other situation, please describe below",2020.8.20,Reported
+1,842140,"Chicago, IL 60640",U-lock and cable,"Lock is missing, along with the bike",2020.8.20,None
+2,842098,"Portland, OR 97213",None,None,2020.8.20,None
+3,842100,"Portland, OR 97213",None,None,2020.8.20,None
+4,842096,"Portland, OR 97213",None,None,2020.8.20,None
+5,842081,"Portland, OR 97202",U-lock and cable,"Lock is missing, along with the bike",2020.8.20,Reported
+6,842094,"Portland, OR 97213",None,None,2020.8.20,None
+7,843712,"2241 Anna Drive, Santa Clara, CA 95050",Not locked,None,2020.8.20,Reported
+0,843179,"Salt Lake City, UT 84108",None,None,2020.8.20,None
+1,842055,"Chicago, IL 60614",None,None,2020.8.20,None
+2,842034,"11215 NE 124th St, Kirkland, WA 98034",Cable lock,"Lock was cut, and left at the scene",2020.8.20,Reported
+3,842030,"11215 NE 124th St , Kirkland, WA 98304",Cable lock,"Lock was cut, and left at the scene",2020.8.20,Reported
+4,842352,"Minneapolis, MN 55407",None,None,2020.8.20,None
+5,842006,"Madison, WI 53703",None,None,2020.8.20,None
+6,842003,"Weehawken, NJ 07086",None,None,2020.8.20,None
+0,841996,"1 E Scott St, Apt 2008, Chicago, IL 60610",None,None,2020.8.20,None
+1,842578,"San Francisco, CA 94109",U-lock,"Lock was cut, and left at the scene",2020.8.20,None
+2,845093,"Blomington, IN 47406-7512",None,None,2020.8.20,Reported
+3,845113,"1100 NE Weidler St, Portland, OR 97232",Not locked,Bike was not locked,2020.8.20,None
+4,844855,"Petersburg, IL 62712",None,None,2020.8.20,None
+5,841910,"Minneapolis, MN 55408",None,None,2020.8.20,None
+0,841897,"Madison, WI 53703",Cable lock,"Lock is missing, along with the bike",2020.8.20,Reported
+1,926437,"Watertown, MA 02472",None,None,2020.8.20,Reported
+2,844397,"Portland, OR 97209",Cable lock,"Lock was cut, and left at the scene",2020.8.20,Reported
+3,842814,"12411 East 8th Ave. #22, Spokane, WA 99206",None,None,2020.8.20,None
+4,935929,"Shoreline, WA 98155",Not locked,"Other situation, please describe below",2020.8.20,Reported
+5,862520,"Darlington Ave and Westgate Ave, Los Angeles, CA 90049",U-lock and cable,"Lock is missing, along with the bike",2020.8.20,None
+6,866001,"Bellevue, WA 98006",Other,None,2020.8.20,Reported
+7,850690,"170 Carrigan Dr, Burlington, VT 05405",Cable lock,None,2020.8.20,Reported
+0,838548,"San Francisco, CA 94102",Two U-locks,None,2020.8.20,None
+1,842238,"206 Madison Street, Ithaca, NY 14850",U-lock and cable,"Lock is missing, along with the bike",2020.8.20,Reported
+2,865719,"Portland, OR 97202",U-lock,"Lock was cut, and left at the scene",2020.8.20,Reported
+3,575430,"Washington, DC 20010",None,None,2020.8.20,Reported
+4,842246,"1931 Lamont St NW, Washington, DC 20010",None,None,2020.8.20,None
+0,847377,"Menomonie, WI 54751",None,None,2020.8.20,None
+1,836959,"3rd avenue and Pierce rd, Spokane Valley, WA",None,None,2020.8.20,None
+2,926099,"Brooklyn, NY 11233",None,None,2020.8.20,Reported
+3,843568,"West Hollywood, CA 90046",None,None,2020.8.20,Reported
+4,927457,"13851 East Harvard Ave, Aurora, CO 80014",Cable lock,"Lock was cut, and left at the scene",2020.8.20,Reported
+5,841795,"4233 guide meridian 107, Bellingham, WA 98226",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.20,Reported
+6,843175,"Boise, ID 83706",Cable lock,"Lock was cut, and left at the scene",2020.8.19,Reported
+7,626459,"La Jolla, CA 92037",U-lock and cable,"Lock is missing, along with the bike",2020.8.19,None
+0,842115,"Boulder, CO 80303",None,None,2020.8.19,None
+1,841762,"1505 Cleveland Ave N, St Paul, MN 55108",None,None,2020.8.19,None
+2,841723,"741 Brookside Drive, Danville, CA 94526",None,None,2020.8.19,None
+3,919292,"Seattle, WA 98119",U-lock and cable,"Other situation, please describe below",2020.8.19,Reported
+4,841699,"Lagoon Ave & Humboldt Ave, Minneapolis, MN 55408",None,None,2020.8.19,None
+0,841698,"Milwaukee, WI 53212",None,None,2020.8.19,None
+1,841744,"Chicago, IL 60622",U-lock and cable,"Lock is missing, along with the bike",2020.8.19,None
+2,841658,"Minneapolis, MN 55417-1126",None,None,2020.8.19,Reported
+3,401013,"Portland, OR 97209",None,None,2020.8.19,None
+4,841612,"California Street and 3rd Avenue, San Francisco, CA 94118",U-lock,"Lock was cut, and left at the scene",2020.8.19,None
+5,843045,"Salt Lake City, UT 84102",Cable lock,"Lock is missing, along with the bike",2020.8.19,Reported
+6,841599,"Salt Lake City, UT 84106",Not locked,None,2020.8.19,Reported
+7,627793,"Underpass between Lawrence Street and Bridge Street , Brooklyn, NY 11201",U-lock,"Lock was cut, and left at the scene",2020.8.19,None
+0,106814,"777 E Main St, Bozeman, MT 59715",None,None,2020.8.19,None
+1,841608,"San Francisco, CA",U-lock,"Other situation, please describe below",2020.8.19,None
+2,848226,"St. George, UT 84790",Other,None,2020.8.19,Reported
+3,841734,"Levittown, PA 19055",Not locked,Bike was not locked,2020.8.19,None
+4,841585,"Wells and Schiller, Chicago, IL 60610",U-lock,"Other situation, please describe below",2020.8.19,Reported
+5,841475,"Columbus, OH 43201",None,None,2020.8.19,None
+6,839333,"Minnetonka, MN 55345",Cable lock,"Lock was cut, and left at the scene",2020.8.19,Reported

@@ -1,0 +1,71 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,747920,"Cottonwood Heights, UT 84047",None,None,2020.5.27,None
+1,747315,"San Francisco, CA 94110",Not locked,Bike was not locked,2020.5.27,Reported
+2,747341,"Tucson, AZ 85704",None,None,2020.5.27,Reported
+3,747395,"Portland, OR 97205",U-lock and cable,"Lock was cut, and left at the scene",2020.5.27,Reported
+4,747221,"5249 NE 72nd Ave, Portland, OR 97218",None,Bike was not locked,2020.5.27,Reported
+5,747191,"San Francisco, CA 94117",None,None,2020.5.27,Reported
+6,747169,"LaPlata Hall, College Park, MD 20742",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.5.27,Reported
+7,747208,"Denver, CO 80205",U-lock,"Lock is missing, along with the bike",2020.5.27,None
+0,747269,"Cedar Rapids, IA 52402",Not locked,Bike was not locked,2020.5.27,Reported
+1,747855,"Klode Park on Lake Drive, Whitefish Bay, WI 53217",None,None,2020.5.27,None
+2,747000,"1959, Seattle, WA 98195",None,None,2020.5.27,None
+3,747771,"Louisville, CO 80027",Other,None,2020.5.27,Reported
+4,464609,"West Hollywood, CA",None,None,2020.5.27,None
+5,748576,"Santa Monica, CA 90405",None,None,2020.5.27,Reported
+0,746956,"Denver, CO 80211",None,None,2020.5.27,None
+1,746890,"1704 Brookfield Dr, Ann Arbor, MI 48103",None,None,2020.5.27,None
+2,746562,"Berkeley, CA 94702",None,None,2020.5.27,Reported
+3,746859,"Salt Lake City, UT 84103",None,None,2020.5.27,None
+4,746856,"Salt Lake City, UT 84103",None,None,2020.5.27,None
+0,746770,"Portland, OR 97213",Chain with padlock,"Lock is missing, along with the bike",2020.5.27,Reported
+1,104875,"Portland, OR 97217",Not locked,None,2020.5.27,Reported
+2,753132,"3917 Centinella Ave/Barbara, Los Angeles, CA 90066",None,None,2020.5.27,None
+3,775310,"916 E State St, Milwaukee, WI 53202",Other,"Lock was cut, and left at the scene",2020.5.27,Reported
+4,746688,"631 H Street, Fresno, CA 93727",None,None,2020.5.27,Reported
+0,748658,"Eugene, OR 97401",Other,None,2020.5.27,Reported
+1,748722,"Eugene, OR 97401",None,None,2020.5.27,Reported
+2,747879,"San Francisco, CA 94117",None,None,2020.5.27,Reported
+3,746561,"Walnut Creek, CA 94597",None,None,2020.5.26,None
+4,746496,"Metropolitan Av & Havemeyer Street, Brook, NY 11211",U-lock,None,2020.5.26,None
+5,746459,"College Park, MD 20740",None,None,2020.5.26,None
+0,746418,"Alexandria, VA 22308",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.5.26,None
+1,746422,"Telluride, CO 81435",None,None,2020.5.26,None
+2,943750,"Spokane, WA 99202",None,None,2020.5.26,Reported
+3,746384,"1581 Magazine st, New Orleans, LA 70140",Chain with padlock,"Lock is missing, along with the bike",2020.5.26,Reported
+4,746689,"1342 Harvard Street, Santa Monica, CA 90404",U-lock and cable,"Lock is missing, along with the bike",2020.5.26,Reported
+5,746252,"San Francisco, CA 94103",Not locked,Bike was not locked,2020.5.26,Reported
+6,673029,"San Francisco, CA 94103",Not locked,"Other situation, please describe below",2020.5.26,Reported
+0,746946,"San Francisco, CA 94105",U-lock,"Lock was cut, and left at the scene",2020.5.26,None
+1,746181,"Denver, CO 80206",None,"Other situation, please describe below",2020.5.26,Reported
+2,746969,"New Orleans, LA 70115",None,None,2020.5.26,Reported
+3,746093,"San Francisco, CA 94110",None,"Other situation, please describe below",2020.5.26,Reported
+4,746120,"Centennial, CO 80112",Other,"Other situation, please describe below",2020.5.26,Reported
+5,746107,"Pittsford, NY 14534",None,None,2020.5.26,Reported
+6,763590,"New Orleans, LA 70115",None,None,2020.5.26,None
+7,745912,"Salt Lake City, UT 85105",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.26,Reported
+8,745943,"Minneapolis, MN 55403",None,None,2020.5.26,None
+9,745932,"New Orleans, LA 70117",None,None,2020.5.26,None
+0,745907,"Fitchburg, WI 53719",None,None,2020.5.26,None
+1,745908,"New Orleans, LA 70117",None,None,2020.5.26,None
+2,745887,"Minneapolis, MN 55404",None,None,2020.5.26,None
+3,755664,"Mountain View, CA 94043",None,None,2020.5.26,Reported
+4,745860,"Charlotte, NC 28213",Cable lock,"Lock is missing, along with the bike",2020.5.26,None
+5,760802,"Calypso Dr & Via Medici, Aptos, CA 95003",Cable lock,"Lock was cut, and left at the scene",2020.5.26,Reported
+6,512089,"Seattle, WA 98107",U-lock,None,2020.5.26,Reported
+0,747270,"Colorado Springs, CO 80909",None,None,2020.5.26,Reported
+1,745891,"Tacoma, WA 98466",Not locked,"Other situation, please describe below",2020.5.26,Reported
+2,745726,"Seattle, WA 98115",None,None,2020.5.25,None
+3,746472,"Tacoma, WA 98466",None,None,2020.5.25,Reported
+4,745653,"Gresham, OR 97080",Not locked,None,2020.5.25,None
+5,745390,"2480 16th St NW, Washington, DC",U-lock and cable,"Lock is missing, along with the bike",2020.5.25,Reported
+6,745228,"Springfield, MO 65802",None,None,2020.5.25,None
+7,745636,"309 n jefferson, Springfield, MO 65806",U-lock,"Other situation, please describe below",2020.5.25,None
+8,746449,"Westport, CT 06880",None,None,2020.5.25,Reported
+0,746442,"Westport, CT 06880",None,None,2020.5.25,Reported
+1,785282,"Minneapolis, MN 55406",U-lock and cable,"Lock is missing, along with the bike",2020.5.25,Reported
+2,745604,"972 Hilgard Ave, Los Angeles, CA 90024",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.25,Reported
+3,745467,"Oceanside, CA 92058",None,None,2020.5.25,None
+4,745358,"Washington, DC 20009",Other,"Other situation, please describe below",2020.5.25,Reported
+5,644502,"4000 stadium drive, College Park, MD 20742",None,None,2020.5.25,None
+6,745323,"West Covina, CA 91790",None,None,2020.5.25,None

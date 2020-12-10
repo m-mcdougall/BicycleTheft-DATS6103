@@ -1,0 +1,79 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,683875,"Portland, OR 97220",None,None,2019.12.31,None
+1,683865,"Portland, OR 97220",None,None,2019.12.31,None
+2,64320,"New Orleans, LA 70117",None,None,2019.12.31,None
+3,683966,"3414 College Ave, San Diego, CA 92115",Two U-locks,"Lock is missing, along with the bike",2019.12.30,None
+4,655954,"Pacific Beach, CA 92107",None,None,2019.12.30,None
+5,685030,"Portland, OR 97212",None,None,2019.12.30,Reported
+0,683738,"San Diego, CA 92130",None,None,2019.12.30,None
+1,685015,"Portland, OR 97212",Cable lock,"Lock is missing, along with the bike",2019.12.30,Reported
+2,683706,"Asheville, NC 28801",None,None,2019.12.30,Reported
+3,732958,"Wisconsin Ave NW, Washington, DC 20015",U-lock and cable,None,2019.12.30,None
+4,683611,"2740 Farragut Rd, San Diego, CA 92106",None,None,2019.12.30,None
+5,685143,"4338 pine st, Philadelphia, PA 19104",U-lock,"Lock is missing, along with the bike",2019.12.30,None
+6,685142,"4338 pine st , Philadelphia, PA 19104",U-lock,"Lock is missing, along with the bike",2019.12.30,None
+7,683774,"Portland, OR 97211",None,None,2019.12.30,Reported
+0,683625,"Culver City, CA 90230",None,None,2019.12.30,None
+1,688237,"Kirkland, WA 98033",Cable lock,"Lock is missing, along with the bike",2019.12.30,None
+2,687502,"975 Arrowhead drive, Oxford, OH 45056",Chain with padlock,"Lock is missing, along with the bike",2019.12.30,Reported
+3,683575,"Austin, TX 78727",None,None,2019.12.30,Reported
+4,683616,"Lacey/Olympia, WA 98516",Not locked,Bike was not locked,2019.12.29,None
+5,683550,"1481 NW 13th Ave, Portland, OR 97209",U-lock,"Lock was cut, and left at the scene",2019.12.29,Reported
+6,683477,"San Francisco, CA 94114",None,None,2019.12.29,Reported
+7,683448,"3618 Evanston Ave N, Seattle, WA 98103",Cable lock,"Lock is missing, along with the bike",2019.12.29,Reported
+8,683447,"Chicago, IL 60657",Not locked,Bike was not locked,2019.12.29,Reported
+0,683403,"Seattle, WA 98104",Cable lock,"Lock is missing, along with the bike",2019.12.29,None
+1,65863,"Portland, OR 97206",Cable lock,"Lock was cut, and left at the scene",2019.12.29,Reported
+2,688601,"San Jose, CA 95134",Cable lock,None,2019.12.29,Reported
+3,683396,"San Mateo, CA 94403",Cable lock,"Lock was cut, and left at the scene",2019.12.29,Reported
+4,684589,"San, CA 95129",Cable lock,"Lock is missing, along with the bike",2019.12.29,None
+5,683388,"2nd Ave, Seattle, WA 98101",None,None,2019.12.29,None
+6,683399,"Seattle, WA 98107",None,None,2019.12.29,None
+0,683370,"Brooklyn, NY 11237",None,None,2019.12.28,None
+1,448658,"San Jose, CA 95134",Cable lock,None,2019.12.28,Reported
+2,683413,"Buffalo, NY 14209",None,None,2019.12.28,Reported
+3,683318,"Portland, OR 97204",Cable lock,"Lock was cut, and left at the scene",2019.12.28,None
+0,683677,"36th Ave S, Seattle, WA 98118",None,None,2019.12.28,Reported
+1,683741,"San Francisco, CA 94111",U-lock,"Other situation, please describe below",2019.12.28,Reported
+2,683287,"Indianapolis, IN 46203",Not locked,"Other situation, please describe below",2019.12.28,Reported
+3,831430,"Commerce, CA 90040",None,None,2019.12.28,Reported
+4,683263,"Portland, OR 97202",None,None,2019.12.28,Reported
+5,683211,"Seattle, WA",Other,None,2019.12.28,Reported
+6,683191,"75 Lexington Ave, New York, NY 10010",U-lock,"Lock is missing, along with the bike",2019.12.28,None
+0,683142,"Reseda, CA 91335",None,None,2019.12.27,None
+1,683183,"Santa Clara, CA 95054",Cable lock,"Lock is missing, along with the bike",2019.12.27,Reported
+2,836166,"1164 S 10th St FL 3, Philadelphia, PA 19147",Not locked,"Other situation, please describe below",2019.12.27,Reported
+3,683094,"Oakland, CA 94607",U-lock,"Lock was cut, and left at the scene",2019.12.27,Reported
+4,682850,"San Francisco, CA 94114",U-lock and cable,"Lock is missing, along with the bike",2019.12.27,None
+5,683039,"Indianapolis, IN 46201",None,None,2019.12.27,None
+6,682967,"Indianapolis, IN 46201",None,None,2019.12.27,None
+7,683052,"Oakland, CA 94609",None,None,2019.12.27,None
+8,683038,"Indianapolis, IN 46201",None,None,2019.12.27,None
+9,684325,"San Jose, CA 95112",U-lock and cable,"Other situation, please describe below",2019.12.27,Reported
+0,386468,"Seattle, WA 98118",U-lock,"Lock was cut, and left at the scene",2019.12.26,Reported
+1,682962,"Corvallis, OR 97330",None,None,2019.12.26,None
+2,683077,"Bellevue, WA 98004",Not locked,None,2019.12.26,Reported
+3,684604,"Indianapolis, IN 46219",None,None,2019.12.26,None
+4,682878,"Corvallis, OR 97330",U-lock,"Lock is missing, along with the bike",2019.12.26,Reported
+5,682853,"4418 Stadium Drive, College Park, MD 20740",None,None,2019.12.26,None
+6,683061,"18th street btw 3rd avenue and Irving Place, New York, NY 10010",None,None,2019.12.26,Reported
+7,683274,"San Francisco, CA 94107",Not locked,Bike was not locked,2019.12.26,Reported
+0,683063,"3303 sw bond ave, Portland, OR 97239",U-lock,"Other situation, please describe below",2019.12.26,Reported
+1,682910,"San Diego, CA 92104",U-lock,"Other situation, please describe below",2019.12.26,Reported
+2,682834,"Denver, CO 80223",None,None,2019.12.26,None
+3,433199,"Seattle, WA 98125",None,None,2019.12.26,Reported
+4,386233,"Tucson, AZ 85743",None,None,2019.12.26,None
+5,685158,"Portland, OR 97213",None,None,2019.12.26,None
+6,682916,"San Jose, CA 95126",None,None,2019.12.26,Reported
+7,682923,"San Jose, CA 95126",None,None,2019.12.26,Reported
+8,684485,"Oakland, CA 94618",None,None,2019.12.25,Reported
+0,682855,"Portland, OR 97212",Cable lock,"Lock was cut, and left at the scene",2019.12.25,None
+1,682803,"Philadelphia, PA 19125",None,None,2019.12.25,None
+2,682802,"Philadelphia, PA 19125",U-lock,"Lock is missing, along with the bike",2019.12.25,None
+3,686329,"Denver, CO 80207",None,None,2019.12.25,Reported
+4,682784,"Oakland, CA 94618",None,None,2019.12.25,None
+5,763640,"San Mateo, CA 94402",U-lock,"Lock is missing, along with the bike",2019.12.25,Reported
+6,623245,"Seattle, WA 98144",U-lock and cable,"Lock was cut, and left at the scene",2019.12.25,None
+7,682865,"Oakland, CA 94618",Other,"Other situation, please describe below",2019.12.25,None
+8,682769,"San Diego, CA 92108",None,None,2019.12.25,None
+9,682731,"San Francisco, CA 94131",U-lock and cable,"Lock is missing, along with the bike",2019.12.25,Reported

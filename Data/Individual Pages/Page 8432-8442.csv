@@ -1,0 +1,94 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,9288,"Lombard, IL 60148",None,None,2008.10.31,Reported
+1,24140,"Seattle, WA 98105",None,None,2008.10.31,None
+2,8707,"Chicago, IL 60616",None,None,2008.10.30,None
+3,10450,"Chicago, IL 60616",None,None,2008.10.30,None
+4,8743,"Fort Worth, TX 76135",None,None,2008.10.30,None
+5,8795,"Sandy, UT 84092",None,None,2008.10.30,None
+6,8657,"Houston, TX 77008",None,None,2008.10.30,None
+7,8785,"Sandy, UT 84092",None,None,2008.10.30,None
+8,8705,"Columbus, OH 43215",None,None,2008.10.29,None
+9,28174,"Emeryville, CA 94608",Chain with padlock,"Lock was cut, and left at the scene.",2008.10.29,Reported
+0,6030,"San Francisco, CA 94118",None,None,2008.10.29,None
+1,6028,"Fairview, OR 97024",None,None,2008.10.29,None
+2,8731,"Hollis St. @ 40th St., Emeryville, CA 94608",Chain with padlock,"Lock was cut, and left at the scene",2008.10.28,Reported
+3,7764,"Portland, OR 97212",None,None,2008.10.28,None
+4,8703,"San Francisco, CA 94013",None,None,2008.10.28,None
+5,8566,"Ann Arbor, MI 48103",None,None,2008.10.27,None
+6,8836,"Sunrise, FL 33351",None,None,2008.10.27,None
+7,7011,"Portland, OR 97229",None,None,2008.10.27,None
+8,6990,"Reno, NV 89523",None,None,2008.10.27,None
+9,6989,"Chesterfield, MI 48051",None,None,2008.10.26,None
+0,8699,"Baton Rouge, LA 70802",None,None,2008.10.26,None
+1,8695,"Pasadena, CA 91101",None,None,2008.10.25,None
+2,8698,"Oakland, CA 94607",None,None,2008.10.25,None
+3,6985,"Upper Arlington, OH 43221",None,None,2008.10.25,None
+4,10649,"Mesa, AZ 85209",None,None,2008.10.25,None
+5,6983,"Eugene, OR 97403",None,None,2008.10.25,None
+6,8741,"Ross, CA 94957",None,None,2008.10.25,None
+7,6987,"Claremont, CA 91711",None,None,2008.10.24,None
+8,6977,"Anoka, MN 55303",None,None,2008.10.24,None
+9,8596,"Arlington, VA 22201",None,None,2008.10.24,None
+0,8702,"San Diego, CA 92111",None,None,2008.10.24,None
+1,6027,"Providence, RI 02907",None,None,2008.10.24,None
+2,7026,"Austin, TX 78701",None,None,2008.10.23,None
+3,8690,"New York, NY 10002",None,None,2008.10.23,None
+4,10441,"Brooklyn, NY 11201",None,None,2008.10.23,None
+5,6345,"Garden Grove, CA 92840",None,None,2008.10.23,None
+6,6492,"Glen Rock, NJ 07452",None,None,2008.10.22,None
+7,8687,"Long Beach, CA 90802",None,None,2008.10.22,None
+8,10228,"San Francisco, CA 18419",None,None,2008.10.22,None
+0,8511,"Washington, DC 20009",None,None,2008.10.22,None
+1,6976,"Miami, FL 33176",None,None,2008.10.22,None
+2,8682,"Phoenix, AZ 85310",None,None,2008.10.21,None
+3,260702,"Cambridge, MA 02139",None,None,2008.10.21,None
+4,17415,"Tucson, AZ 85719",None,None,2008.10.20,None
+5,7008,"Chandler, AZ 85225",None,None,2008.10.20,None
+6,8683,"Tempe, AZ 85282",None,None,2008.10.20,None
+7,8697,"Rochester, NY 14620",None,None,2008.10.20,None
+8,6491,"St. Petersburg, FL 33701",None,None,2008.10.20,None
+0,8680,"San Luis Obispo, CA 93405",None,None,2008.10.20,None
+1,8674,"Leander, TX 78641",None,None,2008.10.19,None
+2,6996,"San Francisco, CA 94123",None,None,2008.10.19,None
+3,8675,"Monterey, CA 93940",None,None,2008.10.18,None
+4,8681,"Austin, TX 78727",None,None,2008.10.18,None
+5,8666,"Gadsden, AL 35901",None,None,2008.10.17,None
+6,8670,"Sunnyvale, CA 94086",None,None,2008.10.17,None
+0,10619,"North Hollywood, CA 91601",None,None,2008.10.17,None
+1,18507,"Madison, WI 53715",None,None,2008.10.17,Reported
+2,8673,"Durango, CO 81901",None,None,2008.10.17,None
+3,8678,"Greensboro, GA 30642",None,None,2008.10.16,None
+4,8663,"Columbus, OH 43202",None,None,2008.10.16,None
+5,8659,"Baltimore, MD 21201",None,None,2008.10.15,None
+6,10422,"Brooklyn, NY 11231",None,None,2008.10.15,None
+7,8665,"Philadelphia, PA 19143",None,None,2008.10.15,None
+8,8660,"San Francisco, CA 94122",None,None,2008.10.15,None
+9,6484,"Larchmont, NY 10538",None,None,2008.10.14,None
+0,6965,"Denver, CO 80218",None,None,2008.10.14,None
+1,5920,"New York, NY 10002",None,None,2008.10.14,None
+2,6966,"Rockville, MD 20850",None,None,2008.10.14,None
+3,6971,"Chicago, IL 60604",None,None,2008.10.14,None
+4,8642,"East Lansing, MI 48823",None,None,2008.10.13,None
+5,11829,"Seattle, WA 98117",None,None,2008.10.13,None
+6,8651,"West Haven, CT 06519",None,None,2008.10.13,None
+7,10618,"Seattle, WA 98108",None,None,2008.10.13,None
+8,6003,"Cupertino, CA 95014",None,None,2008.10.12,None
+9,6202,"Stillwater, OK 74074",None,None,2008.10.12,None
+0,8667,"St. Petersburg, FL 33701",None,None,2008.10.12,None
+1,8638,"College Park, MD 20740",None,None,2008.10.12,None
+2,6012,"Brooklyn, NY 11218",None,None,2008.10.12,None
+3,10417,"Santa Monica, CA 90406",None,None,2008.10.12,None
+4,6482,"Portland, OR 97203",None,None,2008.10.11,None
+5,5922,"Central, SC 29630",None,None,2008.10.11,None
+6,8802,"New Yrok, NY 10011",None,None,2008.10.11,None
+7,8751,"Ann Arbor, MI 48103",None,None,2008.10.10,None
+8,8641,"Washington, DC 20052",None,None,2008.10.10,None
+0,11155,"Gainesville, FL 32601",None,None,2008.10.10,None
+1,9180,"Surfside, FL 33154",None,None,2008.10.10,Reported
+2,6010,"Seattle, WA 98103",None,None,2008.10.10,None
+3,8652,"Springfield, MO 65807",None,None,2008.10.10,None
+4,8631,"San Diego, CA 92120",None,None,2008.10.9,None
+5,8632,"Pasadena, CA 91106",None,None,2008.10.9,None
+6,8700,"Columbus, OH 43212",None,None,2008.10.9,None
+7,11153,"Washington, DC 20008",None,None,2008.10.8,None
+8,8685,"Davie, FL 33328",None,None,2008.10.8,None

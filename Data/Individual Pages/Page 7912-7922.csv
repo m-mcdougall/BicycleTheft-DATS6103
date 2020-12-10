@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,15940,"San Francisco, CA 94115",None,None,2011.1.5,None
+1,15922,"Chicago, IL 60625",None,None,2011.1.4,Reported
+2,24015,"Burbank, CA 91502",None,None,2011.1.4,Reported
+3,24508,"Moab, UT 84532",None,None,2011.1.4,None
+4,17836,"Lubbock, TX 79409",None,None,2011.1.2,None
+5,21574,"Los Angeles, CA 90025",None,None,2011.1.2,Reported
+6,24505,"Los Angeles, CA 90034",None,None,2011.1.2,None
+7,22146,"West Hollywood, CA 90069",None,None,2011.1.2,Reported
+8,22069,"Tallahassee, FL 32304",None,None,2011.1.1,Reported
+9,16040,"San Diego, CA 92116",None,None,2011.1.1,Reported
+0,23210,"Tampa, FL 33609",None,None,2011.1.1,None
+1,25014,"Fullerton, CA 92831",None,None,2011.1.1,Reported
+2,39280,"Pasadena, CA",None,None,2011.1.1,None
+3,15962,"Portland, OR 97215",None,None,2011.1.1,None
+4,15925,"Charleston, SC 29403",None,None,2011.1.1,Reported
+5,21632,"San Francisco, CA 94105",None,None,2011.1.1,None
+6,22365,"San Francisco, CA 94102",None,None,2011.1.1,None
+7,24552,"Havertown, PA 19083",None,None,2011.1.1,Reported
+8,25187,"Stony Brook, NY 11790",None,None,2011.1.1,None
+0,16095,"Los Angeles, CA 90025",None,None,2011.1.1,Reported
+1,17877,"Seattle, WA 98101",None,None,2011.1.1,None
+2,14928,"San Diego, CA 92102",None,None,2011.1.1,None
+3,15138,"Gilroy, CA 950120",None,None,2010.12.31,Reported
+4,15140,"Tempe, AZ 85282",None,None,2010.12.31,Reported
+5,15898,"Gilroy, CA 95020",None,None,2010.12.31,Reported
+6,15089,"Washington, DC 20010",None,None,2010.12.31,Reported
+7,15877,"Sacramento, CA 95838",None,None,2010.12.31,Reported
+8,13797,"San Francisco, CA 94123",None,None,2010.12.30,None
+0,15918,"Portland, OR 97217",None,None,2010.12.30,None
+1,15896,"Chicago, IL 60657",None,None,2010.12.29,Reported
+2,15947,"Portland, OR 97209",None,None,2010.12.28,Reported
+3,15826,"Bellevue, WA 98006",None,None,2010.12.28,None
+4,15872,"Los Angeles, CA 90045",None,None,2010.12.28,None
+5,15163,"Somerville, MA 02143",None,None,2010.12.26,None
+6,15845,"Albany, OR 97132",None,None,2010.12.26,None
+7,17886,"Reno, NV 89503",None,None,2010.12.26,None
+8,15875,"Portland, OR 97218",None,None,2010.12.26,Reported
+9,15856,"Los Angeles, CA 90025",None,None,2010.12.25,None
+0,15859,"Los Angeles, CA 90025",None,None,2010.12.25,None
+1,15865,"Klamath Falls, OR 97601",None,None,2010.12.25,Reported
+2,15817,"Long Beach, CA 90802",None,None,2010.12.25,None
+3,15823,"Portland, OR 97233",None,None,2010.12.24,Reported
+4,15815,"Monrovia, CA 91016",None,None,2010.12.24,None
+5,56068,"Houston, TX 77008",Other,"Other situation, please describe below.",2010.12.23,None
+6,11653,"Portland, OR 97202",None,None,2010.12.23,Reported
+7,15068,"Gainesville, FL 32601",None,None,2010.12.23,None
+8,15075,"Corvallis, OR 97330",None,None,2010.12.23,Reported
+9,22815,"Beaverton, OR 97005",None,None,2010.12.23,Reported
+0,11651,"Portland, OR 97202",None,None,2010.12.23,Reported
+1,15811,"Goodyear, AZ 85338",None,None,2010.12.22,Reported
+2,17081,"Portland, OR 97239",None,None,2010.12.22,Reported
+3,15051,"Portland, OR 97206",None,None,2010.12.22,None
+4,15801,"Glendale, AZ 85302",None,None,2010.12.21,None
+5,13755,"Portland, OR 97217",None,None,2010.12.20,None
+6,12669,"Seattle, WA 98122",None,None,2010.12.20,None
+7,13756,"Portland, OR 97217",None,None,2010.12.20,None
+8,16207,"Astoria, NY 11102",None,None,2010.12.20,Reported
+9,19899,"Tampa, FL 33606",None,None,2010.12.20,Reported
+0,15806,"Riverside, CA 92507",None,None,2010.12.19,Reported
+1,17771,"Boston, MA 02115",None,None,2010.12.19,Reported
+2,19057,"New Oleans, LA 70130",None,None,2010.12.19,None
+3,15784,"Austin, TX 78757",None,None,2010.12.19,Reported
+4,15914,"Bellevue, WA 98008",None,None,2010.12.19,Reported
+5,15844,"Portland, OR 97211",U-lock,None,2010.12.18,Reported
+6,11640,"Portland, OR 97212",None,None,2010.12.18,Reported
+7,15778,"Portland, OR 97214",None,None,2010.12.18,None
+8,15790,"Boise, ID 83706",None,None,2010.12.17,Reported
+9,15042,"Portland, OR 97213",None,None,2010.12.17,Reported
+0,15034,"Portland, OR 97214",None,None,2010.12.17,Reported
+1,15027,"Los Angeles, CA 90003",None,None,2010.12.17,None
+2,15788,"Porland, OR 97218",None,None,2010.12.17,Reported
+3,15810,"Tampa, FL 33629",None,None,2010.12.16,None
+4,15026,"Portland, OR 97233",None,None,2010.12.16,Reported
+5,15773,"Bryan, TX 77803",None,None,2010.12.16,Reported
+6,15850,"Portland, OR 97209",None,None,2010.12.16,Reported
+7,15907,"Austin, TX 78704",None,None,2010.12.15,None
+8,15911,"Austin, TX 78704",None,None,2010.12.15,None
+9,15852,"Delano, CA 93215",None,None,2010.12.15,None
+0,18901,"Portland, OR 97201",None,None,2010.12.15,Reported
+1,17766,"San Diego, CA 92115",None,None,2010.12.15,None
+2,15957,"Walnut Creek, CA 94583",None,None,2010.12.14,Reported
+3,15021,"Portland, OR 97214",None,None,2010.12.14,Reported
+4,19846,"Los Angeles, CA 90024",None,None,2010.12.14,Reported
+5,13740,"Long Beach, CA 90802",None,None,2010.12.13,Reported
+6,15039,"San Francisco, CA 94109",None,None,2010.12.13,None
+7,15020,"Tucson, AZ 85716",None,None,2010.12.13,None
+8,17772,"Santa Monica, CA 90403",None,None,2010.12.13,Reported
+9,15765,"Corvallis, OR 97333",None,None,2010.12.13,None
+0,15759,"Portland, OR",None,None,2010.12.13,None
+1,17522,"Phoenix, AZ 85034",None,None,2010.12.12,None
+2,15792,"Phoenix, AZ 85027",None,None,2010.12.12,None
+3,15754,"Albuquerque, NM 87112",None,None,2010.12.12,None
+4,17764,"Pueblo, CO 81001",None,None,2010.12.12,None
+5,15751,"Portland, OR 97203",None,None,2010.12.12,Reported
+6,15902,"Portland, OR 97204",None,None,2010.12.12,None
+7,19020,"Phoenix, AZ 85028",None,None,2010.12.11,Reported
+8,15745,"Decatur, GA 30035",None,None,2010.12.10,Reported
+9,17354,"Hattiesburg, MS 39401",None,None,2010.12.10,None

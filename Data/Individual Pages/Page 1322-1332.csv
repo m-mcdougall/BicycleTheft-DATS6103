@@ -1,0 +1,72 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,703104,"4923 N Elgin, Spokane, WA 99205",None,None,2020.3.24,None
+1,703103,"Berkeley, CA 94710",Not locked,"Other situation, please describe below",2020.3.24,None
+2,703100,"Oakland, CA 94612",U-lock and cable,"Lock is missing, along with the bike",2020.3.24,None
+3,703094,"2201 14th ave, Longmont, CO 80501",None,None,2020.3.24,None
+4,703190,"Everett, WA 98201",Cable lock,"Other situation, please describe below",2020.3.24,Reported
+5,703161,"Seattle, WA 98144",U-lock,"Lock was cut, and left at the scene",2020.3.24,None
+6,703087,"Berkeley, CA 94710",U-lock and cable,"Lock is missing, along with the bike",2020.3.24,Reported
+0,703002,"Vancouver, V5R2A3",None,None,2020.3.24,Reported
+1,702983,"9425 s riverside dr apt 1634, Sandy, UT 84070",None,None,2020.3.23,None
+2,702984,"9425 s riverside dr apt 1634, Sandy, UT 84070",Chain with padlock,None,2020.3.23,None
+3,705323,"Louisiana Oaks Park, Saint Louis Park, MN 55426",U-lock and cable,"Lock was cut, and left at the scene",2020.3.23,Reported
+4,703045,"Denver, CO 80206",U-lock,"Lock was cut, and left at the scene",2020.3.23,Reported
+5,702944,"Prince & 1st Ave, Tucson, AZ 85705",None,None,2020.3.23,Reported
+0,702931,"Corte Madera, CA 94939",None,None,2020.3.23,None
+1,702925,"Tacoma, WA 98403",None,None,2020.3.23,None
+2,702927,"2005 N Williams, Portland, OR 97227-1929",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.23,Reported
+3,405969,"Seattle, WA 98117",Other,"Other situation, please describe below",2020.3.23,Reported
+4,703129,"San Francisco, CA 94122",Other,"Other situation, please describe below",2020.3.23,Reported
+5,382521,"Portland, OR 97202",U-lock,"Lock is missing, along with the bike",2020.3.23,Reported
+6,702868,"Denver, CO 80202",None,None,2020.3.23,None
+7,765610,"Seattle, WA 98146",Other,"Lock is missing, along with the bike",2020.3.23,Reported
+0,703323,"New Orleans, LA 70119",None,None,2020.3.23,None
+1,708640,"San Diego, CA 92107",Cable lock,"Lock was cut, and left at the scene",2020.3.23,Reported
+2,702924,"Santa Cruz, CA 95062",None,Bike was not locked,2020.3.23,Reported
+3,699841,"Seattle, WA",None,None,2020.3.22,None
+4,702785,"Seattle, WA 98122",None,None,2020.3.22,None
+5,702809,"Berkeley, CA 94710",None,None,2020.3.22,None
+6,702766,"145 Fell St, San Francisco, CA 94102",U-lock and cable,"Lock is missing, along with the bike",2020.3.22,Reported
+0,702757,"New Orleans, LA 70117",None,None,2020.3.22,None
+1,110895,"Santa Cruz, CA 95062",None,Bike was not locked,2020.3.22,Reported
+2,705609,"1560 3rd st, San Francisco, CA 94158",U-lock and cable,"Lock was cut, and left at the scene",2020.3.22,Reported
+3,702738,"7001 Old Redmond Rd., Redmond, WA 98052",U-lock and cable,None,2020.3.22,Reported
+4,702725,"Fountain Hills, AZ 85268",None,None,2020.3.22,Reported
+5,703628,"Portland, OR 97215",None,None,2020.3.22,Reported
+6,704011,"Seattle, WA 98117",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.22,Reported
+0,701194,"Seattle, WA 98118",None,None,2020.3.21,None
+1,702591,"UWMC , Seattle, WA 98195",U-lock and cable,"Lock is missing, along with the bike",2020.3.21,None
+2,702573,"Putnam avenue, Brookyn, NY 11216",None,None,2020.3.21,None
+3,702543,"9253 Regents Road, La Jolla, CA 92037",U-lock and cable,"Other situation, please describe below",2020.3.21,Reported
+4,703324,"Berea road , Cleveland, OH 44102 ",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.21,None
+5,70021,"Richmond, CA 94804",Other,"Other situation, please describe below",2020.3.21,Reported
+6,703141,"Seattle, WA 98104",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.3.21,None
+7,702743,"Bellevue, WA 98004",U-lock,"Lock is missing, along with the bike",2020.3.21,Reported
+0,694748,"Tampa, FL",Other,None,2020.3.21,None
+1,702483,"Denver, CO 80205",Other,"Lock was cut, and left at the scene",2020.3.21,None
+2,702470,"San Francisco, CA 94110",Not locked,"Other situation, please describe below",2020.3.21,None
+3,703571,"Seattle, WA 98115",Not locked,"Other situation, please describe below",2020.3.21,Reported
+4,702522,"Santa Barbara, CA 93101",None,None,2020.3.21,Reported
+5,702588,"San Francisco, CA 94117",Cable lock,"Lock is missing, along with the bike",2020.3.21,Reported
+6,702524,"Louisville, KY",None,None,2020.3.20,Reported
+0,702362,"New Orleans, LA",None,None,2020.3.20,None
+1,702351,"338 Spear St, San Francisco, CA 94105",None,None,2020.3.20,None
+2,633146,"Tucson, AZ 85716",None,None,2020.3.20,None
+3,725396,"Des Moines, IA 50309",None,None,2020.3.20,None
+4,700114,"Reno, NV 89502",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.20,None
+5,701985,"15th St/Guadalupe St., TX 78701",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.20,None
+6,670557,"Boise, ID 83704",Cable lock,"Lock is missing, along with the bike",2020.3.20,None
+7,702495,"San Francisco, CA 94114",None,None,2020.3.20,Reported
+0,702873,"1000 3rd St, San Francisco, CA 94158",None,None,2020.3.20,None
+1,702688,"Everett, WA 98203",None,None,2020.3.20,None
+2,116692,"Portland, OR 97211",None,None,2020.3.20,Reported
+3,703716,"109 Samish Way, Bellingham, WA 98225",Not locked,Bike was not locked,2020.3.20,Reported
+0,702996,"625 Bridge St NW, Grand Rapids, MI 49525",Cable lock,"Lock is missing, along with the bike",2020.3.19,Reported
+1,702292,"Eureka, CA 95501",Not locked,None,2020.3.19,Reported
+2,702190,"Tucson, AZ 85712",None,None,2020.3.19,None
+3,700031,"Spokane, WA",None,None,2020.3.19,None
+4,702166,"2935 Grand Route St John, New Orleans, LA 70119",None,None,2020.3.19,None
+5,702157,"Sandy, UT 84092",None,None,2020.3.19,None
+6,702317,"Denver, CO 80205",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.19,Reported
+7,702129,"San Francisco, CA 94134",Not locked,"Other situation, please describe below",2020.3.19,Reported
+8,696517,"Yuba City, CA 95991",Not locked,Bike was not locked,2020.3.19,None

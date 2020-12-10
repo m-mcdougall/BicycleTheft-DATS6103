@@ -1,0 +1,86 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,28034,"Denver, CO",None,None,2014.7.1,Reported
+1,501786,"Tucson, AZ 85712",Cable lock,"Lock is missing, along with the bike.",2014.6.30,None
+2,27795,"Chicago, IL 60647",Cable lock,"Lock was opened, and left unharmed at the scene.",2014.6.30,Reported
+3,53740,"Tonawanda, NY 14150",Not locked,None,2014.6.30,None
+4,27835,"Downey, CA CA",Not locked,Bike was not locked,2014.6.30,Reported
+5,71994,"Cedar Rapids, IA 52402",None,None,2014.6.30,Reported
+0,27818,"Palo Alto, CA 94306",Other,"Other situation, please describe below.",2014.6.30,Reported
+1,27896,"Newport, RI 02840",Cable lock,"Lock is missing, along with the bike.",2014.6.30,None
+2,27798,"Portland, OR 97227",U-lock,"Lock is missing, along with the bike.",2014.6.30,Reported
+3,27831,"Portland, OR 97209",Cable lock,"Lock was cut, and left at the scene.",2014.6.30,Reported
+4,27812,"Berkeley, CA 94702",U-lock,Bike was not locked,2014.6.30,Reported
+5,28055,"Pittsburgh, PA 15213",Cable lock,"Lock is missing, along with the bike.",2014.6.30,Reported
+6,27935,"Bellingham, WA 98225",U-lock,"Other situation, please describe below.",2014.6.30,None
+7,28532,"New York, NY 10003",Chain with padlock,"Lock is missing, along with the bike.",2014.6.30,None
+8,27809,"Seattle, WA WA",Cable lock,"Lock is missing, along with the bike.",2014.6.30,None
+9,29247,"Scottsville, NY 14546",Not locked,None,2014.6.30,Reported
+0,27925,"Sidney, NE 69162",Not locked,None,2014.6.30,None
+1,28237,"Portland, OR 97217",U-lock,"Lock is missing, along with the bike.",2014.6.30,None
+2,27841,"Virginia, VA",Cable lock,"Lock was opened, and left unharmed at the scene.",2014.6.30,Reported
+3,27830,"Mariners Pnt, CA",Cable lock,"Lock is missing, along with the bike.",2014.6.30,Reported
+4,27909,"Oakland, CA 94608",U-lock,"Lock is missing, along with the bike.",2014.6.30,Reported
+5,29229,"Scottsville, NY 14546",Not locked,None,2014.6.30,Reported
+6,28648,"Las Vegas, NV 89101",Cable lock,"Lock is missing, along with the bike.",2014.6.30,Reported
+7,27792,"Philadphia, PA 19125",U-lock,Bike was not locked,2014.6.30,None
+8,27794,"Chicago, IL 60647",Cable lock,"Lock was opened, and left unharmed at the scene.",2014.6.30,Reported
+9,27807,"Philadelphia, PA 19146",Two U-locks,"Lock was cut, and left at the scene.",2014.6.30,None
+0,27813,"Chicago, IL 60614",U-lock,"Lock was cut, and left at the scene.",2014.6.30,Reported
+1,27769,"Austin Tx, TX 78705",U-lock,"Lock is missing, along with the bike.",2014.6.29,Reported
+2,27802,"San Diego, CA 92116",U-lock and cable,"Lock was cut, and left at the scene.",2014.6.29,Reported
+3,27797,"San Francisco, CA",Other,"Lock was cut, and left at the scene.",2014.6.29,Reported
+4,27801,"Portland, OR 97211",U-lock,"Other situation, please describe below.",2014.6.29,Reported
+5,27904,"San Francisco, CA 94114",U-lock,"Lock is missing, along with the bike.",2014.6.29,Reported
+6,28118,"St Paul, MN 55104",None,Bike was not locked,2014.6.29,Reported
+7,58910,"Pratt, KS 67124",Other,"Other situation, please describe below.",2014.6.29,None
+8,27821,"San Francisco, CA 94131",U-lock and cable,"Lock is missing, along with the bike.",2014.6.29,Reported
+0,46799,"Los Angeles, CA",Cable lock,None,2014.6.29,None
+1,27677,"Oakland, CA 94618",None,None,2014.6.28,Reported
+2,27759,"Portland, OR",Cable lock,"Lock is missing, along with the bike.",2014.6.28,Reported
+3,28281,"Ithaca, NY 14850",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2014.6.28,Reported
+4,27757,"Philadelphia, PA 19112",Cable lock,"Lock is missing, along with the bike.",2014.6.28,None
+5,28187,"San Antonio, TX 78229",None,None,2014.6.28,Reported
+6,27650,"Portland, OR 97214",None,None,2014.6.28,Reported
+0,27762,"Seattle, WA 98103",Not locked,Bike was not locked,2014.6.28,None
+1,28141,"San Francisco, CA 94114",Other,"Other situation, please describe below.",2014.6.28,Reported
+2,27680,"Portland, OR",U-lock,"Other situation, please describe below.",2014.6.28,None
+3,28099,"Portland, OR",Cable lock,"Lock is missing, along with the bike.",2014.6.27,Reported
+4,27621,"Palm Springs, CA 92264",Not locked,Bike was not locked,2014.6.27,None
+5,27819,"Chicago, IL 60622",Cable lock,"Lock was cut, and left at the scene.",2014.6.27,Reported
+6,27640,"Augusta, GA 30901",Cable lock,"Lock is missing, along with the bike.",2014.6.27,Reported
+7,27828,"Columbus, OH 43206",Not locked,None,2014.6.27,Reported
+0,27639,"San Diego, CA 92101",Chain with padlock,"Lock was cut, and left at the scene.",2014.6.27,None
+1,27642,"Tampa, FL 33607",None,Bike was not locked,2014.6.27,Reported
+2,27659,"Portsmouth, po64bq",Other,Bike was not locked,2014.6.27,Reported
+3,27649,"San Diego, CA 92107",Cable lock,"Lock was cut, and left at the scene.",2014.6.27,None
+4,27593,"San Francisco, CA 94107",U-lock,"Lock was opened, and left unharmed at the scene.",2014.6.27,Reported
+5,28319,"Philadelphia, PA",None,None,2014.6.27,None
+6,376585,"San Francisco, CA 94110",None,None,2014.6.27,Reported
+7,27651,"Snohomish, WA 98290",Not locked,Bike was not locked,2014.6.27,Reported
+8,27592,"Portland, OR",U-lock,"Lock was cut, and left at the scene.",2014.6.27,None
+9,27657,"Phoenix, AZ 85003",Cable lock,"Lock is missing, along with the bike.",2014.6.27,Reported
+0,29740,"San Francisco, CA 94111",U-lock,"Lock was cut, and left at the scene.",2014.6.27,None
+1,27566,"Portland, OR",Cable lock,"Lock was cut, and left at the scene.",2014.6.26,Reported
+2,29288,"San Marcos, CA 92078",Not locked,Bike was not locked,2014.6.26,Reported
+3,27615,"Sacramento, CA 95814",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2014.6.26,Reported
+4,27579,"Seattle, WA 98103",Cable lock,"Lock is missing, along with the bike.",2014.6.26,None
+5,58131,"Everett, WA 98201",Other,"Other situation, please describe below.",2014.6.26,Reported
+6,27590,"Portland, OR 97211",U-lock,Bike was not locked,2014.6.26,None
+7,27771,"Brandon, FL 33510",Not locked,Bike was not locked,2014.6.26,Reported
+8,27565,"West Palm Beach, FL 33401",Cable lock,"Lock is missing, along with the bike.",2014.6.26,Reported
+0,27536,"Indianapolis, IN 46203",Not locked,None,2014.6.26,Reported
+1,28840,"Oberlin, OH 44074",Cable lock,"Lock is missing, along with the bike.",2014.6.26,None
+2,27556,"San Francisco, CA 94103",U-lock and cable,"Lock was cut, and left at the scene.",2014.6.26,Reported
+3,27604,"901 New York Avenue Northwest, DC Washington, DC 20001",Cable lock,"Lock is missing, along with the bike.",2014.6.26,None
+4,27537,"Indianapolis, IN 46203",Not locked,None,2014.6.26,Reported
+5,27555,"Sooke, V9Z 0J9",Cable lock,"Lock was cut, and left at the scene.",2014.6.25,None
+6,53318,"Oak Park, IL 60302",U-lock,"Lock is missing, along with the bike.",2014.6.25,None
+0,27563,"Maple Valley, WA 98038",Not locked,Bike was not locked,2014.6.25,None
+1,27519,"San Francisco, CA 94103",Cable lock,"Lock is missing, along with the bike.",2014.6.25,None
+2,27753,"Los Angeles, CA 90036",Not locked,None,2014.6.25,Reported
+3,28587,"Vancouver, WA 98662",None,"Other situation, please describe below.",2014.6.25,Reported
+4,27583,"San Jose, CA 95123",Other,Bike was not locked,2014.6.25,Reported
+5,27514,"San Francisco, CA 94103",Cable lock,"Lock is missing, along with the bike.",2014.6.25,Reported
+6,27501,"Portland, OR 97202",Cable lock,"Lock was cut, and left at the scene.",2014.6.25,Reported
+7,27585,"San Jose, CA 95123",Other,"Other situation, please describe below.",2014.6.25,Reported
+8,27522,"Portland, OR 97210",Not locked,Bike was not locked,2014.6.25,None

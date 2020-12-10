@@ -1,0 +1,68 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,722044,"Seattle, WA 98117",None,None,2020.4.30,Reported
+1,722023,"Phoenix, AR 85029",None,None,2020.4.29,None
+2,722012,"22 Greene st, Baltimore, MD 21201",None,None,2020.4.29,None
+3,721864,"1495 Clifton Rd. NE, Atlanta, GA 30322",None,None,2020.4.29,None
+4,721863,"12726 se division st #29, Portland, OR 97236",Not locked,Bike was not locked,2020.4.29,Reported
+5,750521,"Hudson, FL 34669",None,None,2020.4.29,None
+6,721829,"New York, NY 10009",U-lock,"Lock is missing, along with the bike",2020.4.29,None
+7,721788,"Na, KS NA",None,None,2020.4.29,None
+0,722546,"9613 Grove Crest Ln Apt 1712, Charlotte, NC 28262",Cable lock,"Lock is missing, along with the bike",2020.4.29,Reported
+1,728564,"5835 Dalgetty Dr NW, Calgary, T3A 1J2",Not locked,Bike was not locked,2020.4.29,Reported
+2,721619,"Hallandale Beach, FL 33009",None,None,2020.4.29,None
+3,721656,"Denver, CO 80211",None,None,2020.4.29,Reported
+4,721590,"Bellingham, WA 98226",None,None,2020.4.29,None
+5,720893,"Bloomfield, NJ 07003",None,None,2020.4.29,None
+6,721583,"950 Mountain View Dr, Apt 14, Lafayette, CA 945493703",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.4.29,None
+7,721559,"Westminster, CO 80021",None,None,2020.4.29,Reported
+0,730702,"Boston, MA 02109",None,"Lock is missing, along with the bike",2020.4.29,Reported
+1,722007,"San Francisco, CA 94122",None,None,2020.4.29,Reported
+2,729627,"Oakland, CA 94608",Other,"Other situation, please describe below",2020.4.29,Reported
+3,722009,"Snohomish, WA 98296",Not locked,Bike was not locked,2020.4.29,Reported
+0,721838,"New Orleans, LA 70117",None,None,2020.4.29,None
+1,721925,"2200 St Claude Ave, New Orleans, LA 70117",U-lock,"Lock is missing, along with the bike",2020.4.29,None
+2,722603,"Salt Lake City, UT 84101",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.4.29,Reported
+3,722774,"New Orleans, LA 70119",None,None,2020.4.29,None
+4,722046,"Los Angeles, CA 90272",None,None,2020.4.29,Reported
+5,722216,"Denver, CO 80209",U-lock,"Lock is missing, along with the bike",2020.4.29,Reported
+6,755513,"Seattle, WA 98101",None,None,2020.4.29,Reported
+7,727662,"New Orleans, LA 70124",None,None,2020.4.28,None
+0,721245,"645 west 9th Street, Los Angeles, CA 90017",Cable lock,"Lock is missing, along with the bike",2020.4.28,Reported
+1,721195,"123 5th St , Kirkland, WA 98033",Cable lock,"Lock is missing, along with the bike",2020.4.28,Reported
+2,660204,"Seattle, WA 98105",U-lock,None,2020.4.28,None
+3,721546,"Seattle, WA 98144",Other,None,2020.4.28,Reported
+4,721165,"Portland, OR 97214",None,None,2020.4.28,None
+5,719688,"Redwood Highway and bicentennial, Santa Rosa, CA 95401",None,None,2020.4.28,None
+6,721602,"Seattle, WA 98109",None,None,2020.4.28,Reported
+7,625454,"Seattle, WA 98107",U-lock and cable,"Lock was cut, and left at the scene",2020.4.28,None
+8,721100,"4746 18th Ave NE, Seattle, WA 98105",Other,"Lock is missing, along with the bike",2020.4.28,None
+0,721078,"690 32nd st, Bellingham, WA 98225",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.4.28,Reported
+1,721297,"San Francisco, CA 94107",None,None,2020.4.28,None
+2,722654,"7100 Greenwood Ave N, Seattle, WA 98103",None,None,2020.4.28,Reported
+3,720945,"Eugene, OR 97404",None,None,2020.4.28,Reported
+4,720938,"Oakland, CA 94607",Cable lock,"Lock was cut, and left at the scene",2020.4.28,Reported
+0,720909,"5790 Bellaire, New Orleans, LA 70124",None,None,2020.4.28,None
+1,721111,"Bike Cage at Harborview Medical Center (view park garage at the end of Alder), Seattle, WA 98104",None,None,2020.4.28,Reported
+2,706209,"West Seattle, WA 98106 ",Cable lock,"Lock is missing, along with the bike",2020.4.28,Reported
+3,721574,"Houston, TX 77005",Chain with padlock,"Lock was cut, and left at the scene",2020.4.28,Reported
+4,720534,"Portland, OR 97232",Not locked,None,2020.4.28,Reported
+5,720744,"Portland, OR 97206",Not locked,"Other situation, please describe below",2020.4.28,Reported
+0,720677,"New Orleans, LA 70117",U-lock and cable,None,2020.4.28,None
+1,633906,"New Orleans, LA 70117",None,None,2020.4.28,None
+2,727562,"1434 SW Jewell Ave, Topeka, KS 66604",Not locked,Bike was not locked,2020.4.28,Reported
+3,722336,"Seattle, WA 98122",None,None,2020.4.28,Reported
+4,722153,"New Orleans, LA 70118",None,None,2020.4.28,Reported
+0,720558,"Fremont, CA 94536",None,None,2020.4.27,None
+1,720962,"Milwaukee, WI 53202",Cable lock,"Lock was opened, and left unharmed at the scene",2020.4.27,Reported
+2,728336,"Tacoma, WA 98406",Not locked,Bike was not locked,2020.4.27,Reported
+3,718870,"Santa Monica, CA 90405",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.4.27,Reported
+4,718861,"Santa Monica, CA 90405",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.4.27,Reported
+5,720146,"Miami, FL 33156",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.4.27,None
+0,725086,"Pacific Grove, CA 93950",Not locked,Bike was not locked,2020.4.27,Reported
+1,720248,"Portland, OR 97232",Not locked,None,2020.4.27,Reported
+2,728522,"Portland, OR 97212",None,None,2020.4.27,Reported
+3,749399,"Portland, OR 97209",U-lock and cable,Bike was not locked,2020.4.27,Reported
+4,720193,"533 beach 66 street, Arverne, NY 11692",None,None,2020.4.27,None
+5,720161,"Seaview ave nw, Ballard, WA 98117",None,None,2020.4.27,None
+6,720160,"7221 SW Macadam, Portable, OR 97219",None,None,2020.4.27,None
+7,720462,"Minneapolis, MN 55419",None,None,2020.4.27,Reported

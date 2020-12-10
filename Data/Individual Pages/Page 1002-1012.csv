@@ -1,0 +1,70 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,763494,"62 Rugby Road, Buffalo, NY 14216",Other,"Other situation, please describe below",2020.6.15,Reported
+1,773525,"Alameda & Bannock, Denver, CO 80223",U-lock,"Lock is missing, along with the bike",2020.6.15,None
+2,756339,"Portland, OR 97206",Cable lock,"Lock was cut, and left at the scene",2020.6.15,None
+3,763020,"Seattle, WA 98105",U-lock,"Lock is missing, along with the bike",2020.6.15,None
+4,762966,"Edmonton, T5e 0L1, ",None,None,2020.6.15,Reported
+5,780023,"New Orleans, LA 70119",None,None,2020.6.15,None
+6,762909,"Mountlake Terrace, WA 98043",Not locked,"Other situation, please describe below",2020.6.15,Reported
+7,762919,"Cantara and Wynne, Reseda, CA 91335",None,None,2020.6.15,None
+0,779234,"Boise, ID 83703",Other,"Other situation, please describe below",2020.6.15,Reported
+1,762883,"Philadelphia, PA 19103",None,None,2020.6.15,None
+2,762900,"San Francisco, CA 94116",None,None,2020.6.15,None
+3,768254,"Boise, ID 83705",Not locked,Bike was not locked,2020.6.15,Reported
+4,794914,"4233 Walnut St, Kansas City, MO 64111",Cable lock,"Lock was cut, and left at the scene",2020.6.15,Reported
+0,762729,"900 Quarry Road, Stanford, CA 94305",Cable lock,"Lock was cut, and left at the scene",2020.6.15,Reported
+1,760986,"Springfield, MA 01109",None,None,2020.6.15,None
+2,762862,"Seattle, WA 98115",None,None,2020.6.15,Reported
+3,760958,"725 Row River Rd, Cottage Grove, OR",U-lock and cable,"Lock is missing, along with the bike",2020.6.15,Reported
+4,763611,"Chicago, IL 60622",Not locked,Bike was not locked,2020.6.15,Reported
+5,760940,"1373 17th Ave, San Francisco, CA 94122",Not locked,None,2020.6.15,Reported
+0,760950,"725 Row River Rd, Cottage Grove, OR",U-lock and cable,"Lock is missing, along with the bike",2020.6.15,Reported
+1,760919,"San Diego, CA 92103",Cable lock,"Lock is missing, along with the bike",2020.6.15,Reported
+2,642058,"Portland, OR 97205",None,None,2020.6.15,None
+3,760925,"San Diego, CA 92103",Cable lock,"Lock is missing, along with the bike",2020.6.15,Reported
+4,760915,"1948 NW Blue Ridge Dr, Seattle, WA 98177",None,None,2020.6.15,Reported
+5,764214,"Portland, OR 97205",None,None,2020.6.15,Reported
+6,763026,"Reseda, CA 91335",None,None,2020.6.15,None
+7,764167,"Sandy, UT 84070",Other,"Other situation, please describe below",2020.6.15,Reported
+8,762910,"3477 Lily Way, 107, San Jose, CA 95134",U-lock and cable,"Lock was cut, and left at the scene",2020.6.15,Reported
+0,764171,"Sandy, UT 84070",Other,"Other situation, please describe below",2020.6.15,Reported
+1,760593,"Salt Lake City, UT 84105",None,None,2020.6.15,Reported
+2,763972,"Portland, OR 97217",Not locked,None,2020.6.15,Reported
+3,760903,"Hancock Street and Johnson, Madison, WI 53703",None,None,2020.6.15,None
+4,747397,"1751, San Rafael, CA 94901",Not locked,None,2020.6.15,None
+5,773197,"Irvine, CA 92618",Cable lock,"Lock is missing, along with the bike",2020.6.15,Reported
+6,110629,"Seattle, WA 98103",Not locked,"Other situation, please describe below",2020.6.15,None
+7,760943,"1420 South Alamo, San Antonio, TX 78210",None,"Other situation, please describe below",2020.6.15,Reported
+0,760811,"Berkeley, CA 94710",None,None,2020.6.14,Reported
+1,762895,"Seattle, WA 98107",Other,None,2020.6.14,Reported
+2,760793,"Columbus, OH 43201",U-lock and cable,"Other situation, please describe below",2020.6.14,Reported
+3,760777,"Vienna, VA 22180",None,None,2020.6.14,None
+4,760724,"1008 Pauline street , New Orleans, LA 70117",None,None,2020.6.14,None
+5,760729,"Los Angeles, CA 90066",None,None,2020.6.14,None
+6,760732,"Sacramento, CA 97206",Other,"Other situation, please describe below",2020.6.14,None
+7,760735,"Minneapolis, MN 55403",Other,None,2020.6.14,None
+0,760201,"New Orleans, LA 70117",Other,"Other situation, please describe below",2020.6.14,None
+1,760607,"New Orleans, LA 70115",None,None,2020.6.14,None
+2,762731,"747 W Cornelia , Chicago, IL 60657",Not locked,"Other situation, please describe below",2020.6.14,Reported
+3,760635,"1829 Santa Clara Avenue, Alameda, CA 94501",Not locked,None,2020.6.14,Reported
+4,763176,"3001 Hennepin Ave w Ste 2210, Minneapolis, MN 55408-3520",Cable lock,"Lock is missing, along with the bike",2020.6.14,Reported
+5,765034,"Cambridge, MA 02139",None,None,2020.6.14,None
+0,918606,"Santa Clara, CA 94087",Chain with padlock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.14,Reported
+1,760541,"Minneapolis, MN 55409",U-lock and cable,"Lock was cut, and left at the scene",2020.6.14,Reported
+2,760694,"865 Pomeroy Ave, Santa Clara, CA 95051",Cable lock,"Lock was cut, and left at the scene",2020.6.14,Reported
+3,760682,"Cleveland, OH 44113",Cable lock,"Lock was cut, and left at the scene",2020.6.14,Reported
+4,765223,"Decatur and Gov. Nicholls , New Orleans, LA 70116",Cable lock,"Lock was cut, and left at the scene",2020.6.14,None
+0,673290,"New Orleans, LA 70119",Not locked,"Lock is missing, along with the bike",2020.6.14,None
+1,763084,"San Francisco, CA 94102",U-lock,"Lock is missing, along with the bike",2020.6.14,None
+2,760381,"Palo Alto, CA 94301",None,None,2020.6.14,Reported
+3,760411,"4789 N Amherst St , Portland, OR 97203",Cable lock,"Lock is missing, along with the bike",2020.6.14,Reported
+4,728267,"Bottle drop on Lancaster, Salem Or, OR 97301",None,None,2020.6.14,None
+5,767155,"808 W San Carlos Street, San Jose, CA 95126",Not locked,"Other situation, please describe below",2020.6.14,Reported
+0,764019,"Pleasant Hill, CA 94523",Not locked,"Other situation, please describe below",2020.6.14,Reported
+1,760334,"45 RUTLAND ST, Boston, MA 02118",U-lock,"Other situation, please describe below",2020.6.14,Reported
+2,687088,"Chicago, IL 60647",Other,None,2020.6.14,None
+3,760405,"Indianapolis, IN 46202",None,None,2020.6.14,Reported
+4,763451,"Topeka, KS 66615",U-lock and cable,"Lock was cut, and left at the scene",2020.6.14,Reported
+5,765001,"7102 Wildflower Lane, Pico Rivera, CA 90660",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.14,Reported
+6,763041,"Santa Clara, CA 95050",Cable lock,"Lock was cut, and left at the scene",2020.6.14,Reported
+7,760332,"Sioux Falls, SD 57105",None,None,2020.6.14,None

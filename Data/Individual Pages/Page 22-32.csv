@@ -1,0 +1,81 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,952460,"11050 STRATHMORE, Los Angeles, CA 90024",None,None,2020.11.25,None
+1,952656,"Mountain View, CA 94040",None,None,2020.11.25,None
+2,952653,"Brooklyn, NY 11201",None,None,2020.11.25,None
+3,953676,"Portland, OR 97202",None,None,2020.11.25,Reported
+4,953671,"Portland, OR 97202",None,None,2020.11.25,Reported
+5,952676,"Eugene, OR 97403",None,None,2020.11.25,Reported
+6,952572,"New Orleans, LA",None,None,2020.11.25,Reported
+0,953911,"Saint Paul, MN",None,None,2020.11.24,None
+1,952532,"Boise, ID 83704",None,None,2020.11.24,None
+2,954753,"Auburn, WA 98002",Not locked,None,2020.11.24,Reported
+3,952558,"Davis, CA 95618",U-lock,"Other situation, please describe below",2020.11.24,Reported
+4,848486,"New York, NY",None,None,2020.11.24,None
+5,952448,"1315 4th Ave #2503, Seattle, WA 98101",Cable lock,"Lock is missing, along with the bike",2020.11.24,Reported
+6,952410,"Greenwich, CT 06830",None,None,2020.11.24,None
+7,952408,"504 Bay Drive South, Bradenton Beach, FL 34217",None,None,2020.11.24,None
+8,954348,"Boise, ID 83703",Not locked,None,2020.11.24,Reported
+0,953960,"Washington, DC 20003",None,None,2020.11.24,None
+1,952363,"San Jose, CA 95126",Not locked,"Other situation, please describe below",2020.11.24,Reported
+2,952358,"Bellingham, WA 98225",Other,"Lock was cut, and left at the scene",2020.11.24,Reported
+3,952343,"2039 e. Johnson St. #1, Madison, WI 53703",None,None,2020.11.24,None
+4,952347,"256 Court Street, Brooklyn, NY 11231",Not locked,None,2020.11.24,Reported
+5,952331,"Rochester, MN 55901",None,None,2020.11.24,None
+6,953108,"New Orleans, LA 70119",None,None,2020.11.24,None
+7,952599,"New Orleans, LA 70119",None,None,2020.11.24,None
+0,952278?locale=en,"207 West 6th St, Winona, MN 55987",Cable lock,"Lock is missing, along with the bike",2020.11.24,Reported
+1,952729,"Madison, WI 53703",Cable lock,"Lock is missing, along with the bike",2020.11.24,Reported
+2,626098?locale=en,"1230 E. Spence Ave #2, Tempe, AZ 85281",U-lock and cable,"Lock is missing, along with the bike",2020.11.24,Reported
+3,952576,"Berkeley, CA 94704",Chain with padlock,"Lock is missing, along with the bike",2020.11.24,Reported
+4,952360,"4100 Presidential Boulevard, Philadelphia, PA 19131",Cable lock,"Lock was cut, and left at the scene",2020.11.24,Reported
+5,952281,"Iowa City, IA 52245",U-lock,"Lock is missing, along with the bike",2020.11.24,Reported
+0,952236,"Lehi, UT 84043",None,None,2020.11.23,None
+1,952203,"Wheaton, IL 60187",Cable lock,"Lock was cut, and left at the scene",2020.11.23,Reported
+2,952186,"1738 N Capital St, NW BSMT, Washington, DC 20002",U-lock,"Lock is missing, along with the bike",2020.11.23,None
+3,952195,"Sunnyvale, CA 94086",U-lock,"Lock is missing, along with the bike",2020.11.23,Reported
+4,952192,"Sunnyvale, CA 94086",U-lock,"Lock is missing, along with the bike",2020.11.23,Reported
+5,952162,"Chicago, IL 60640",None,None,2020.11.23,None
+0,952116,"1075 nw 16th ave , Portland, OR 97209",None,None,2020.11.23,None
+1,952235,"Lehi, UT 84043",None,None,2020.11.23,None
+2,952117,"14th street and first ave corner, New York, NY 10009",Heavy duty bicycle security chain,"Other situation, please describe below",2020.11.23,None
+3,952104,"Los Angeles, CA 90068",None,None,2020.11.23,Reported
+4,952089,"Woodvillage, OR 97060",None,None,2020.11.23,Reported
+5,952101,"Arlington, VA 22203",None,None,2020.11.23,None
+6,952341,"Boise, ID 83706",Cable lock,"Lock was cut, and left at the scene",2020.11.23,Reported
+7,952083,"Eugene, OR 97405",None,None,2020.11.23,Reported
+8,952075,"Bentonville, AR 72712",Cable lock,"Lock was cut, and left at the scene",2020.11.23,Reported
+9,952057,"Bentonville, AR 72712",Cable lock,"Lock was cut, and left at the scene",2020.11.23,Reported
+0,951983,"San Francisco, CA 94103",None,None,2020.11.23,None
+1,952047,"300 Oxford Way, Belmont, CA 94002",Cable lock,"Lock was cut, and left at the scene",2020.11.23,None
+2,952042,"Thousand Oaks, CA 91362",None,None,2020.11.23,None
+3,952156,"242 Ridgewood Ave., San Francisco, CA 94127",None,None,2020.11.23,Reported
+4,952378,"Bexley, OH 43209",None,None,2020.11.23,Reported
+5,864508,"1258 State St., Marysville, WA 98270",Cable lock,"Lock is missing, along with the bike",2020.11.23,None
+6,952031,"1727 w ranch rd, Tempe, AZ 85284",None,None,2020.11.22,Reported
+0,658914,"1030 ttereve dr, Everett, WA 98203",Other,"Lock is missing, along with the bike",2020.11.22,None
+1,951978,"Tucson, AZ 85718",Cable lock,"Lock was cut, and left at the scene",2020.11.22,Reported
+2,951926,"Denver, CO 80218",None,None,2020.11.22,None
+3,951920,"Blaine, MN 55014",None,None,2020.11.22,None
+4,951924,"2020 NE Multnomah, Portland, OR 97232",U-lock,"Lock was cut, and left at the scene",2020.11.22,Reported
+5,951894,"Richmond, VA 23235",None,None,2020.11.22,None
+6,952129,"Rei store, Denver, CO 80202",None,None,2020.11.22,None
+7,952137,"Santa Barbara, CA 93106",None,None,2020.11.22,Reported
+8,951900,"San Francisco, CA 94117",None,None,2020.11.22,None
+9,951868,"Portland, OR 97213",None,None,2020.11.22,None
+0,951886?locale=,"2050 Irving St, San Francisco, CA 94122",Cable lock,"Lock was cut, and left at the scene",2020.11.22,Reported
+1,951818,"Seattle, WA 98109",U-lock,"Lock was cut, and left at the scene",2020.11.22,Reported
+2,951845,"Brooklyn, NY 11226-2618",None,None,2020.11.22,None
+3,951798,"New Orleans, LA 70118",None,None,2020.11.22,Reported
+4,951783,"936 Azure St, Sunnyvale, CA 94087",None,None,2020.11.22,None
+5,951764,"Minneapolis, MN 55416",None,None,2020.11.22,None
+6,951760,"St. Louis, MO 63112",Cable lock,"Lock is missing, along with the bike",2020.11.22,None
+7,951871,"Santa Barbara, CA 93110",None,None,2020.11.22,Reported
+8,786363,"1375 E 19th Ave., Denver, CO 80218",Cable lock,"Lock is missing, along with the bike",2020.11.22,None
+9,951750,"321 E Capital St, Columbus, OH 43215",Cable lock,"Lock is missing, along with the bike",2020.11.22,None
+0,951745,"2210 Sherman Avenue Apt L0, Evanston, IL 60201",Cable lock,"Lock is missing, along with the bike",2020.11.22,Reported
+1,952084,"Eugene, OR 97405",None,None,2020.11.22,Reported
+2,950976,"23 Kelly Road, Cambridge, MA 02139",Cable lock,"Lock is missing, along with the bike",2020.11.22,Reported
+3,951679,"419 N Los Angeles St, Los Angeles, CA 90012",U-lock,"Lock was cut, and left at the scene",2020.11.22,Reported
+4,952585,"Wilmington, DE 19803",Cable lock,None,2020.11.22,Reported
+5,675843,"Seattle, WA 98103",Other,"Other situation, please describe below",2020.11.22,Reported
+6,85239,"Seattle, WA 98103",Other,"Other situation, please describe below",2020.11.22,Reported

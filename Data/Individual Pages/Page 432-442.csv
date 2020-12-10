@@ -1,0 +1,69 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,923549,"San Mateo, CA 94403",Not locked,"Other situation, please describe below",2020.9.8,Reported
+1,865488,"Provo, UT 84604",None,None,2020.9.8,Reported
+2,865514,"Denver, CO 80202",None,None,None,None
+3,923552,"Los Angeles, CA 90025",None,None,2020.9.8,Reported
+4,906343,"Philadelphia, PA 19130-3332",U-lock,"Lock was cut, and left at the scene",2020.9.8,Reported
+5,865509,"Portland, OR 97202",None,None,2020.9.8,None
+6,865504,"Portland, OR 97202",None,None,2020.9.8,None
+7,865485,"Lot 3, Ferndale, MI",None,None,2020.9.8,None
+0,865493,"88 17th Avenue, San Mateo, CA 94402",U-lock,"Lock is missing, along with the bike",2020.9.8,Reported
+1,865506,"Portland, OR 97202",None,None,2020.9.8,None
+2,865468,"College Park, MD 21054",None,None,2020.9.8,None
+3,919685,"1101 E. Mabel St. Box 299, Room 6056, Tucson, AZ 85719",U-lock and cable,"Lock is missing, along with the bike",2020.9.8,None
+4,865426,"Los Angeles, CA 90013",None,None,2020.9.8,None
+5,865413,"2015 P Street, Sacramento, CA 95811",None,None,2020.9.8,None
+6,865423,"Danville, CA 94526",Not locked,Bike was not locked,2020.9.8,Reported
+7,865424,"Danville, CA 94526",Not locked,Bike was not locked,2020.9.8,Reported
+0,865361,"Del Monte, Monterey, CA 93940",None,None,2020.9.8,None
+1,865360,"San Francisco, CA 94901",Not locked,None,2020.9.8,Reported
+2,865349,"Auburn, WA 98002",None,None,2020.9.8,None
+3,865328,"Columbus, OH 43202",None,None,2020.9.8,None
+4,865324,"Cambridge, MA 05055",None,None,2020.9.8,None
+0,865277,"2141 N 61st ST, Seattle, WA 98103",None,None,2020.9.8,None
+1,865285,"New Orleans, LA 70119",None,None,2020.9.8,None
+2,865194,"Milwaukee, WI 53202",None,None,2020.9.8,None
+3,865187,"1108 N Milwaukee St. Unit 119, Milwaukee, WI 53202",None,None,2020.9.8,None
+4,865305,"Farron St, Rocklin, CA 95765",Not locked,Bike was not locked,2020.9.8,Reported
+0,865175,"Indianapolis, IN 46203",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.8,None
+1,865129,"Holladay, UT 84117",None,None,2020.9.8,None
+2,865174,"2022 baronne st, New Orleans, LA 70113",Cable lock,"Lock was cut, and left at the scene",2020.9.8,Reported
+3,865122,"Holladay, UT 84117",Not locked,"Other situation, please describe below",2020.9.8,Reported
+4,865080,"Minneapolis, MN 55405",None,None,2020.9.8,None
+5,865781,"9818 NW Sandhill Lane, Silverdale, WA 98366",Not locked,None,2020.9.8,Reported
+0,865117,"SW 78th St & SW 63rd Ave, South Miami, FL 33134",None,None,2020.9.8,None
+1,866748,"Sunnyvale, CA 94087",Not locked,Bike was not locked,2020.9.8,None
+2,919031,"Salt Lake City, UT 84105",Not locked,Bike was not locked,2020.9.8,Reported
+3,865308,"UDistrict, Seattle, WA 98105",None,None,2020.9.8,Reported
+4,865082,"Washington, DC 20036",Other,"Other situation, please describe below",2020.9.8,Reported
+5,866408,"Venice, CA 90291",U-lock,"Lock is missing, along with the bike",2020.9.8,None
+0,865735,"3237 W. Thomas St. , Chicago, IL 60651",Not locked,Bike was not locked,2020.9.8,None
+1,865051,"Boston, MA 02115",None,None,2020.9.8,None
+2,865046,"33rd and S Lake Ave, Sioux Falls, SD",Other,None,2020.9.8,Reported
+3,865040,"Boston, MA 02115",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.7,None
+4,865747,"New York, NY 10014",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.7,None
+5,864999,"677 Ulloa st, San Francsisco, CA",U-lock,None,2020.9.7,Reported
+6,865483,"Washington, DC 20002",None,None,2020.9.7,None
+7,864958,"Palo Alto, CA 94301",None,None,2020.9.7,None
+0,865497,"Portland, OR 97266",None,None,2020.9.7,None
+1,930921,"Fremont, CA 94536",Cable lock,"Other situation, please describe below",2020.9.7,Reported
+2,864855,"Emeryville, CA 94608",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.7,Reported
+3,865362,"Bethesda, MD 20814",Not locked,None,2020.9.7,Reported
+4,864816,"Klamath Falls, OR 97603",None,None,2020.9.7,None
+5,929859,"11727 w Olympic Blvd , Los Angeles, CA 90064",None,None,2020.9.7,Reported
+6,864791,"North Prospect Ave, Milwaukee, WI 53211",None,None,2020.9.7,None
+0,407564,"740 Bellevue Ave E, Seattle, WA 98102",Other,"Other situation, please describe below",2020.9.7,Reported
+1,864814,"1734 6th Street Northwest, Unit 2, Washington, DC 20001",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.7,Reported
+2,462536,"Berkeley, CA 94703",U-lock and cable,"Lock is missing, along with the bike",2020.9.7,None
+3,864962,"Oak, IL 60302",Not locked,"Other situation, please describe below",2020.9.7,Reported
+4,866181,"1400 E 6th St, Tucson, AZ 85721",None,None,2020.9.7,None
+5,865271,"Zanesville, OH",None,None,2020.9.7,None
+0,864656,"256 E 2nd St, Loveland, CO 80537",None,None,2020.9.7,None
+1,864659,"Cortese Circle, San Jose, CA 95127",None,None,2020.9.7,Reported
+2,864668,"San Diego, CA 92103",U-lock and cable,"Lock is missing, along with the bike",2020.9.7,Reported
+3,864639,"4140 SW Rose St, Seattle, WA 98136",None,None,2020.9.7,None
+4,865219,"Brigantine, NJ 08203",None,None,2020.9.7,Reported
+5,864609,"Ventura Harbor, Ventura, CA",Other,Bike was not locked,2020.9.7,Reported
+6,864635,"4140 SW Rose St, Seattle, WA 98136",None,None,2020.9.7,None
+7,864591,"Boulder, CO 80301",None,None,2020.9.7,Reported
+8,864589,"El Cerrito, CA 94530",None,None,2020.9.7,Reported

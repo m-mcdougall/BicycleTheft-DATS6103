@@ -1,0 +1,98 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,22932,"Chicago, IL 60613",None,None,2012.9.7,Reported
+1,14267,"Buffalo, NY 14216",None,None,2012.9.7,None
+2,22928,"Portland, OR 97206",None,None,2012.9.6,Reported
+3,5772,"Monroe, WA 98272",None,None,2012.9.6,Reported
+4,11812,"Portland, OR 97215",None,None,2012.9.6,None
+5,11830,"San Francisco, CA 94107",None,None,2012.9.6,None
+6,12347,"Portland, OR 97212",None,None,2012.9.6,Reported
+7,12356,"Austin, TX 78705",None,None,2012.9.6,None
+8,12407,"Hillsboro, OR 97006",None,None,2012.9.6,None
+0,12453,"Portland, OR 97212",None,None,2012.9.6,Reported
+1,15862,"Berkeley, CA 94703",None,None,2012.9.6,Reported
+2,17452,"Hillsboro, OR 97123",None,None,2012.9.6,None
+3,21196,"Rochester, NY 14620",None,None,2012.9.6,Reported
+4,26011,"Portland, OR 97206",None,None,2012.9.6,None
+5,26842,"Houston, TX 77006",None,None,2012.9.6,None
+6,22959,"Portland, OR 97206",None,None,2012.9.6,None
+7,12369,"Portland, OR 97215",None,None,2012.9.6,None
+8,11814,"Portland, OR 97202",None,None,2012.9.6,Reported
+9,12367,"Portland, OR 97232",None,None,2012.9.6,None
+0,17550,"Portland, OR 97209",None,None,2012.9.5,Reported
+1,12371,"Bethesda, MD 20817",None,None,2012.9.5,None
+2,26012,"Santa Cruz, CA 95060",None,None,2012.9.5,Reported
+3,21909,"Lakwood, WA 98499",None,None,2012.9.5,Reported
+4,25679,"Portland, OR 97215",None,None,2012.9.5,Reported
+5,26010,"Lakewood, CO 80226",None,None,2012.9.5,Reported
+6,25536,"Portland, OR 97211",None,None,2012.9.5,None
+7,22621,"Greenville, SC 29609",None,None,2012.9.5,None
+0,26841,"Portland, OR 97211",None,None,2012.9.4,Reported
+1,25532,"Indianapolis, IN 46205",None,None,2012.9.4,None
+2,25529,"Pacific Beach, CA 92019",None,None,2012.9.4,Reported
+3,26839,"Chicago, IL 60607",None,None,2012.9.4,Reported
+4,25534,"Bloomington, IN 47403",None,None,2012.9.4,Reported
+5,25660,"Tukwila, WA 98188",None,None,2012.9.4,Reported
+6,26008,"Portland, OR 97206",None,None,2012.9.4,Reported
+7,12376,"Cambridge, MA 02139",None,None,2012.9.4,None
+8,26009,"San Francisco, CA 94115",None,None,2012.9.4,Reported
+9,25531,"Portland, OR 97212",None,None,2012.9.4,Reported
+0,25030,"Portland, OR 97217",None,None,2012.9.4,Reported
+1,25013,"San Francisco, CA 9110",None,None,2012.9.3,Reported
+2,25012,"San Francisco, CA 94110",None,None,2012.9.3,Reported
+3,25019,"Portland, OR 97214",None,None,2012.9.3,Reported
+4,26836,"New York, NY 10001",None,None,2012.9.3,None
+5,11810,"Portland, OR 97214",None,None,2012.9.3,Reported
+6,12379,"San Francisco, CA 94110",None,None,2012.9.3,Reported
+7,22901,"Seattle, WA 98122",None,None,2012.9.3,None
+8,11819,"Portland, OR 97232",None,None,2012.9.3,Reported
+9,11835,"Durham, NC 27707",None,None,2012.9.3,Reported
+0,26007,"Seattle, WA 99103",None,None,2012.9.3,Reported
+1,25008,"Beaverton, OR 97007",None,None,2012.9.3,Reported
+2,22950,"San Francisco, CA 94110",None,None,2012.9.3,Reported
+3,25026,"Portland, OR 97214",None,None,2012.9.3,Reported
+4,25002,"Oakland, CA 94610",None,None,2012.9.3,None
+5,25523,"Lebanon, TN 37087",None,None,2012.9.3,None
+6,24752,"Denver, CO 80203",U-lock,None,2012.9.3,None
+7,24971,"Portland, OR 97214",None,None,2012.9.2,Reported
+8,25518,"Portland, OR 97215",None,None,2012.9.2,Reported
+9,25535,"Portland, OR 97214",None,None,2012.9.2,Reported
+0,25520,"Philadelphia, PA 19061",None,None,2012.9.2,None
+1,17491,"Tempe, AZ 85281",None,None,2012.9.2,Reported
+2,24981,"Livermore, CA 94550",None,None,2012.9.2,Reported
+3,26003,"Brooklyn, NY 11211",None,None,2012.9.2,None
+4,25526,"Philadelphia, PA 19143",None,None,2012.9.2,Reported
+5,25519,"Phoenix, AZ 85004",None,None,2012.9.2,Reported
+6,26001,"Portland, OR 97202",None,None,2012.9.2,None
+7,25538,"Livermore, CA 94550",None,None,2012.9.2,Reported
+8,26831,"Charleston, SC 29403",None,None,2012.9.2,None
+9,17469,"Portland, OR 97202",None,None,2012.9.1,Reported
+0,26827,"Portland, OR 97213",Cable lock,"Lock is missing, along with the bike.",2012.9.1,None
+1,26828,"North Wildwood, NJ 08260",None,None,2012.9.1,None
+2,26830,"Chicago, IL 60618",None,None,2012.9.1,None
+3,11686,"Tucson, AZ 85710",None,None,2012.9.1,Reported
+4,12344,"San Diego, CA 92110",None,None,2012.9.1,Reported
+5,12406,"San Francsico, CA 94110",None,None,2012.9.1,Reported
+6,14645,"Portland, OR 97202",Cable lock,"Lock was cut, and left at the scene.",2012.9.1,Reported
+7,25654,"Tucson, AZ 85719",None,None,2012.9.1,Reported
+8,25041,"Portland, OR 97206",None,None,2012.9.1,Reported
+9,24997,"Lawrence, KS 66044",None,None,2012.9.1,Reported
+0,13094,"Portland, OR 97210",None,None,2012.9.1,Reported
+1,18047,"Portland, OR 97210",None,None,2012.9.1,Reported
+2,19119,"Denver, CO 80205",None,None,2012.9.1,Reported
+3,21973,"Jacksonville, FL 32204",None,None,2012.9.1,None
+4,25528,"Portland, OR 97214",None,None,2012.9.1,Reported
+5,26838,"Denver, CO 80206",None,None,2012.9.1,Reported
+6,12084,"Philadelphia, PA 19103",None,None,2012.9.1,Reported
+7,13221,"Lexington, KY 40507",None,None,2012.9.1,None
+8,17729,"Philadelphia, PA 19148",None,None,2012.9.1,Reported
+9,24996,"Portland, OR 97217",None,None,2012.9.1,None
+0,25657,"Seattle, WA 98109",None,None,2012.9.1,None
+1,26832,"Brooklyn, NY 11231",None,None,2012.9.1,None
+2,25521,"Brooklyn, NY 11231",None,None,2012.9.1,None
+3,24983,"Portland, OR 97202",None,None,2012.9.1,Reported
+4,12224,"Portland, OR 97214",None,None,2012.9.1,Reported
+5,9577,"San Francisco, CA 94117",None,None,2012.8.31,None
+6,24973,"Mountain View, CA 94040",None,None,2012.8.31,Reported
+7,25656,"Ann Arbor, MI 48103",None,None,2012.8.31,None
+8,12130,"Portland, OR 97214",None,None,2012.8.31,Reported
+9,12388,"Syracuse, NY 13214",None,None,2012.8.31,Reported

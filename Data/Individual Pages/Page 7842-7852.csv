@@ -1,0 +1,98 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,17516,"Portland, OR 97213",None,None,2011.5.14,Reported
+1,17997,"Minneapolis, MN 55418",None,None,2011.5.14,Reported
+2,12082,"Seattle, WA 98103",None,None,2011.5.14,Reported
+3,16952,"College Station, TX 77840",None,None,2011.5.14,Reported
+4,16112,"Rochester, NY 14621",None,None,2011.5.14,None
+5,16919,"Portland, OR 97217",None,None,2011.5.14,Reported
+6,17993,"Margate City, NJ 08402",None,None,2011.5.14,None
+7,18343,"San Diego, CA 92122",None,None,2011.5.13,Reported
+8,17984,"Portland, OR 97230",None,None,2011.5.13,Reported
+0,16924,"Missoula, MT 59808",None,None,2011.5.13,Reported
+1,17986,"Austin, TX 78704",None,None,2011.5.13,None
+2,18327,"Missoula, MT 59801",None,None,2011.5.13,Reported
+3,20461,"Portland, OR 97202",None,None,2011.5.13,Reported
+4,16918,"Cleveland Heights, OH 44106",None,None,2011.5.13,Reported
+5,16921,"San Diego, CA 92122",None,None,2011.5.13,None
+6,16934,"West Jordan, UT 84081",None,None,2011.5.13,None
+7,26134,"Davis, CA 95616",None,None,2011.5.13,Reported
+8,12120,"Portland, OR",None,None,2011.5.13,None
+9,16911,"Fremont, CA 94539",None,None,2011.5.13,None
+0,16089,"Tucson, AZ 85701",None,None,2011.5.12,None
+1,16897,"Philadelphia, PA 19147",None,None,2011.5.12,Reported
+2,16915,"San Francisco, CA 94131",None,None,2011.5.12,Reported
+3,16904,"Missoula, MT 59801",None,None,2011.5.12,Reported
+4,16900,"New Haven, CT 06511",None,None,2011.5.12,None
+5,17523,"San Francisco, CA 94105",None,None,2011.5.12,Reported
+6,16080,"Austin, TX 78704",None,None,2011.5.12,Reported
+7,16905,"Seattle, WA 98101",None,None,2011.5.12,Reported
+8,16941,"Portland, OR 97201",None,None,2011.5.11,None
+0,16063,"Portland, OR 97212",None,None,2011.5.11,Reported
+1,18013,"Portland, OR 97209",None,None,2011.5.11,None
+2,16909,"Colorado Springs, CO 80906",None,None,2011.5.11,Reported
+3,16894,"Oceanside, CA 92054",None,None,2011.5.11,None
+4,16065,"Philadelphia, PA 19107",None,None,2011.5.11,None
+5,16895,"Madison, WI 53715",None,None,2011.5.11,None
+6,16875,"Porland, OR 97212",None,None,2011.5.10,Reported
+7,16886,"Portland, OR 97202",None,None,2011.5.10,Reported
+8,16883,"Portland, OR 97219",None,None,2011.5.10,Reported
+0,16186,"Seattle, WA 98115",None,None,2011.5.10,None
+1,22185,"Sf, CA 94118",None,None,2011.5.10,None
+2,12091,"Austin, TX 78701",None,None,2011.5.10,None
+3,16881,"Salt Lake City, UT 84105",None,None,2011.5.10,Reported
+4,16879,"Portland, OR 97239",None,None,2011.5.10,Reported
+5,16889,"Portland, OR 97219",None,None,2011.5.10,Reported
+6,16057,"Albuquerque, NM 87106",None,None,2011.5.10,Reported
+7,12079,"Orlando, FL 32801",None,None,2011.5.10,None
+8,16884,"Portland, OR 97219",None,None,2011.5.10,Reported
+9,17508,"Fairfax, VA 22031",None,None,2011.5.9,Reported
+0,17988,"New York, NY 10013",None,None,2011.5.9,None
+1,16045,"Los Angeles, CA 90025",None,None,2011.5.9,None
+2,17724,"Richardson, TX 75080",None,None,2011.5.9,Reported
+3,20460,"San Diego, CA 92122",None,None,2011.5.9,Reported
+4,16846,"Brooklyn, NY 11205",None,None,2011.5.9,None
+5,16877,"Brighton, MA 02135",None,None,2011.5.9,Reported
+6,12051,"Austin, TX 78704",None,None,2011.5.8,Reported
+7,16035,"Copenhagen, Denmark, OR",None,None,2011.5.8,None
+8,16843,"San Francisco, CA 94109",None,None,2011.5.8,Reported
+9,19764,"Denver, CO 80210",None,None,2011.5.8,Reported
+0,16848,"Dayton, OH 45405",None,None,2011.5.8,None
+1,16850,"Seattle, WA 98119",None,None,2011.5.8,Reported
+2,16007,"Deland, FL 32720",None,None,2011.5.8,Reported
+3,16842,"Cupertino, CA 95014",None,None,2011.5.8,None
+4,16862,"Houston, TX 77004",None,None,2011.5.7,None
+5,16867,"Buda, TX 78610",None,None,2011.5.7,None
+6,22633,"Chicago, IL 60605",None,None,2011.5.7,None
+7,15981,"San Francisco, CA 94110",None,None,2011.5.7,None
+8,16835,"Washington, DC 20007",None,None,2011.5.7,None
+9,16870,"Walla Walla, WA 99362",None,None,2011.5.7,None
+0,26342,"Portland, OR 97206",None,None,2011.5.7,Reported
+1,12065,"Urbandale, IA 50323",None,None,2011.5.6,Reported
+2,16818,"Vancouver, WA 98664",None,None,2011.5.6,None
+3,16825,"Tempe, AZ 85283",None,None,2011.5.5,Reported
+4,16820,"Portland, OR 97206",None,None,2011.5.5,Reported
+5,16840,"Valley Village, CA 91601",None,None,2011.5.5,None
+6,58637,"Burbank, CA 91504",None,None,2011.5.5,None
+7,16838,"Philadelphia, PA 19147",None,None,2011.5.5,None
+8,18291,"Honolulu, HI 96822",None,None,2011.5.5,Reported
+9,16809,"Portland, OR 97214",None,None,2011.5.5,Reported
+0,21267,"Omaha, NE 68124",None,None,2011.5.5,Reported
+1,18295,"Terre Haute, IN 47802",None,None,2011.5.4,Reported
+2,15964,"Portland, OR 97212",None,None,2011.5.4,Reported
+3,17977,"Portland, OR 97217",None,None,2011.5.4,Reported
+4,16022,"Tucson, AZ 85742",None,None,2011.5.4,Reported
+5,17325,"Chicago, IL 60609",None,None,2011.5.4,Reported
+6,23042,"College Station, TX 77840",None,None,2011.5.4,None
+7,28739,"Temecula, CA 92592",None,None,2011.5.4,Reported
+8,16855,"Tucson, AZ 85742",None,None,2011.5.4,Reported
+9,16866,"Point Loma San Diego, CA 92106",None,None,2011.5.4,Reported
+0,18579,"Chicago, IL 60609",None,None,2011.5.4,Reported
+1,16802,"Vienna, VA 22181",None,None,2011.5.3,None
+2,20457,"Vienna, VA 22181",None,None,2011.5.3,None
+3,26471,"Tucson, AZ 85718",None,None,2011.5.3,None
+4,16795,"Emporia, KS 66801",None,None,2011.5.3,None
+5,16811,"Methuen, MA 01844",None,None,2011.5.3,None
+6,17975,"Reno, NV 89502",None,None,2011.5.3,Reported
+7,16803,"Austin, TX 78757",None,None,2011.5.3,Reported
+8,17973,"Bellevue, WA 98007",None,None,2011.5.2,None
+9,16785,"San Jose, CA 95125",None,None,2011.5.2,None

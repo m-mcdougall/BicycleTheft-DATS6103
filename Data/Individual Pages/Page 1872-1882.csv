@@ -1,0 +1,68 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,649466,"Corpus Christi, TX 78412",Cable lock,"Lock is missing, along with the bike",2019.8.24,None
+1,655765,"Washington, DC 20560",Cable lock,"Lock was cut, and left at the scene",2019.8.24,None
+2,647751,"Westfield mall, San Francisco, CA",None,None,2019.8.24,None
+3,652890,"Ontario Avenue, Corona, CA 92881",None,None,2019.8.24,None
+4,650005,"Lift Bridge Lane, Fairport, NY 14450",None,None,2019.8.24,None
+5,274148,"Boston, MA 02199",U-lock and cable,None,2019.8.24,None
+6,647709,"Indianapolis, IN 46225",None,None,2019.8.24,None
+7,647677,"Alexandria, VA 22302",None,None,2019.8.24,None
+0,639736,"Chicago, IL 60804",U-lock and cable,"Lock is missing, along with the bike",2019.8.24,Reported
+1,647598,"2504 N Baldwin St, Portland, OR 97217",None,None,2019.8.24,None
+2,647560,"University Park, PA 16802",None,None,2019.8.24,None
+3,650535,"Portland, OR 97213",Not locked,None,2019.8.24,Reported
+0,648812,"3520 Patti Dr, Plover, WI 54467",Not locked,None,2019.8.24,Reported
+1,649263,"Minneapolis, MN 55401",None,None,2019.8.24,Reported
+2,648815,"3520 Patti Dr, Plover, WI 54467",Not locked,None,2019.8.24,Reported
+3,647451,"4116 locust ave, Sarasota, FL 34234",None,None,2019.8.24,None
+4,660093,"Oak Park, IL 60301",Other,"Other situation, please describe below",2019.8.24,None
+5,647432,"Seattle, WA 98144",None,None,2019.8.24,Reported
+6,647428,"Seattle, WA 98144",None,None,2019.8.24,Reported
+0,649250,"Portland, OR 97202",Not locked,Bike was not locked,2019.8.24,Reported
+1,647449,"New Orleans, LA 70122",None,None,2019.8.24,None
+2,647049,"Indianapolis, IN 46203",None,"Lock is missing, along with the bike",2019.8.24,Reported
+3,669942,"Playa Del, CA 90293",Cable lock,"Other situation, please describe below",2019.8.24,Reported
+4,647947,"San Francisco, CA 94122",Cable lock,None,2019.8.24,Reported
+5,647796,"1503 Granger St, Mt Pleasant, MI 48858",None,None,2019.8.24,None
+0,647798,"Mt Pleasant, MI 48858",None,None,2019.8.24,None
+1,735323,"509 SE Harney Street, Portland, OR 97202",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.24,None
+2,647386,"Santa Monica, CA 90404",None,None,2019.8.24,None
+3,651503,"Indianapolis, IN 46203",Cable lock,"Lock is missing, along with the bike",2019.8.24,Reported
+4,648110,"New Orleans, LA 70117",None,None,2019.8.23,None
+0,651592,"Oak Island, NC",None,None,2019.8.23,Reported
+1,646955,"Bloomington, IN 47401-0007",None,None,2019.8.23,None
+2,381683,"Tacoma, WA 98405",Other,"Other situation, please describe below",2019.8.23,None
+3,649468,"Sioux Falls, SD 57104",Not locked,None,2019.8.23,Reported
+4,646924,"Geneva, IN",None,None,2019.8.23,None
+5,646933,"Seattle, WA 98105",None,None,2019.8.23,None
+6,404691,"Sunnyvale, CA 94089",Cable lock,"Lock was cut, and left at the scene",2019.8.23,None
+7,646925,"Oakland, CA 94609",None,None,2019.8.23,Reported
+8,646930,"5530 SE 72nd Ave, Portland, OR 97206",None,None,2019.8.23,None
+9,359660,"Boise, ID 83706",U-lock,"Lock is missing, along with the bike",2019.8.23,Reported
+0,346557,"Pdx, OR",None,None,2019.8.23,None
+1,646909,"Portland, OR 97206",Not locked,"Other situation, please describe below",2019.8.23,Reported
+2,648305,"Fargo, ND 58103",Cable lock,"Lock is missing, along with the bike",2019.8.23,None
+3,382011,"Portland, OR",None,None,2019.8.23,None
+4,406333,"Palo Alto, CA 94306",Not locked,Bike was not locked,2019.8.23,Reported
+5,647397,"Seattle, WA 98133",Heavy duty bicycle security chain,None,2019.8.23,Reported
+0,646806,"3933 n 3rd ave, Phoenix, AZ 85013",None,None,2019.8.23,None
+1,646805,"3933 n 3rd ave, Phoenix, AZ 85013",None,None,2019.8.23,None
+2,646693,"Santa Barbara, CA 93105",Cable lock,Bike was not locked,2019.8.23,None
+3,646954,"909 4th Ave, Seattle, WA 98104",None,None,2019.8.23,None
+4,646853,"San Jose, CA 95054",None,None,2019.8.23,Reported
+5,646793,"Portland, OR 97206",Cable lock,"Other situation, please describe below",2019.8.23,Reported
+0,648798,"Minneapolis, MN 55401",Cable lock,"Lock is missing, along with the bike",2019.8.23,None
+1,649091,"San Diego, CA 92116",None,"Lock was cut, and left at the scene",2019.8.23,Reported
+2,656227,"Santa Monica, CA 90403",Not locked,None,2019.8.23,None
+3,649406,"New Orleans, LA 70130",None,None,2019.8.23,None
+4,649405,"New Orleans, LA 70130",None,None,2019.8.23,None
+5,651577,"New Orleans, LA 70130",None,None,2019.8.23,None
+6,646832,"66 Lewis Ave, Brooklyn, NY 11026",Cable lock,"Lock was cut, and left at the scene",2019.8.23,Reported
+7,646751,"Salt Lake, UT 84111",None,None,2019.8.23,None
+0,646741,"Brooklyn, NY 11216",None,None,2019.8.23,None
+1,646738,"2847 malan avenue , Ogden, UT 84403",None,None,2019.8.23,None
+2,646728,"Pittsburgh, PA 15206",None,None,2019.8.23,Reported
+3,646752,"New Orleans, LA 70116",None,None,2019.8.23,Reported
+4,649887,"New York, NY 10029",U-lock,"Other situation, please describe below",2019.8.23,Reported
+5,646527,"Seattle, WA 98115",None,None,2019.8.23,Reported
+6,646636,"Journal square station , Journal Square, NJ 07306",None,None,2019.8.23,None

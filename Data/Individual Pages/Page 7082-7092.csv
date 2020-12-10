@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,16532,"West Lafayette, IN 47906",None,None,2013.3.26,None
+1,14339,"Milwaukie, OR 97267",None,None,2013.3.26,None
+2,20289,"Portland, OR 97202",None,None,2013.3.25,Reported
+3,14317,"Philadelphia, PA 19148",None,None,2013.3.25,Reported
+4,16695,"Bellingham, WA 98225",None,None,2013.3.25,Reported
+5,14322,"San Jose, CA 95112",None,None,2013.3.25,Reported
+6,20208,"Brooklyn, NY 11211",None,None,2013.3.25,None
+7,17502,"San Diego, CA 92101",None,None,2013.3.25,Reported
+8,20215,"San Francisco, CA 94122",None,None,2013.3.25,Reported
+9,14328,"San Francisco, CA 94105",None,None,2013.3.24,None
+0,17462,"Stanford, CA 94309",None,None,2013.3.24,None
+1,16353,"Gresham, OR 97030",None,None,2013.3.24,Reported
+2,14290,"Norman, OK 73072",None,None,2013.3.24,Reported
+3,14279,"Burlington, VT 05401",None,None,2013.3.24,Reported
+4,16319,"Portland, OR 97215",None,None,2013.3.24,None
+5,10639,"Los Angeles, CA 90026",None,None,2013.3.24,None
+6,22885,"San F Rancisco, CA 94115",None,None,2013.3.24,Reported
+7,7404,"Washington, DC 20009",None,None,2013.3.24,None
+8,16323,"Washington, DC 20007",None,None,2013.3.24,Reported
+9,7444,"Portland, OR 97209",None,None,2013.3.23,Reported
+0,14253,"Alexandria, VA 22314",None,None,2013.3.23,None
+1,15411,"Santa Cruz, CA 95062",None,None,2013.3.23,None
+2,16316,"Whittier, CA 90604",None,None,2013.3.23,None
+3,20217,"Fairfax, CA 94930",None,None,2013.3.23,None
+4,22799,"St. Petersburg, FL 33710",None,None,2013.3.23,Reported
+5,14333,"Georgetown, MD 200007",None,None,2013.3.23,Reported
+6,22528,"Berkeley, CA 94720",None,None,2013.3.23,None
+7,16531,"Jamaica, NY 11435",None,None,2013.3.23,Reported
+8,14255,"San Anselmo, CA 94960",None,None,2013.3.23,Reported
+9,17464,"Hamburg, NY 14075",None,None,2013.3.22,Reported
+0,22526,"Davis, CA 95616",None,None,2013.3.22,None
+1,10592,"Madison, WI 53704",None,None,2013.3.22,Reported
+2,14247,"San Francisco, CA 94117",None,None,2013.3.22,Reported
+3,6974,"Portland, OR 97210",None,None,2013.3.22,Reported
+4,14274,"Pacific Beach, CA 92109",None,None,2013.3.22,None
+5,22527,"Cambridge, MA 02141",None,None,2013.3.22,None
+6,16335,"Denver, CO 80211",None,None,2013.3.22,Reported
+7,14260,"Costa Mesa, CA 92626",None,None,2013.3.22,None
+8,22804,"Cambridge, MA 02139",None,None,2013.3.22,None
+9,15374,"San Francisco, CA 94108",None,None,2013.3.21,Reported
+0,17058,"Madison, WI 53703",None,None,2013.3.20,Reported
+1,14235,"San Diego, CA 92102",None,None,2013.3.20,Reported
+2,16283,"Portland, OR 97266",None,None,2013.3.20,None
+3,20205,"Denver, CO 80204",None,None,2013.3.20,Reported
+4,16901,"Portland, OR 97205",None,None,2013.3.20,Reported
+5,14238,"Tucson, AZ 85716",None,None,2013.3.20,None
+6,22793,"Brooklyn, NY 11220",None,None,2013.3.20,None
+7,14231,"Seattle, WA 98107",None,None,2013.3.20,Reported
+8,15346,"Fayetteville, NC 28304",None,None,2013.3.20,None
+9,10517,"San Francisco, CA 94107",None,None,2013.3.19,Reported
+0,6935,"Los Angeles, CA 90026",None,None,2013.3.19,Reported
+1,10538,"San Diego, CA 92107",None,None,2013.3.19,Reported
+2,13641,"Portland, OR 97214",None,None,2013.3.19,Reported
+3,14233,"San Diego, CA 92109",None,None,2013.3.19,None
+4,14402,"West Valley City, UT 84120",None,None,2013.3.19,Reported
+5,14364,"Seattle, WA 98103",None,None,2013.3.19,Reported
+6,15370,"Carbondale, CO 81623",None,None,2013.3.19,Reported
+7,16278,"San Francisco, CA 94108",None,None,2013.3.19,None
+8,20212,"Scottsdale, AZ 85251",None,None,2013.3.19,None
+9,16771,"Santa Cruz, CA 95060",None,None,2013.3.19,None
+0,20203,"Alexandria, VA 22301",None,None,2013.3.19,Reported
+1,20169,"Milwaukie, OR 97222",None,None,2013.3.18,None
+2,120309,"Portland, OR",Not locked,Bike was not locked,2013.3.18,None
+3,6805,"Portland, OR 97211",None,None,2013.3.18,Reported
+4,7407,"Portland, OR 97202",None,None,2013.3.18,Reported
+5,20176,"San Diego, CA 92116",None,None,2013.3.18,Reported
+6,20186,"San Francisco, CA 94102",None,None,2013.3.18,Reported
+7,16260,"Seattle, WA 98103",None,None,2013.3.18,None
+8,20198,"Brooklyn Heights, NY 11201",None,None,2013.3.18,None
+9,16208,"Denver, CO 80202",None,None,2013.3.17,None
+0,13878,"San Diego, CA 92110",None,None,2013.3.17,Reported
+1,17434,"San Diego, CA 92105",None,None,2013.3.17,None
+2,20156,"Brookline, MA 02446",None,None,2013.3.17,None
+3,20135,"Seattle, WA 98115",None,None,2013.3.17,Reported
+4,22788,"Portland, OR 97214",None,None,2013.3.17,Reported
+5,20128,"Tucson, AZ 85730",None,None,2013.3.17,None
+6,14195,"Brooklyn, NY 11201",None,None,2013.3.16,None
+7,14219,"East Lansing, MI 48825",None,None,2013.3.16,None
+8,16831,"Denver, CO 80202",None,None,2013.3.16,None
+9,22841,"South Miami, FL 33143",None,None,2013.3.16,None
+0,22785,"San Diego, CA 92101",None,None,2013.3.16,Reported
+1,22779,"Austin, TX 78702",None,None,2013.3.16,Reported
+2,14228,"Portland, OR 97215",None,None,2013.3.16,Reported
+3,20131,"Portland, OR 97215",None,None,2013.3.16,Reported
+4,16191,"Orlando, FL 32803",None,None,2013.3.16,None
+5,14198,"San Francisco, CA 94609",None,None,2013.3.16,Reported
+6,17399,"Shoreline, WA 98133",None,None,2013.3.15,Reported
+7,17381,"East Lansing, MI 48823",None,None,2013.3.15,None
+8,14037,"San Diego, CA 92101",None,None,2013.3.15,None
+9,14185,"Austin, TX 78752",None,None,2013.3.15,None
+0,14223,"San Francisco, CA 94110",None,None,2013.3.15,Reported
+1,16157,"Portland, OR 97206",None,None,2013.3.15,Reported
+2,16177,"Portland, OR 97214",None,None,2013.3.15,Reported
+3,16182,"Milwaukie, OR 97222",None,None,2013.3.15,None
+4,8560,"Chandler, AZ 85248",None,None,2013.3.15,None
+5,20123,"Miami, FL 33131",None,None,2013.3.15,None
+6,11633,"Oakland, CA 94612",None,None,2013.3.15,None
+7,16189,"San Francisco, CA 94108",None,None,2013.3.15,Reported
+8,22522,"San Francisco, CA 94109",None,None,2013.3.15,Reported
+9,14952,"Manhattan Beach, CA 90266",None,None,2013.3.15,None

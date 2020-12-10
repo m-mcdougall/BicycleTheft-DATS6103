@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,4692,"Fort Collins, CO 80526",None,None,2006.1.1,None
+1,4609,"Rochester, NY 14620",None,None,2006.1.1,None
+2,4948,"Littleton, CO 80128",None,None,2006.1.1,None
+3,4002,"Portland, OR 97205",None,None,2006.1.1,None
+4,4514,"Seattle, WA 98121",None,None,2006.1.1,None
+5,4811,"East Lansing, MI 48825",None,None,2006.1.1,None
+6,18516,"Plano, TX 75025",None,None,2006.1.1,None
+7,4563,"Austin, TX 78713",None,None,2006.1.1,None
+8,4217,"San Jose, CA 95112",None,None,2005.12.31,None
+9,4402,"Philadelphia, PA 19104",None,None,2005.12.27,None
+0,4743,"San Diego, CA 92103",None,None,2005.12.25,None
+1,4826,"Bellingham, WA 98225",None,None,2005.12.25,None
+2,13091,"San Francisco, CA 94109",None,None,2005.12.24,Reported
+3,4401,"Boston, MA 02114",None,None,2005.12.23,None
+4,4399,"Seattle, WA 98103",None,None,2005.12.23,None
+5,4397,"San Jose, CA 95125",None,None,2005.12.23,None
+6,4395,"Austin, TX 78722",None,None,2005.12.22,None
+7,3981,"Seattle, WA 98119",None,None,2005.12.21,None
+8,4394,"San Francisco, CA 94114",None,None,2005.12.19,None
+9,4384,"Santa Cruz, CA 95060",None,None,2005.12.18,None
+0,4404,"Northridge, CA 91325",None,None,2005.12.15,None
+1,4403,"Seattle, WA 98109",None,None,2005.12.15,None
+2,4390,"Palm Springs, CA 92264",None,None,2005.12.15,None
+3,4083,"Fort Lauderdale, FL 33301",None,None,2005.12.15,None
+4,4338,"San Francisco, CA 94105",None,None,2005.12.15,None
+5,4392,"Seattle, WA 98112",None,None,2005.12.14,None
+6,4080,"Denver, CO 80202",None,None,2005.12.13,None
+7,4742,"San Jose, CA 95192",None,None,2005.12.13,None
+8,4861,"Albuquerque, NM 87544",None,None,2005.12.11,None
+9,4386,"Santa Monica, CA 90401",None,None,2005.12.10,None
+0,4385,"Seattle, WA 98103",None,None,2005.12.9,None
+1,4079,"Chapel Hill, NC 27516",None,None,2005.12.5,None
+2,4379,"Salem, OR 97302",None,None,2005.12.3,None
+3,3979,"Everett, WA 98205",None,None,2005.12.2,None
+4,4376,"Orlando, FL 32816",None,None,2005.12.1,None
+5,3988,"Eugene, OR 97405",None,None,2005.12.1,None
+6,4082,"Seattle, WA 98115",None,None,2005.12.1,None
+7,4398,"San Diego, CA 92103",None,None,2005.12.1,None
+8,4860,"San Francisco, CA 94117",None,None,2005.11.30,None
+9,4382,"Westminster, CO 80030",None,None,2005.11.29,None
+0,4387,"San Francisco, CA 94107",None,None,2005.11.29,None
+1,4076,"San Jose, CA 95112",None,None,2005.11.28,None
+2,4368,"Austin, TX 78701",None,None,2005.11.26,None
+3,4075,"Seattle, WA 98103",None,None,2005.11.26,None
+4,4369,"Tucson, AZ 85721",None,None,2005.11.25,None
+5,4370,"Venice, CA 90291",None,None,2005.11.24,None
+6,4077,"Orlando, FL 32819",None,None,2005.11.24,None
+7,3977,"Tempe, AZ 85281",None,None,2005.11.23,None
+8,4366,"Seattle, WA 98103",None,None,2005.11.22,None
+0,4859,"Portland, OR 97214",None,None,2005.11.22,None
+1,4824,"Reno, NV 89503",None,None,2005.11.22,None
+2,4073,"Portland, OR 97201",None,None,2005.11.21,None
+3,4821,"Fort Lauderdale, FL 33312",None,None,2005.11.20,None
+4,4362,"Tucson, AZ 85721",None,None,2005.11.19,None
+5,4072,"Tucson, AZ 85716",None,None,2005.11.19,None
+6,4801,"San Francisco, CA 94102",None,None,2005.11.19,None
+7,4364,"Scottsdale, AZ 85282",None,None,2005.11.19,None
+8,4712,"Seattle, WA 98116",None,None,2005.11.17,None
+9,4071,"Seattle, WA 98116",None,None,2005.11.17,None
+0,4361,"Portland, OR 97201",None,None,2005.11.17,None
+1,4358,"Seattle, WA 98116",None,None,2005.11.17,None
+2,4363,"Salinas, CA 93906",None,None,2005.11.16,None
+3,4359,"La Habra, CA 90631",None,None,2005.11.15,None
+4,3978,"Palo Alto, CA 94301",None,None,2005.11.14,None
+5,4820,"Chicago, IL 60607",None,None,2005.11.14,None
+6,4372,"New York, NY 10011",None,None,2005.11.13,None
+7,4353,"Glendale, AZ 85308",None,None,2005.11.10,None
+8,4003,"San Jose, CA 95132",None,None,2005.11.9,None
+9,4350,"Alexandria, VA 22302",None,None,2005.11.8,None
+0,4069,"Columbus, OH 43201",None,None,2005.11.6,None
+1,4351,"Manhattan Beach, CA 90266",None,None,2005.11.5,None
+2,4374,"Hingham, MA 02043",None,None,2005.11.5,None
+3,4066,"Portland, OR 97209",None,None,2005.11.5,None
+4,4347,"Portland, OR 97209",None,None,2005.11.5,None
+5,3974,"Portland, OR 97202",None,None,2005.11.4,None
+6,4345,"Brooklyn, NY 11231",None,None,2005.11.4,None
+7,3968,"Denver, CO 80202",None,None,2005.11.2,None
+8,4343,"East Lansing, MI 48825",None,None,2005.11.2,None
+9,4070,"Vancouver, WA 98661",None,None,2005.11.2,None
+0,4356,"Santa Cruz, CA 95060",None,None,2005.11.2,None
+1,4065,"Austin, TX 78741",None,None,2005.11.2,None
+2,4377,"Carrollton, OH 44615",None,None,2005.11.1,None
+3,4067,"Bountiful, UT 84010",None,None,2005.11.1,None
+4,4068,"Austin, TX 78704",None,None,2005.11.1,None
+5,4341,"Boise, ID 83703",None,None,2005.11.1,None
+6,3975,"Boise, ID 83703",None,None,2005.11.1,None
+7,4348,"Plano, TX 75074",None,None,2005.11.1,None
+8,4342,"Evanston, IL 60201",None,None,2005.11.1,None
+9,4378,"San Diego, CA 92154",None,None,2005.10.31,None
+0,4349,"Washington, DC 20036",None,None,2005.10.30,None
+1,4346,"Mountain View, CA 94043",None,None,2005.10.30,None
+2,4339,"San Diego, CA 92103",None,None,2005.10.28,None
+3,4380,"Denver, CO 80205",None,None,2005.10.28,None
+4,4335,"Los Gatos, CA 95032",None,None,2005.10.25,None
+5,4334,"East Lansing, MI 48825",None,None,2005.10.25,None
+6,4064,"Dover, NH 03820",None,None,2005.10.25,None
+7,4332,"Portland, OR 97219",None,None,2005.10.24,None
+8,4333,"Ventura, CA 93004",None,None,2005.10.24,None
+9,3970,"Boston, MA 02108",None,None,2005.10.22,None

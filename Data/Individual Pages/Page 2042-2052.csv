@@ -1,0 +1,69 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,630696,"Buffalo, NY 14213",Not locked,None,2019.7.11,Reported
+1,628321,"San Francisco, CA 94105",U-lock,"Lock is missing, along with the bike.",2019.7.11,Reported
+2,630422,"Valhalla 6100 Main St, Houston, TX 77005",Not locked,None,2019.7.11,Reported
+3,630371,"New York, NY 10027",Other,"Other situation, please describe below.",2019.7.11,None
+4,630270,"Salt Lake City, UT 84103",Cable lock,"Lock is missing, along with the bike.",2019.7.11,Reported
+5,630350,"30 Peterborough st, Boston, MA 02215",None,None,2019.7.11,None
+6,630358,"Crystal, MN 55422",None,None,2019.7.11,Reported
+7,630360,"Minneapolis, MN 55422",None,None,2019.7.11,Reported
+0,631791,"New Orleans, LA 70130",None,None,2019.7.11,Reported
+1,629721,"Boise, ID 83702",U-lock,"Other situation, please describe below.",2019.7.11,Reported
+2,630347,"Everett, WA 98201",Not locked,"Other situation, please describe below.",2019.7.11,Reported
+3,631803,"25 Mount Auburn Street, Cambridge, MA 02138",U-lock,"Other situation, please describe below.",2019.7.11,None
+4,630393,"4th Street & Grand Parking Garage, Des Moines, IA 50309",Not locked,None,2019.7.11,Reported
+5,630329,"4th & Grand Parking Garage , Des Moines, IA",Not locked,None,2019.7.11,None
+6,630225,"Boston, MA 02116",Chain with padlock,"Lock is missing, along with the bike.",2019.7.11,None
+0,632363,"San Francisco, CA 94121",Not locked,None,2019.7.11,Reported
+1,666215,"Missoula, MT 59802",Other,None,2019.7.11,None
+2,631863,"Zion Episcopal Church, 140 W Liberty St, Rome, NY 13440",Cable lock,"Lock was cut, and left at the scene.",2019.7.10,Reported
+3,630662,"Los Angeles, CA 90015",U-lock and cable,"Lock was cut, and left at the scene",2019.7.10,None
+4,630369,"1st Ave/Warren Place, Seattle, WA 98121",Cable lock,"Lock was cut, and left at the scene.",2019.7.10,Reported
+5,630365,"Seattle, WA 98121",None,None,2019.7.10,Reported
+0,630124,"Indianapolis, IN 46208",None,None,2019.7.10,Reported
+1,630128,"Indianapolis, IN 46208",None,None,2019.7.10,Reported
+2,630098,"401 E Grand River, East Lansing, MI 48823",None,None,2019.7.10,None
+3,630070,"Portland, OR 97202",Cable lock,None,2019.7.10,None
+4,631695,"Seattle, WA 98101",None,Bike was not locked,2019.7.10,Reported
+5,630034,"Baltimore, MD 21202",None,None,2019.7.10,None
+0,630099,"Denver, CO 80230",Cable lock,"Lock is missing, along with the bike.",2019.7.10,Reported
+1,630472,"Seattle, WA 98134",U-lock and cable,"Lock is missing, along with the bike.",2019.7.10,Reported
+2,630634,"Portland, OR 97202",Cable lock,"Lock is missing, along with the bike.",2019.7.10,Reported
+3,631937,"Panorama City, CA 91402",Two U-locks,"Lock is missing, along with the bike.",2019.7.10,None
+4,629965,"Austin, TX 78704",U-lock,"Lock was cut, and left at the scene.",2019.7.10,Reported
+5,629960,"Stanford Memorial Church, 450 Serra Mall, Building 500, Sanford, CA 94305",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.7.10,Reported
+6,630226,"490 S Meridian St., Indianapolis, IN 46225",Cable lock,"Lock is missing, along with the bike.",2019.7.10,Reported
+0,631276,"762 Harrison Ave., New Orleans, LA 70124",Not locked,None,2019.7.10,Reported
+1,629925,"1535 Bellevue Ave, Seattle, WA 98122",None,None,2019.7.10,None
+2,521156,"San Francisco, CA 94103",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.7.10,Reported
+3,629869,"Seattle, WA 98144",None,None,2019.7.10,None
+4,629812,"Davis Sq. station, near Somerville Community Path, Somerville, MA 02144",Cable lock,"Lock is missing, along with the bike.",2019.7.10,Reported
+5,629819,"Boston, MA 02114",Cable lock,"Lock is missing, along with the bike.",2019.7.10,None
+0,629819,"Boston, MA 02114",Cable lock,"Lock is missing, along with the bike.",2019.7.10,None
+1,613577,"Tacoma, WA 98402",None,None,2019.7.10,None
+2,631779,"Portland, OR 97217",None,None,2019.7.10,Reported
+3,684815,"1453 MISSION STREET, San Francisco, CA 94103",None,None,2019.7.10,Reported
+4,633138,"Tucson, AZ 85719",None,None,2019.7.10,None
+5,82404,"Rosemead, CA 91770",Not locked,None,2019.7.10,Reported
+0,29577,"San Francisco, CA 94102",U-lock and cable,"Lock was cut, and left at the scene.",2019.7.9,Reported
+1,635780,"Summit, NJ 07901",Other,"Lock was cut, and left at the scene",2019.7.9,None
+2,629756,"Garden Grove, CA 92840",U-lock and cable,"Lock is missing, along with the bike.",2019.7.9,Reported
+3,632818,"1645 Emerald St, San Diego, CA 92109",U-lock,"Lock was cut, and left at the scene",2019.7.9,Reported
+4,630126,"Minneapolis, MN 55454",U-lock,"Other situation, please describe below.",2019.7.9,None
+5,629635,"Portland, OR 97230",None,None,2019.7.9,None
+0,629628,"Ypsilanti, MI 48197",Not locked,Bike was not locked,2019.7.9,Reported
+1,629615,"5700 MARTIN LUTHER KING JR Way, Oakland, CA 94609",None,None,2019.7.9,None
+2,636576,"Seattle, WA 98115",None,None,2019.7.9,Reported
+3,632394,"Santa Monica, CA 90401",Cable lock,"Lock is missing, along with the bike.",2019.7.9,Reported
+4,636425,"1410 NE 66th st, Seattle, WA 98115",Not locked,Bike was not locked,2019.7.9,None
+5,629550,"San Francisco, CA 94158",Chain with padlock,"Lock was cut, and left at the scene.",2019.7.9,None
+6,629530,"Grand Lake, CO",Cable lock,"Lock was opened, and left unharmed at the scene.",2019.7.9,Reported
+7,629520,"3720 Montlake Blvd NE, Seattle, WA 98195",Cable lock,"Lock is missing, along with the bike.",2019.7.9,Reported
+8,629523,"Summerfest , Milwaukee, WI",None,None,2019.7.9,None
+0,629604,"445 Bellevue Ave, Oakland, CA 94611",Other,"Lock is missing, along with the bike.",2019.7.9,Reported
+1,597766,"San Rafael, CA 94901",None,None,2019.7.9,None
+2,630244,"Hood River, OR 97031",None,None,2019.7.9,None
+3,629494,"Centennial, CO 80112",U-lock and cable,"Lock was cut, and left at the scene.",2019.7.9,Reported
+4,406207,"Seattle, WA 98144",Cable lock,"Lock is missing, along with the bike",2019.7.9,None
+5,629474,"West New, NJ 07093",Cable lock,"Lock is missing, along with the bike.",2019.7.9,None
+6,629472,"Sparks, NV 89431",None,None,None,None

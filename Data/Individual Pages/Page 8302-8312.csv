@@ -1,0 +1,92 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,10049,"New York, NY 10075",None,None,2009.8.10,Reported
+1,10080,"Shoreline, WA 98133",None,None,2009.8.10,None
+2,10079,"Chicago, IL 60659",None,None,2009.8.10,Reported
+3,10272,"Golden, CO 80401",None,None,2009.8.10,Reported
+4,6395,"San Diego, CA 92109",None,None,2009.8.10,None
+5,7580,"Savannah, GA 31406",None,None,2009.8.10,None
+6,7702,"Golden, CO 80401",None,None,2009.8.10,Reported
+7,10027,"Portland, OR 97239",None,None,2009.8.10,Reported
+8,10017,"Portland, OR 97214",None,None,2009.8.10,None
+0,7402,"Portland, OR 97214",None,None,2009.8.9,None
+1,9969,"Fremont, CA 94536",None,None,2009.8.9,Reported
+2,10095,"Santa Monica, CA 90405",None,None,2009.8.9,None
+3,10007,"Portland, OR",None,None,2009.8.9,None
+4,6751,"Columbus, OH 43229",None,None,2009.8.8,Reported
+5,10394,"Portland, OR 97212",None,None,2009.8.8,Reported
+6,5763,"Indianapolis, IN 46202",None,None,2009.8.8,None
+7,10015,"Portland, OR 97217",None,None,2009.8.8,None
+8,10014,"Liberty, MO 64068",None,None,2009.8.8,None
+0,10250,"Minneapolis, MN 55407",None,None,2009.8.8,Reported
+1,22577,"Gainesville, FL 32609",None,None,2009.8.8,Reported
+2,5760,"Portland, OR 97217",None,None,2009.8.8,Reported
+3,10405,"Philadelphia, PA 19104",None,None,2009.8.8,None
+4,10032,"Maple Shade, NJ 08052",None,None,2009.8.8,None
+5,10074,"Tampa, FL 33603",None,None,2009.8.8,Reported
+6,10402,"Takoma Park, MD 20912",None,None,2009.8.7,None
+7,6163,"Seattle, WA 98115",None,None,2009.8.7,Reported
+8,6248,"Portland, OR 97214",None,None,2009.8.7,None
+0,10016,"Los Angeles, CA 90002",None,None,2009.8.7,None
+1,9986,"Brightwood, OR 97213",None,None,2009.8.7,Reported
+2,10020,"Seattle, WA 98109",None,None,2009.8.7,Reported
+3,9988,"Portland, OR 97211",None,None,2009.8.7,None
+4,10061,"Seattle, WA 98104",None,None,2009.8.7,Reported
+5,10072,"Portland, OR 97211",None,None,2009.8.7,None
+6,10390,"Chicago, IL 60940",None,None,2009.8.7,None
+7,10029,"Huntington Beach, CA 92646",None,None,2009.8.7,None
+8,10039,"Phoenix, AZ 85018",None,None,2009.8.7,None
+0,6165,"Seattle, WA 98115",None,None,2009.8.7,Reported
+1,9991,"Sauvie Island, OR 97232",None,None,2009.8.6,None
+2,9998,"Sauvie Island, OR 97232",None,None,2009.8.6,None
+3,10242,"Tempe, AZ 85281",None,None,2009.8.6,Reported
+4,5752,"Portland, OR 97217",None,None,2009.8.6,None
+5,5753,"Denver, CO 80206",None,None,2009.8.6,Reported
+6,5759,"Seattle, WA 98109",None,None,2009.8.6,Reported
+7,10203,"Silverton, OR 97381",None,None,2009.8.6,Reported
+8,9976,"Okemos, MI 48864",None,None,2009.8.6,Reported
+9,9995,"Herndon, VA 20170",None,None,2009.8.6,Reported
+0,9972,"Portland, OR 97217",None,None,2009.8.6,None
+1,10030,"Colorado Springs, CO 80904",None,None,2009.8.6,Reported
+2,9983,"Columbus, OH 43201",None,None,2009.8.6,None
+3,9965,"Chicago, IL 60618",None,None,2009.8.5,Reported
+4,6157,"Greenwood Village, CO 80111",None,None,2009.8.5,Reported
+5,6926,"Portland, OR 97209",None,None,2009.8.5,Reported
+6,9948,"Plainfield, IL 60585",None,None,2009.8.5,Reported
+7,20863,"San Jose, CA 95123",None,None,2009.8.5,None
+8,5823,"Bellingham, WA 98226",None,None,2009.8.5,None
+9,9982,"Portland, OR 97212",None,None,2009.8.5,Reported
+0,6154,"Portland, OR 97203",None,None,2009.8.5,Reported
+1,10514,"Portland, OR 97209",None,None,2009.8.5,Reported
+2,5755,"Palatine, IL 60074",None,None,2009.8.4,None
+3,9944,"Boston, MA 02120",None,None,2009.8.4,None
+4,6978,"Portland, OR 97211",None,None,2009.8.4,Reported
+5,9961,"Vancouver, WA 98664",None,None,2009.8.4,Reported
+6,19075,"Chicago, IL 60634",None,None,2009.8.4,Reported
+7,9956,"Lake Oswego, OR 97034",None,None,2009.8.4,None
+8,8190,"Boston, MA 02113",None,None,2009.8.3,Reported
+0,7398,"Portland, OR 97202",None,None,2009.8.3,None
+1,10403,"Berkeley, CA 94704",None,None,2009.8.3,Reported
+2,8195,"Dallas, TX 75209",None,None,2009.8.3,Reported
+3,9954,"Portland, OR 97204",None,None,2009.8.3,None
+4,9939,"Austin, TX 78705",None,None,2009.8.3,Reported
+5,9943,"Portland, OR 97206",None,None,2009.8.3,None
+6,7373,"Seattle, WA 98112",None,None,2009.8.3,None
+7,9937,"Washington, DC 20010",None,None,2009.8.2,Reported
+8,7351,"Portland, OR 97214",None,None,2009.8.2,Reported
+0,9941,"Sarasota, FL 34243",None,None,2009.8.2,None
+1,9924,"Oklahoma City, OK 73107",None,None,2009.8.2,Reported
+2,8184,"Seattle, WA 98103",None,None,2009.8.2,None
+3,8193,"Portland, OR 97201",None,None,2009.8.2,Reported
+4,7380,"Hinsdale, IL 60521",None,None,2009.8.2,Reported
+5,10380,"Portland, OR 97214",None,None,2009.8.2,None
+6,10393,"Minneapolis, MN 55416",None,None,2009.8.2,Reported
+7,5840,"Portland, OR 97205",None,None,2009.8.1,Reported
+8,6152,"Columbus, OH 43201",None,None,2009.8.1,None
+0,6251,"Stillwater, OK 74074",None,None,2009.8.1,Reported
+1,7353,"Seattle, WA 98102",None,None,2009.8.1,None
+2,12006,"Burbank, CA 91505",None,None,2009.8.1,None
+3,9977,"Memphis, TN 38103",None,None,2009.8.1,None
+4,9933,"Portland, OR 97211",None,None,2009.8.1,None
+5,9923,"Minneapolis, MN 55407",None,None,2009.8.1,None
+6,10237,"Hollywood, CA 91601",None,None,2009.8.1,None
+7,10377,"Portland, OR 97212",None,None,2009.7.31,None

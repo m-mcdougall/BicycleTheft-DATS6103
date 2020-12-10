@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,6715,"Portland, OR 97215",None,None,2013.3.1,Reported
+1,14052,"Santa Rosa, CA 95405",None,None,2013.3.1,None
+2,14046,"Los Angeles, CA 90078",None,None,2013.3.1,None
+3,14118,"Portland, OR 97214",None,None,2013.3.1,Reported
+4,14090,"Portland, OR 97232",None,None,2013.3.1,None
+5,14541,"Portland, OR 97214",None,None,2013.3.1,None
+6,14777,"Portland, OR 97212",None,None,2013.3.1,None
+7,20475,"Phoenix, AZ 85013",None,None,2013.3.1,Reported
+8,22749,"Seattle, WA 98107",None,None,2013.3.1,Reported
+9,22752,"San Francisco, CA 94129",None,None,2013.3.1,Reported
+0,20070,"Portland, OR",None,None,2013.3.1,None
+1,20052,"Portland, OR 97202",None,None,2013.3.1,Reported
+2,14058,"San Francisco, CA 94110",None,None,2013.3.1,Reported
+3,6596,"Atlanta, GA 30332",None,None,2013.3.1,Reported
+4,10395,"Manhattan, KS 66502",None,None,2013.3.1,None
+5,10465,"Seattle, WA 98101",None,None,2013.3.1,Reported
+6,16014,"Sonoma, CA 94114",None,None,2013.3.1,Reported
+7,16964,"Palo Alto, CA 94306",None,None,2013.3.1,Reported
+8,14131,"Portland, OR 97217",None,None,2013.3.1,Reported
+9,22500,"Sun City, CA 92587",None,None,2013.3.1,Reported
+0,15945,"Forth Smith, AR 72902",None,None,2013.3.1,None
+1,17894,"Seattle, WA 98104",None,None,2013.3.1,None
+2,17296,"Grehsam, OR 97030",None,None,2013.3.1,None
+3,7256,"Portland, OR 97209",None,None,2013.2.28,None
+4,14063,"Portland, OR 97215",None,None,2013.2.28,Reported
+5,17211,"Claremont, CA 91711",None,None,2013.2.28,Reported
+6,22497,"Boulder, CO 80302",None,None,2013.2.28,None
+7,17222,"Portland, OR 97214",None,None,2013.2.28,None
+8,14483,"Portland, OR 97215",None,None,2013.2.28,None
+9,17191,"Long Beach, CA 90802",None,None,2013.2.28,Reported
+0,17985,"Santa Rosa, CA 95402",None,None,2013.2.27,None
+1,22447,"Santa Barbara, CA 93109",None,None,2013.2.27,None
+2,14023,"San Francisco, CA 94109",None,None,2013.2.27,Reported
+3,14025,"Orange, CA 92866",None,None,2013.2.27,None
+4,15939,"San Francisco, CA 94118",None,None,2013.2.27,None
+5,17198,"Portland, OR 97215",None,None,2013.2.27,None
+6,22484,"Portland, OR 97229",None,None,2013.2.27,None
+7,22445,"Bethesda, MD 20852",None,None,2013.2.27,Reported
+8,20017,"Brooklyn, NY 11231",None,None,2013.2.27,None
+9,22449,"Portland, OR 97215",None,None,2013.2.27,None
+0,15842,"Portland, OR 97202",None,None,2013.2.27,Reported
+1,15846,"Phoenix, AZ 85032",None,None,2013.2.27,None
+2,20012,"Portland, OR 97202",None,None,2013.2.27,Reported
+3,15909,"Portland, OR 97236",None,None,2013.2.27,Reported
+4,20034,"Portland, OR 97214",None,None,2013.2.26,Reported
+5,14032,"Tucson, AZ 85745",None,None,2013.2.26,Reported
+6,17180,"Portland, OR 97214",None,None,2013.2.26,Reported
+7,10288,"Burbank, CA 91505",None,None,2013.2.26,None
+8,14012,"Chicago, IL 60640",None,None,2013.2.26,Reported
+9,14026,"Sunnyvale, CA 94089",None,None,2013.2.26,Reported
+0,20087,"Springfield, OR 97477",None,None,2013.2.26,None
+1,22489,"Portland, OR 97210",None,None,2013.2.26,Reported
+2,22475,"Portland, OR 97206",None,None,2013.2.26,Reported
+3,10305,"San Antonio, TX 78212",None,None,2013.2.26,Reported
+4,15831,"San Francisco, CA 94109",None,None,2013.2.26,Reported
+5,20014,"Portland, OR 97214",None,None,2013.2.26,Reported
+6,14014,"San Francisco, CA 94110",None,None,2013.2.26,None
+7,20006,"New York, NY 10013",None,None,2013.2.26,None
+8,20041,"Gresham, OR",None,None,2013.2.26,None
+9,18085,"Forest Grove, OR 97116",None,None,2013.2.26,None
+0,17177,"Tiburon, CA 94920",None,None,2013.2.26,None
+1,20002,"Irvine, CA 92620",None,None,2013.2.25,Reported
+2,20054,"Sacramento, CA 95826",None,None,2013.2.25,None
+3,22414,"Portland, OR 97204",None,None,2013.2.25,Reported
+4,22452,"Portland, OR",None,None,2013.2.25,None
+5,15814,"Portland, OR 97206",None,None,2013.2.25,None
+6,22737,"San Francisco, CA 94131",None,None,2013.2.24,None
+7,10253,"Portland, OR 97212",None,None,2013.2.24,Reported
+8,20020,"Marina, CA 93933",None,None,2013.2.24,None
+9,22741,"Kansas City, MO 64110",None,None,2013.2.24,None
+0,16113,"Charlotte, NC 28208",None,None,2013.2.24,None
+1,22482,"Seattle/Wa/98119, OR",None,None,2013.2.23,Reported
+2,15878,"Seattle, WA 98119",None,None,2013.2.23,Reported
+3,13507,"Philadelphia, PA 19132",None,None,2013.2.23,Reported
+4,13982,"Orlando, FL 32801",None,None,2013.2.23,Reported
+5,14370,"Happy Valley, OR 97089",None,None,2013.2.23,None
+6,15787,"Miami, FL 33155",None,None,2013.2.23,None
+7,10266,"Portland, OR 97206",None,None,2013.2.23,Reported
+8,15772,"Brooklyn, NY 11222",None,None,2013.2.23,None
+9,6629,"Portland, OR 97228",None,None,2013.2.23,Reported
+0,17161,"Tucson, AZ 85721",None,None,2013.2.22,Reported
+1,7219,"Portland, OR 97211",None,None,2013.2.22,Reported
+2,13623,"Forest Grove, OR 97116",None,None,2013.2.22,Reported
+3,13990,"Portland, OR 97219-6011",None,None,2013.2.22,None
+4,19989,"Portland, OR 97214",None,None,2013.2.22,Reported
+5,15762,"San Francisco, CA 94117",None,None,2013.2.22,Reported
+6,14441,"Brooklyn, NY 11211",None,None,2013.2.22,Reported
+7,19992,"Portland, OR 97218",None,None,2013.2.22,Reported
+8,14002,"Provo, UT 84606",None,None,2013.2.22,Reported
+9,13997,"Portland, OR 97219-6011",None,None,2013.2.22,Reported
+0,19983,"Portland, OR 97202",None,None,2013.2.22,Reported
+1,17153,"Grand Haven, MI 49417",None,None,2013.2.22,None
+2,10262,"Portland, OR 97214",None,None,2013.2.21,Reported
+3,22715,"Sacramento, CA 95818",None,None,2013.2.21,Reported
+4,6622,"Portland, OR 97218",None,None,2013.2.21,Reported
+5,22764,"San Diego, CA 92093",None,None,2013.2.21,Reported
+6,15740,"Portland, OR 97232",None,None,2013.2.21,Reported
+7,22840,"San Francisco, CA 94107",None,None,2013.2.21,None
+8,15699,"San Francisco, CA 94109",None,None,2013.2.20,Reported
+9,14082,"San Luis Obispo, CA 93405",None,None,2013.2.20,None

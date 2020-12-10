@@ -1,0 +1,94 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,11552,"Portland, OR",None,None,2009.9.17,Reported
+1,11735,"San Francisco, CA 94122",None,None,2009.9.17,None
+2,12033,"Austin, TX 78703",None,None,2009.9.17,None
+3,11556,"Portland, OR",None,None,2009.9.17,None
+4,18395,"Portland, OR 97212",None,None,2009.9.17,Reported
+5,12035,"Silver Spring, MD 20910",None,None,2009.9.17,Reported
+6,11555,"Portland, OR 97221",None,None,2009.9.16,None
+7,18333,"Portland, OR 97217",None,None,2009.9.16,Reported
+8,18341,"Atlanta, GA 30345",None,None,2009.9.16,None
+9,11547,"Portland, OR 97202",None,None,2009.9.16,None
+0,11599,"Socorro, NM 87801",None,None,2009.9.16,None
+1,12034,"Brooklyn, NY 11216",None,None,2009.9.16,None
+2,18375,"Denver, CO 80206",None,None,2009.9.16,Reported
+3,11663,"San Francisco, CA 94117",None,None,2009.9.16,Reported
+4,18344,"Holmen, WI 54636",None,None,2009.9.16,None
+5,19565,"Portland, OR 97211",None,None,2009.9.16,None
+6,11730,"Gainesville, FL 32603",None,None,2009.9.15,None
+7,12047,"San Jose, CA 95112",None,None,2009.9.15,None
+8,19546,"Glendale, AZ 85308",None,None,2009.9.15,None
+0,18329,"Portland, OR 97201",None,None,2009.9.15,Reported
+1,18378,"Phoenix, AZ 85016",None,None,2009.9.15,None
+2,18328,"Portland, OR 97210",None,None,2009.9.15,None
+3,11586,"Portland, OR 97225",None,None,2009.9.15,Reported
+4,11559,"Philadelphia, PA 19122",None,None,2009.9.15,None
+5,11658,"Oakland, CA 94612",None,None,2009.9.14,None
+6,12067,"Loma Linda, CA 92350",None,None,2009.9.14,Reported
+7,19113,"Chicago, IL 60625",None,None,2009.9.14,None
+8,18429,"Oakland, CA 94612",None,None,2009.9.14,None
+9,18465,"Colorado Springs, CO 80946",None,None,2009.9.14,None
+0,11561,"Wilsonville, OR 97070",None,None,2009.9.14,None
+1,10385,"Elk Grove Village, IL 60007",None,None,2009.9.13,None
+2,18315,"Milwaukee, WI 53212",None,None,2009.9.13,None
+3,11565,"Baltimore, MD 21230",None,None,2009.9.13,Reported
+4,18292,"Brooklyn, NY 11217",None,None,2009.9.13,None
+5,18358,"Los Angeles, CA 90042",None,None,2009.9.13,None
+6,19111,"Philadelphia, PA 19146",None,None,2009.9.13,None
+0,18289,"Pasadena, CA 91101",None,None,2009.9.12,None
+1,11569,"Grand Rapids, MI 49525",None,None,2009.9.12,None
+2,11545,"Champaign Urbana, IL 61820",None,None,2009.9.12,None
+3,11571,"Austin, TX 78756",None,None,2009.9.12,Reported
+4,19102,"Fort Wayne, IN 46805",None,None,2009.9.12,None
+5,18293,"Venice, CA 90291",None,None,2009.9.12,Reported
+6,18389,"Austin, TX 78722",None,None,2009.9.12,Reported
+7,18668,"Houston, TX 77005",None,None,2009.9.12,Reported
+8,28750,"Lakewood, CO 80110",None,None,2009.9.12,Reported
+9,11992,"Santa Monica, CA 90404",None,None,2009.9.12,None
+0,12008,"Washington, DC 20007",None,None,2009.9.12,Reported
+1,18306,"Indianapolis, IN 46214",None,None,2009.9.12,Reported
+2,18326,"Portland, OR 97227",None,None,2009.9.12,None
+3,18304,"Portland, OR 97206",None,None,2009.9.12,None
+4,19108,"Boston, MA 02113",None,None,2009.9.12,None
+5,19103,"Chicago, IL 60611",None,None,2009.9.11,None
+6,18621,"Portland, OR 97209",None,None,2009.9.11,None
+7,12011,"Portland, OR 97214",None,None,2009.9.11,Reported
+8,18369,"Fullerton, CA 928321",None,None,2009.9.11,Reported
+9,19072,"Boulder, CO 80302",None,None,2009.9.11,None
+0,19110,"Portland, OR 97212",None,None,2009.9.11,Reported
+1,18285,"Portland, OR 97211",None,None,2009.9.11,Reported
+2,18281,"College Station, TX 77386",None,None,2009.9.11,Reported
+3,19096,"Lone Tree, CO 80131",None,None,2009.9.11,None
+4,18277,"Charlottesville, VA 22903",None,None,2009.9.11,None
+5,18279,"Portland, OR 97209",None,None,2009.9.10,None
+6,18310,"Orlando, FL 32803",None,None,2009.9.10,Reported
+7,18370,"Chicago, IL 60615",None,None,2009.9.10,None
+8,18284,"Houghton, MI 49931",None,None,2009.9.10,None
+9,18363,"South Bend, IN 46615",None,None,2009.9.10,None
+0,18243,"Seattle, WA 98105",None,None,2009.9.10,Reported
+1,11568,"Portland, OR 97206",None,None,2009.9.10,None
+2,19094,"Fremont, CA 94545",None,None,2009.9.9,None
+3,18601,"New Rochelle, NY 10801",None,None,2009.9.9,None
+4,13858,"Portland, OR 97212",None,None,2009.9.9,None
+5,13874,"Seattle, WA 98102",None,None,2009.9.9,Reported
+6,19084,"Portland, OR 97219",None,None,2009.9.8,None
+7,19543,"Long Beach, CA 90802",None,None,2009.9.8,Reported
+8,13906,"Portland, OR 97214",None,None,2009.9.8,None
+9,19070,"Portland, OR 97212",None,None,2009.9.8,None
+0,19088,"Portland, OR 97214",None,None,2009.9.8,None
+1,19474,"Boston, MA 02115",None,None,2009.9.8,Reported
+2,18317,"Washington, DC 20010",None,None,2009.9.8,None
+3,18261,"Danville, CA 94526",None,None,2009.9.8,None
+4,18265,"Coeur D\\' Alene, ID 83814",None,None,2009.9.8,Reported
+5,18236,"Mankato, MN 56001",None,None,2009.9.8,None
+6,11546,"Washington, DC 20037",None,None,2009.9.7,None
+7,11956,"Chicago, IL 60615",None,None,2009.9.7,Reported
+8,17925,"Berkeley, CA 94709",None,None,2009.9.7,None
+0,19105,"Arlington, VA 22203",None,None,2009.9.7,None
+1,18255,"Portland, OR 97202",None,None,2009.9.7,None
+2,654253,"Belle Chasse, LA 70037",Other,Bike was not locked,2009.9.7,None
+3,19464,"San Francisco, CA 94114",None,None,2009.9.7,None
+4,11972,"Portland, OR 97209",None,None,2009.9.7,None
+5,11551,"Tempe, AZ 85281",None,None,2009.9.7,None
+6,18237,"Portland, OR 97209",None,None,2009.9.6,Reported
+7,19067,"Portland, OR 97217",None,None,2009.9.6,None

@@ -1,0 +1,78 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,738981,"Seattle, WA 98118",None,None,2020.5.18,None
+1,738982,"Sacramento, CA 95814",U-lock,"Lock is missing, along with the bike",2020.5.18,None
+2,767082,"San Francisco, CA 94123",U-lock,"Lock was cut, and left at the scene",2020.5.18,Reported
+3,767792,"Menlo Park, CA 94025",Not locked,"Other situation, please describe below",2020.5.18,Reported
+4,738973,"Atascadero, CA 93422",None,None,2020.5.18,None
+0,741043,"New Orleans, LA 70117",Not locked,Bike was not locked,2020.5.18,Reported
+1,739142,"Boulder, CO 80134",None,None,2020.5.18,None
+2,54723,"Portland, OR 97201",None,None,2020.5.18,None
+3,744238,"Washington, DC 20017",Not locked,None,2020.5.17,Reported
+4,738853,"Washington, DC 20020",None,None,2020.5.17,None
+5,738859,"Lynnwood, WA 98036",None,None,2020.5.17,None
+6,738844,"1045 Armorlite Dr, San Marcos, CA 92069",Two U-locks,"Lock is missing, along with the bike",2020.5.17,Reported
+7,711118,"Los Angeles, CA 90025",None,None,2020.5.17,None
+0,736495,"993 WOODLAND AVE, Chico, CA 95928",Other,"Other situation, please describe below",2020.5.17,Reported
+1,738322,"Portland, OR",None,None,2020.5.17,None
+2,739871,"Bothell, WA 98021",None,None,2020.5.17,None
+3,738731,"Chagrin Falls, OH 44022",None,None,2020.5.17,None
+4,738725,"Denver, CO 80246",None,None,2020.5.17,None
+5,738905,"Baltimore, MD 21211",Not locked,Bike was not locked,2020.5.17,Reported
+6,738686,"Seattle, WA 98119",U-lock,None,2020.5.17,Reported
+7,708829,"Seattle, WA 98125",None,None,2020.5.17,None
+8,738688,"Tucson, AZ 85745",U-lock and cable,"Lock was cut, and left at the scene",2020.5.17,Reported
+9,738680,"Tucson, AZ 85745",U-lock and cable,"Lock was cut, and left at the scene",2020.5.17,Reported
+0,740677,"17920 country village dr, Oregon City, OR 97045",Other,"Other situation, please describe below",2020.5.17,None
+1,738899,"W&OD Trail, Leesburg, VA 20176",Cable lock,"Other situation, please describe below",2020.5.17,Reported
+2,738666,"New Orleans, LA 70117",None,None,2020.5.17,None
+3,738690,"New Orleans, LA 70117",None,None,2020.5.17,Reported
+4,738475,"3833 Peachtree Rd NE, Atlanta, GA 30319",None,None,2020.5.17,None
+5,743568,"Estuary Cove 1211 East Embarcadero , Oakland, CA 94606",Cable lock,"Lock was cut, and left at the scene",2020.5.17,Reported
+6,738449,"3401 Wallingford Ave N, Seattle, WA 98103",U-lock and cable,"Lock was cut, and left at the scene",2020.5.17,Reported
+0,739389,"3301 S Bear St, Santa Ana, CA 92704",None,None,2020.5.17,Reported
+1,738818,"3401 Wallingford Ave N, Seattle, WA 98103",U-lock and cable,"Lock was cut, and left at the scene",2020.5.17,Reported
+2,739134,"San Francisco, CA 94108",None,"Other situation, please describe below",2020.5.17,Reported
+3,739960,"Santa Ana, CA 92704",Other,"Other situation, please describe below",2020.5.17,Reported
+4,752517,"Surestay 3040 King Avenue West, Billings, MT 59102",None,None,2020.5.17,Reported
+5,739692,"Chico, CA 95928",Not locked,None,2020.5.17,Reported
+0,738364,"150 Van Ness Ave, San Francisco, CA 94102",None,None,2020.5.17,None
+1,739497,"Denver, CO 80218",Other,"Other situation, please describe below",2020.5.17,None
+2,739096,"1700 Central Ave SW, Albuquerque, NM 87104",None,"Lock was cut, and left at the scene",2020.5.17,Reported
+3,739111,"Chicago, IL 60607",Other,"Other situation, please describe below",2020.5.17,Reported
+4,363583,"Philadelphia, PA 19104",None,None,2020.5.17,None
+5,739106,"Chicago, IL 60607",None,"Other situation, please describe below",2020.5.17,Reported
+6,751243,"5211 Pacific Concourse Dr #1431 Los Angeles , Los Angels, CA 90045",None,None,2020.5.16,Reported
+7,751249,"5211 Pacific Concourse Dr #1431 Los Angeles , Los Angles, CA 90045",None,"Lock was cut, and left at the scene",2020.5.16,Reported
+0,738516,"walmart, 5454 crossings drive, Loomis, CA 95677",Cable lock,"Lock is missing, along with the bike",2020.5.16,None
+1,738041,"Aurora, CO 80012",None,None,2020.5.16,None
+2,738023,"Charlotte, NC 28213",Cable lock,"Lock is missing, along with the bike",2020.5.16,None
+3,740054,"Kirkland, WA 98033",None,None,2020.5.16,Reported
+4,736275,"931 SPRING ST, Placerville, CA 95667-4543",None,None,2020.5.16,None
+5,739322,"Danver, CO 80211",Other,"Other situation, please describe below",2020.5.16,Reported
+6,741217,"Goleta, CA 93117",None,None,2020.5.16,None
+7,737528,"Boston, MA 02120",U-lock and cable,"Lock is missing, along with the bike",2020.5.16,Reported
+8,737861,"Seattle, WA 98105",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.16,Reported
+0,739305,"Denver, CO 80211",Cable lock,"Other situation, please describe below",2020.5.16,Reported
+1,737794,"2 Beauregard Dr., Gretna, LA 70053",None,None,2020.5.16,None
+2,739632,"Cambridge, MA 02140",Cable lock,"Lock is missing, along with the bike",2020.5.16,Reported
+3,737741,"Golden Valley, MN 55422",Not locked,None,2020.5.16,Reported
+4,738612,"New Orleans, LA 70124",None,None,2020.5.16,None
+5,739624,"Cambridge, MA 02140",Cable lock,"Lock is missing, along with the bike",2020.5.16,Reported
+6,41959,"1220 V St., Garage 5, CA Sacramento",None,None,2020.5.16,Reported
+7,737619,"Palo Alto, CA 94306",None,None,2020.5.16,Reported
+0,737731,"Denver, CO 80219",Cable lock,"Lock is missing, along with the bike",2020.5.16,None
+1,737487,"Los Altos, CA 94022",None,None,2020.5.16,Reported
+2,738370,"Portland, OR 97201",None,None,2020.5.16,Reported
+3,737382,"San Jose, CA 95134",None,None,2020.5.16,None
+4,738119,"New Orleans, LA 70117",None,None,2020.5.16,None
+5,737374,"Milwaukee, WI 53212",None,None,2020.5.16,Reported
+6,737308,"3500 Harbison Dr, Vacaville, CA 95687",Cable lock,"Lock was cut, and left at the scene",2020.5.16,None
+0,704616,"Glenwood Springs, CO 81601",None,None,2020.5.16,None
+1,737991,"Emeryville, CA 94608",U-lock,"Lock was cut, and left at the scene",2020.5.16,Reported
+2,737273,"Portland, OR 97206",None,None,2020.5.16,Reported
+3,738509,"Duluth, MN 55806",Cable lock,"Lock was cut, and left at the scene",2020.5.16,Reported
+4,737427,"Oakland, CA 94618",Other,"Other situation, please describe below",2020.5.16,Reported
+5,748590,"Oakland, CA 94618",Not locked,"Other situation, please describe below",2020.5.16,Reported
+6,37554,"Oakland, CA 94618",Other,"Other situation, please describe below",2020.5.16,Reported
+7,743643,"San Francisco, CA 94131",None,None,2020.5.16,Reported
+8,628485,"Roseburg, OR 97471",None,None,2020.5.16,Reported

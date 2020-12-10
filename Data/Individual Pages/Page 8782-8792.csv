@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,13082,"Beaverton, OR 97007",None,None,2000.10.4,Reported
+1,5603,"Eugene, OR 97401",None,None,2000.10.1,None
+2,5524,"Cincinnati, OH 45219",None,None,2000.10.1,None
+3,5597,"Seattle, WA 98195",None,None,2000.9.18,None
+4,5013,"Clio, MI 48420",None,None,2000.9.18,None
+5,4857,"Buffalo, NY 14222",None,None,2000.9.16,None
+6,14286,"College Park, MD 20740",None,None,2000.9.14,Reported
+7,17445,"Bellingham, WA 98226",None,None,2000.9.7,None
+8,17855,"Eugene, OR 97402",None,None,2000.9.1,None
+9,8605,"Syracuse, NY 13202",None,None,2000.9.1,None
+0,5227,"Sandpoint, ID 83864",None,None,2000.9.1,None
+1,21704,"Rohnert Park, CA 94928",None,None,2000.9.1,Reported
+2,4642,"Farmingville, NY 11738",None,None,2000.8.17,None
+3,4852,"Edmond, OK 73013",None,None,2000.8.17,None
+4,4662,"Tucson, AZ 85705",None,None,2000.8.15,None
+5,25401,"Anchorage, AK 99507",None,None,2000.8.7,None
+6,4009,"Wilmington, DE 19801",None,None,2000.8.7,None
+7,53807,"Fox Lake, IL 60020",Not locked,None,2000.8.5,None
+8,671635,"Menlo Park, CA 94025",None,None,2000.8.4,None
+9,4298,"North Hollywood, CA 91606",None,None,2000.8.1,None
+0,4277,"Kentwood, MI 49548",None,None,2000.8.1,None
+1,13698,"Marin, CA 94965",None,None,2000.7.15,None
+2,5282,"Arlington, MA 02175",None,None,2000.6.15,None
+3,25797,"Chicago, IL 60614",None,None,2000.6.11,None
+4,18061,"Porland, OR 97221",None,None,2000.6.4,None
+5,4523,"Fremont, CA 94555",None,None,2000.6.2,None
+6,4559,"Bensalem, PA 19020",None,None,2000.6.1,None
+7,4838,"Seattle, WA 98109",None,None,2000.5.22,None
+8,4506,"Oregon City, OR 97045",None,None,2000.5.20,None
+9,3990,"Apopka, FL 32712",None,None,2000.5.14,None
+0,26416,"Klamath Falls, OR 97603",None,None,2000.5.14,None
+1,4492,"Carmichal, CA 95608",None,None,2000.5.12,None
+2,4483,"Charlotte, NC 28204",None,None,2000.5.9,None
+3,16982,"Camarillo, CA 93012",None,None,2000.5.1,None
+4,4542,"Eau Claire, WI 54701",None,None,2000.5.1,None
+5,17739,"Centennial, CO 80111",None,None,2000.5.1,Reported
+6,26291,"Dallas, TX 75231",None,None,2000.4.18,Reported
+7,4462,"Chelsea, MA 02150",None,None,2000.4.15,None
+8,25394,"Littleton, CO 80120",None,None,2000.4.12,None
+9,4871,"Kirkland, WA 98034",None,None,2000.4.12,None
+0,23720,"Greeley, CO 80631",None,None,2000.4.5,Reported
+1,4470,"Ware, MA 01082",None,None,2000.4.1,None
+2,4443,"Huntington Beach, CA 92646",None,None,2000.3.22,None
+3,9212,"San Diego, CA 92103",None,None,2000.3.21,Reported
+4,4592,"Westchester, CA 90045",None,None,2000.3.20,None
+5,9102,"Austin, TX 78705",None,None,2000.3.8,None
+6,4833,"Clinton, MA 01510",None,None,2000.3.1,None
+7,4438,"Hampden, ME 04444",None,None,2000.2.19,None
+8,4422,"Berkeley, CA 94704",None,None,2000.2.18,None
+9,6008,"College Station, TX 77840",None,None,2000.2.18,None
+0,9048,"Los Angeles, CA 90024",None,None,2000.2.15,None
+1,15414,"Austin, TX 78751",None,None,2000.2.14,None
+2,4423,"Tucson, AZ 85737",None,None,2000.2.14,None
+3,4421,"San Jose, CA 95128",None,None,2000.2.14,None
+4,16124,"San Luis Obispo, CA 93401",None,None,2000.2.12,None
+5,6707,"Phoenix, AZ 85027",None,None,2000.2.9,None
+6,4086,"Beaverton, OR 97006",None,None,2000.2.6,None
+7,4103,"Chico, CA 95926",None,None,2000.2.1,None
+8,3984,"Madera, Ranchos, CA 93638",None,None,2000.2.1,None
+9,6768,"Tempe, AZ 85283",None,None,2000.2.1,None
+0,4596,"Chicago, IL 60614",None,None,2000.1.21,None
+1,15968,"La Jolla, CA 92037",None,None,2000.1.20,Reported
+2,5182,"Scottsdale, AZ 85251",None,None,2000.1.20,None
+3,3932,"Tucson, AZ 85721",None,None,2000.1.19,None
+4,4405,"St. Louis, MO 63108",None,None,2000.1.17,None
+5,4594,"New Brunswick, NJ 08901",None,None,2000.1.16,None
+6,4437,"Knoxville, TN 37934",None,None,2000.1.7,None
+7,24128,"San Francisco, CA 94117",None,None,2000.1.5,Reported
+8,4570,"Portland, OR 97211",None,None,2000.1.4,None
+9,4218,"Akron, OH 44314",None,None,2000.1.1,None
+0,6812,"San Francisco, CA 94117",None,None,2000.1.1,None
+1,4489,"Fresno, CA 93704",None,None,2000.1.1,None
+2,4558,"Crested Butte, CO 81224",None,None,2000.1.1,None
+3,4616,"Pine Point, ME 04074",None,None,2000.1.1,None
+4,4823,"Stanford, CA 94305",None,None,2000.1.1,None
+5,6055,"Dallas, TX 75220",None,None,2000.1.1,None
+6,4411,"Denver, CO 80209",None,None,2000.1.1,None
+7,41126,"Atlanta, GA",Cable lock,"Lock was cut, and left at the scene.",2000.1.1,None
+8,15445,"Bowling Green, KY 42101",None,None,1999.12.15,None
+9,10110,"Spokane, WA 99212",None,None,1999.7.15,None
+0,26522,"San Antonio, TX 78209",None,None,1999.7.15,None
+1,25311,"Pittsburgh, PA 55232",None,None,1999.3.12,None
+2,15833,"Osan Air Force Base, South Korea, PA 00000",None,None,1999.3.11,Reported
+3,17507,"Beaumont, TX 77706",None,None,1999.2.20,Reported
+4,9752,"San Jose, CA 95123",None,None,1998.12.30,None
+5,24862,"Portland, OR 97217",None,None,1998.12.7,Reported
+6,19712,"Berkeley, CA 94720",None,None,1998.12.1,None
+7,9129,"San Francisco, CA 94110",None,None,1998.11.27,None
+8,12362,"Tucson, AZ 85701",None,None,1998.11.26,Reported
+9,15905,"Riviera Beach, FL 33404",None,None,1998.11.1,None
+0,21316,"Philadelphia, PA 19114",None,None,1998.9.3,None
+1,9175,"Minneapolis, MN 55408",None,None,1998.8.1,None
+2,9008,"Arlington, MA 02175",None,None,1998.7.15,None
+3,22738,"Portland, OR 97220",None,None,1998.7.5,Reported
+4,22209,"Mesa, AZ 85204",None,None,1998.6.9,None
+5,16997,"Carbondale, IL 62901",None,None,1998.5.1,None
+6,10106,"New York, NY 10004",None,None,1998.2.13,None
+7,14345,"Houston, TX 77036",None,None,1998.1.18,None
+8,15951,"Coronado, CA 92118",None,None,1998.1.18,Reported

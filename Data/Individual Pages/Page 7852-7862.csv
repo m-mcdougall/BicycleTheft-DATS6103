@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,16817,"Denton, TX 76201",None,None,2011.5.2,None
+1,15958,"Austin, TX 78704",None,None,2011.5.2,Reported
+2,98896,"Petaluma, CA 94952",Not locked,Bike was not locked,2011.5.2,None
+3,16813,"Portland, OR 97214",None,None,2011.5.1,None
+4,17696,"Sacramento, CA 95816",None,None,2011.5.1,None
+5,12234,"Washington, DC DC",None,None,2011.5.1,None
+6,13456,"Seattle, WA 98102",None,None,2011.5.1,Reported
+7,16194,"East Lansing, MI 48825",None,None,2011.5.1,None
+8,16792,"Portland, OR 97215",None,None,2011.5.1,Reported
+9,16853,"Burlington, VT 05408",None,None,2011.5.1,None
+0,17023,"Bryan, TX 77802",None,None,2011.5.1,Reported
+1,18456,"Tucson, AZ 85712",None,None,2011.5.1,Reported
+2,17268,"Denver, CO 80210",None,None,2011.5.1,Reported
+3,16778,"Sacramento, CA 95816",None,None,2011.5.1,None
+4,16797,"Denver, CO 80237",None,None,2011.5.1,Reported
+5,16790,"Burbank, CA 91501",None,None,2011.5.1,Reported
+6,16783,"Sacramento, CA 95818",None,None,2011.5.1,None
+7,18371,"Columbus, OH 43212",None,None,2011.5.1,Reported
+8,16782,"Sacramento, CA 95818",None,None,2011.5.1,None
+0,16769,"Washington, DC 20016",None,None,2011.4.30,Reported
+1,16781,"Tampa, FL 33602",None,None,2011.4.30,Reported
+2,15942,"Molalla, OR 97038",None,None,2011.4.30,Reported
+3,19717,"Tampa, FL 33602",None,None,2011.4.30,Reported
+4,13833,"Los Angeles, CA 90034",None,None,2011.4.29,None
+5,15923,"Puyallup, WA 98375",None,None,2011.4.29,None
+6,19763,"Rancho Cucamonga, CA 91739",None,None,2011.4.29,Reported
+7,15936,"Vacaville, CA 95688",None,None,2011.4.29,Reported
+8,16766,"Los Angeles, CA 90034",None,None,2011.4.29,None
+9,16767,"Vacaville, CA 95688",None,None,2011.4.29,Reported
+0,16892,"Tempe, AZ 85281",None,None,2011.4.29,None
+1,16763,"Philadelphia, PA 19104",None,None,2011.4.29,None
+2,12038,"Mar Vista, CA 90066",None,None,2011.4.28,None
+3,14744,"Manhattan Beach, CA 90266",None,None,2011.4.28,None
+4,16761,"Wilmington, NC 28403",None,None,2011.4.28,None
+5,16764,"Phoenix, AZ 85015",None,None,2011.4.28,Reported
+6,20455,"Chicago, IL 60647",None,None,2011.4.28,Reported
+7,16110,"New York, NY 10003",None,None,2011.4.27,None
+8,16746,"Salem, OR 97302",None,None,2011.4.27,Reported
+9,16936,"San Diego, CA 92116",None,None,2011.4.27,Reported
+0,16753,"Appleton, WI 54911",None,None,2011.4.27,None
+1,16742,"Phoenix, AZ 85012",None,None,2011.4.26,Reported
+2,16703,"Portland, OR 97212",None,None,2011.4.26,Reported
+3,17691,"Minneapolis, MN 55405",None,None,2011.4.26,Reported
+4,17956,"Savannah, GA 31401",None,None,2011.4.26,None
+5,16971,"Hessmer, LA 71341",None,None,2011.4.26,Reported
+6,12211,"Corvallis, OR 97330",None,None,2011.4.26,Reported
+7,16689,"Atlanta, GA 30309",None,None,2011.4.26,Reported
+8,16745,"Los Angeles, CA 90267",None,None,2011.4.26,Reported
+9,17688,"Portland, OR 97203",None,None,2011.4.26,None
+0,16721,"Tucson, AZ 85716",None,None,2011.4.25,Reported
+1,16719,"Chicago, IL 60661",None,None,2011.4.25,Reported
+2,17965,"Houston, TX 77004",None,None,2011.4.25,Reported
+3,16287,"Somerville, MA 02143",None,None,2011.4.25,None
+4,20451,"Brooklyn, NY 11201",None,None,2011.4.25,None
+5,16743,"Platteville, WI 53818",None,None,2011.4.24,None
+6,16684,"Venice, CA 90291",None,None,2011.4.24,None
+7,16713,"Washington, DC 20009",None,None,2011.4.24,None
+8,15919,"Boulder, CO 80304",None,None,2011.4.24,None
+9,16711,"La Crescenta, CA 91214",None,None,2011.4.24,None
+0,16714,"Washington, DC 20009",None,None,2011.4.24,None
+1,17960,"Missoula, MT 59801",None,None,2011.4.23,Reported
+2,16706,"Pacific Beach, CA 92109",None,None,2011.4.23,None
+3,16710,"San Francisco, CA 94117",None,None,2011.4.23,None
+4,21638,"Boulder, CO 80304",None,None,2011.4.23,Reported
+5,16755,"Portland, OR 97232",None,None,2011.4.23,Reported
+6,17961,"Portland, OR 97219",None,None,2011.4.23,Reported
+7,16723,"Portland, OR 97203",None,None,2011.4.23,Reported
+8,16707,"Gainesville, FL 32611",None,None,2011.4.23,None
+0,17971,"Denver, CO 8022",None,None,2011.4.22,Reported
+1,20501,"Greenwood Village, CO 80112",None,None,2011.4.22,Reported
+2,28742,"Oakland City, IN 47660",None,None,2011.4.22,None
+3,15867,"San Luis Obispo, CA 93405",None,None,2011.4.22,Reported
+4,17970,"San Francisco, CA 94110",None,None,2011.4.22,None
+5,17969,"Pasadena, CA 91103",None,None,2011.4.22,Reported
+6,16727,"Houston, TX 77004",None,None,2011.4.22,Reported
+7,17964,"Austin, TX 78704",None,None,2011.4.22,Reported
+8,12004,"Pacific Beach, CA 92109",None,None,2011.4.22,None
+9,16805,"Hillsborough, CA 94010",None,None,2011.4.22,None
+0,20450,"Charleston, SC 29403",None,None,2011.4.21,Reported
+1,16693,"Santa Clara, CA 95051",None,None,2011.4.21,Reported
+2,16670,"San Francisco, CA 94107",None,None,2011.4.21,Reported
+3,16691,"Santa Clara, CA 95051",None,None,2011.4.21,Reported
+4,16687,"Taylorsville, UT 84118",None,None,2011.4.21,Reported
+5,16708,"Anchorage, AK 99515",None,None,2011.4.21,None
+6,16751,"Portland, OR 97213",None,None,2011.4.20,Reported
+7,49359,"Rockville, MD 20850",Cable lock,"Lock is missing, along with the bike.",2011.4.20,Reported
+8,24572,"Clifton, NJ 07013",None,None,2011.4.20,None
+9,15860,"Parsippany, NJ 07054",None,None,2011.4.19,Reported
+0,16679,"Menlo Park, CA 94025",None,None,2011.4.19,None
+1,17143,"Portland, OR 97227",None,None,2011.4.19,Reported
+2,17952,"Seattle, WA 98144",None,None,2011.4.19,Reported
+3,17957,"Berkeley, CA 94703",None,None,2011.4.19,Reported
+4,17951,"Portland, OR 97207",None,None,2011.4.18,Reported
+5,17944,"Colorado Springs, CO 80904",None,None,2011.4.18,None
+6,16674,"Portland, ME 04101",None,None,2011.4.18,None
+7,15853,"Alexandria, VA 22304",None,None,2011.4.18,Reported
+8,17465,"Washington, DC 20002",None,None,2011.4.18,Reported
+9,20487,"North Fort Myers, FL 33903",None,None,2011.4.18,None

@@ -1,0 +1,71 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,611499,"Milwaukie, OR 97222",None,None,2019.5.14,None
+1,611421,"New Orleans, LA 70117",None,None,2019.5.14,Reported
+2,612010,"Seattle, WA 98117",Heavy duty bicycle security chain,"Lock is missing, along with the bike.",2019.5.14,None
+3,612326,"Seattle, WA 98117",U-lock,"Lock is missing, along with the bike.",2019.5.14,None
+4,611405,"11293 Patom Dr., Culver City, CA 90230",None,None,2019.5.14,Reported
+0,611386,"New Orleans, LA 70117",None,None,2019.5.14,None
+1,611349,"San Francisco, CA 94123",None,None,2019.5.13,Reported
+2,612309,"2nd & Figueroa St., Los Angeles, CA 90012",U-lock,"Lock is missing, along with the bike.",2019.5.13,Reported
+3,611596,"Berkeley, CA 94703",None,None,2019.5.13,Reported
+4,611307,"6111 Renaissance Way NE, Atlanta, GA 30308",U-lock,"Other situation, please describe below.",2019.5.13,None
+5,613061,"Portland, OR 97218",None,None,2019.5.13,Reported
+0,611227,"San Francisco, CA 94107",U-lock,"Lock is missing, along with the bike.",2019.5.13,None
+1,611221,"N. Damen Ave. and W. Le Moyne St., Chicago, IL 60622",U-lock,"Lock is missing, along with the bike.",2019.5.13,Reported
+2,611232,"768 e michigan st, Orlando, FL 32806",Cable lock,None,2019.5.13,None
+3,611186,"1000 W Olympic Boulevard , Los Angeles, CA 90015",Cable lock,"Lock is missing, along with the bike.",2019.5.13,Reported
+4,611702,"Minneapolis, MN 55408",U-lock,"Other situation, please describe below.",2019.5.13,Reported
+5,611164,"1906 Union St, San Francisco, CA 94123-1061",U-lock,"Lock was opened, and left unharmed at the scene.",2019.5.13,Reported
+6,612913,"Portland, OR 97218",Cable lock,"Lock was cut, and left at the scene.",2019.5.13,None
+7,611245,"Pittsburg, CA 94565",U-lock and cable,"Lock was cut, and left at the scene.",2019.5.13,None
+8,611236,"Pittsburg, CA 94565",None,None,2019.5.13,None
+0,503971,"Los Angeles, CA 90025",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2019.5.13,Reported
+1,611503,"Portland, OR 97227",None,None,2019.5.13,Reported
+2,613836,"Alameda, CA 94501",U-lock and cable,"Lock was cut, and left at the scene.",2019.5.13,Reported
+3,601406,"Alameda, CA 94501",U-lock and cable,"Lock was cut, and left at the scene.",2019.5.13,Reported
+4,611212,"18th and Hampshire, San Francisco, CA 94110",U-lock and cable,"Lock is missing, along with the bike.",2019.5.13,Reported
+5,611568,"2456 Nutwood Ave, Fullerton, CA 92831",U-lock,"Lock is missing, along with the bike.",2019.5.13,Reported
+6,631599,"Baltimore, MD 21210",None,None,2019.5.12,Reported
+7,631588,"Baltimore, MD 21210",None,None,2019.5.12,Reported
+0,611198,"South Salt Lake City, UT 84115",None,None,2019.5.12,Reported
+1,612436,"1701 Wynkoop St, Denver, CO 80202",Cable lock,None,2019.5.12,Reported
+2,416558,"Walnut Creek, CA 94596-4569",None,None,2019.5.12,None
+3,611649,"Philadelphia, PA 19107-6026",Not locked,"Other situation, please describe below.",2019.5.12,Reported
+4,612398,"1515 Fulton St, Everett, WA 98201",Cable lock,"Lock was cut, and left at the scene.",2019.5.12,Reported
+0,612410,"Everett, WA 98201",Cable lock,"Lock was cut, and left at the scene.",2019.5.12,Reported
+1,109098,"New Orleans, LA 70115",Not locked,Bike was not locked,2019.5.12,None
+2,614725,"Portland, OR 97202",U-lock,None,2019.5.12,Reported
+3,611204,"Berkeley, CA 94702",None,None,2019.5.12,Reported
+4,600257,"Arvada, CO 80003",None,None,2019.5.12,None
+5,611211,"101 John St, Seattle, WA 98109",Cable lock,None,2019.5.12,Reported
+6,610979,"Portland, OR 97215",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.5.11,Reported
+7,610928,"Seattle, WA 98103",None,None,2019.5.11,None
+8,624657,"Somerville, MA 02143",None,"Other situation, please describe below.",2019.5.11,None
+9,618784,"3750 S Mooney Blvd, Visalia, CA 93277",Cable lock,"Lock is missing, along with the bike.",2019.5.11,Reported
+0,400791,"Worcester, MA 01605",None,None,2019.5.11,None
+1,402714,"Emeryville, CA 94608",None,None,2019.5.11,Reported
+2,611165,"North Hollywood, CA 91605",Other,None,2019.5.11,None
+3,611219,"1050 Nevada St., Reno, NV 89503",Cable lock,"Lock was cut, and left at the scene.",2019.5.11,Reported
+4,602811,"Berkeley, CA 94720",Not locked,None,2019.5.11,None
+5,610803,"New Orleans, LA 70117",None,None,2019.5.11,Reported
+0,611867,"Provo, UT 84606",Cable lock,"Lock is missing, along with the bike.",2019.5.10,None
+1,611533,"Louisville, KY 40204",Chain with padlock,"Lock is missing, along with the bike.",2019.5.10,Reported
+2,385069,"Los Angeles, CA 90066",U-lock,"Lock is missing, along with the bike.",2019.5.10,Reported
+3,610765,"Woodinville, WA 98072",None,None,2019.5.10,None
+4,611368,"185 Berry St, San Francisco, CA 94107",U-lock,"Lock was cut, and left at the scene.",2019.5.10,Reported
+5,615363,"New Orleans, LA 70117",None,None,2019.5.10,None
+0,610736,"Portland, OR",None,None,2019.5.10,Reported
+1,610764,"Austin, TX 78704",Not locked,None,2019.5.10,None
+2,611369,"3100 14th St. NW, Washington, DC 20010",U-lock and cable,"Lock was cut, and left at the scene.",2019.5.10,Reported
+3,616442,"716 Washington Ave SE, Minneapolis, MN 55455",U-lock,"Lock is missing, along with the bike.",2019.5.10,None
+4,610714,"Fremont, CA 94536",Cable lock,"Lock was cut, and left at the scene.",2019.5.10,Reported
+5,610647,"Portland, OR 97206",Not locked,"Other situation, please describe below.",2019.5.10,Reported
+6,611891,"Tucson, AZ 85712",None,None,2019.5.10,Reported
+0,610589,"San Francisco, CA 94117",Other,"Other situation, please describe below.",2019.5.10,Reported
+1,610590,"San Francisco, CA 94117",Other,"Other situation, please describe below.",2019.5.10,Reported
+2,610741,"Milwaukee, WI 53209",None,None,2019.5.10,None
+3,610584,"Portland, OR 97202",None,Bike was not locked,2019.5.10,Reported
+4,610704,"Blackfoot, ID 83221",None,None,2019.5.10,Reported
+5,613772,"Maspeth, NY 11378",None,None,2019.5.10,None
+6,612550,"2001 4th Ave, Seattle, WA",Cable lock,"Lock was cut, and left at the scene.",2019.5.10,None
+7,611115,"North Hollywood High School, North Hollywood, CA 91601",U-lock and cable,"Lock was cut, and left at the scene.",2019.5.10,Reported

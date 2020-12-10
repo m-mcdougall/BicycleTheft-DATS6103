@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,5694,"Oakland, CA 94610",None,None,2007.2.13,None
+1,8023,"Larkspur, CA 94949",None,None,2007.2.13,None
+2,5035,"San, CA 95134",None,None,2007.2.12,None
+3,10948,"San Diego, CA 92130",None,None,2007.2.10,None
+4,5245,"Battle Ground, WA 98604",None,None,2007.2.9,None
+5,5250,"Nashville, TN 37201",None,None,2007.2.7,None
+6,5083,"Red Wing, MN 55066",None,None,2007.2.7,None
+7,5240,"Georgetown, TX 78626",None,None,2007.2.7,None
+8,5614,"Stanford, CA 94305",None,None,2007.2.7,None
+9,10912,"Seattle, WA 98122",None,None,2007.2.6,None
+0,5266,"San, CA 95126",None,None,2007.2.5,None
+1,5037,"Rohnert Park, CA 94928",None,None,2007.2.5,None
+2,5244,"Bellingham, WA 98225",None,None,2007.2.3,None
+3,5243,"Tempe, AZ 85281",None,None,2007.2.3,None
+4,5693,"Alexandria, VA 22301",None,None,2007.2.2,None
+5,10751,"Miami Beach, FL 33139",None,None,2007.2.2,None
+6,5276,"Minneapolis, MN 55419",None,None,2007.2.1,None
+7,5080,"Bellevue, WA 98004",None,None,2007.1.30,None
+8,10748,"Decatur, GA 30033",None,None,2007.1.30,None
+9,5735,"Austin, TX 78751",None,None,2007.1.30,None
+0,10932,"Portland, OR 97216",None,None,2007.1.30,None
+1,5082,"Vienna, VA 22180",None,None,2007.1.30,None
+2,5401,"Littleton, CO 80120",None,None,2007.1.30,None
+3,5402,"Chicago, IL 60622",None,None,2007.1.30,None
+4,5403,"Boston, MA 02215",None,None,2007.1.30,None
+5,5399,"Auburn Hills, MI 48326",None,None,2007.1.29,None
+6,5408,"Nashville, TN 38116",None,None,2007.1.28,None
+7,5081,"Portland, OR 97217",None,None,2007.1.28,None
+8,5668,"Lynden, WA 98264",None,None,2007.1.27,None
+9,5033,"Tampa, FL 33606",None,None,2007.1.27,None
+0,5254,"Sacramento, CA 95819",None,None,2007.1.27,None
+1,10739,"Scottsdale, AZ 85251",None,None,2007.1.27,None
+2,4979,"Oak Park, IL 60304",None,None,2007.1.26,None
+3,10745,"San Francisco, CA 94103",None,None,2007.1.26,None
+4,5032,"Santa Rosa, CA 95401",None,None,2007.1.26,None
+5,5238,"Scottsdale, AZ 85251",None,None,2007.1.26,None
+6,5392,"Aurora, CO 80216",None,None,2007.1.26,None
+7,5235,"Austin, TX 78701",None,None,2007.1.25,None
+8,5696,"Los Angeles, CA 90066",None,None,2007.1.25,None
+9,5689,"Tempe, AZ 85282",None,None,2007.1.24,None
+0,5236,"Vancouver, WA 98225",None,None,2007.1.24,None
+1,5388,"Chicago, IL 60605",None,None,2007.1.22,None
+2,5387,"Brooklyn, NY 11222",None,None,2007.1.22,None
+3,5386,"Los Angeles, CA 90027",None,None,2007.1.22,None
+4,5232,"San Jose, CA 95134",None,None,2007.1.22,None
+5,5691,"Austin, TX 78704",None,None,2007.1.22,None
+6,10743,"Manhattan, KS 66044",None,None,2007.1.22,None
+7,4978,"Seattle, WA 98112",None,None,2007.1.22,None
+8,5233,"Clemson, SC 29631",None,None,2007.1.22,None
+9,5114,"Portland, OR 97203",None,None,2007.1.21,None
+0,5631,"Washington, DC 20007",None,None,2007.1.21,None
+1,6360,"New York, NY 10002",None,None,2007.1.21,None
+2,5088,"College Park, MD 20740",None,None,2007.1.20,None
+3,5406,"Rochester Hills, MI 48307",None,None,2007.1.20,None
+4,5324,"Vancouver, WA 98683",None,None,2007.1.20,None
+5,10929,"Denver, CO 80206",None,None,2007.1.19,None
+6,5384,"Wilmington, DE 19802",None,None,2007.1.19,None
+7,5385,"Seattle, WA 98107",None,None,2007.1.19,None
+8,5030,"Lubbock, TX 79406",None,None,2007.1.18,None
+9,5690,"Stanford, CA 94305",None,None,2007.1.18,None
+0,5278,"Kailua Kona, HI 96745",None,None,2007.1.18,None
+1,4954,"San Francisco, CA 94131",None,None,2007.1.18,None
+2,5394,"St. Louis, MO 63105",None,None,2007.1.18,None
+3,7071,"Berkeley, CA 94704",None,None,2007.1.18,None
+4,6519,"San Francisco, CA 94129",None,None,2007.1.17,None
+5,6140,"San Francisco, CA 94123",None,None,2007.1.17,None
+6,5885,"Ellensburg, WA 98926",None,None,2007.1.17,None
+7,4976,"Minneapolis, MN 55406",None,None,2007.1.17,None
+8,5378,"Fort Worth, TX 76137",None,None,2007.1.16,None
+9,5262,"Issaquah, WA 98027",None,None,2007.1.16,None
+0,6318,"Phoenix, AZ 85022",None,None,2007.1.15,None
+1,7016,"Highland Park, NJ 08904",None,None,2007.1.14,None
+2,7130,"Chicago, IL 60657",None,None,2007.1.14,None
+3,5076,"Nashua, NH 03063",None,None,2007.1.14,None
+4,4975,"Bay City, MI 48708",None,None,2007.1.14,None
+5,7025,"Phoenix, AZ 85331",None,None,2007.1.13,None
+6,6515,"San Diego, CA 92104",None,None,2007.1.13,None
+7,10843,"New York, NY 10001",None,None,2007.1.13,None
+8,5716,"Seattle, WA 98104",None,None,2007.1.12,None
+0,7057,"Knoxville, TN 37920",None,None,2007.1.12,None
+1,11161,"Berkeley, CA 94704",None,None,2007.1.12,None
+2,5108,"North Chicago, IL 60544",None,None,2007.1.12,None
+3,5031,"San Diego, CA 92103",None,None,2007.1.11,None
+4,5242,"Rochester, NY 14627",None,None,2007.1.11,None
+5,5075,"Salem, IN 47167",None,None,2007.1.11,None
+6,6411,"Cambridge, MA 02142",None,None,2007.1.9,None
+7,10878,"Fremont, CA 94536",None,None,2007.1.9,None
+8,5370,"San Francisco, CA 94105",None,None,2007.1.8,None
+9,5366,"Washington, DC 20005",None,None,2007.1.7,None
+0,6400,"Saint Petersburg, FL 33702",None,None,2007.1.7,None
+1,6383,"Hampton, VA 23666",None,None,2007.1.7,None
+2,9086,"San Jose, CA 95136",None,None,2007.1.6,None
+3,5369,"San Francisco, CA 94920",None,None,2007.1.5,None
+4,10875,"Portland, OR 97214",None,None,2007.1.5,None
+5,5371,"Seattle, WA 98121",None,None,2007.1.5,None
+6,5073,"San Diego, CA 92109",None,None,2007.1.5,None
+7,5374,"Pennsauken, NJ 08109",None,None,2007.1.4,None
+8,10832,"Warwick, RI 0288",None,None,2007.1.3,None
+9,5071,"Philadelphia, PA 19104",None,None,2007.1.3,None

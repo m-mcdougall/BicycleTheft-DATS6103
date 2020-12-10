@@ -1,0 +1,62 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,844275,"7502 East Green Lake Drive North, Seattle, WA 98103",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.22,Reported
+1,843156,"Bergen Alley and Hyde Street, San Francisco, TX 94109",None,None,2020.8.21,None
+2,844095,"Minneapolis, MN 55408",Not locked,Bike was not locked,2020.8.21,Reported
+3,843292,"107 Columbia Heights & Orange Street, Brooklyn, NY 11201",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.21,None
+4,673651,"Seattle, WA 98101",None,None,2020.8.21,None
+0,843084,"Austin, TX 78702",None,None,2020.8.21,None
+1,844046,"490 N Freedom Blvd, Provo, UT 84601",Cable lock,"Lock was cut, and left at the scene",2020.8.21,Reported
+2,843049,"1216 2nd st, Catasauqua, PA 18032",None,None,2020.8.21,None
+3,843078,"San Francisco, CA 94102",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.21,None
+4,848889," North Carolina State University, 2800 Cates Ave, Raleigh, NC 27607",Cable lock,None,2020.8.21,Reported
+0,842937,"Flagstaff, AZ 86004",Cable lock,"Lock is missing, along with the bike",2020.8.21,Reported
+1,842952,"Tustin, CA 92780",None,None,2020.8.21,Reported
+2,830872,"Littleton, CO 80124",Not locked,None,2020.8.21,Reported
+3,29838,"1550 Country Meadows Blvd , Billings, MT 59102",None,None,2020.8.21,None
+0,842917,"8627 Hazeltine Ave., Panorama City, CA 91402",None,None,2020.8.21,None
+1,844340,"San Diego, CA 92130",None,None,2020.8.21,None
+2,842837,"Denver, CO 80203",Not locked,Bike was not locked,2020.8.21,Reported
+3,842789,"Lubbock, TX 79401",None,None,2020.8.21,None
+4,842695,"Tucson, AZ 85716",None,None,2020.8.21,Reported
+5,842802,"3622 SE Harrison St, Portland, OR 97214",None,None,2020.8.21,Reported
+0,842817,"Littleton, CO 80128",Not locked,None,2020.8.21,Reported
+1,842739,"Boulder, CO 80303-3819",None,None,2020.8.21,None
+2,613510,"700 Broadway E #112, Seattle, WA 98102",U-lock,"Lock was cut, and left at the scene",2020.8.21,Reported
+3,842715,"Washington, DC 20006",U-lock,"Lock is missing, along with the bike",2020.8.21,Reported
+4,842674,"Portland, OR 72139",None,None,2020.8.21,None
+5,842667,"Tucson, AZ 85716",Not locked,"Other situation, please describe below",2020.8.21,Reported
+6,847499,"Boise, ID 83706",Not locked,Bike was not locked,2020.8.21,Reported
+7,842217,"Portland, OR 97212",Not locked,Bike was not locked,2020.8.21,Reported
+8,706151,"San Jose, CA 95112",Cable lock,"Lock is missing, along with the bike",2020.8.21,Reported
+9,706129,"San Jose, CA 95112",U-lock,"Lock is missing, along with the bike",2020.8.21,Reported
+0,842584,"Columbus, OH 43202",None,"Lock was opened, and left unharmed at the scene",2020.8.21,None
+1,690601,"San Francisco, CA 94133",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.21,Reported
+2,830874,"Littleton, CO 80123",Other,Bike was not locked,2020.8.21,Reported
+3,844031,"Los Angeles, CA 90025",U-lock,"Lock is missing, along with the bike",2020.8.21,Reported
+4,842553,"South Burlington, VT 05403",None,None,2020.8.21,None
+5,847457,"Boise, ID 83704",Cable lock,"Lock was cut, and left at the scene",2020.8.21,Reported
+0,842580,"Baird Ave, Reseda, CA 91335",None,None,2020.8.21,None
+1,788094,"68 W. River Rd., Tucson, AZ 85704",U-lock,"Lock was cut, and left at the scene",2020.8.21,None
+2,843363,"Kernville, CA",Cable lock,None,2020.8.21,Reported
+3,842539,"Allston, Boston, MA 02135",None,None,2020.8.21,None
+4,842540,"Allston, Boston, MA 02135",Cable lock,"Lock is missing, along with the bike",2020.8.21,None
+5,939380,"Orange, CA 92868",Other,"Other situation, please describe below",2020.8.21,Reported
+6,843368,"707 N Corona St. , Denver, CO 80218",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.21,None
+0,842888,"San Diego, CA 92110",Cable lock,"Lock is missing, along with the bike",2020.8.21,None
+1,840714,"Englrwood, CO 80112",Not locked,None,2020.8.21,None
+2,844494,"Portland, OR 97202",Not locked,Bike was not locked,2020.8.21,Reported
+3,842989,"330 Ridgeland Ave, Iowa City, IA 52246",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.20,Reported
+4,842463,"Lakewood, CO",Not locked,None,2020.8.20,Reported
+0,842464,"4504 16th AVE NE, Seattle, WA 98105",U-lock,"Lock was cut, and left at the scene",2020.8.20,None
+1,842959,"Cambridge, MA 02138",Not locked,Bike was not locked,2020.8.20,Reported
+2,844553,"2020 E Hagert St, Philadelphia, PA 19125",Cable lock,"Lock was cut, and left at the scene",2020.8.20,Reported
+3,846997,"Chaska, MN 55318",Cable lock,"Lock was cut, and left at the scene",2020.8.20,Reported
+4,847444,"Boise, ID 83702",Cable lock,"Lock is missing, along with the bike",2020.8.20,Reported
+0,843528,"Fitchburg, WI 53719",None,None,2020.8.20,Reported
+1,842313,"Madison, WI 53703",Cable lock,None,2020.8.20,None
+2,842357,"5435 Village Walk Circle, Terre Haute, IN 47803",Cable lock,"Other situation, please describe below",2020.8.20,Reported
+3,842271,"Fremont, CA 94538",None,None,2020.8.20,None
+4,842306,"1200 Fifth Avenue, New York, NY 10033",U-lock and cable,"Lock is missing, along with the bike",2020.8.20,Reported
+5,842235,"265 Campus Drive, Palo Alto, CA 94305",U-lock,"Lock was cut, and left at the scene",2020.8.20,Reported
+6,842260,"Watertown, MA 02472",U-lock,"Lock was cut, and left at the scene",2020.8.20,None
+7,844256,"Seattle, WA 98103",Chain with padlock,"Other situation, please describe below",2020.8.20,Reported

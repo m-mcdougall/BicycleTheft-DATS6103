@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,16227,"San Francisco, CA 94123",None,None,2011.2.22,Reported
+1,16209,"Portland, OR 97232",None,None,2011.2.21,Reported
+2,12922,"Portland, OR 97202",None,None,2011.2.21,Reported
+3,17625,"New, LA 77014",None,None,2011.2.21,None
+4,16253,"Davis, CA 95616",None,None,2011.2.21,None
+5,16205,"Portland, OR 97215",None,None,2011.2.20,Reported
+6,16214,"Washington, DC 20057",None,None,2011.2.20,Reported
+7,20093,"Seattle, WA 98178",None,None,2011.2.20,None
+8,17840,"Porland, OR kenton",None,None,2011.2.20,Reported
+0,16200,"Woodland Park, CO 80863",None,None,2011.2.19,Reported
+1,20086,"Seattle, WA 98116",None,None,2011.2.19,Reported
+2,16235,"Portland, OR 97203",None,None,2011.2.18,Reported
+3,16170,"Dallas, TX 75226",None,None,2011.2.18,Reported
+4,16192,"Portland, OR 97206",None,None,2011.2.18,None
+5,16243,"Augusta, GA 30901",None,None,2011.2.18,Reported
+6,16190,"Washington, DC 20007",None,None,2011.2.18,Reported
+7,17731,"San Francisco, CA 94102",None,None,2011.2.18,None
+8,16158,"San Francisco, CA 94107",None,None,2011.2.17,Reported
+0,26072,"Anaheim, CA 92801",None,None,2011.2.17,None
+1,16166,"Leander, TX 78641",None,None,2011.2.17,Reported
+2,16159,"San Francisco, CA 94107",None,None,2011.2.17,Reported
+3,15446,"Austin, TX 78701",None,None,2011.2.17,None
+4,16152,"Laguna Hills, CA 92653",None,None,2011.2.17,Reported
+5,16153,"Burbnak, CA 91506",None,None,2011.2.17,Reported
+6,17838,"San Diego, CA 92103",None,None,2011.2.17,None
+7,11807,"Los Angeles, CA 90095",None,None,2011.2.16,Reported
+8,16184,"Seal Beach, CA 90740",None,None,2011.2.16,None
+9,15444,"San Diego, CA 92126",None,None,2011.2.15,Reported
+0,26719,"Tacoma, WA 98406",None,None,2011.2.15,Reported
+1,17315,"Castro Valley, CA 94546",None,None,2011.2.15,Reported
+2,20114,"Greenwood, IN 46143",None,None,2011.2.15,None
+3,16145,"Portland, OR 97211",None,None,2011.2.15,Reported
+4,16143,"Portland, OR 97202",None,None,2011.2.14,Reported
+5,16274,"Tampa, FL 33617",None,None,2011.2.14,Reported
+6,16156,"Alameda, CA 94501",None,None,2011.2.14,Reported
+7,20047,"Portland, OR 97205",None,None,2011.2.14,Reported
+8,16134,"Fair Oaks, CA 95628",None,None,2011.2.14,Reported
+9,20044,"San Francisco, CA 94111",None,None,2011.2.13,Reported
+0,15404,"Pasadena, CA 91106",None,None,2011.2.13,Reported
+1,16546,"Seattle, WA 98122",None,None,2011.2.13,None
+2,16135,"Pacific Beach, CA 92109",None,None,2011.2.12,Reported
+3,16131,"Palm Springs, CA 92264",None,None,2011.2.12,None
+4,16121,"San Francisco, CA 94114",None,None,2011.2.12,None
+5,11787,"San Francisco, CA 94132",None,None,2011.2.12,None
+6,16150,"San Luis Obispo, CA 93401",None,None,2011.2.12,None
+7,16123,"Portland, OR 97210",None,None,2011.2.11,None
+8,19395,"Gainesville, FL 32608",None,None,2011.2.11,Reported
+9,17488,"La Jolla, CA 92092",None,None,2011.2.11,Reported
+0,16141,"Greenbrae, CA 94904",None,None,2011.2.11,None
+1,26036,"Seattle, WA 98105",None,None,2011.2.11,Reported
+2,17835,"Portland, OR 97212",None,None,2011.2.11,None
+3,16122,"Portland, OR 97210",None,None,2011.2.11,Reported
+4,16116,"Seattle, WA 98105",None,None,2011.2.10,None
+5,26352,"Cambridge, MA 02138",None,None,2011.2.10,None
+6,17831,"Oakland, CA 94606",None,None,2011.2.10,None
+7,25144,"Boston, MA 02215",None,None,2011.2.10,None
+8,16118,"Sacramento, CA 95819",None,None,2011.2.10,Reported
+9,17829,"Clovis, CA 93611",None,None,2011.2.10,Reported
+0,16176,"New York, NY 10002",None,None,2011.2.10,None
+1,17827,"Studio City, CA 91604",None,None,2011.2.9,None
+2,15421,"Portland, OR 977202",None,None,2011.2.9,Reported
+3,20021,"Santa Cruz, CA 95060",None,None,2011.2.9,Reported
+4,15386,"Portland, OR 97214",None,None,2011.2.9,Reported
+5,25017,"Long, CA 90840",None,None,2011.2.8,Reported
+6,15403,"Superior, CO 80027",None,None,2011.2.6,None
+7,16106,"Portland, OR 97213",None,None,2011.2.6,None
+8,16114,"San Diego, CA 92102",None,None,2011.2.6,Reported
+9,11774,"Portland, OR 97213",None,None,2011.2.6,None
+0,15396,"College Park, MD 20742",None,None,2011.2.6,Reported
+1,16100,"Wellington, FL 33414",None,None,2011.2.6,Reported
+2,17826,"Venice, CA 90291",None,None,2011.2.6,None
+3,17472,"Seattle, WA 98115",None,None,2011.2.6,None
+4,16109,"Oakland, CA 94611",None,None,2011.2.5,None
+5,11775,"Washington, DC 20010",None,None,2011.2.4,Reported
+6,15369,"Salem, OR 97309",None,None,2011.2.4,Reported
+7,20381,"San Diego, CA 92109",None,None,2011.2.4,Reported
+8,16104,"Portland, OR 97203",None,None,2011.2.3,Reported
+9,16108,"Portland, OR 97206",None,None,2011.2.3,Reported
+0,16193,"Mcminnville, OR 97128",None,None,2011.2.2,None
+1,16076,"Portland, OR 97201",None,None,2011.2.1,None
+2,16237,"San Francisco, CA 94105",None,None,2011.2.1,Reported
+3,17470,"Portland, OR 97212",None,None,2011.2.1,Reported
+4,16043,"Mc Minnville, OR 97128",None,None,2011.2.1,Reported
+5,19381,"Riverside, CA 92515",None,None,2011.2.1,None
+6,18925,"Portland, OR 97209",None,None,2011.2.1,Reported
+7,16092,"Los Angeles, CA 90025",None,None,2011.2.1,None
+8,16090,"Beaverton, OR 97008",None,None,2011.2.1,Reported
+9,16081,"Honolulu, HI 96822",None,None,2011.2.1,Reported
+0,18111,"Santa Ana, CA 92704",None,None,2011.2.1,Reported
+1,16049,"Berkeley, CA 94705",None,None,2011.1.31,Reported
+2,15331,"Berkeley, CA 94705",None,None,2011.1.31,Reported
+3,16140,"San Leandro, CA 94577",None,None,2011.1.31,Reported
+4,16037,"Austin, TX 78751",None,None,2011.1.31,Reported
+5,16056,"Portland, OR 97218",None,None,2011.1.30,Reported
+6,17825,"Portland, OR 97217",None,None,2011.1.30,None
+7,14298,"Chicago, IL 60647",None,None,2011.1.30,None
+8,16676,"Seattle, WA 98109",None,None,2011.1.30,Reported
+9,16030,"Los Angeles, CA 90024",None,None,2011.1.30,None

@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,10928,"Walnut Creek, CA 94595",None,None,2014.1.21,None
+1,79631,"Fremont, CA 94538",U-lock and cable,"Lock is missing, along with the bike.",2014.1.21,Reported
+2,9885,"Novato, CA 94947",None,None,2014.1.21,Reported
+3,9893,"Salt Lake City, UT 84102",None,None,2014.1.21,None
+4,41441,"Seattle, WA 98195",Cable lock,"Lock is missing, along with the bike.",2014.1.21,Reported
+5,6449,"Tucson, AZ 85705",None,None,2014.1.20,None
+6,6835,"Milwaukie, OR 97222",None,None,2014.1.20,Reported
+7,9928,"Portland, OR 97211",None,None,2014.1.20,None
+8,9891,"Alhambra, CA 91801",None,None,2014.1.20,None
+9,10185,"San Francisco, CA 94105",None,None,2014.1.20,Reported
+0,9889,"San Francisco, CA 94133",None,None,2014.1.20,Reported
+1,9882,"Fort Collins, CO 80526",None,None,2014.1.20,Reported
+2,9854,"Tucson, AZ 85705",None,None,2014.1.20,None
+3,11553,"Berkeley, CA 94702",None,None,2014.1.20,None
+4,10257,"New York, NY 10013",None,None,2014.1.20,None
+5,724,"Chicago, IL 60642",Not locked,None,2014.1.19,None
+6,9837,"Portland, OR 97206",None,None,2014.1.19,Reported
+7,6454,"Portland, OR 97236",None,None,2014.1.19,Reported
+8,6452,"Portland, OR 97236",None,None,2014.1.19,Reported
+9,6828,"San Diego, CA 92110",None,None,2014.1.19,None
+0,8713,"Phoenix, AZ 85004",None,None,2014.1.19,Reported
+1,9846,"Portland, OR 97214",None,None,2014.1.19,Reported
+2,9932,"San Francisco, CA 94118",None,None,2014.1.19,Reported
+3,1713,"Casselberry, FL 32707",Not locked,Bike was not locked,2014.1.19,Reported
+4,6445,"Phoenix, AZ 85020",None,None,2014.1.19,Reported
+5,6464,"Oregon City, OR 97045",None,None,2014.1.18,None
+6,6424,"La Mesa, CA 91942",None,None,2014.1.18,Reported
+7,31180,"Palm Springs, CA 92262",Cable lock,"Other situation, please describe below.",2014.1.18,Reported
+8,565164,"Oakland, CA 94609",Other,"Other situation, please describe below.",2014.1.18,Reported
+9,9817,"Atlanta, GA 30324",None,None,2014.1.18,Reported
+0,9835,"Portland, OR 97214",None,None,2014.1.18,None
+1,6428,"Portland, OR 97213",None,None,2014.1.18,None
+2,9833,"Long Beach, CA 90802",None,None,2014.1.18,None
+3,9918,"Bellingham, WA 98225",None,None,2014.1.17,None
+4,27204,"San Francisco, CA 94101",Chain with padlock,None,2014.1.17,Reported
+5,6433,"Pleasanton, CA 94566",None,None,2014.1.17,None
+6,7114,"St Petersburg, FL 33713",None,None,2014.1.17,Reported
+7,9838,"Sonoma, CA 95476",None,None,2014.1.17,Reported
+8,10277,"San Diego, CA 92103",None,None,2014.1.17,None
+9,9911,"Portland, OR 97206",None,None,2014.1.17,Reported
+0,6461,"Washington, DC 20002",None,None,2014.1.17,None
+1,10181,"Portland, OR 97220",None,None,2014.1.17,Reported
+2,11206,"Milwaukie, OR 97267",None,None,2014.1.17,Reported
+3,9936,"San Diego, CA 92109",None,None,2014.1.17,Reported
+4,6438,"New York, NY 10003",None,None,2014.1.16,Reported
+5,9484,"Tempe, AZ 85281",None,None,2014.1.16,Reported
+6,9869,"Arcadia, FL 34266",None,None,2014.1.16,Reported
+7,20867,"Arcadia, FL 34266",None,None,2014.1.16,Reported
+8,9859,"Sunnyvale, CA 94086",None,None,2014.1.16,Reported
+9,9757,"Portland, OR 97210",None,None,2014.1.16,None
+0,9949,"Los Angels, CA 90037",None,None,2014.1.15,None
+1,9904,"San Francisco, CA 94107",None,None,2014.1.15,None
+2,6677,"Tucson, AZ 85719",None,None,2014.1.15,None
+3,10161,"San Jose, CA 95132",None,None,2014.1.15,Reported
+4,9794,"Portland, OR 97201",None,None,2014.1.15,Reported
+5,62717,"Seattle, WA",Cable lock,"Lock is missing, along with the bike.",2014.1.14,None
+6,6441,"Portland, OR 97205",None,None,2014.1.14,Reported
+7,9724,"Portland, OR 97206",None,None,2014.1.14,None
+8,10112,"Livermore, CA 94551",None,None,2014.1.14,Reported
+9,9771,"Portland, OR 97210-5705",None,None,2014.1.14,None
+0,6623,"Portland, OR 97205",None,None,2014.1.14,Reported
+1,8704,"Portland, OR 97203",None,None,2014.1.14,Reported
+2,11085,"Portland, OR 97212",None,None,2014.1.13,Reported
+3,41016,"Mountain View, CA 94040",Cable lock,"Lock is missing, along with the bike.",2014.1.13,Reported
+4,7166,"Salt Lake, UT 84103",None,None,2014.1.12,Reported
+5,9708,"Portland, OR 97214",None,None,2014.1.12,None
+6,10051,"Denver, CO 80206",None,None,2014.1.12,None
+7,10055,"Denver, CO 80206",None,None,2014.1.12,None
+8,1499,"Saint Louis, MO 63118",Not locked,"Other situation, please describe below.",2014.1.12,Reported
+9,10123,"San Francisco, CA 94131",None,None,2014.1.12,Reported
+0,9827,"San Francisco, CA 94133",None,None,2014.1.12,Reported
+1,6357,"Portland, OR 97212",None,None,2014.1.11,Reported
+2,9697,"Portland, OR 97211",None,None,2014.1.11,Reported
+3,9784,"Portland, OR 97202",None,None,2014.1.11,None
+4,6450,"Detroit, MI 48201",None,None,2014.1.10,Reported
+5,6432,"Los Angeles, CA 90025",None,None,2014.1.10,Reported
+6,7727,"Santa Monica, CA 90403",None,None,2014.1.10,None
+7,6560,"Portland, OR 97212",None,None,2014.1.9,Reported
+8,106839,"Port Orchard, WA 98367",None,None,2014.1.9,None
+9,52960,"Kirkland, WA 98033",None,None,2014.1.9,None
+0,9654,"97206, OR",None,None,2014.1.8,Reported
+1,6401,"Portland, OR 97214",None,None,2014.1.8,Reported
+2,6333,"Portland, OR 97214",None,None,2014.1.8,None
+3,9922,"East Hartford, CT 06108",None,None,2014.1.8,None
+4,9867,"Santa Monica, CA 90405",None,None,2014.1.7,None
+5,9823,"San Francisco, CA 94114",None,None,2014.1.7,None
+6,9903,"Tempe, AZ 85287",None,None,2014.1.7,Reported
+7,3723,"San Francisco, CA 94110",Not locked,"Other situation, please describe below.",2014.1.6,None
+8,9685,"Portland, OR 97210",None,None,2014.1.6,None
+0,1591,"Huntington Beach, CA 92646",Cable lock,"Lock is missing, along with the bike.",2014.1.5,None
+1,41881,"Culver City, CA",Cable lock,"Lock was cut, and left at the scene.",2014.1.5,None
+2,6295,"Portland, OR 97217",None,None,2014.1.4,None
+3,9978,"Hayward, CA 94541",None,None,2014.1.4,None
+4,9581,"Portland, OR 97206",None,None,2014.1.3,Reported
+5,1523,"St. Louis, MO 63116",Other,"Other situation, please describe below.",2014.1.3,None
+6,6267,"Portland, OR 97206",None,None,2014.1.3,None
+7,9608,"Portland, OR 97209",None,None,2014.1.3,None
+8,9611,"Portland, OR 97202",None,None,2014.1.3,None
+9,7012,"Hillcrest / San Diego, CA 92103",None,None,2014.1.2,None

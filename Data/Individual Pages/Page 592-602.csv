@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,840416,"McPherson St, Mansfield, OH 44903",None,Bike was not locked,2020.8.18,None
+1,844313,"1220 Brook Ave SE, Minneapolis, MN 55414",None,None,2020.8.18,Reported
+2,841474,"Ithaca, NY 14850",Chain with padlock,"Lock is missing, along with the bike",2020.8.18,None
+3,841650,"Norman, OK 73072",None,None,2020.8.18,Reported
+0,840497,"Portage, MI 49024",Not locked,None,2020.8.18,Reported
+1,843523,"Waynesville, NC 28785",Not locked,Bike was not locked,2020.8.18,Reported
+2,840335,"8th and Oak, Eugene, OR 97405",None,None,2020.8.17,None
+3,920142,"Near Depot Park, Gainesville, FL 32601",Not locked,Bike was not locked,2020.8.17,Reported
+4,840320,"3605 E Cedar Ave, Denver, CO 80209",None,None,2020.8.17,Reported
+5,840287,"Fort Collins, CO 80524",None,None,2020.8.17,Reported
+6,840270,"Fiji Way and Lincoln Boulevard, Los Angeles, CA 90066",None,None,2020.8.17,None
+7,840268,"Har Mar Cub- Bike Lock area in front of store, Roseville, MN 55113",None,None,2020.8.17,None
+0,840232,"Santa Fe, NM 87507",None,None,2020.8.17,None
+1,840243,"Sunnyvale, CA 94089",U-lock,"Lock is missing, along with the bike",2020.8.17,Reported
+2,842018,"Camden Wyoming, DE 19934",Not locked,Bike was not locked,2020.8.17,Reported
+3,840208,"Portland, OR 97217",None,None,2020.8.17,None
+4,841025,"31-46 21st St, Queens, NY 11106 (Between 31st Rd and Dr), Astoria, NY 11106",None,None,2020.8.17,None
+0,840177,"Minneapolis, MN 55413",None,None,2020.8.17,None
+1,840152,"New York, NY 10025",None,None,2020.8.17,None
+2,840163,"32nd and Vallejo, Denver, CO 80211",Cable lock,"Lock is missing, along with the bike",2020.8.17,None
+3,840121,"Santa Barbara, CA 93111",None,None,2020.8.17,None
+4,840138,"Oakland, CA 94611",None,None,2020.8.17,Reported
+5,840601,"133 SW 2nd Ave, Portland, OR 97204",Not locked,None,2020.8.17,Reported
+6,840034,"San Francisco, CA 94115",None,"Other situation, please describe below",2020.8.17,Reported
+7,840760,"Denver, CO 80202",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.17,Reported
+8,840089,"4700 RAVENNA AVENUE NORTHEAST, Seattle, WA 98105",None,"Lock is missing, along with the bike",2020.8.17,Reported
+0,840027,"Carson City, NV 89705",Other,"Other situation, please describe below",2020.8.17,Reported
+1,654708,"1025 Assisi Lane, Atlantic Beach, FL 32233",Cable lock,"Lock is missing, along with the bike",2020.8.17,None
+2,840028,"Carson City, NV 89705",Other,"Other situation, please describe below",2020.8.17,Reported
+3,840040,"N cleaver St and West Potomac Ave, Chicago, IL 60642",Cable lock,"Lock is missing, along with the bike",2020.8.17,Reported
+4,839973,"Benbrook, TX 76126",None,None,2020.8.17,None
+5,839996,"1605 11th Ave, Greeley, CO 80631",Not locked,"Other situation, please describe below",2020.8.17,Reported
+6,655932,"Seattle, WA 98105-3504",None,"Lock was cut, and left at the scene",2020.8.17,None
+7,839966,"1408 Barry Avenue, Los Angeles, CA 90025",Other,"Lock was cut, and left at the scene",2020.8.17,Reported
+8,840051,"New Orleans, LA 70117",None,None,2020.8.17,None
+0,839903,"Minneapolis, MN 55406",None,None,2020.8.17,None
+1,839901,"5070 Highmeadows Dr, Kalamazoo, MI 49048",None,None,2020.8.17,None
+2,839891,"Saint Louis, MO 63104",Cable lock,Bike was not locked,2020.8.17,None
+3,839902,"Renton, WA 98057",Not locked,"Other situation, please describe below",2020.8.17,Reported
+4,840351,"Portland, OR 97201",Cable lock,"Lock was cut, and left at the scene",2020.8.17,Reported
+5,452496,"22nd Ave and Madison Ave, Seattle, WA 98112",Cable lock,"Lock was cut, and left at the scene",2020.8.17,Reported
+6,723012,"5398 Russell Ave NW, Seattle, WA 98107",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.17,Reported
+7,933567,"16823 Foothill Blvd, Fontana, CA 92335",None,None,2020.8.17,None
+0,933569,"16823 Foothill Blvd, Fontana, CA 92335",None,None,2020.8.17,None
+1,839870,"Aurora, CO 80015",None,None,2020.8.17,Reported
+2,596932,"Portland, OR 97217",Not locked,Bike was not locked,2020.8.17,Reported
+3,839839,"Washington, DC 20001",None,None,2020.8.17,Reported
+4,841026,"34138 Pacific Coast Hwy, Dana Point, CA",None,None,2020.8.17,Reported
+5,839812,"Denver, CO 80207",None,None,2020.8.17,None
+0,839832,"Whitefish Bay, WI 53217",None,None,2020.8.17,Reported
+1,788390,"Lakewood, CO",None,None,2020.8.17,None
+2,596294,"Portland, OR 97217",Not locked,Bike was not locked,2020.8.17,Reported
+3,843451,"SE Main and 30th, Portland, OR 97214",Cable lock,"Lock was cut, and left at the scene",2020.8.17,Reported
+4,747366,"Tucson, AZ 85712",U-lock,Bike was not locked,2020.8.17,None
+5,840284,"Phoenix, AZ 85004",Not locked,Bike was not locked,2020.8.17,None
+6,840083,"201 Concord, El Segundo, CA 90245",Cable lock,"Lock is missing, along with the bike",2020.8.17,Reported
+7,839889,"Seattle, WA 98103",Not locked,None,2020.8.17,None
+8,840905,"2108 Whiteash, Clovis, CA 93619",None,None,2020.8.17,Reported
+0,622097,"Seattle, WA 98122",None,None,2020.8.17,Reported
+1,840734,"Seattle, WA 98103",Not locked,None,2020.8.17,Reported
+2,841400,"Gig Harbor, WA 98335",Other,"Other situation, please describe below",2020.8.17,Reported
+3,841415,"Gig Harbor, WA 98335",Other,"Other situation, please describe below",2020.8.17,Reported
+4,844674,"Portland, OR 97217",None,None,2020.8.17,Reported
+5,833745,"San Francisco, CA 94114",None,None,2020.8.17,Reported
+6,840348,"San Francisco, CA 94133",None,None,2020.8.17,Reported
+0,840360,"Bellingham, WA 98226",None,None,2020.8.17,Reported
+1,735875,"Seattle, WA 98105",U-lock,"Lock is missing, along with the bike",2020.8.16,Reported
+2,839719,"UW Medical Center Surgery Pavilion, Seattle, WA 98195",Cable lock,"Lock was cut, and left at the scene",2020.8.16,None
+3,840012,"40 Irving Street, Cambridge, MA 02138",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.16,Reported
+4,839704,"1325 North 15th Street Apartment 213, Philadelphia, PA 19121",None,None,2020.8.16,Reported
+5,839696,"1220 Boren Ave , Seattle, WA 98101",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.16,Reported
+6,853935,"Irvine, CA 92618",Cable lock,"Lock was cut, and left at the scene",2020.8.16,Reported
+7,862613,"Eugene, OR 97402",None,None,2020.8.16,Reported

@@ -1,0 +1,97 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,12296,"Seattle, WA 98105",None,None,2009.11.22,None
+1,12384,"Los Angeles, CA 90064",None,None,2009.11.22,Reported
+2,12385,"Rochester, NY 14607",None,None,2009.11.22,Reported
+3,18641,"Cincinnati, OH 45219",None,None,2009.11.22,None
+4,12400,"Portland, OR 97212",None,None,2009.11.22,Reported
+5,18592,"Portland, OR",None,None,2009.11.22,None
+6,17940,"Temple Terrace, FL 33617",None,None,2009.11.22,Reported
+7,18643,"San Jose, CA 95124",None,None,2009.11.22,None
+8,12307,"Thousand Oaks, CA 91360",None,None,2009.11.21,None
+9,12306,"Fair Haven, NJ 07704",None,None,2009.11.21,Reported
+0,12299,"Tuscon, AZ 85719",None,None,2009.11.21,Reported
+1,12353,"Portland, OR 97212",None,None,2009.11.21,Reported
+2,12370,"San Francisco, CA 94117",None,None,2009.11.20,None
+3,12429,"Charleston, WV 25311",None,None,2009.11.20,None
+4,18688,"Brooklyn, NY 11213",None,None,2009.11.20,Reported
+5,18658,"Portland, OR 97218",None,None,2009.11.20,Reported
+6,12291,"Portland, OR 97211",None,None,2009.11.20,Reported
+7,12289,"Portland, OR 97210",None,None,2009.11.20,Reported
+8,12221,"Portland, OR 97206",None,None,2009.11.19,None
+0,12302,"Garden Grove, CA 92840",None,None,2009.11.19,None
+1,14273,"Portland, OR 97217",None,None,2009.11.19,Reported
+2,18570,"Medford, NJ 08055",None,None,2009.11.19,None
+3,18622,"Chicago, IL 60607",None,None,2009.11.19,None
+4,18629,"Pacific Beach, CA 92109",None,None,2009.11.19,Reported
+5,12217,"Atherton, CA 94027",None,None,2009.11.18,Reported
+6,12267,"Berkeley, CA 94704",None,None,2009.11.18,Reported
+7,12328,"Portland, OR 97211",None,None,2009.11.18,None
+8,14999,"Portland, OR 97211",None,None,2009.11.18,None
+0,12340,"Las Vegas, NV 89103",None,None,2009.11.18,Reported
+1,12275,"Las Vegas, NV 89123",None,None,2009.11.18,Reported
+2,12272,"Las Vegas, NV 89123",None,None,2009.11.18,Reported
+3,18635,"Portland, OR 97211",None,None,2009.11.18,None
+4,18651,"Portland, OR 97211",None,None,2009.11.18,None
+5,12325,"Portland, OR 97209",None,None,2009.11.17,Reported
+6,18532,"Tempe, AZ 85281",None,None,2009.11.17,Reported
+7,18631,"San Francisco, CA 94117",None,None,2009.11.17,Reported
+8,19953,"Houston, TX 77030",None,None,2009.11.17,Reported
+9,19949,"Seattle, WA 98103",None,None,2009.11.17,Reported
+0,11659,"Portland, OR 97209",None,None,2009.11.16,Reported
+1,12330,"Everett, WA 98208",None,None,2009.11.16,Reported
+2,12357,"Watsonville, CA 95076",None,None,2009.11.16,Reported
+3,12326,"Murfreesboro, TN 37132",None,None,2009.11.16,None
+4,12427,"Santa Cruz, CA 95060",None,None,2009.11.16,Reported
+5,12380,"Portland, OR 97217",None,None,2009.11.16,Reported
+6,12170,"Pittsburgh, PA 15224",None,None,2009.11.15,Reported
+7,12316,"Santa Monica, CA 90401",None,None,2009.11.15,Reported
+8,12335,"Portland, OR 97211",None,None,2009.11.15,Reported
+9,18615,"Philadelphia, PA 19104",None,None,2009.11.15,None
+0,12183,"Pittsburgh, PA 15224",None,None,2009.11.15,Reported
+1,14278,"San Francisco, CA 94103",None,None,2009.11.15,Reported
+2,19955,"San Francisco, CA 94132",None,None,2009.11.15,Reported
+3,17913,"Tampa, FL 33609",None,None,2009.11.15,None
+4,12141,"Clemson, SC 29634",None,None,2009.11.14,Reported
+5,12142,"Portland, OR 97232",None,None,2009.11.14,Reported
+6,12194,"Portland, OR",None,None,2009.11.14,Reported
+7,12304,"Silver Spring, MD 20910",None,None,2009.11.14,Reported
+8,18610,"Silver Spring, MD 20910",None,None,2009.11.14,Reported
+0,18618,"Salt Lake City, UT 84105",None,None,2009.11.14,None
+1,18636,"Berkeley, CA 94710",None,None,2009.11.14,Reported
+2,14234,"Portland, OR",None,None,2009.11.14,Reported
+3,16888,"Seattle, WA 98105",None,None,2009.11.14,None
+4,18639,"Bellingham, WA 98229",None,None,2009.11.13,Reported
+5,14252,"San Francisco, CA 94110",None,None,2009.11.13,None
+6,12125,"Austin, TX 78712",None,None,2009.11.13,Reported
+7,18616,"Portland, OR 97213",None,None,2009.11.13,None
+8,18605,"San Francisco, CA 94117",None,None,2009.11.13,None
+9,12126,"Port Saint Lucie, FL 34983",None,None,2009.11.13,None
+0,12105,"Brooklyn, NY 11215",None,None,2009.11.12,None
+1,12314,"Alameda, CA 94501",None,None,2009.11.12,None
+2,12287,"Tempe, AZ 85258",None,None,2009.11.12,Reported
+3,14227,"San Francisco, CA 94123",None,None,2009.11.12,Reported
+4,12300,"Sunnyvale, CA 94086",None,None,2009.11.12,Reported
+5,14922,"Portland, OR 97232",None,None,2009.11.12,Reported
+6,14901,"Sacramento, CA 95826",None,None,2009.11.11,None
+7,14917,"Oxford, MS 38655",None,None,2009.11.11,Reported
+8,117384,"Santa Barbara, CA 93101",Not locked,None,2009.11.11,Reported
+9,12073,"Virginia Beach, VA 23454",None,None,2009.11.11,Reported
+0,18604,"Portland, OR 9217",None,None,2009.11.11,None
+1,14363,"Omaha, NE 68131",None,None,2009.11.11,None
+2,12399,"Portland, OR 97210",None,None,2009.11.10,None
+3,12474,"Chicago, IL 60614",None,None,2009.11.10,None
+4,14230,"North Hollywood, CA 91601",None,None,2009.11.10,Reported
+5,18648,"Portland, OR 97202",None,None,2009.11.10,None
+6,12042,"Oakland, CA 94601",None,None,2009.11.10,None
+7,18603,"Chicago, IL 60645",None,None,2009.11.10,Reported
+8,18589,"San Francisco, CA 94107",None,None,2009.11.10,Reported
+0,12058,"College Station, TX 77845",None,None,2009.11.10,Reported
+1,12044,"Orlando, FL 32803",None,None,2009.11.10,Reported
+2,12281,"Watauga, TX 76137",None,None,2009.11.9,None
+3,12049,"Ypsilanti, MI 48198",None,None,2009.11.9,Reported
+4,12206,"Denver, CO 80203",None,None,2009.11.9,None
+5,12115,"Evanston, IL 60201",None,None,2009.11.9,Reported
+6,12264,"San Francisco, CA 94110",None,None,2009.11.9,Reported
+7,19324,"Portland, OR",None,None,2009.11.9,None
+8,12015,"Portland, OR 97217",None,None,2009.11.8,Reported
+9,12397,"Newtown, PA 18940",None,None,2009.11.8,None

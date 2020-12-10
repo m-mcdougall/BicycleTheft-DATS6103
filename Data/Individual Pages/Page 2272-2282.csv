@@ -1,0 +1,71 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,603399,"2800 Monument Avenue, Richmond, VA 23221",Cable lock,"Lock was cut, and left at the scene.",2019.4.25,Reported
+1,603240,"New Orleans, LA 70117",None,None,2019.4.25,None
+2,603182,"Morro Bay, CA 93452",None,None,None,None
+3,603973,"565 Esplanade, Redondo Beach, CA 90277",U-lock,"Lock is missing, along with the bike.",2019.4.25,Reported
+4,603286,"300 Ne 2nd Ave, Miami, FL 33132",Cable lock,"Lock is missing, along with the bike.",2019.4.24,None
+5,603475,"Washington, DC 20001",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.24,Reported
+0,603126,"Flatbush Ave, NY",Cable lock,"Lock was cut, and left at the scene.",2019.4.24,None
+1,603302,"20380 Stevens Creek Blvd, Cupertino, CA 95014",Cable lock,"Lock is missing, along with the bike.",2019.4.24,None
+2,603071,"Bristol, TN 37620",Not locked,Bike was not locked,2019.4.24,None
+3,603377,"Atlanta, GA 30307",Not locked,Bike was not locked,2019.4.24,Reported
+4,603083,"Dallas, TX 75211",None,None,2019.4.24,None
+5,603332,"2015 Virginia St, Berkeley, CA 94709",U-lock and cable,"Lock was cut, and left at the scene.",2019.4.24,Reported
+0,603068,"Dallas, TX 75211",Not locked,Bike was not locked,2019.4.24,Reported
+1,604460,"12746 W Jefferson Blvd, Playa Vista, CA 90094",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2019.4.24,Reported
+2,603034,"Denver, CO 80223",None,None,2019.4.24,None
+3,604329,"295E Speer Blvd, Denver, CO 80203",Cable lock,"Lock was cut, and left at the scene.",2019.4.24,Reported
+4,603031,"761 Penninsula Road, Berth 204, Wilmington, CA 90744",Not locked,"Other situation, please describe below.",2019.4.24,None
+5,604511,"137 fleetwood dr, Battle Creek, MI 49037",Not locked,Bike was not locked,2019.4.24,None
+6,603728,"Fremont, CA 94538",U-lock and cable,"Lock was cut, and left at the scene.",2019.4.24,Reported
+0,604052,"Portland, OR 97206",Not locked,None,2019.4.24,Reported
+1,602890,"Citrus Heights, CA 95610",None,"Other situation, please describe below",2019.4.24,None
+2,603937,"Roseville, MN 55113",Not locked,Bike was not locked,2019.4.24,Reported
+3,602982,"Tukwila, WA 98188",None,None,2019.4.24,Reported
+4,602985,"3535 NE 15th Ave, Portland, OR 97212",Cable lock,"Lock is missing, along with the bike.",2019.4.24,Reported
+5,603118,"New Orleans, LA 70117 ",None,None,2019.4.24,Reported
+6,602926,"422 NE 24th Ave, Portland, OR 97232",U-lock,"Lock is missing, along with the bike.",2019.4.23,None
+7,603515,"Denver, CO 80202",Cable lock,"Lock was cut, and left at the scene.",2019.4.23,Reported
+0,602949,"1170 Welch Road, Palo Alto, CA 94304",U-lock,"Lock is missing, along with the bike.",2019.4.23,None
+1,603029,"Boulder, CO 80302",U-lock and cable,"Lock was cut, and left at the scene.",2019.4.23,Reported
+2,602944,"New Haven, CT 06520",U-lock,"Lock is missing, along with the bike.",2019.4.23,None
+3,603253,"1332 6th St, Santa Monica, CA 90401",Cable lock,"Lock was cut, and left at the scene.",2019.4.23,Reported
+4,602928,"1225 north Jefferson street, Huntington, IN 46750",None,None,2019.4.23,None
+5,603036,"Mount Rainier, MD 20712",None,None,2019.4.23,None
+6,602927,"3201 Brighton Blvd, Denver, CO 80216",None,None,2019.4.23,Reported
+7,602914,"Santa Monica, CA 90403",None,None,2019.4.23,None
+0,602913,"San Pablo ave, San Rafael, CA 94903",U-lock and cable,"Lock was cut, and left at the scene.",2019.4.23,None
+1,602922,"Seattle, WA 98195",Other,"Lock was cut, and left at the scene.",2019.4.23,Reported
+2,602898,"Fort totten metro station, Washington, DC 20011",None,None,2019.4.23,None
+3,602889,"Dallas, TX 75231",None,None,2019.4.23,None
+4,602929,"Portland, OR 97216",Other,"Other situation, please describe below.",2019.4.23,Reported
+5,602862,"Lake, OR 97035",Not locked,None,2019.4.23,None
+6,602910,"Washington, DC 20011",Cable lock,"Lock was cut, and left at the scene.",2019.4.23,Reported
+7,600809,"San Diego, CA 92106",U-lock,None,2019.4.23,Reported
+8,603012,"Cambridge, MA 02138",Cable lock,"Lock is missing, along with the bike.",2019.4.23,Reported
+0,602872,"Portland, OR 97217",None,None,2019.4.23,Reported
+1,602806,"5026 mowry ave, Fremont, CA 94538",None,None,2019.4.23,None
+2,603244,"2831 SE Palmquist Rd., Gresham, OR 97080",U-lock and cable,"Other situation, please describe below.",2019.4.23,Reported
+3,603616,"Los Angeles, CA 90006",None,None,2019.4.23,None
+4,602952,"New Orleans, LA 70116",None,None,2019.4.23,None
+5,602819,"New Orleans, LA 70116",None,None,2019.4.23,None
+6,602859,"Tucson, AZ 85718",None,None,2019.4.23,Reported
+7,602734,"15663 Azalea Springs Ave., Bakersfield, CA 93314",Not locked,"Other situation, please describe below.",2019.4.22,None
+0,621040,"Denver, CO 80210",Cable lock,"Lock was cut, and left at the scene.",2019.4.22,Reported
+1,602732,"Seattle, WA 98119",Not locked,None,2019.4.22,None
+2,603321,"Portland, OR 97209",None,None,2019.4.22,Reported
+3,108024,"Seattle, WA 98108",Cable lock,"Lock is missing, along with the bike.",2019.4.22,Reported
+4,602694,"Portland, OR 97204",U-lock,"Lock was cut, and left at the scene.",2019.4.22,Reported
+5,603597,"600 W Evelyn Ave, Mountain View, CA 94041",U-lock and cable,"Lock was cut, and left at the scene.",2019.4.22,Reported
+6,604073,"New Orleans, LA 70117",None,None,2019.4.22,None
+7,602729,"6000 W Olive Ave, Glendale, AZ 85302",Cable lock,"Lock is missing, along with the bike.",2019.4.22,Reported
+8,602861,"Sacramento, CA 95827",Other,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.4.22,Reported
+0,602627,"Minneapolis, MN 55417",Other,"Other situation, please describe below.",2019.4.22,Reported
+1,602629,"Austin, TX 78704",U-lock,None,2019.4.22,Reported
+2,602619,"1920 Batson Avenue, Rowland Heights, CA 91748",Cable lock,"Lock is missing, along with the bike.",2019.4.22,None
+0,603977,"250 Municipal Dr Room 123, Richardson, TX 75080",Heavy duty bicycle security chain,Bike was not locked,2019.4.22,None
+1,602818,"Tucson, AZ 85718",None,None,2019.4.22,Reported
+2,602947,"Portland, OR 97217",None,None,2019.4.22,Reported
+3,602557,"Intersection of 15th St. and Natoma St., San Francisco, CA",None,None,2019.4.21,None
+4,602423,"New Orleans, LA 70117",Not locked,Bike was not locked,2019.4.21,None
+5,602534,"Atlanta, GA 30307",Heavy duty bicycle security chain,"Lock is missing, along with the bike.",2019.4.21,None

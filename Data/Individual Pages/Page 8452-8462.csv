@@ -1,0 +1,97 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,5988,"Nashville, TN 37212",None,None,2008.9.20,None
+1,6946,"San Diego, CA 92109",None,None,2008.9.19,None
+2,8547,"Chicago, IL 60625",None,None,2008.9.19,None
+3,8563,"Atlanta, GA 30332",None,None,2008.9.19,None
+4,8558,"St. Louis, MO 63105",None,None,2008.9.18,None
+5,8571,"Pleasanton, CA 94566",None,None,2008.9.18,None
+6,11635,"Washington, DC 20009",None,None,2008.9.18,None
+7,5987,"Brooklyn, NY 11201",None,None,2008.9.18,None
+8,9120,"College Station, TX 77801",None,None,2008.9.18,None
+9,11114,"Chico, CA 95926",None,None,2008.9.18,None
+0,8550,"Mountain View, CA 94041",None,None,2008.9.18,None
+1,10342,"Oakland, CA 94609",None,None,2008.9.18,Reported
+2,11121,"Columbus, OH 43202",None,None,2008.9.18,None
+3,6930,"Oakland, CA 94621",None,None,2008.9.17,None
+4,10606,"Boulder, CO 80302",None,None,2008.9.17,None
+5,12053,"Wheaton, IL 60187",None,None,2008.9.17,Reported
+6,5981,"East Lansing, MI 48825",None,None,2008.9.17,None
+7,11714,"Gainsville, FL 32306",None,None,2008.9.17,Reported
+8,8539,"Nashville, TN 37204",None,None,2008.9.17,None
+9,8541,"Brooklyn, NY 11217",None,None,2008.9.17,None
+0,8609,"El Cajon, CA 92020",None,None,2008.9.16,None
+1,5985,"Parma, OH 44129",None,None,2008.9.16,None
+2,8611,"El Cajon, CA 92020",None,None,2008.9.16,None
+3,6469,"Boulder, CO 80304",None,None,2008.9.16,None
+4,11110,"Tucson, AZ 85719",None,None,2008.9.16,None
+5,6014,"Playa Vista, CA 92078",None,None,2008.9.15,None
+6,8526,"Medford, MA 02155",None,None,2008.9.15,None
+7,6015,"Playa Vista, CA 92078",None,None,2008.9.15,None
+8,5979,"East Lansing, MI 48823",None,None,2008.9.15,None
+0,9053,"Santa Rosa, CA 95403",None,None,2008.9.15,None
+1,8551,"Berkeley, CA 94720",None,None,2008.9.15,None
+2,5978,"Boulder, CO 80304",None,None,2008.9.14,None
+3,8525,"Tucson, AZ 85748",None,None,2008.9.14,None
+4,8524,"Brooklyn, NY 11215",None,None,2008.9.14,None
+5,11143,"Santa Rosa, CA 95401",None,None,2008.9.14,None
+6,8544,"Portland, OR 97209",None,None,2008.9.14,None
+7,8537,"Spokane Valley, WA 99037",None,None,2008.9.14,None
+8,18195,"Tempe, AZ 85251",None,None,2008.9.14,Reported
+9,8532,"Seattle, WA 98122",None,None,2008.9.14,None
+0,6190,"Tucson, AZ 85719",None,None,2008.9.13,None
+1,9376,"Davis, CA 95616",None,None,2008.9.13,None
+2,11112,"Orange, CA 92866",None,None,2008.9.13,None
+3,11563,"Tucson, AZ 85745",None,None,2008.9.13,Reported
+4,11616,"Portland, OR 97212",None,None,2008.9.13,None
+5,5982,"Morris Township, NJ 07960",None,None,2008.9.13,None
+6,6924,"Oakland, CA 94162",None,None,2008.9.12,None
+7,8594,"Mc Lean, VA 22101",None,None,2008.9.12,None
+8,5916,"San, CA 94111",None,None,2008.9.11,None
+0,11108,"Chicago, IL 60603",None,None,2008.9.11,None
+1,6921,"Baltimore, MD 21201",None,None,2008.9.11,None
+2,8523,"Washington, DC 20057",None,None,2008.9.11,None
+3,8528,"Fort Collins, CO 80526",None,None,2008.9.11,None
+4,8501,"East Lansing, MI 48825",None,None,2008.9.10,None
+5,8514,"Chicago, IL 60626",None,None,2008.9.10,None
+6,11102,"Seattle, WA 98117",None,None,2008.9.10,None
+7,6920,"Salt Lake City, UT 84109",None,None,2008.9.10,None
+8,8503,"Traverse City, MI 49684",None,None,2008.9.9,None
+0,6467,"Indianapolis, IN 46241",None,None,2008.9.9,None
+1,5976,"Oakland, CA 94609",None,None,2008.9.9,None
+2,6929,"Davenport, IA 52803",None,None,2008.9.9,None
+3,11100,"Phoenix, AZ 85254",None,None,2008.9.8,None
+4,11097,"San Francisco, CA 94114",None,None,2008.9.8,None
+5,6896,"San Diego, CA 92105",None,None,2008.9.7,None
+6,8485,"San Diego, CA 92105",None,None,2008.9.7,None
+7,11142,"Chula Vista, CA 91913",None,None,2008.9.7,None
+8,6188,"Gainesville, FL 32605",None,None,2008.9.7,None
+0,6912,"Citrus Heights, CA 95610",None,None,2008.9.7,None
+1,8513,"Austin, TX 78704",None,None,2008.9.6,None
+2,11154,"River Vale, NJ 07446",None,None,2008.9.6,None
+3,8500,"Austin, TX 78704",None,None,2008.9.6,None
+4,6911,"Eagan, MN 55122",None,None,2008.9.6,None
+5,8484,"Ann Arbor, MI 48104",None,None,2008.9.5,None
+6,11093,"Austin, TX 78704",None,None,2008.9.5,None
+7,11113,"Essex, MD 21221",None,None,2008.9.4,None
+8,5975,"Berkeley, CA 94710",None,None,2008.9.4,None
+9,19077,"Ann Arbor, MI 48104",None,None,2008.9.4,None
+0,5967,"Minneapolis, MN 55407",None,None,2008.9.3,None
+1,15176,"Sacramento, CA 95816",None,None,2008.9.3,None
+2,6187,"Minneapolis, MN 55407",None,None,2008.9.3,None
+3,8345,"Pasadena, CA 91101",None,None,2008.9.3,None
+4,6893,"Albany, OR 97322",None,None,2008.9.3,None
+5,10595,"Denver, CO 80203",None,None,2008.9.3,None
+6,8478,"Bedford, TX 76022",None,None,2008.9.3,None
+7,5996,"Olympia, WA 98501",None,None,2008.9.3,None
+8,5968,"San Rafael, CA 94901",None,None,2008.9.2,None
+9,6944,"Helena, MT 59601",None,None,2008.9.2,None
+0,6891,"New York, NY 10031",None,None,2008.9.2,None
+1,8480,"Missoula, MT 59801",None,None,2008.9.2,None
+2,8482,"Richmond, VA 23220",None,None,2008.9.2,None
+3,13790,"Walnut Creek, CA 94596",None,None,2008.9.2,None
+4,70790,"Sacramento, CA 95822",Cable lock,"Lock is missing, along with the bike.",2008.9.1,None
+5,8467,"Philadelphia, PA 19104",None,None,2008.9.1,None
+6,28730,"Oakland, CA 94609",None,None,2008.9.1,None
+7,8693,"Seattle, WA 98112",None,None,2008.9.1,None
+8,6048,"State College, PA 16801",None,None,2008.9.1,None
+9,8530,"San Francisco, CA 94105",None,None,2008.9.1,None

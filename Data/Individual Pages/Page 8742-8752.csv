@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,4308,"Memphis, TN 38101",None,None,2005.9.17,None
+1,4840,"Blanchester, OH 45107",None,None,2005.9.17,None
+2,4288,"Wilmington, OH 00000",None,None,2005.9.17,None
+3,4262,"Tracy, CA 95376",None,None,2005.9.16,None
+4,4418,"Antelope, CA 95843",None,None,2005.9.16,None
+5,3947,"Minneapolis, MN 55414",None,None,2005.9.15,None
+6,4261,"East Lansing, MI 48825",None,None,2005.9.15,None
+7,4264,"Port Huron, MI 48060",None,None,2005.9.15,None
+8,4267,"Dallas, TX 75206",None,None,2005.9.15,None
+9,5593,"Knoxville, TN 37916",None,None,2005.9.15,None
+0,4830,"Crestview, FL 32539",None,None,2005.9.15,None
+1,5591,"Knoxville, TN 37916",None,None,2005.9.15,None
+2,4050,"Pleasanton, CA 94588",None,None,2005.9.13,None
+3,4313,"Tucson, AZ 85719",None,None,2005.9.13,None
+4,4818,"Denver, CO 80238",None,None,2005.9.13,None
+5,4269,"Cinnaminson, NJ 08077",None,None,2005.9.13,None
+6,3963,"Daytona Beach, FL 32114",None,None,2005.9.12,None
+7,4047,"Salt Lake City, UT 84104",None,None,2005.9.12,None
+8,25619,"Reno, NV 89509",None,None,2005.9.11,Reported
+9,4257,"Boulder, CO 80310",None,None,2005.9.11,None
+0,4044,"Holmdel, NJ 07733",None,None,2005.9.11,None
+1,4254,"East Lansing, MI 48823",None,None,2005.9.10,None
+2,4539,"East Lansing, MI 48823",None,None,2005.9.10,None
+3,4252,"Columbia, SC 29208",None,None,2005.9.9,None
+4,4253,"Philadelphia, PA 19148",None,None,2005.9.9,None
+5,4260,"Newhall, CA 91321",None,None,2005.9.7,None
+6,4243,"Flagstaff, AZ 86001",None,None,2005.9.7,None
+7,4284,"Seattle, WA 98112",None,None,2005.9.6,None
+8,4245,"Pittsburgh, PA 15208",None,None,2005.9.6,None
+9,4241,"Eugene, OR 97405",None,None,2005.9.5,None
+0,4040,"Portland, OR 97210",None,None,2005.9.5,None
+1,3938,"Louisville, KY 40214",None,None,2005.9.5,None
+2,4255,"Gunnison, CO 81231",None,None,2005.9.5,None
+3,4238,"Chicago, IL 60614",None,None,2005.9.5,None
+4,4373,"Denver, CO 80220",None,None,2005.9.4,None
+5,4043,"Culver City, CA 90034",None,None,2005.9.4,None
+6,4804,"Atlanta, GA 30308",None,None,2005.9.3,None
+7,4865,"Seattle, WA 98122",None,None,2005.9.3,None
+8,4249,"La Crosse, WI 54601",None,None,2005.9.3,None
+9,4235,"Madison, WI 53704",None,None,2005.9.2,None
+0,4041,"Beaumont, TX 77701",None,None,2005.9.1,None
+1,4109,"Tucson, AZ 85719",None,None,2005.9.1,None
+2,4250,"Santa Monica, CA 90401",None,None,2005.9.1,None
+3,4434,"Venice, CA 90291",None,None,2005.9.1,None
+4,5607,"Chicago, IL 60614",None,None,2005.9.1,None
+5,3962,"Oakland, CA 94602",None,None,2005.9.1,None
+6,4724,"Cedar Rapids, IA 52403",None,None,2005.8.31,None
+7,4873,"Philadelphia, PA 19104",None,None,2005.8.31,None
+8,4802,"Lincoln, NE 68508",None,None,2005.8.28,None
+9,4800,"Moscow, ID 83844",None,None,2005.8.28,None
+0,4232,"Jamaica Plain, MA 02130",None,None,2005.8.27,None
+1,4231,"Jamaica Plain, MA 02130",None,None,2005.8.27,None
+2,4081,"Reno, NV 89501",None,None,2005.8.25,None
+3,4042,"Washington, DC 20002",None,None,2005.8.25,None
+4,4803,"Bradley Beach, NJ 07220",None,None,2005.8.24,None
+5,4039,"Indianapolis, IN 46220",None,None,2005.8.24,None
+6,4344,"Wayland, MI 49348",None,None,2005.8.24,None
+7,4233,"Kenmore, WA 98028",None,None,2005.8.24,None
+8,4832,"San Francisco, CA 94105",None,None,2005.8.23,None
+9,3960,"Denver, CO 80206",None,None,2005.8.22,None
+0,4797,"Pittsburgh, PA 15232",None,None,2005.8.20,None
+1,4805,"Atlanta, GA 30309",None,None,2005.8.20,None
+2,4228,"Los Angeles, CA 90024",None,None,2005.8.19,None
+3,4896,"Santa Maria, CA 93455",None,None,2005.8.18,None
+4,4226,"San Francisco, CA 94117",None,None,2005.8.16,None
+5,4799,"Modesto, CA 95355",None,None,2005.8.16,None
+6,5612,"Eugene, OR 97402",None,None,2005.8.15,None
+7,4037,"Columbus, OH 43201",None,None,2005.8.14,None
+8,4222,"Chicago, IL 60613",None,None,2005.8.14,None
+9,4955,"Eugene, OR 97402",None,None,2005.8.14,None
+0,4796,"Bellingham, WA 98225",None,None,2005.8.13,None
+1,4220,"Berkeley, CA 94704",None,None,2005.8.13,None
+2,4234,"Anchorage, AK 99517",None,None,2005.8.12,None
+3,4221,"Atlanta, GA 30316",None,None,2005.8.12,None
+4,4454,"Evanston, IL 60202",None,None,2005.8.12,None
+5,3959,"Salt Lake City, UT 84106",None,None,2005.8.12,None
+6,4219,"Jackson, NJ 08527",None,None,2005.8.12,None
+7,4038,"Austin, TX 78705",None,None,2005.8.12,None
+8,4224,"Federal Way, WA 98023",None,None,2005.8.11,None
+9,3958,"Wausau, WI 54403",None,None,2005.8.11,None
+0,4237,"Sulphur, LA 70663",None,None,2005.8.10,None
+1,4225,"Monterey, CA 93940",None,None,2005.8.10,None
+2,4722,"Scottsdale, AZ 85255",None,None,2005.8.10,None
+3,4216,"Seattle, WA 98134",None,None,2005.8.10,None
+4,4211,"New York, NY 10003",None,None,2005.8.5,None
+5,4210,"Rochester, NY 14614",None,None,2005.8.4,None
+6,3973,"Tucson, AZ 85748",None,None,2005.8.3,None
+7,4794,"Santa Cruz, CA 95065",None,None,2005.8.2,None
+8,25111,"Spokane, WA 99205",None,None,2005.8.2,Reported
+9,4181,"Moore, OK 73160",None,None,2005.8.1,None
+0,10986,"Spring Valley, IL 61362",None,None,2005.8.1,None
+1,3943,"Los Angeles, CA 90026",None,None,2005.8.1,None
+2,4302,"New Orleans, LA 70115",None,None,2005.8.1,None
+3,4375,"Hudson, FL 34667",None,None,2005.8.1,None
+4,4477,"Stockton, CA 95206",None,None,2005.8.1,None
+5,4045,"West Hollywood, CA 90046",None,None,2005.8.1,None
+6,4798,"Hopewell, NJ 08525",None,None,2005.8.1,None
+7,4614,"Santa Fe, NM 98507",None,None,2005.8.1,None
+8,4215,"Dallas, TX 75230",None,None,2005.8.1,None
+9,4282,"San Diego, CA 92110",None,None,2005.8.1,None

@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,710887,"New Orleans, LA 70113",None,None,2020.4.13,None
+1,713070,"SE 122nd and SE Powell, Portland, OR 97236",None,None,2020.4.13,Reported
+2,723161,"4601 Snelling Ave- Cub Foods, Minneapolis, MN 55406",Cable lock,None,2020.4.13,Reported
+3,712018,"901 E. Colter St., Phoenix, AZ 85014",Not locked,Bike was not locked,2020.4.13,Reported
+4,711163,"New Orleans, LA 70115",U-lock,"Other situation, please describe below",2020.4.13,Reported
+5,710862,"San Francisco, CA 94118",Other,"Lock is missing, along with the bike",2020.4.13,Reported
+6,666263,"Seattle, WA 98105",U-lock,"Lock is missing, along with the bike",2020.4.13,Reported
+7,710719,"31020 NE St, Carnation, WA 98014",None,None,2020.4.13,None
+0,710659,"On 84 East near exit 13, Gesham, OR 97230",None,None,2020.4.13,Reported
+1,712092,"Eugene, OR 97405",None,None,2020.4.13,Reported
+2,712089,"Eugene, OR 97405",None,None,2020.4.13,Reported
+3,712095,"Eugene, OR 97405",None,None,2020.4.13,None
+4,710663,"Seattle, WA 98115",Cable lock,"Lock was cut, and left at the scene",2020.4.13,Reported
+5,710706,"Ames, IA 50014",Cable lock,"Other situation, please describe below",2020.4.13,Reported
+6,710810,"Austin, TX 78705",U-lock,"Lock was opened, and left unharmed at the scene",2020.4.13,Reported
+7,710644,"Claremont, CA 91711",Not locked,None,2020.4.13,Reported
+0,720384,"San Francisco, CA 94110",Not locked,"Other situation, please describe below",2020.4.13,None
+1,712400,"Eugene, OR 97402",None,None,2020.4.13,None
+2,712398,"Eugene, OR 97402",None,None,2020.4.13,None
+3,711260,"Denton, TX 76201",Not locked,"Other situation, please describe below",2020.4.13,Reported
+4,710485,"Portland, OR 97213",None,None,2020.4.13,Reported
+5,711088,"New Orleans, LA 70115",None,None,2020.4.13,None
+6,712358,"Seattle, WA 98103",Cable lock,"Lock is missing, along with the bike",2020.4.13,None
+7,710608,"139 E Campbell Ave, Campbell, CA 95008",Not locked,Bike was not locked,2020.4.13,Reported
+8,711480,"Minneapolis, MN 55414",None,None,2020.4.13,Reported
+9,710587,"Pacific Grove, CA 93950",Cable lock,"Lock is missing, along with the bike",2020.4.12,Reported
+0,711078,"Houston, TX 77008",None,Bike was not locked,2020.4.12,None
+1,710568,"3730 204TH ST SW, Lynnwood, WA 98036",Cable lock,"Lock was cut, and left at the scene",2020.4.12,Reported
+2,728510,"Salem, OR 97301",U-lock,"Lock is missing, along with the bike",2020.4.12,Reported
+3,710594,"Eugene, OR 97401",Cable lock,"Lock is missing, along with the bike",2020.4.12,Reported
+4,710441,"Tucson, AZ 85711",None,None,2020.4.12,None
+5,710502,"Denver, CO 80209",U-lock,"Lock was cut, and left at the scene",2020.4.12,Reported
+6,714162,"New Orleans, LA 70125",None,None,2020.4.12,None
+0,710428,"Washington, DC 20010",Other,None,2020.4.12,None
+1,710413,"South Portland, ME 04106",None,None,2020.4.12,None
+2,711368,"2815 SE Hawthorne Blvd, Portland, OR 97214",U-lock and cable,"Lock was cut, and left at the scene",2020.4.12,Reported
+3,716683,"San Francisco, CA",U-lock,"Lock is missing, along with the bike",2020.4.12,Reported
+4,405723,"Portland, OR 97215",U-lock and cable,"Lock was cut, and left at the scene",2020.4.12,Reported
+5,710513,"San Francisco, CA 94123",Cable lock,"Lock is missing, along with the bike",2020.4.12,Reported
+6,710283,"San Francisco, CA 94117",None,None,2020.4.12,None
+7,694599,"Denver, CO 80218",None,None,2020.4.11,None
+8,708623,"Largo, FL 33771",Cable lock,None,2020.4.11,None
+0,42008,"Berkeley, CA 94705",Not locked,Bike was not locked,2020.4.11,Reported
+1,710425,"New Orleans, LA 70119",None,None,2020.4.11,None
+2,710565,"250 N Forest St., Bellingham, WA 98225",U-lock and cable,"Lock is missing, along with the bike",2020.4.11,None
+3,710094,"645 NW portlave ave, unit 4, Bend, OR 97703",Not locked,"Other situation, please describe below",2020.4.11,None
+4,710114,"San Jose, CA 95125",None,None,None,None
+5,710011,"1975 4th street, San Francisco, CA 94158",None,None,2020.4.11,None
+0,710018,"Portland, OR 97266",None,None,2020.4.11,Reported
+1,709937,"110 Stony Point Rd., Ste. 105, Santa Rosa, CA 95401",None,None,2020.4.11,Reported
+2,643374,"San Francisco, CA 94102",Not locked,Bike was not locked,2020.4.11,Reported
+3,711635,"Huntsville, AL 35806",None,None,2020.4.11,None
+4,721193,"23 w/e Main Street , New Holland, PA 17557",Not locked,Bike was not locked,2020.4.11,None
+0,710042,"New York, NY 10029",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.4.11,None
+1,709858,"San Francisco, CA 94115",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.4.11,Reported
+2,710181,"New Orleans, LA 70115",None,None,2020.4.11,None
+3,710170,"Foster City, CA 94404",None,None,2020.4.11,Reported
+4,369970,"Vancouver, WA 98686",Cable lock,"Lock was cut, and left at the scene",2020.4.11,None
+5,710484,"685 McAllister St, San Francisco, CA 94102",U-lock,Bike was not locked,2020.4.11,Reported
+6,705148,"Denver, CO",Chain with padlock,"Lock is missing, along with the bike",2020.4.11,None
+0,61829,"Gresham, OR 97230",None,None,2020.4.11,None
+1,710435,"Portland, OR 97211",Not locked,"Other situation, please describe below",2020.4.11,Reported
+2,711067,"Boise, ID 83703",Cable lock,"Lock is missing, along with the bike",2020.4.10,Reported
+3,709681,"San Antonio, TX 78245",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.4.10,Reported
+4,715764,"Denver, CO 80205",U-lock and cable,"Lock was cut, and left at the scene",2020.4.10,None
+5,711023,"Boise, ID 80709",Not locked,Bike was not locked,2020.4.10,Reported
+6,933764,"Portland, OR 97210",None,None,2020.4.10,Reported
+0,709532,"Salt Lake City, UT 84101",Chain with padlock,None,2020.4.10,None
+1,407293,"San Diego, CA 92108",Not locked,Bike was not locked,2020.4.10,None
+2,407296,"San Diego, CA 92108",Not locked,Bike was not locked,2020.4.10,None
+3,684701,"Bellevue, WA 98004",Cable lock,"Lock is missing, along with the bike",2020.4.10,Reported
+4,709429,"Ventura, CA 93003",None,None,2020.4.10,None
+5,709418,"Henderson, NV 89002",None,None,2020.4.10,Reported
+6,54225,"Aliso Viejo, CA 92656",None,None,2020.4.10,Reported
+7,54209,"Aliso Viejo, CA 92656",None,None,2020.4.10,Reported

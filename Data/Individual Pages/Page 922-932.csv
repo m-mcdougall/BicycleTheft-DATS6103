@@ -1,0 +1,67 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,778479,"Bloomington, IN 47403",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.28,Reported
+1,777777,"Alameda, CA 94501",Other,"Lock is missing, along with the bike",2020.6.28,Reported
+2,777770,"Alameda, CA 94501",Other,"Lock is missing, along with the bike",2020.6.28,Reported
+3,765247,"Seattle, WA 98121",Cable lock,"Lock is missing, along with the bike",2020.6.28,Reported
+4,778335,"Santa Monica, CA 90405",None,None,2020.6.28,Reported
+5,777613,"3236 Guido St, Oakland, CA 94602",Other,"Lock is missing, along with the bike",2020.6.28,Reported
+6,777715,"Cherry Creek Mall, Denver, CO 80206",Cable lock,"Lock is missing, along with the bike",2020.6.28,Reported
+0,782891,"Seattle, WA 98112",U-lock,"Lock was cut, and left at the scene",2020.6.28,Reported
+1,778228,"10767 Woodbine St, Los Angeles, CA 90034",Cable lock,"Lock is missing, along with the bike",2020.6.28,None
+2,777391,"3236 Guido St, Oakland, CA 94602",Other,"Lock is missing, along with the bike",2020.6.28,Reported
+3,777353,"852 W Lill Ave, Chicago, IL 60614",None,None,2020.6.28,None
+4,646432,"State College, PA 16801",Cable lock,"Lock was opened, and left unharmed at the scene",2020.6.28,None
+5,780198,"610 East Capitol St NE, Washington, DC 20003",Cable lock,"Lock was cut, and left at the scene",2020.6.28,None
+0,777273,"San Diego, CA 92122",None,None,2020.6.28,None
+1,629260,"Milwaukee, WI 53211",U-lock and cable,"Lock is missing, along with the bike",2020.6.28,None
+2,41921,"E Webster & N Prospect, Milwaukee, WI 53211",U-lock and cable,"Lock is missing, along with the bike",2020.6.28,None
+3,778536,"Seattle, WA 98119",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.28,None
+4,780125,"Santa Monica, CA 90404",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.28,None
+5,629229,"3033 North Sheridan Road, Chicago, IL 60657",Not locked,Bike was not locked,2020.6.28,Reported
+6,777491,"Evergreen Park Neighborhood, Palo Alto, CA 94306",Not locked,Bike was not locked,2020.6.28,Reported
+7,777644,"Portland, OR 97211",None,None,2020.6.28,None
+0,779264,"Houston, TX 77056",U-lock,"Lock is missing, along with the bike",2020.6.28,Reported
+1,778631,"457 Greendale Way, San Jose, CA 95129",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.6.28,Reported
+2,778640,"San Jose, CA 95129",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.6.28,Reported
+3,778637,"457 Greendale Way, San Jose, CA 95129",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.6.28,Reported
+4,780758,"Woodinville, WA 98072",Not locked,"Other situation, please describe below",2020.6.28,Reported
+5,117406,"Sandy, UT 84093",None,None,2020.6.28,Reported
+6,777373,"Sandy, UT 84093",None,None,2020.6.28,Reported
+0,778508,"4445 Colbath Ave. , Sherman Oaks, CA 91423",None,"Lock is missing, along with the bike",2020.6.28,None
+1,778826,"Sandy, UT 84093",None,None,2020.6.28,Reported
+2,787856,"401 SE Main St, Minneapolis, MN 55414",Cable lock,"Lock was cut, and left at the scene",2020.6.28,Reported
+3,777665,"Dorchester, MA 02122",None,None,2020.6.28,Reported
+4,788502,"Shoreline, WA 98133",None,None,2020.6.27,Reported
+0,783837,"1170 ocean parkwy, Brooklyn, NY 11230",None,"Other situation, please describe below",2020.6.27,Reported
+1,778646,"1170 Ocean Parkway, Brooklyn, NY 11230",Not locked,None,2020.6.27,Reported
+2,778812,"Washington, DC 20003",Cable lock,"Lock was cut, and left at the scene",2020.6.27,None
+3,779885,"Florence Hallock School Park, Edmonton, T5Z 3X1",None,None,2020.6.27,Reported
+4,777025,"205 N Broadway, Aurora, IN 60505",None,None,2020.6.27,Reported
+5,776971,"Portland, OR 97213",None,None,2020.6.27,None
+6,776975,"Everett, WA 98204",Cable lock,"Lock was cut, and left at the scene",2020.6.27,Reported
+7,402703,"615 SE Main St, Portland, OR 97215",Heavy duty bicycle security chain,"Other situation, please describe below",2020.6.27,None
+0,791425,"Washington, DC 20001",U-lock and cable,"Lock is missing, along with the bike",2020.6.27,Reported
+1,399207,"Portland, OR 97239",None,None,2020.6.27,None
+2,776852,"Las Cruces, NM 88005",None,None,2020.6.27,None
+3,776780,"Aldridge Creek Greenway near Mt. Gap Rd, Huntsville, AL 35803",None,None,2020.6.27,None
+4,776822,"Colorado Springs, CO 80903",Other,Bike was not locked,2020.6.27,Reported
+5,598709,"Salt Lake City, UT 84105",Not locked,Bike was not locked,2020.6.27,Reported
+0,776669,"215 Willard North, San Francisco, CA 94118",None,None,2020.6.27,None
+1,777290,"Rochester, NY 14618",None,None,2020.6.27,None
+2,119217,"San Francisco, CA 94123",Other,"Other situation, please describe below",2020.6.27,None
+3,783235,"San Francisco, CA 94117",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.27,Reported
+4,776577,"1616 E. Ocean Blvd, Long Beach, CA",None,None,2020.6.27,None
+5,777454,"Seattle, WA 98102",None,None,2020.6.27,Reported
+6,776454,"Calgary, T2E 5A6",None,None,2020.6.27,None
+0,776477,"1720 SW 4th Ave Cyan PDX garage, Portland, OR 97201",Cable lock,"Lock was cut, and left at the scene",2020.6.27,Reported
+1,777239,"1202 Lakeview Blvd E Apt. 1, Seattle, WA 98102",None,None,2020.6.27,Reported
+2,776517,"New Orleans, LA 70115",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.27,Reported
+3,776406,"New Orleans, LA 70117",None,None,2020.6.27,Reported
+4,775919,"1821 Dupont Ave S, Minneapolis, MN 55403",Other,"Other situation, please describe below",2020.6.27,Reported
+0,776174,"1180 Broderick Street, San Francisco, CA 94115",U-lock and cable,"Lock is missing, along with the bike",2020.6.27,Reported
+1,776176,"1180 Broderick Street, San Francisco, CA 94115",U-lock and cable,"Lock is missing, along with the bike",2020.6.27,Reported
+2,776338,"Spokane, WA 99201",Cable lock,"Lock was cut, and left at the scene",2020.6.27,Reported
+3,776333,"Spokane, WA 99201",Cable lock,"Lock was cut, and left at the scene",2020.6.27,Reported
+4,776198,"Miami, FL fl",None,None,2020.6.27,None
+5,776405,"Bellevue, WA 98007",None,None,2020.6.27,Reported
+6,776159,"New York, NY 10038",None,None,2020.6.27,None

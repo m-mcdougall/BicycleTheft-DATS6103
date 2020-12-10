@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,12551,"Portland, OR 97230",None,None,2009.12.14,Reported
+1,12521,"Portland, OR 97221",None,None,2009.12.14,Reported
+2,14748,"Albuquerque, NM 87106",None,None,2009.12.14,Reported
+3,12510,"Miami Beach, FL 33140",None,None,2009.12.13,Reported
+4,12512,"Miami Beach, FL 33139",None,None,2009.12.13,Reported
+5,12544,"New York, NY 10014",None,None,2009.12.13,Reported
+6,12605,"Laurel Springs, NJ 08021",None,None,2009.12.13,None
+7,12464,"Austin, TX 78701",None,None,2009.12.12,Reported
+8,12586,"Brentwood, CA 94513",None,None,2009.12.11,Reported
+9,18712,"Portland, OR 97236",None,None,2009.12.11,None
+0,12468,"Emeryville, CA 94608",None,None,2009.12.10,None
+1,17572,"Venice, CA 90291",None,None,2009.12.10,None
+2,15631,"Fremont, CA 94538",None,None,2009.12.9,Reported
+3,12488,"Seattle, WA 98117",None,None,2009.12.8,None
+4,18693,"Berkeley, CA 94702",None,None,2009.12.8,Reported
+5,18705,"Newark, DE 19717",None,None,2009.12.8,Reported
+6,18701,"Portland, OR 97232",None,None,2009.12.8,None
+7,12486,"Stevens Point, WI 54481",None,None,2009.12.8,Reported
+8,12482,"Charlotte, NC 28223",None,None,2009.12.8,Reported
+9,12478,"Portland, OR 97209",None,None,2009.12.6,None
+0,12479,"Portland, OR 97209",None,None,2009.12.6,None
+1,18685,"Portland, OR 97206",None,None,2009.12.6,Reported
+2,21898,"Bellingham, WA 98225",None,None,2009.12.5,Reported
+3,12471,"Springfield, MO 75804",None,None,2009.12.5,None
+4,12490,"Seattle, WA 98103",None,None,2009.12.5,None
+5,12461,"Santa Barbara, CA 93101",None,None,2009.12.4,Reported
+6,12470,"San Francisco, CA 94117",None,None,2009.12.4,Reported
+7,13180,"Syracuse, NY 13210",None,None,2009.12.4,None
+8,18680,"Falls Church, VA 22046",None,None,2009.12.4,None
+0,12451,"Philadelphia, PA 19123",None,None,2009.12.4,Reported
+1,12462,"Morro Bay, CA 93442",None,None,2009.12.4,None
+2,12457,"Portland, OR",None,None,2009.12.4,None
+3,12500,"West Lafayette, IN 47906",None,None,2009.12.4,None
+4,12446,"Somerville, MA 02144",None,None,2009.12.3,None
+5,12447,"Portland, OR 97201",None,None,2009.12.3,None
+6,12497,"Portland, OR",None,None,2009.12.3,None
+7,13933,"Tampa, FL 33612",None,None,2009.12.3,None
+8,12495,"Portland, OR 97206",None,None,2009.12.3,Reported
+0,12489,"Portland, OR 97203",None,None,2009.12.3,None
+1,12642,"Portland, OR",None,None,2009.12.3,None
+2,12493,"Evanston, IL 60201",None,None,2009.12.2,Reported
+3,12431,"Atlanta, GA 30307",None,None,2009.12.2,None
+4,22324,"Bellingham, WA 98825",None,None,2009.12.2,None
+5,12438,"Portland, OR 97212",None,None,2009.12.2,Reported
+6,12448,"Portland, OR 97201",None,None,2009.12.2,Reported
+7,12440,"Lafayette, LA 70503",None,None,2009.12.2,None
+8,12433,"Portland, OR 97206",None,None,2009.12.1,None
+9,19594,"Evanston, IL 60201",None,None,2009.12.1,None
+0,12442,"Portland, OR 97206",None,None,2009.12.1,Reported
+1,14287,"Portland, OR 97215",None,None,2009.12.1,None
+2,19366,"Portland, OR 97215",None,None,2009.12.1,Reported
+3,12492,"Torrance, CA 90505",None,None,2009.12.1,None
+4,24114,"Dunedin, FL 33759",None,None,2009.12.1,None
+5,12553,"Seattle, WA 98122",None,None,2009.12.1,None
+6,18681,"Dallas, TX 75238",None,None,2009.12.1,Reported
+7,12505,"San Francisco, CA 94137",None,None,2009.11.30,None
+8,14433,"San Diego, CA 92116",None,None,2009.11.30,None
+9,12441,"Portland, OR 97215",None,None,2009.11.30,None
+0,18687,"Santa Cruz, CA 95060",None,None,2009.11.30,None
+1,12402,"San Francisco, CA 94111",None,None,2009.11.30,None
+2,12467,"Atlanta, GA 30309",None,None,2009.11.30,None
+3,18671,"Portland, OR 97209",None,None,2009.11.30,None
+4,18652,"San Francisco, CA 94102",None,None,2009.11.29,Reported
+5,12420,"Austin, TX 78751",None,None,2009.11.29,Reported
+6,14867,"Menomonie, WI 54751",None,None,2009.11.29,None
+7,12524,"Portland, OR 97209",None,None,2009.11.29,None
+8,12444,"Fairfax, CA 94930",None,None,2009.11.29,None
+9,18650,"Tempe, AZ 85282",None,None,2009.11.29,Reported
+0,12412,"Portland, OR 97210",None,None,2009.11.28,None
+1,12395,"Tempe, AZ 85287",None,None,2009.11.28,Reported
+2,12410,"Lincoln, NE 68503",None,None,2009.11.28,Reported
+3,12411,"Portland, OR 97202",None,None,2009.11.28,None
+4,13898,"Oakland, CA 94609",None,None,2009.11.28,None
+5,18644,"Tempe, AZ 85287",None,None,2009.11.28,Reported
+6,18662,"Gulf Shores, AL 36542",None,None,2009.11.27,Reported
+7,67077,"San Francisco, CA 94118",Cable lock,"Lock is missing, along with the bike.",2009.11.27,None
+8,12425,"New York, NY 10121",None,None,2009.11.27,None
+9,12393,"Portland, OR 97204",None,None,2009.11.27,None
+0,12418,"Palo Alto, CA 94025",None,None,2009.11.27,Reported
+1,15082,"Beaverton, OR 97006",None,None,2009.11.27,Reported
+2,17527,"Portland, OR 97204",None,None,2009.11.27,None
+3,12405,"Decatur, GA 30033",None,None,2009.11.26,None
+4,12408,"Denver, CO 80209",None,None,2009.11.26,Reported
+5,12377,"Portland, OR 97232",None,None,2009.11.26,Reported
+6,12375,"Portland, OR 97232",None,None,2009.11.26,Reported
+7,18052,"La Jolla, CA 92092",None,None,2009.11.26,None
+8,12499,"San Francisco, CA 94107",None,None,2009.11.25,Reported
+9,18659,"Portland, OR 97205",None,None,2009.11.25,None
+0,18677,"Mesa, AZ 85206",None,None,2009.11.25,None
+1,12360,"Portland, OR 97219",None,None,2009.11.25,Reported
+2,12342,"Portland, OR 97209",None,None,2009.11.24,None
+3,12363,"Ft. Lauderdale, FL 33316",None,None,2009.11.24,Reported
+4,12394,"Portland, OR 97217",None,None,2009.11.24,None
+5,20085,"San Francisco, CA 94117",None,None,2009.11.24,None
+6,18690,"St. Louis, MO 63112",None,None,2009.11.24,Reported
+7,12334,"Newtown, PA 18940",None,None,2009.11.24,None
+8,12324,"Portland, OR 97202",None,None,2009.11.23,Reported
+9,12389,"Kansas City, MO 64111",None,None,2009.11.23,Reported

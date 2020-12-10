@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,19008,"Oakwood, GA 30566",None,None,2013.5.5,Reported
+1,7880,"Portland, OR 97211",None,None,2013.5.5,Reported
+2,20555,"Portland, OR 97206",None,None,2013.5.5,None
+3,18588,"Beaumont, TX 77706",None,None,2013.5.4,Reported
+4,20542,"Portland, OR 97214",None,None,2013.5.4,None
+5,18599,"Renton, WA 98058",None,None,2013.5.4,Reported
+6,18056,"Lewisvlle, TX 75077",None,None,2013.5.4,Reported
+7,20551,"San Francisco, CA 94110",None,None,2013.5.4,None
+8,22172,"Chicago, IL 60614",None,None,2013.5.4,Reported
+9,10101,"Philadelphia, PA 19104",None,None,2013.5.4,None
+0,14817,"Portland, OR 97211",None,None,2013.5.4,Reported
+1,15808,"Provo, UT 84606",None,None,2013.5.4,None
+2,18188,"Granada Hills, CA 91344",None,None,2013.5.4,None
+3,18112,"Seattle, WA 98119",None,None,2013.5.4,None
+4,14818,"Brooklyn, NY 11201",None,None,2013.5.4,None
+5,15485,"Portland, OR 97220",None,None,2013.5.4,Reported
+6,51303,"Missoula, MT",Not locked,Bike was not locked,2013.5.3,None
+7,14877,"Portland, OR 97212",None,None,2013.5.3,Reported
+8,14814,"Berkeley, CA 94720",None,None,2013.5.3,Reported
+9,18023,"Denver, CO 80213",None,None,2013.5.3,None
+0,18580,"Tucson, AZ 85712",None,None,2013.5.3,Reported
+1,14827,"Vancouver, WA 98661",None,None,2013.5.3,Reported
+2,20550,"Seattle, WA 98104",None,None,2013.5.3,Reported
+3,14808,"St Paul, MN 55105",None,None,2013.5.3,None
+4,14834,"Piscataway, NJ 08854",None,None,2013.5.2,Reported
+5,18571,"Portland, OR 97207",None,None,2013.5.2,None
+6,14800,"Boise, ID 83702",None,None,2013.5.2,None
+7,14971,"Austin, TX 78704",None,None,2013.5.2,None
+8,17976,"San Luis Obispo, CA 93401",None,None,2013.5.2,None
+9,20538,"Chula Vista, CA 91913",None,None,2013.5.2,None
+0,11235,"Portland, OR 97217-2164",None,None,2013.5.2,Reported
+1,11234,"Portland, OR 97217",None,None,2013.5.2,Reported
+2,18377,"Bellingham, WA 98225",None,None,2013.5.2,None
+3,20568,"Seattle, WA 98112",None,None,2013.5.2,Reported
+4,19536,"King Of Prussia, PA 19406",None,None,2013.5.2,Reported
+5,20536,"San, CA 92103",None,None,2013.5.2,None
+6,15083,"Bozeman, MT 59715",None,None,2013.5.1,Reported
+7,20541,"Chicago, IL 60608",None,None,2013.5.1,Reported
+8,17959,"San Diego, CA 92116",None,None,2013.5.1,None
+9,14787,"San Francisco, CA 94105",None,None,2013.5.1,None
+0,35343,"Berkeley, CA 94709",Not locked,None,2013.5.1,None
+1,18027,"San Francisco, CA 94114",None,None,2013.5.1,Reported
+2,17972,"Knoxville, TN 37902",None,None,2013.5.1,None
+3,14897,"Salt Lake City, UT 84102",None,None,2013.5.1,Reported
+4,14804,"Seattle, WA 98107",None,None,2013.5.1,Reported
+5,14789,"Columbus, OH 43201",None,None,2013.5.1,Reported
+6,14797,"Washington, DC 20001",None,None,2013.5.1,Reported
+7,20566,"Portland, OR 97211",None,None,2013.5.1,None
+8,19000,"Stevens Point, WI 54481",None,None,2013.5.1,None
+9,21870,"Salt Lake City, UT 84103",None,None,2013.5.1,None
+0,20545,"Seattle, WA 98107",None,None,2013.5.1,None
+1,19775,"Rochester, MN 55904",None,None,2013.5.1,None
+2,16938,"Portland Oregon, OR",None,None,2013.5.1,Reported
+3,17998,"Santa Barbara, CA 93101",None,None,2013.5.1,Reported
+4,18942,"Denver, CO 80209",None,None,2013.5.1,Reported
+5,18143,"Burlingame, CA 94010",None,None,2013.5.1,Reported
+6,11257,"Portland, OR 97216",None,None,2013.4.30,Reported
+7,14610,"San Francisco, CA 94110",None,None,2013.4.30,Reported
+8,14820,"Denver, CO 80203",None,None,2013.4.30,None
+9,14810,"La Jolla, CA 92037",None,None,2013.4.30,Reported
+0,20531,"Chula Vista, CA 91911",None,None,2013.4.30,None
+1,17885,"Portland, OR 97232",None,None,2013.4.30,None
+2,17906,"Salt Lake City, UT 84112",None,None,2013.4.30,Reported
+3,18016,"La Jolla, CA 92037",None,None,2013.4.30,Reported
+4,19893,"Portland, OR 97209",None,None,2013.4.30,Reported
+5,17942,"Berkeley, CA 94720",None,None,2013.4.30,Reported
+6,15095,"Brooklyn, NY 11217",None,None,2013.4.30,Reported
+7,16852,"Carlsbad, CA 92010",None,None,2013.4.30,Reported
+8,17883,"Portland, OR 97210",None,None,2013.4.29,Reported
+9,17863,"Portland, OR 97205",None,None,2013.4.29,Reported
+0,7861,"Portland, OR 97206",None,None,2013.4.29,Reported
+1,14765,"Milwaukee, WI 53212",None,None,2013.4.29,None
+2,11179,"Manassas, VA 20110",None,None,2013.4.29,Reported
+3,14766,"Pembroke, FL 33025",None,None,2013.4.29,None
+4,14864,"Portland, OR 97210",None,None,2013.4.29,Reported
+5,14779,"Portland, OR 97202",None,None,2013.4.29,Reported
+6,17899,"Portland, OR 97266",None,None,2013.4.29,Reported
+7,11192,"Coronado, CA 92118",None,None,2013.4.29,Reported
+8,7770,"Coronado, CA 92118",Not locked,Bike was not locked,2013.4.29,Reported
+9,14760,"Denton, TX 76203",None,None,2013.4.29,None
+0,14759,"Brooklyn, NY 11217",None,None,2013.4.28,None
+1,11191,"San Francisco, CA 94118",None,None,2013.4.28,Reported
+2,14884,"Houston, TX 77004",None,None,2013.4.28,None
+3,14937,"Long, CA 90802",None,None,2013.4.28,Reported
+4,10057,"San Antonio, TX 78247",None,None,2013.4.28,Reported
+5,14745,"Provo, UT 84605",None,None,2013.4.28,None
+6,14774,"Durham, NC 27703",None,None,2013.4.28,Reported
+7,14736,"Portland, OR 97202",None,None,2013.4.28,Reported
+8,20901,"San Diego, CA 92115",None,None,2013.4.27,Reported
+9,14843,"Oakland, CA 94611",None,None,2013.4.27,Reported
+0,11771,"Tucson, AZ 85705",None,None,2013.4.27,Reported
+1,14742,"Seattle, WA 98103",None,None,2013.4.27,None
+2,14761,"Fort Collins, CO 80521",None,None,2013.4.27,Reported
+3,18436,"Portland, OR 97214",None,None,2013.4.27,Reported
+4,18498,"Milwaukie, OR 97222",None,None,2013.4.27,Reported
+5,18448,"Portland, OR 97203",None,None,2013.4.27,Reported
+6,17781,"Portland, OR 97218",None,None,2013.4.27,Reported
+7,14757,"Somerville, MA 02143",None,None,2013.4.27,None
+8,18441,"Tacoma, WA 98405",None,None,2013.4.27,Reported
+9,20882,"Portland, OR 97210",None,None,2013.4.27,Reported

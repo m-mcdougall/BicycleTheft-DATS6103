@@ -1,0 +1,93 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,6285,"Richmond, VA 23220",None,None,2008.3.20,None
+1,7387,"Portland, OR 97217",None,None,2008.3.19,None
+2,7224,"Studio City, CA 91604",None,None,2008.3.19,None
+3,7370,"Marquette, MI 49855",None,None,2008.3.19,None
+4,7772,"Lowell, MA 01854",None,None,2008.3.19,None
+5,7386,"Washington, DC 20004",None,None,2008.3.17,None
+6,7368,"Englewood, CO 80110",None,None,2008.3.17,None
+7,7672,"Englewood, CO 80110",None,None,2008.3.17,None
+8,7362,"Englewood, CO 80110",None,None,2008.3.17,None
+9,7356,"Austin, TX 78704",None,None,2008.3.16,None
+0,10965,"San Francisco, CA 94117",None,None,2008.3.16,None
+1,9190,"Sanford, FL 32771",None,None,2008.3.16,Reported
+2,7403,"Tallahassee, FL 32301",None,None,2008.3.15,None
+3,7349,"Washington, DC 20009",None,None,2008.3.15,None
+4,7180,"Portland, OR 97211",None,None,2008.3.14,None
+5,7177,"Dahlonega, GA 30533",None,None,2008.3.12,Reported
+6,9114,"Los Angeles, CA 90020",None,None,2008.3.12,None
+7,6999,"Awhatukee, AZ 85048",None,None,2008.3.11,None
+8,7334,"Philadelphia, PA 19125",None,None,2008.3.11,None
+0,7347,"Ames, IA 50010",None,None,2008.3.11,None
+1,7346,"Boulder, CO 80302",None,None,2008.3.10,None
+2,5899,"Fort Collins, CO 80521",None,None,2008.3.10,None
+3,7325,"Brooklyn, NY 11217",None,None,2008.3.9,None
+4,7311,"Tampa, FL 33614",None,None,2008.3.7,None
+5,7326,"Pleasant Hill, CA 94523",None,None,2008.3.7,None
+6,7343,"Los Angeles, CA 90007",None,None,2008.3.6,None
+7,5775,"Palo Alto, CA 94304",None,None,2008.3.6,None
+8,10636,"Seattle, WA 98107",None,None,2008.3.6,None
+0,7328,"Tucson, AZ 85719",None,None,2008.3.5,None
+1,7330,"Mesa, AZ 85208",None,None,2008.3.5,None
+2,7304,"Pleasant Hill, CA 94523",None,None,2008.3.4,None
+3,9082,"San Francisco, CA 94114",None,None,2008.3.4,None
+4,10637,"Sacramento, CA 95817",None,None,2008.3.3,Reported
+5,9085,"Sunnyvale, CA 94087",None,None,2008.3.2,None
+6,8326,"Edison, NJ 08837",None,None,2008.3.1,None
+7,6327,"Seattle, WA 98199",None,None,2008.3.1,None
+8,6330,"Fort Collins, CO 80525",None,None,2008.3.1,None
+9,6342,"New Orleans, LA 70130",None,None,2008.3.1,None
+0,383599,"Saint Louis, MO 63116",Not locked,Bike was not locked,2008.3.1,None
+1,7305,"Arlington, VA 22204",None,None,2008.3.1,None
+2,9087,"Atlanta, GA 30309",None,None,2008.3.1,None
+3,7300,"Alameda, CA 94501",None,None,2008.3.1,None
+4,7549,"Portland, OR 97233",None,None,2008.3.1,None
+5,7298,"Gainesville, FL 32611",None,None,2008.2.29,None
+6,7291,"Seattle, WA 98107",None,None,2008.2.29,None
+7,9074,"Portland, OR 97201",None,None,2008.2.29,None
+8,6545,"Mountain View, CA 94040",None,None,2008.2.29,None
+9,7301,"Seattle, WA 98104",None,None,2008.2.28,None
+0,6544,"Boulder, CO 80301",None,None,2008.2.28,None
+1,7297,"Eugene, OR 97402",None,None,2008.2.28,None
+2,10899,"Baltimore, MD 21230",None,None,2008.2.26,None
+3,10900,"Denver, CO 80202",None,None,2008.2.26,None
+4,7289,"Spartanburg, SC 29303",None,None,2008.2.26,None
+5,7272,"Portland, OR 97204",None,None,2008.2.25,None
+6,10979,"Melbourne, FL 32934",None,None,2008.2.25,None
+7,6557,"Orlando, FL 32804",None,None,2008.2.25,None
+8,6537,"Phoenix, AZ 85048",None,None,2008.2.25,None
+9,7280,"Richardson, TX 75080",None,None,2008.2.25,None
+0,10962,"San Jose, CA 95113",None,None,2008.2.24,None
+1,6541,"Bellingham, WA 98225",None,None,2008.2.24,None
+2,7310,"San Francisco, CA 94105",None,None,2008.2.23,None
+3,6958,"Saint Petersburg, FL 33701",None,None,2008.2.23,None
+4,10887,"Seattle, WA 98105",None,None,2008.2.23,None
+5,7266,"Westminster, CO 80021",None,None,2008.2.22,None
+6,7263,"East Lansing, MI 48825",None,None,2008.2.21,None
+7,9218,"Eugene, OR 97403",None,None,2008.2.21,None
+8,7279,"Cameron Park, CA 95682",None,None,2008.2.20,None
+9,7267,"Salt Lake City, UT 84116",None,None,2008.2.19,None
+0,7283,"Salt Lake City, UT 84116",None,None,2008.2.19,None
+1,7257,"San Francisco, CA 94107",None,None,2008.2.19,None
+2,10977,"Austin, TX 78705",None,None,2008.2.19,None
+3,7277,"Salt Lake City, UT 84116",None,None,2008.2.19,None
+4,7248,"Boston, MA 02115",None,None,2008.2.19,None
+5,6535,"Missoula, MT 59808",None,None,2008.2.17,None
+6,7260,"Austin, TX 78705",None,None,2008.2.16,None
+7,7235,"Berkeley, CA 94709",None,None,2008.2.14,None
+0,7269,"Berkeley, CA 94704",None,None,2008.2.14,None
+1,7232,"Millbrae, CA 94030",None,None,2008.2.14,None
+2,7324,"Denver, CO 80203",None,None,2008.2.14,None
+3,6324,"Seattle, WA 98107",None,None,2008.2.13,None
+4,6326,"Las Vegas, NV 91405",None,None,2008.2.12,None
+5,6322,"East Lansing, MI 48823",None,None,2008.2.11,None
+6,6539,"Seattle, WA 98109",None,None,2008.2.10,None
+0,9078,"Marquette, MI 49855",None,None,2008.2.10,None
+1,5889,"Berkeley, CA 94720",None,None,2008.2.9,None
+2,7222,"Berkeley, CA 94704",None,None,2008.2.8,None
+3,9036,"Flemington, NJ 08822",None,None,2008.2.8,None
+4,10859,"Austin, TX 78704",None,None,2008.2.7,None
+5,7217,"Modesto, CA 95356",None,None,2008.2.7,None
+6,7216,"Tampa, FL 33629",None,None,2008.2.6,None
+7,7336,"St. Paul, MN 55104",None,None,2008.2.6,None
+8,9043,"Los Angeles, CA 90024",None,None,2008.2.6,None

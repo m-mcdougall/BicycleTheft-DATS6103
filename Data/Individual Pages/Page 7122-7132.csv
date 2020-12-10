@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,19908,"Seattle, WA 98107",None,None,2013.2.9,Reported
+1,15450,"Los Angeles, CA 90007",None,None,2013.2.9,None
+2,17068,"Portland, OR 97217",None,None,2013.2.9,Reported
+3,15398,"San Francisco, CA 94111",None,None,2013.2.9,None
+4,15606,"Oxnard, CA 93033",None,None,2013.2.9,Reported
+5,15560,"Kailua, HI 96734",None,None,2013.2.9,Reported
+6,15449,"Portland, OR 97213",None,None,2013.2.9,None
+7,17054,"Seattle, WA 98107",None,None,2013.2.9,Reported
+8,16650,"Los Altos, CA 94022",None,None,2013.2.9,None
+9,13845,"San Francisco, CA 94110",None,None,2013.2.9,None
+0,13909,"Campbell, CA 95008",None,None,2013.2.8,Reported
+1,15584,"San Francisco, CA 94109",None,None,2013.2.8,Reported
+2,19918,"Vancouver, WA 98664",None,None,2013.2.8,None
+3,13820,"Berkeley, CA 94703",None,None,2013.2.8,Reported
+4,15588,"San Francisco, CA 94109",None,None,2013.2.8,Reported
+5,13867,"Salt Lake City, UT 84111",None,None,2013.2.8,None
+6,15393,"La Jolla, CA 92037",None,None,2013.2.8,Reported
+7,19970,"Seattle, WA 98121",None,None,2013.2.8,None
+8,15385,"Portland, OR 97209",None,None,2013.2.8,Reported
+9,13836,"San Francisco, CA 94114",None,None,2013.2.7,Reported
+0,13989,"Seattle, WA 98199",None,None,2013.2.7,Reported
+1,19900,"Gilbert, AZ 85234",None,None,2013.2.7,Reported
+2,377821,"Olympia, WA 98516",Not locked,"Other situation, please describe below.",2013.2.7,Reported
+3,13811,"San Diego, CA 92109",None,None,2013.2.7,None
+4,16334,"Portland, OR 97211",None,None,2013.2.7,None
+5,13798,"Lake Worth, FL 33461",None,None,2013.2.6,None
+6,15409,"Portland, OR 97214",None,None,2013.2.6,Reported
+7,15407,"Los Angeles, CA 90006",None,None,2013.2.6,Reported
+8,14793,"Corte Madera, CA 94925",None,None,2013.2.6,Reported
+9,22357,"Portland, OR 97213",None,None,2013.2.6,Reported
+0,15313,"Ellensburg, WA 98926",None,None,2013.2.5,Reported
+1,15319,"Kingston, WA 98346, needsync=1",None,None,2013.2.5,Reported
+2,13826,"San Diego, CA 92103",None,None,2013.2.5,Reported
+3,17031,"Portland, OR 97214",None,None,2013.2.5,None
+4,22683,"Los Angeles, CA 90005",None,None,2013.2.5,Reported
+5,15326,"Portland, OR 97211",None,None,2013.2.5,Reported
+6,13795,"Austin, TX 78705",None,None,2013.2.5,Reported
+7,13793,"Tucson, AZ 85719",None,None,2013.2.5,Reported
+8,14080,"Jennings Lodge, OR 97267",None,None,2013.2.5,None
+9,13789,"Portland, OR 97206",None,None,2013.2.4,None
+0,15294,"Charlotte, NC 28217",None,None,2013.2.4,None
+1,19882,"Bellingham, WA 98225",None,None,2013.2.4,Reported
+2,15305,"Buffalo, NY 14209",None,None,2013.2.4,None
+3,7481,"Tucson, AZ 85705",None,None,2013.2.4,Reported
+4,22679,"Portland, OR 97266",None,None,2013.2.4,Reported
+5,15342,"Pleasant Hill, CA 94523",None,None,2013.2.4,Reported
+6,13787,"Bellingham, WA 98225",None,None,2013.2.4,Reported
+7,654250,"New Orleans, LA 70130",Cable lock,"Lock is missing, along with the bike",2013.2.3,Reported
+8,9661,"Beaverton, OR 97005",None,None,2013.2.3,None
+9,17030,"Berkeley, CA 94709",None,None,2013.2.3,None
+0,10018,"Austin, TX 78757",None,None,2013.2.3,Reported
+1,15324,"Beaumont, TX 77706",None,None,2013.2.3,Reported
+2,22743,"San Francisco, CA 94110",None,None,2013.2.3,Reported
+3,6268,"Rohnert Park, CA 94928",None,None,2013.2.3,None
+4,13823,"Pdx, OR",None,None,2013.2.3,Reported
+5,19873,"Coronado, CA 91255",None,None,2013.2.3,None
+6,13665,"Portland, OR 97206",None,None,2013.2.3,Reported
+7,22676,"Portland, OR 97229",None,None,2013.2.3,None
+8,22678,"Ellengsburg, WA",None,None,2013.2.2,Reported
+9,13772,"Portland, OR 97205",None,None,2013.2.2,None
+0,15693,"Munich/Germany, AK 81379",None,None,2013.2.2,None
+1,13785,"Portland, OR 97212",None,None,2013.2.2,None
+2,15270,"San Francisco, CA 94110",None,None,2013.2.2,None
+3,22687,"Portland, OR 97217",None,None,2013.2.2,Reported
+4,22677,"Portland, OR 97266",None,None,2013.2.2,Reported
+5,15430,"Portland, OR 97211",None,None,2013.2.2,None
+6,22673,"Portland, OR 97215",None,None,2013.2.2,None
+7,16240,"Albany, NY 12203",None,None,2013.2.2,None
+8,15302,"Portland, OR 97280",None,None,2013.2.2,None
+9,15308,"Ellensburg, WA 98926",None,None,2013.2.2,Reported
+0,9183,"San Francisco, CA 94114",None,None,2013.2.1,None
+1,14034,"Portland, OR 97236",None,None,2013.2.1,Reported
+2,19997,"Portland, OR 97214",None,None,2013.2.1,None
+3,15252,"Beaverton, OR 97005",None,None,2013.2.1,Reported
+4,22340,"Portland, OR 97206",None,None,2013.2.1,Reported
+5,8586,"East Los Angeles, CA 90022",None,None,2013.2.1,None
+6,10323,"Portland, OR 97239",None,None,2013.2.1,Reported
+7,13767,"San Francisco, CA 94103",None,None,2013.2.1,None
+8,13752,"San Francisco, CA 94103",None,None,2013.2.1,None
+0,13726,"San Francisco, CA 94103",None,None,2013.2.1,None
+1,10263,"Clackamas/Happy Valley, OR 97086",None,None,2013.2.1,Reported
+2,13057,"Portland, OR 97210",None,None,2013.2.1,None
+3,15233,"Portland, OR 97215",None,None,2013.1.31,Reported
+4,19891,"North Little Rock, AR 72116",None,None,2013.1.31,Reported
+5,15194,"Portland, OR 97232",None,None,2013.1.31,None
+6,19847,"San Francisco, CA 94114",None,None,2013.1.31,Reported
+7,21597,"San Bruno, CA 94066",None,None,2013.1.31,Reported
+8,15211,"Santa Clara, CA 95050",None,None,2013.1.31,Reported
+9,15248,"Portland, OR 97202",None,None,2013.1.31,Reported
+0,22675,"Everett, WA 98201",None,None,2013.1.31,Reported
+1,13724,"Portland, OR 97202",None,None,2013.1.31,Reported
+2,18107,"Portland, OR 97213",None,None,2013.1.31,None
+3,13805,"Los Angeles, CA 90013",None,None,2013.1.31,None
+4,15278,"Tucson, AZ 85719",None,None,2013.1.31,Reported
+5,15156,"Oakland, CA 94608",None,None,2013.1.30,None
+6,13718,"San Francisco, CA 94114",None,None,2013.1.30,Reported
+7,13792,"Garland, TX 75044",None,None,2013.1.30,Reported
+8,15158,"Portland, OR 97203",None,None,2013.1.30,None
+9,19838,"San Francisco, CA 94114",None,None,2013.1.30,Reported

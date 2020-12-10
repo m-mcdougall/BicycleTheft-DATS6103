@@ -1,0 +1,79 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,745343,"1001 Speight Ave. , Waco, TX 76706",Cable lock,"Lock is missing, along with the bike",2020.5.25,Reported
+1,746940,"Portland, OR 97206",None,None,2020.5.25,Reported
+2,751240,"Arlington, MA 02474",Other,None,2020.5.25,Reported
+3,750653,"Menlo Park, CA 94025",Not locked,"Other situation, please describe below",2020.5.25,Reported
+4,745913,"13905 MO 5, Sunrise Beach, MO 65079-5735",Other,"Other situation, please describe below",2020.5.25,None
+5,750297,"9520 Lucerne, Culver City, CA 90232",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.5.25,Reported
+6,745870,"3255 Las Palmas Street, Houston, TX 77027",None,None,2020.5.25,Reported
+7,747206,"Portland, OR 97232",None,None,2020.5.25,Reported
+0,747250,"San Francisco, CA",Other,"Other situation, please describe below",2020.5.25,Reported
+1,745445,"2417 w 32nd ave, Denver, CO 80211",Cable lock,"Lock is missing, along with the bike",2020.5.25,Reported
+2,745685,"2005 Sarasota Ln, Hayward, CA 94545",None,None,2020.5.25,Reported
+3,747031,"Portland, OR 97217",None,None,2020.5.25,Reported
+4,747242,"Colorado Springs, CO 80909",None,None,2020.5.25,Reported
+0,744927,"Spokane, WA 99203",Cable lock,"Lock was cut, and left at the scene",2020.5.24,Reported
+1,744896,"Spokane, WA 99218",None,None,2020.5.24,None
+2,744862,"Palo Alto, CA 94306",None,None,2020.5.24,None
+3,744864,"Palo Alto, CA 94306",Not locked,"Lock was cut, and left at the scene",2020.5.24,None
+4,745832,"Berkeley, CA 94720-3310",None,None,2020.5.24,Reported
+5,744806,"Seattle, WA 98119",None,None,2020.5.24,None
+6,745405,"Berkeley, CA 94702",None,"Lock was opened, and left unharmed at the scene",2020.5.24,Reported
+7,744731,"New York, NY 10024-6650",Cable lock,"Lock was cut, and left at the scene",2020.5.24,None
+8,744754,"Oak Cemetery , Medford, MA 02155",Cable lock,"Lock is missing, along with the bike",2020.5.24,None
+9,744729,"10270 NE 12th St., Bellevue, WA 98004",U-lock and cable,"Other situation, please describe below",2020.5.24,Reported
+0,744747,"Bellevue, WA 98004",U-lock and cable,"Other situation, please describe below",2020.5.24,Reported
+1,744857,"Salt Lake City, UT 84102",None,None,2020.5.24,Reported
+2,923833,"New Orleans, LA 70117",Cable lock,"Lock is missing, along with the bike",2020.5.24,Reported
+3,744621,"5th and Fir st. @ CVS , San Diego, CA 92112",U-lock,None,2020.5.24,Reported
+4,744537,"Tolucalake, CA 91602",None,None,2020.5.24,None
+5,744477,"Miami Beach, FL 33139",Not locked,Bike was not locked,2020.5.24,Reported
+6,744474,"Phoenix, AZ 85323",None,None,2020.5.24,None
+7,744453,"Kenmore, NY 14217",None,None,2020.5.24,None
+8,744461,"San Antonio, TX 78247",None,None,2020.5.24,Reported
+0,744455,"14701 River Walk Way, Woodbridge, VA 22191",None,None,2020.5.24,Reported
+1,744512,"9160 Madison Ave, Orangevale, CA 95662",Not locked,None,2020.5.24,None
+2,745751,"Louis pasteur drive, San Antonio, TX 78229",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.5.24,Reported
+3,746519,"448 throckmorton, Mill Valley, CA 94941",Not locked,"Lock is missing, along with the bike",2020.5.24,None
+4,749135,"San Francisco, CA 94118",None,None,2020.5.24,Reported
+5,744714,"Boise, ID 83704",Not locked,"Other situation, please describe below",2020.5.24,Reported
+6,747337,"Highlands Ranch, CO 80129",None,None,2020.5.24,Reported
+7,785532,"1963 Saint St, Richland, WA 99354",None,None,2020.5.24,None
+0,65910,"Renton, WA 98055",Not locked,Bike was not locked,2020.5.24,Reported
+1,744240,"San Mateo, CA 94403",None,None,2020.5.23,None
+2,749348,"Tampa, FL 33635",Not locked,"Other situation, please describe below",2020.5.23,Reported
+3,746602,"Bend, OR 97703",Other,"Other situation, please describe below",2020.5.23,Reported
+4,744181,"Bellevue, WA",None,None,2020.5.23,None
+5,744178,"7708 20th St SE, Lake Stevens, WA",None,None,2020.5.23,None
+6,750185,"Rochester, NY 14620",U-lock,"Lock is missing, along with the bike",2020.5.23,Reported
+7,746564,"Bend, OR 97703",Other,"Other situation, please describe below",2020.5.23,Reported
+8,744138,"3255 S. Dorsey Ln. , Tempe, AZ 85282-3958",U-lock and cable,"Lock is missing, along with the bike",2020.5.23,Reported
+0,744089,"Seattle, WA 98104",Cable lock,"Lock was cut, and left at the scene",2020.5.23,Reported
+1,744092,"Odenton, MD 21113",Cable lock,None,2020.5.23,Reported
+2,782797,"Minneapolis, MN 55416",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.5.23,Reported
+3,746390,"Saint Paul, MN 55114",U-lock,"Lock is missing, along with the bike",2020.5.23,Reported
+4,744009,"San Jose, CA 95112",None,None,2020.5.23,None
+5,743832,"Austin, TX 78749-1448",None,None,2020.5.23,None
+6,684640,"Seattle, WA 98117",Not locked,Bike was not locked,2020.5.23,None
+7,744564,"Eugene, OR 97405",None,None,2020.5.23,Reported
+8,373687,"Boulder, CO 80304",Not locked,Bike was not locked,2020.5.23,Reported
+0,744002,"Bothell, WA 98011",U-lock and cable,None,2020.5.23,Reported
+1,745327,"San Francisco, CA 94114",U-lock and cable,Bike was not locked,2020.5.23,Reported
+2,743749,"Oakland, CA 94608",Not locked,"Other situation, please describe below",2020.5.23,Reported
+3,746123,"URBAN ORE: 900 Murray St, Berkeley, CA 94710",Not locked,None,2020.5.23,Reported
+4,743569,"6103 Latona Ave NE, Seattle, WA 98115",None,None,2020.5.23,None
+5,745938,"Culver City, CA 90230",None,None,2020.5.23,None
+6,743383,"769 Joaquin Ave, San Leandro, CA 94577",None,None,2020.5.23,Reported
+7,391198,"600 Bellevue Ave E, Seattle, WA 98102",U-lock,"Lock is missing, along with the bike",2020.5.23,Reported
+0,744523,"Albuquerque, NM 87106",Other,"Other situation, please describe below",2020.5.23,Reported
+1,743356,"769 Joaquin Ave, San Leandro, CA 94577",None,None,2020.5.23,None
+2,765872,"New Orleans, LA 70118",None,None,2020.5.23,None
+3,743345,"Mission St, San Francisco, CA 94110",Cable lock,"Lock is missing, along with the bike",2020.5.23,None
+4,749815,"Sea Tac, WA 98188",None,None,2020.5.23,Reported
+0,743498,"Larkin and Filbert, San Francisco, CA 94109",None,None,2020.5.23,Reported
+1,744581,"Seattle, WA 98125",None,None,2020.5.23,Reported
+2,743391,"San Francisco, CA 94109",None,None,2020.5.23,Reported
+3,754270,"Santa Clara, CA 95054",Other,"Other situation, please describe below",2020.5.23,Reported
+4,743229,"841 Olive Ave, South San Francisco, CA 94080",None,None,2020.5.23,None
+5,743736,"Los Angeles, CA 90026",None,None,2020.5.23,Reported
+6,707640,"Washington, DC 20003",Other,"Other situation, please describe below",2020.5.23,Reported

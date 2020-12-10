@@ -1,0 +1,79 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,617598,"Buffalo, NY 14222",U-lock,None,2019.6.7,None
+1,617586,"5060-5080 State Street , Kelseyville, CA 95451",Other,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.6.7,None
+2,617585,"122nd Ne Glisan, Portland, OR 97220",None,None,2019.6.7,None
+3,462448,"Oakland, CA 94609",U-lock,"Lock was cut, and left at the scene.",2019.6.7,None
+4,617843,"Indianapolis, IN 46202",None,None,2019.6.7,None
+5,617562,"Portland, OR 97214",None,None,2019.6.6,Reported
+6,617610,"Washington, DC 20009",Other,"Other situation, please describe below.",2019.6.6,Reported
+0,617524,"Cincinnati, OH 45206",None,None,2019.6.6,Reported
+1,617493,"University of Washington, Seattle, WA 98105",Cable lock,"Lock was cut, and left at the scene.",2019.6.6,None
+2,617554,"Seattle, WA 98118",Cable lock,"Lock is missing, along with the bike.",2019.6.6,Reported
+3,623042,"Boston, MA 02215",Cable lock,"Lock was cut, and left at the scene.",2019.6.6,Reported
+4,617607,"Paul S. Sarbanes Transit Center , Silver Spring, MD 20910",Cable lock,"Lock was cut, and left at the scene.",2019.6.6,None
+5,621742,"Fort Worth, TX 76135",None,None,2019.6.6,None
+6,622030,"Mountain View, CA 94040",Not locked,Bike was not locked,2019.6.6,Reported
+7,620856,"Minneapolis, MN 55414",Cable lock,"Lock was cut, and left at the scene.",2019.6.6,None
+8,620942,"Minneapolis, MN 55414",Cable lock,"Lock is missing, along with the bike.",2019.6.6,None
+9,617408,"3919 W Pine Blvd, St Louis, MO 63108",None,None,2019.6.6,None
+0,617575,"San Diego, CA 92104",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.6.6,Reported
+1,618506,"Seattle, WA 98103",U-lock and cable,"Lock is missing, along with the bike.",2019.6.6,None
+2,617359,"Boston, MA 02114",None,None,2019.6.6,None
+3,617370,"Jane Clark Park Area, Tacoma, WA 98407",Not locked,"Other situation, please describe below.",2019.6.6,Reported
+4,617368,"111 E Oak St #1a, Bozeman, MT 59715",Not locked,None,2019.6.6,None
+5,617657,"Seattle, WA 98107",Other,"Other situation, please describe below.",2019.6.6,Reported
+6,617352,"Lincoln, NE 68506",None,None,2019.6.6,None
+7,617349,"Davenport, IA 52803",None,None,2019.6.6,None
+8,663945,"Oakland, CA 94601",None,None,2019.6.6,Reported
+9,617350,"Winona, MN 55987",Chain with padlock,"Lock is missing, along with the bike.",2019.6.6,Reported
+0,617751,"Chicago, IL 60647",Other,"Other situation, please describe below.",2019.6.6,None
+1,617299,"Portland, OR 97217",Cable lock,"Lock was cut, and left at the scene.",2019.6.5,Reported
+2,617781,"San Francisco, CA 94107",None,None,2019.6.5,Reported
+3,617774,"Portland, OR 97232",Cable lock,"Lock was cut, and left at the scene.",2019.6.5,Reported
+4,617257,"887 Saint Charles Dr, Thousand Oaks, CA 91360",U-lock,"Lock is missing, along with the bike.",2019.6.5,None
+5,617261,"Thousand Oaks, CA 91360",U-lock,"Lock is missing, along with the bike.",2019.6.5,None
+0,617536,"New Orleans, LA 70119",None,None,2019.6.5,None
+1,617264,"1050 W Hampden, Englewood, CO 80110",Cable lock,"Lock was cut, and left at the scene.",2019.6.5,Reported
+2,617111,"105 Belvedere Drive, Mill Valley, CA 94941",Cable lock,Bike was not locked,2019.6.5,Reported
+3,617271,"Seattle, WA 98122",U-lock and cable,"Lock is missing, along with the bike.",2019.6.5,Reported
+4,617270,"Seattle, WA 98122",None,None,2019.6.5,Reported
+5,617075,"San Francisco, CA 94110",Cable lock,None,2019.6.5,Reported
+6,617089,"1601 E Market St - Aggie Suites E, Greensboro, NC 27411",None,None,2019.6.5,None
+7,617093,"Fairborn, OH 45324",Cable lock,"Lock is missing, along with the bike.",2019.6.5,Reported
+0,617076,"Near Lifeguard Station 14-16, Fort Lauderdale Beach, FL 33308",Cable lock,"Lock was cut, and left at the scene.",2019.6.5,Reported
+1,617057,"707 continental cicle, Mountain View, CA 94040",None,None,2019.6.5,None
+2,617032,"Seattle, WA 98105",None,None,2019.6.5,None
+3,617360,"Salt Lake City, UT 84105",Not locked,Bike was not locked,2019.6.5,Reported
+4,617236,"Winnipeg, DC R2J 0X4",Other,None,2019.6.5,Reported
+5,617347,"3835 Baldwin Ave, Lincoln, NE 68504",None,None,2019.6.5,None
+0,390429,"Worcester, MA 01607",U-lock,"Other situation, please describe below.",2019.6.5,Reported
+1,624031,"New Orleans, LA 70119",None,None,2019.6.5,Reported
+2,732875,"221 E Taylor St, Savannah, GA",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2019.6.5,Reported
+3,617424,"Minneapolis, MN 55408",Cable lock,"Lock was cut, and left at the scene.",2019.6.5,Reported
+4,617046,"New Orleans, LA 70130",Chain with padlock,"Lock was cut, and left at the scene.",2019.6.5,None
+5,617303,"SE 105th ave. and stark, Portland, OR",Not locked,None,2019.6.4,Reported
+0,616958,"3036 Westfield Ave , Baltimore, MD 21214",None,None,2019.6.4,Reported
+1,617064,"3100 Adeline St, Berkeley, CA 94703",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2019.6.4,Reported
+2,616930,"Woods pool, Lincoln, NE 68501",Not locked,Bike was not locked,2019.6.4,Reported
+3,616933,"1 North Wacker Dr, Chicago, IL 60606",U-lock,None,2019.6.4,Reported
+4,616913,"1221 SW 11th Ave., Portland, OR 97205",Not locked,"Other situation, please describe below.",2019.6.4,None
+5,616878,"901 Chartres St., New Orleans, LA 70117",Cable lock,"Lock was cut, and left at the scene.",2019.6.4,None
+6,604167,"Boise, ID 83705",Chain with padlock,"Lock was cut, and left at the scene.",2019.6.4,Reported
+7,616934,"New Haven, CT 06510",U-lock,"Lock was opened, and left unharmed at the scene.",2019.6.4,Reported
+8,617099,"West Lafayette, IN 47906",None,None,2019.6.4,Reported
+9,616891,"8th and olive, Los Angeles, CA 90017",Cable lock,"Lock was cut, and left at the scene.",2019.6.4,Reported
+0,618583,"Lynnwood, WA 98087",Cable lock,"Lock is missing, along with the bike.",2019.6.4,None
+1,617401,"403 Highland Ave, Somerville, MA 02144",Cable lock,"Lock is missing, along with the bike.",2019.6.4,Reported
+2,616872,"Lakewood, CO 80214",None,None,2019.6.4,None
+3,616920,"Bozeman Ave. and Main St.- North East corner of intersection, Bozeman, MT 59715",Cable lock,"Lock is missing, along with the bike.",2019.6.4,Reported
+4,564946,"Santa Barbra, CA 93101",Cable lock,"Lock was cut, and left at the scene.",2019.6.4,Reported
+5,117342,"San Diego, CA 92104",Not locked,"Other situation, please describe below.",2019.6.4,Reported
+6,616847,"Salt Lake City, UT 84102",None,None,2019.6.4,Reported
+7,616845,"2211 Pacific Beach Dr, San Diego, CA 92109",Cable lock,"Lock was cut, and left at the scene.",2019.6.4,Reported
+0,618211,"Cambridge, MA 02139",U-lock,"Lock is missing, along with the bike.",2019.6.4,Reported
+1,623540,"New Orleans, LA 70003",None,None,2019.6.4,Reported
+2,622281,"Tucson, AZ 85719",None,None,2019.6.4,None
+3,616800,"Wave Ln, Santa Cruz, CA 95060",None,None,2019.6.4,None
+4,617410,"Seattle, WA 98109",None,None,2019.6.4,None
+5,617101,"Seattle, WA 98119",Other,"Other situation, please describe below.",2019.6.4,None
+6,785240,"Oakland, CA 94610",None,None,2019.6.4,Reported

@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,5534,"East Lansing, MI 48824",None,None,2007.10.13,None
+1,4927,"Denver, CO 80202",None,None,2007.10.13,None
+2,5740,"St. Louis Park, MN 55416",None,None,2007.10.12,None
+3,5576,"Campbell, CA 95008",None,None,2007.10.11,None
+4,5531,"Portland, OR 97213",None,None,2007.10.11,None
+5,5112,"Bothell, WA 98012",None,None,2007.10.11,None
+6,5568,"Grand Rapids, MI 49504",None,None,2007.10.10,None
+7,5533,"Romeo, MI 48065",None,None,2007.10.10,None
+8,5535,"Chicago, IL 60607",None,None,2007.10.9,None
+9,5739,"Phillipston, MA 01331",None,None,2007.10.8,None
+0,5516,"Columbus, OH 43210",None,None,2007.10.8,None
+1,5528,"Austin, TX 78751",None,None,2007.10.7,None
+2,10920,"Pittsburgh, PA 15213",None,None,2007.10.7,None
+3,5530,"San Francisco, CA 94122",None,None,2007.10.7,None
+4,5520,"Washington, DC 20001",None,None,2007.10.5,None
+5,5109,"Bellingham, WA 98225",None,None,2007.10.5,None
+6,5521,"Columbus, OH 43210",None,None,2007.10.5,None
+7,5522,"Los Angeles, CA 90028",U-lock,"Lock is missing, along with the bike",2007.10.5,None
+8,5005,"Cupertino, CA 95117",None,None,2007.10.4,None
+9,5596,"Washington, DC 20005",None,None,2007.10.3,None
+0,5517,"Meriden, CT 06450",None,None,2007.10.3,None
+1,5515,"Corvallis, OR 97333",None,None,2007.10.2,None
+2,5646,"Chicago, IL 60641",None,None,2007.10.2,None
+3,5514,"Eugene, OR 97405",None,None,2007.10.2,None
+4,5542,"Portland, OR 97214",None,None,2007.10.2,None
+5,5738,"San Diego, CA 92101",None,None,2007.10.2,None
+6,5677,"Grove Oxfordshire, ME 87659",None,None,2007.10.1,None
+7,5748,"Columbus, OH 43206",None,None,2007.10.1,None
+8,5537,"Atlanta, GA 30319",None,None,2007.10.1,None
+0,6550,"Provo, UT 84604",None,None,2007.10.1,None
+1,9848,"Chicago, IL 60611",None,None,2007.10.1,Reported
+2,7573,"Grand Rapids, MI 49503",None,None,2007.10.1,None
+3,15134,"Irvine, CA 92612",None,None,2007.10.1,None
+4,7295,"Stanford, CA 94305",None,None,2007.10.1,None
+5,7421,"14th and Alabama, Indianapolis, IN 46225",None,None,2007.10.1,None
+6,10915,"Atlanta, GA 30308",None,None,2007.9.30,None
+7,5518,"San Francisco, CA 94115",None,None,2007.9.30,None
+8,5523,"St. Paul, MN 55102",None,None,2007.9.29,None
+9,5511,"Virginia Beach, VA 23454",None,None,2007.9.29,None
+0,5510,"Baltimore, MA 21201",None,None,2007.9.29,None
+1,5676,"Seattle, WA 98112",None,None,2007.9.28,None
+2,5527,"Minneapolis, MN 55405",None,None,2007.9.28,None
+3,5512,"Salt Lake City, UT 84103",None,None,2007.9.28,None
+4,10919,"Baldwin Park, CA 91706",None,None,2007.9.27,None
+5,5506,"Columbus, OH 43201",None,None,2007.9.26,None
+6,5513,"Washington, DC 20009",None,None,2007.9.26,None
+7,5675,"East Lansing, MI 48823",None,None,2007.9.26,None
+8,5508,"Rochester, NY 14607",None,None,2007.9.26,None
+9,5509,"Washington, DC 20009",None,None,2007.9.26,None
+0,5507,"Portland, OR 97203",None,None,2007.9.25,None
+1,5519,"San Francisco, CA 94105",None,None,2007.9.25,None
+2,5736,"Dallas, TX 75201",None,None,2007.9.25,None
+3,10913,"Los Angeles, CA 90005",None,None,2007.9.24,None
+4,5503,"East Lansing, MI 48825",None,None,2007.9.24,None
+5,4926,"Chicago, IL 60640",None,None,2007.9.24,None
+6,5674,"Sacramento, CA 95814",None,None,2007.9.23,None
+7,5672,"Largo, FL 33770",None,None,2007.9.23,None
+8,10916,"Tucson, AZ 85721",None,None,2007.9.23,None
+9,5241,"Henderson, NV 89014",None,None,2007.9.23,None
+0,25238,"Oroville, CA 95966",None,None,2007.9.23,None
+1,10910,"Mountain View, CA 94041",None,None,2007.9.22,None
+2,5496,"Bethesda, MD 20816",None,None,2007.9.22,None
+3,5105,"Boston, MA 02144",None,None,2007.9.22,None
+4,5502,"Bound Brook, NJ 08805",None,None,2007.9.21,None
+5,5492,"Syracuse, NY 13244",None,None,2007.9.21,None
+6,5486,"Salt Lake City, UT 84103",None,None,2007.9.20,None
+7,5488,"Cambridge, MA 02139",None,None,2007.9.20,None
+8,10907,"New Haven, CT 06513",None,None,2007.9.20,None
+9,5493,"Los Angeles, CA 90041",None,None,2007.9.20,None
+0,5490,"Seattle, WA 9810",None,None,2007.9.20,None
+1,5500,"Chicago, IL 60657",None,None,2007.9.19,None
+2,10906,"Beaverton, OR 97124",None,None,2007.9.19,None
+3,5485,"Worcester, MA 01610",None,None,2007.9.19,None
+4,10908,"Provo, UT 84601",None,None,2007.9.18,None
+5,5673,"San Francisco, CA 94121",None,None,2007.9.18,None
+6,4998,"Portland, OR 97214",None,None,2007.9.17,None
+7,5525,"Moorhead, MN 56560",None,None,2007.9.16,None
+8,10903,"Mocow, ID 83843",None,None,2007.9.16,None
+9,4923,"Portland, OR 97211",None,None,2007.9.16,None
+0,5648,"East Lansing, MI 48825",None,None,2007.9.15,None
+1,4925,"Los Gatos, CA 95032",None,None,2007.9.15,None
+2,3998,"Bloomington, IN 46044",None,None,2007.9.15,None
+3,5104,"Los Gatos, CA 95032",None,None,2007.9.15,None
+4,4924,"New York, NY 10003",None,None,2007.9.15,None
+5,5101,"Seattle, WA 98107",None,None,2007.9.15,None
+6,5484,"Bloomington, IN 47401",None,None,2007.9.15,None
+7,5494,"Seattle, WA 98106",None,None,2007.9.15,None
+8,5499,"Denver, CO 80202",None,None,2007.9.15,None
+9,5479,"Fort Wayne, IN 46807",None,None,2007.9.15,None
+0,5733,"Albuquerque, NM 87111",None,None,2007.9.14,None
+1,7174,"San Francisco, CA 94111",None,None,2007.9.14,None
+2,5472,"New York, NY 10014",None,None,2007.9.14,None
+3,5474,"Philadelphia, PA 19107",None,None,2007.9.14,None
+4,5476,"Richmond, VA 23220",None,None,2007.9.14,None
+5,5480,"Rochester, MI 48307",None,None,2007.9.14,None
+6,5475,"Portland, OR 97212",None,None,2007.9.13,None
+7,5489,"San Diego, CA 92117",None,None,2007.9.13,None
+8,5473,"Washington, DC 20515",None,None,2007.9.13,None
+9,5471,"Eau Claire, WI 54702",None,None,2007.9.12,None

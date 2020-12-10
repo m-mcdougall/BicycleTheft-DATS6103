@@ -1,0 +1,58 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,787208,"New Orleans, LA 70122",None,None,2020.7.11,None
+1,787223,"3000 E 1st Ave, Denver, CO 80206",Not locked,Bike was not locked,2020.7.11,Reported
+2,787323,"251 N El Molino Ave, Pasadena, CA 91101",Cable lock,"Lock was cut, and left at the scene",2020.7.11,Reported
+3,787191,"Denver, CO 80205",None,None,2020.7.11,None
+4,750896,"765 Montague Expy, Milpitas, CA 95035",Not locked,"Other situation, please describe below",2020.7.11,Reported
+5,787172,"1919 N Lynn St, Arlington, VA 22209",Cable lock,"Lock is missing, along with the bike",2020.7.11,Reported
+0,787982,"660 E Wilmington Ave, B510, Salt Lake City, UT 84106",Chain with padlock,"Lock was cut, and left at the scene",2020.7.11,Reported
+1,787076,"60th and Lincoln Ave, West Allis, WI 53219",None,None,2020.7.11,None
+2,794649,"Washington Terrace, UT 84405",Not locked,Bike was not locked,2020.7.11,Reported
+3,787437,"San Mateo, CA 94401",Not locked,Bike was not locked,2020.7.11,Reported
+0,789169,"North Fair Oaks, CA 94025",None,None,2020.7.11,Reported
+1,794131,"Brooklyn, NY 11226",U-lock,None,2020.7.11,Reported
+2,790641,"Denver, CO 80203",Cable lock,"Lock was cut, and left at the scene",2020.7.11,Reported
+3,787995,"San Jose, CA 95112",Other,"Other situation, please describe below",2020.7.11,Reported
+4,89076,"San Francisco, CA 94109",None,None,2020.7.11,Reported
+0,830109,"Seattle, WA 98119",None,None,2020.7.11,None
+1,790751,"Iowa City, IA 52246",Cable lock,"Lock was cut, and left at the scene",2020.7.11,None
+2,828597,"Williston Park, NY 11596",Not locked,None,2020.7.11,None
+3,786945,"845 s figueroa st, Los Angeles, CA CA",None,None,2020.7.11,None
+4,854018,"Goleta, CA 93117",U-lock and cable,None,2020.7.11,None
+5,790269,"Minneapolis, MN 55418",Not locked,Bike was not locked,2020.7.10,Reported
+6,789053,"5135 S. New Haven Ave, Tulsa, OK 74135",Cable lock,"Lock was cut, and left at the scene",2020.7.10,Reported
+7,786882,"Cedar Rapids, IA 52403",None,None,2020.7.10,Reported
+0,787879,"926 W. George St, Chicago, IL 60657",U-lock,"Lock was cut, and left at the scene",2020.7.10,Reported
+1,787878,"926 W. George St. , Chicago, IL 60657",U-lock,"Lock was cut, and left at the scene",2020.7.10,None
+2,788039,"San Jose, CA 95124",Cable lock,"Lock was opened, and left unharmed at the scene",2020.7.10,Reported
+3,786836,"Kent, WA 98032",None,None,2020.7.10,Reported
+4,786798,"1450 E Republican St, Seattle, WA 98112",Not locked,Bike was not locked,2020.7.10,Reported
+5,786800,"Cregg Lane, Missoula, MT 59801",None,None,2020.7.10,None
+6,786766,"1111 NW Flanders, Portland, OR 97209",Other,"Other situation, please describe below",2020.7.10,Reported
+7,792663,"Ymca Douglas county, Roseburg, OR 97470",None,None,2020.7.10,None
+8,786707,"Bellevue, WA 98004",None,None,2020.7.10,None
+0,786639,"Columbus, OH 43235",U-lock,"Lock is missing, along with the bike",2020.7.10,None
+1,786645,"Columbus, OH 43235",U-lock,"Lock is missing, along with the bike",2020.7.10,None
+2,788683,"Charlotte, NC 28209",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.7.10,Reported
+3,787081,"Salt Lake City, UT 84102",Not locked,"Other situation, please describe below",2020.7.10,Reported
+4,786601,"Denver, CO 80211",U-lock,None,2020.7.10,Reported
+5,786633,"4253 8th Avenue NE, Seattle, WA 98105",None,None,2020.7.10,Reported
+6,833503,"Los Angeles, CA 90049",Cable lock,"Lock was cut, and left at the scene",2020.7.10,Reported
+0,806516,"Stater. Bros baseline and waterman, Sanbernardino,Ca, CA 92404",Cable lock,"Lock was cut, and left at the scene",2020.7.10,Reported
+1,790649,"20754 gault st., Winnetka, CA 91306",Not locked,None,2020.7.10,None
+0,786477,"3851 south taft hill rd springfield court apartments, Fort Collins, CO 80526",Not locked,Bike was not locked,2020.7.10,None
+1,786469,"Eagle Point Resort, Vail, CO 81657",None,None,2020.7.10,None
+2,787185,"Raleigh, NC 27612",Cable lock,None,2020.7.10,None
+3,787326,"Metairie, LA 70005",None,None,2020.7.10,None
+0,788708,"Boise, ID 83702",Cable lock,"Lock was cut, and left at the scene",2020.7.10,Reported
+1,788208,"3060 Fillmore St, San Francisco, CA 94123",None,None,2020.7.10,None
+2,786513,"Cupertino, CA 95014",U-lock and cable,"Lock is missing, along with the bike",2020.7.10,Reported
+3,51624,"Stelling Rd / McClellan Rd, Cupertino, CA 95014",U-lock and cable,"Lock is missing, along with the bike",2020.7.10,Reported
+4,794827,"2095 Dayton Ave., Saint Paul, MN 55104-5734",None,None,2020.7.10,Reported
+5,677104,"930 Euclid Street, Santa Monica, CA 90403",Two U-locks,"Other situation, please describe below",2020.7.10,Reported
+0,786842,"Cupertino, CA",Not locked,"Other situation, please describe below",2020.7.10,Reported
+1,828172,"San Jose, CA 95125",Other,Bike was not locked,2020.7.10,Reported
+2,786933,"Pasadena, CA 91106",Chain with padlock,"Other situation, please describe below",2020.7.10,Reported
+3,786624,"Philadelphia, PA 19122",Cable lock,"Lock was cut, and left at the scene",2020.7.10,None
+4,788774,"Seattle, WA 98109-2794",None,None,None,None
+5,786609,"1300 N. Second Street, Philadelphia, PA 19122",U-lock and cable,"Lock was cut, and left at the scene",2020.7.10,None

@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,13978,"Austin, TX 78704",None,None,2013.2.20,None
+1,15816,"Tulsa, OK 74119",None,None,2013.2.20,Reported
+2,16142,"Beaverton, OR 97008",None,None,2013.2.20,Reported
+3,22739,"North Hollywood, CA 91602",None,None,2013.2.20,None
+4,15768,"Chico, CA 95928",None,None,2013.2.20,None
+5,22724,"Orlando, FL 32804",None,None,2013.2.20,Reported
+6,15741,"San Francisco, CA 94122",None,None,2013.2.20,None
+7,13972,"Chula Vista, CA 91910",None,None,2013.2.19,Reported
+8,22701,"San Francisco, CA 94110",None,None,2013.2.19,None
+9,15727,"Tulsa, OK 74114",None,None,2013.2.19,Reported
+0,8549,"Cupertino, CA 95014",None,None,2013.2.19,Reported
+1,13959,"Homestead, FL 33032",None,None,2013.2.19,None
+2,22394,"Tucson, AZ 85716",None,None,2013.2.19,Reported
+3,14044,"Portland, OR 97239",None,None,2013.2.19,Reported
+4,22398,"Spokane, WA 99204",None,None,2013.2.19,None
+5,22702,"Portland, OR 97206",None,None,2013.2.18,Reported
+6,22704,"Tucson, AZ 85705",None,None,2013.2.18,None
+7,15691,"San Rafael, CA 94901",None,None,2013.2.18,Reported
+8,17298,"Salinas, CA 93908",None,None,2013.2.18,Reported
+9,22732,"Elverta, CA 95626",None,None,2013.2.18,Reported
+0,15723,"Portland, OR 97206",None,None,2013.2.18,Reported
+1,13951,"San Francisco, CA 94117",None,None,2013.2.18,Reported
+2,15686,"Tucson, AZ 85716",None,None,2013.2.18,Reported
+3,15961,"Tuscaloosa, AL 35404",None,None,2013.2.17,Reported
+4,7198,"San Francisco, CA 94118",None,None,2013.2.17,None
+5,13929,"Tucson, AZ 85719",None,None,2013.2.17,Reported
+6,10221,"Portland, OR 97214",None,None,2013.2.17,None
+7,13955,"San Francisco, CA 94102",None,None,2013.2.17,Reported
+8,13938,"Portland, OR 97220",None,None,2013.2.17,Reported
+9,15630,"Beaverton, OR 97005",None,None,2013.2.17,Reported
+0,13924,"Sausalito, CA 94965",None,None,2013.2.17,None
+1,22720,"Los Angeles, CA 90025",None,None,2013.2.17,None
+2,14010,"Garden Grove, CA 92840",None,None,2013.2.17,Reported
+3,15658,"San Francisco, CA 94102",None,None,2013.2.17,Reported
+4,13946,"Orlando, FL 32816",None,None,2013.2.16,None
+5,14920,"Portland, OR 97201",None,None,2013.2.16,None
+6,13940,"San Francisco, CA 94110",None,None,2013.2.16,Reported
+7,13954,"Portland, OR 97212",None,None,2013.2.16,Reported
+8,22380,"San Diego, CA 92102",None,None,2013.2.16,Reported
+9,13958,"Portland, OR 97217",None,None,2013.2.16,None
+0,22694,"West Hollywood, CA 90046",None,None,2013.2.16,Reported
+1,15602,"Portland, OR 97211",None,None,2013.2.16,Reported
+2,13899,"Portland, OR 97217",None,None,2013.2.15,Reported
+3,13900,"San Francisco, CA 94122",None,None,2013.2.15,None
+4,22409,"Seminole, FL 33772",None,None,2013.2.15,Reported
+5,22726,"Seattle, WA 98102",None,None,2013.2.15,Reported
+6,22495,"Washington, DC 20005",None,None,2013.2.15,None
+7,19941,"Chicago, IL 60613",None,None,2013.2.15,Reported
+8,14130,"Ballard, WA 98117",None,None,2013.2.15,None
+9,13886,"New York City, NY 10002",None,None,2013.2.15,Reported
+0,13873,"Oregon City, OR 97045",None,None,2013.2.15,None
+1,8814,"San Francisco, CA 94111",None,None,2013.2.14,Reported
+2,9572,"Hollywood, FL 33021",None,None,2013.2.14,Reported
+3,10124,"San Fransisco, CA 94114",None,None,2013.2.14,None
+4,22691,"Portland, OR 97202",None,None,2013.2.14,None
+5,15570,"Chico, CA 95926",None,None,2013.2.14,Reported
+6,13872,"Portland, OR 97211",None,None,2013.2.14,None
+7,7171,"Seattle, WA 98199",None,None,2013.2.14,Reported
+8,19937,"Seattle, WA 98119",None,None,2013.2.14,Reported
+9,22370,"Chico, CA 95926",None,None,2013.2.14,Reported
+0,6602,"Rapid City, SD 57701",None,None,2013.2.13,Reported
+1,10109,"Portland, OR 97209",None,None,2013.2.13,None
+2,13915,"Omaha, NE 68137",None,None,2013.2.13,Reported
+3,15785,"Denver, CO 80211",None,None,2013.2.13,Reported
+4,15562,"Berkeley, CA 94720",None,None,2013.2.13,Reported
+5,19947,"San Francisco, CA 94118",None,None,2013.2.13,Reported
+6,22690,"Portland, OR 97214",None,None,2013.2.13,Reported
+7,15632,"Portland, OR 97214",None,None,2013.2.13,Reported
+8,17079,"Portland, OR 97202",None,None,2013.2.13,None
+0,15582,"San Francisco, CA 94110",None,None,2013.2.13,Reported
+1,13913,"Omaha, NE 68137",None,None,2013.2.13,Reported
+2,13859,"Longview, WA 98632",None,None,2013.2.12,Reported
+3,15604,"San Francisco, CA 94114",None,None,2013.2.12,Reported
+4,16821,"Portland, OR 97201",None,None,2013.2.12,Reported
+5,13864,"Denver, CO 80204",None,None,2013.2.12,Reported
+6,14206,"San Francisco, CA 94114",None,None,2013.2.12,Reported
+7,17118,"Orange, CA 92866",None,None,2013.2.12,None
+8,17195,"Portland, OR 97205-1103",None,None,2013.2.12,Reported
+9,14422,"Seattle, WA 98107",None,None,2013.2.12,Reported
+0,13868,"San Francisco, CA 94103",None,None,2013.2.11,Reported
+1,13363,"San Jose, CA 95121",None,None,2013.2.11,Reported
+2,13876,"Campbell, CA 95008",None,None,2013.2.11,Reported
+3,16297,"Seattle, WA 98104",None,None,2013.2.11,None
+4,13840,"Washington, DC 20010",None,None,2013.2.11,Reported
+5,13847,"Portland, OR 97213",None,None,2013.2.11,Reported
+6,19916,"San Rafael, CA 94903",None,None,2013.2.11,Reported
+7,13970,"Denver, CO 80238",None,None,2013.2.11,Reported
+8,15533,"San Francisco, CA 94122",None,None,2013.2.11,None
+9,19699,"Boulder, CO 80302",None,None,2013.2.11,Reported
+0,15950,"Portland, OR 97216",None,None,2013.2.11,Reported
+1,13855,"San Rafael, CA 94903",None,None,2013.2.11,Reported
+2,13974,"Gainesville, FL 32601",None,None,2013.2.10,None
+3,14447,"Imperial Beach, CA 91932",None,None,2013.2.10,Reported
+4,15400,"St. Petersburg, FL 33781",None,None,2013.2.10,None
+5,15660,"San Diego, CA 92182",None,None,2013.2.10,Reported
+6,15764,"Portland, OR 97211",None,None,2013.2.10,Reported
+7,15528,"Portland, OR 97214",None,None,2013.2.10,Reported
+8,22463,"Vancouver, WA 98664",None,None,2013.2.10,None
+9,15433,"San Francisco, CA 94122",None,None,2013.2.10,Reported

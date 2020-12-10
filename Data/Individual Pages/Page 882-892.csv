@@ -1,0 +1,72 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,782810,"Berkeley, CA 94703",None,None,2020.7.5,None
+1,784140,"Seattle, WA 98109",U-lock,"Lock is missing, along with the bike",2020.7.5,Reported
+2,782548,"Lakewood, CO 80228",Chain with padlock,"Lock was cut, and left at the scene",2020.7.5,None
+3,783404,"Portland, OR 97218",None,None,2020.7.5,Reported
+4,789160,"Austin, TX 78744",Cable lock,"Lock was cut, and left at the scene",2020.7.5,Reported
+5,840927,"Boulder, CO 80303",None,None,2020.7.5,Reported
+0,782330,"Philadelphia, PA 19125",Cable lock,"Lock was cut, and left at the scene",2020.7.5,Reported
+1,783088,"Orlando, FL 32806",None,None,2020.7.5,Reported
+2,783221,"1610 Belmont Avenue, Seattle, WA 98122",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.7.4,Reported
+3,786200,"1301 w 5th st, Austin, TX 78703",Other,"Lock was cut, and left at the scene",2020.7.4,Reported
+4,796060,"Houston, TX 77019",Other,"Other situation, please describe below",2020.7.4,Reported
+5,782278,"Denver, CO 80218",None,None,2020.7.4,None
+6,782388,"315 Martin Luther King wy, Tacoma, WA 98405",None,None,2020.7.4,Reported
+7,782988,"63 Franklin Street, Brooklyn, NY 11222",Cable lock,"Lock is missing, along with the bike",2020.7.4,Reported
+0,782863,"686 Modern Ice Dr, San Jose, CA CA",Not locked,Bike was not locked,2020.7.4,Reported
+1,843688,"Greenwich and Grant, San Francisco, CA 94133",U-lock,None,2020.7.4,None
+2,788174,"777 Shell blvd, Foster City, CA 94404",Cable lock,"Lock was cut, and left at the scene",2020.7.4,Reported
+3,788185,"Foster City, CA 94404",None,None,2020.7.4,Reported
+4,782627,"1414 Dexter Ave, Seattle, WA",U-lock,"Lock is missing, along with the bike",2020.7.4,None
+5,704164,"Wooster, OH 44691",None,None,2020.7.4,None
+6,790554,"3030 Regent St, Berkeley, CA 94705",Not locked,"Other situation, please describe below",2020.7.4,Reported
+0,787496,"Houston, TX 77079",Cable lock,"Lock is missing, along with the bike",2020.7.4,None
+1,782106,"1415 platte st, Denver, CO 80202",Cable lock,"Lock was cut, and left at the scene",2020.7.4,Reported
+2,625212,"2276 Washington Blvd Apt 403, Ogden, UT 84401",Cable lock,"Other situation, please describe below",2020.7.4,Reported
+3,782059,"Burbank, CA 91502",None,None,2020.7.4,None
+4,786588,"Seattle, WA 98104",U-lock and cable,"Lock is missing, along with the bike",2020.7.4,Reported
+5,689041,"San Francisco, CA 94131",Not locked,None,2020.7.4,Reported
+6,783952,"Boise, ID 83705",Cable lock,"Lock is missing, along with the bike",2020.7.4,Reported
+7,788046,"Houston, TX 77079",Cable lock,None,2020.7.4,None
+8,783342,"Amherst, NY 14226",None,None,2020.7.4,None
+0,784445,"Minneapolis, MN 55404-1029",Not locked,"Other situation, please describe below",2020.7.4,None
+1,781895,"San Diego, CA 92109",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.7.4,Reported
+2,782464,"Jamba Juice, Pleasant Hill, CA 94523",Not locked,None,2020.7.4,None
+3,786093,"Saint Louis Park, MN 55416",U-lock and cable,"Lock was cut, and left at the scene",2020.7.4,Reported
+4,781984,"1285 N Clarkson St., Denver, CO 80218",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.4,Reported
+5,785239,"3417 Tulane Drive, Hyattsville, MD 20783",U-lock,"Other situation, please describe below",2020.7.4,Reported
+0,781868,"Washington, DC 20008",None,None,2020.7.4,None
+1,782005,"14th and Q, Washington, DC 20036",Heavy duty bicycle security chain,None,2020.7.4,Reported
+2,781870,"Washington, DC 20008",None,None,2020.7.4,Reported
+3,784011,"San Jose, CA 95126",Cable lock,"Lock was cut, and left at the scene",2020.7.4,Reported
+0,781826,"Columbus, OH 43207",None,None,2020.7.4,None
+1,764109,"10730 104st, Edmonton, T5h2w5",None,None,2020.7.4,None
+2,864545,"222 Hennepin Ave S, Minneapolis, MN 55401",Cable lock,"Lock was cut, and left at the scene",2020.7.4,Reported
+3,781806,"Fullerton, CA 92831",None,None,2020.7.4,Reported
+4,781979,"Portland, OR 97220",None,None,2020.7.4,Reported
+5,783391,"22 Huntington Street , Huntington Beach, CA 92648",None,None,2020.7.4,None
+6,783543,"Columbus, OH 43201",None,"Other situation, please describe below",2020.7.4,Reported
+0,789161,"717 Locust St, Des Moines, IA 50309",None,None,2020.7.4,Reported
+1,787362,"Minneapolis, MN 55401",None,None,2020.7.4,Reported
+2,787371,"Minneapolis, MN 55401",None,None,2020.7.4,Reported
+3,789639,"535 3rd ave e, Kalispell, MT 59901",None,None,2020.7.4,Reported
+4,782998,"Blacksburg, VA 24060",None,Bike was not locked,2020.7.3,Reported
+5,786178,"Seattle, WA 98109",Cable lock,"Lock was cut, and left at the scene",2020.7.3,Reported
+6,781613,"Seattle, WA 98115",Other,"Other situation, please describe below",2020.7.3,Reported
+7,781618,"Washington, DC 20007",None,None,2020.7.3,None
+8,782779,"1424 Venice St, Longmont, CO 80501",None,None,2020.7.3,Reported
+0,783096,"Kingman, AZ 86409",Other,"Other situation, please describe below",2020.7.3,None
+1,783267,"Milwaukee, WI 53208",Other,"Other situation, please describe below",2020.7.3,Reported
+2,930838,"7300 Roosevelt Way NE, Seattle, WA 98115",Other,"Lock was cut, and left at the scene",2020.7.3,Reported
+3,786941,"1801 Belle Isle Blvd , Oklahoma City, OK 73118",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.3,Reported
+4,783481,"Carlsbad, CA 92010",Not locked,None,2020.7.3,Reported
+5,786124,"Seattle, WA 98109",Cable lock,"Lock was cut, and left at the scene",2020.7.3,Reported
+6,781547,"Columbus, OH 43201",None,None,2020.7.3,None
+7,781529,"11 Allen St., Arlington, MA 02474",None,None,2020.7.3,None
+0,781515,"Draper, UT 84020",None,None,2020.7.3,None
+1,781555,"4900 Sinclair lane, Baltimore, MD 21206",None,None,2020.7.3,Reported
+2,782202,"Minneapolis, MN 55419",None,None,2020.7.3,None
+3,929271,"Los Angeles, CA 90045",None,None,2020.7.3,None
+4,787345,"San Francisco, CA 94107",Cable lock,"Lock was cut, and left at the scene",2020.7.3,Reported
+5,783633,"San Francisco, CA 94107",Cable lock,"Lock was cut, and left at the scene",2020.7.3,Reported
+6,784586,"Denver, CO 80221",None,"Other situation, please describe below",2020.7.3,None

@@ -1,0 +1,67 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,742035,"Shoreline, WA 98133",None,None,2020.5.20,Reported
+1,740804,"Santa Monica, CA 90404",None,None,2020.5.20,Reported
+2,740772,"Seattle, WA 98105",Not locked,Bike was not locked,2020.5.20,Reported
+3,741641,"Portland, OR 97211",None,None,2020.5.20,Reported
+4,740978,"New Orleans, LA 70130",None,None,2020.5.20,None
+5,740666,"Grand Junction, CO 81501",None,None,2020.5.20,None
+6,740656,"2904 Lyndale Ave S, Minneapolis, MN 55408",U-lock,"Lock was opened, and left unharmed at the scene",2020.5.20,Reported
+7,740710,"San Diego, CA 92121",U-lock and cable,"Lock is missing, along with the bike",2020.5.20,Reported
+8,743636,"Black Rock Park, Phoenixville, PA 19460",None,None,2020.5.20,None
+0,740563,"1221 nw 126th Street, Seattle, WA 98177",None,None,2020.5.20,None
+1,740859,"Cotate, CA 94931",Cable lock,"Lock was cut, and left at the scene",2020.5.20,Reported
+2,740489,"Sunnyvale, CA 94087",None,None,2020.5.20,Reported
+3,740451,"Salt Lake City, UT 84108",None,None,2020.5.20,None
+4,740848,"Pierce/Haight, San Francisco, CA 94117",None,None,2020.5.20,None
+5,748445,"Boston, MA 02116",Cable lock,"Lock was cut, and left at the scene",2020.5.20,Reported
+0,740678,"Seattle, WA 98103",Other,"Other situation, please describe below",2020.5.20,Reported
+1,86333,"San Francisco, CA 94102",U-lock,"Lock is missing, along with the bike",2020.5.20,Reported
+2,740724,"San Diego, CA 92121",U-lock and cable,"Lock is missing, along with the bike",2020.5.20,Reported
+3,783038,"Pleasant Hill, CA 94523",Not locked,Bike was not locked,2020.5.20,Reported
+0,740725,"Indianapolis, IN 46237",Not locked,Bike was not locked,2020.5.19,Reported
+1,741372,"Minneapolis, MN 55419",Not locked,"Other situation, please describe below",2020.5.19,Reported
+2,740279,"San Francisco, CA 94114",U-lock and cable,"Lock was cut, and left at the scene",2020.5.19,Reported
+3,740238,"2000 Post, San Francisco, CA 94115",U-lock and cable,"Lock was cut, and left at the scene",2020.5.19,None
+4,740152,"Eugene, OR 97401",None,None,2020.5.19,None
+5,722647,"NW43rd st/ 9 Ave NW , Seattle, WA 98107",Cable lock,"Lock was cut, and left at the scene",2020.5.19,Reported
+6,740221,"Eugene, OR 97401",None,None,2020.5.19,Reported
+0,742224,"Washington, DC 20011",Not locked,None,2020.5.19,None
+1,741983,"70 Commerce st, Brooklyn, NY 11231",None,"Other situation, please describe below",2020.5.19,None
+2,740015,"Palo Alto, CA 94306",None,None,2020.5.19,None
+3,739863,"Sandy, UT 84093",None,None,2020.5.19,None
+4,739798,"Kenmore, NY 14217",None,None,2020.5.19,None
+5,739767,"San Diego, CA 92116",None,None,2020.5.19,None
+6,741515,"Seattle, WA 98034",Cable lock,"Lock was cut, and left at the scene",2020.5.19,Reported
+7,739706,"4131, Thain Way, Palo Alto, CA 94306",None,None,2020.5.19,None
+0,631278,"Seattle, WA 98103",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.5.19,Reported
+1,631279,"Seattle, WA 98103",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.5.19,Reported
+2,739615,"Miami, FL 33145",None,None,2020.5.19,None
+3,739611,"Thornton, CO 80229",None,None,2020.5.19,None
+4,725368,"Seattle, WA 98125",None,None,2020.5.19,None
+5,689735,"City park, Folsom, CA 95630",Not locked,None,2020.5.19,None
+0,752588,"High Street & Hickam Terrace, Fremont, CA 94538",None,None,2020.5.19,Reported
+1,739539,"Main and summer, Buffalo, NY 14214",None,None,2020.5.19,None
+2,739653,"Kenmore, NY 14217",None,None,2020.5.18,Reported
+3,740245,"San Francisco, CA 94115",U-lock and cable,"Lock was cut, and left at the scene",2020.5.18,None
+0,756935,"Denver, CO 80203",None,None,2020.5.18,Reported
+1,739431,"5162 N Leavitt St, Chicago, IL 60625",U-lock and cable,"Lock is missing, along with the bike",2020.5.18,Reported
+2,739412,"Seattle, WA 98102",None,None,2020.5.18,None
+3,739388,"Denver, CO 80218",None,None,2020.5.18,None
+4,741035,"Washington, DC 20011",U-lock,"Lock is missing, along with the bike",2020.5.18,None
+5,739331,"Cambridge, MA 02140",None,None,2020.5.18,None
+6,739270,"Fort Collins, CO 80525",None,None,2020.5.18,Reported
+0,731473,"Berthoud, CO 80513",None,None,2020.5.18,None
+1,740717,"Boise, ID 83702",Not locked,Bike was not locked,2020.5.18,Reported
+2,739105,"7208 5th Ave NE, Seattle, WA 98115",None,None,2020.5.18,Reported
+3,739083,"3725 Osceola St, Denver, CO 80212",None,None,2020.5.18,None
+4,739074,"Carlsbad, CA 92011",None,None,2020.5.18,Reported
+5,740573,"Seattle, WA 98116",U-lock and cable,"Lock was cut, and left at the scene",2020.5.18,None
+6,739050,"6900 East Green Lake Way N, Seattle, WA 98115",None,None,2020.5.18,None
+7,739038,"San Jose, CA 95112",None,None,2020.5.18,None
+8,739032,"2348 N Harding Ave, Apt. 2, Chicago, IL 60647",None,None,2020.5.18,None
+9,739007,"3335 Lee Hwy, Arlington, VA 22207",None,None,2020.5.18,None
+0,739255,"Seattle, WA 98103",None,None,2020.5.18,None
+1,741245,"Santa Barbara, CA 93105",None,None,2020.5.18,Reported
+2,738992,"Indianapolis, IN 46205",Not locked,"Other situation, please describe below",2020.5.18,Reported
+3,689594,"Deland, FL 32724",None,None,2020.5.18,None
+4,388485,"Seattle, WA 98107",None,None,2020.5.18,Reported

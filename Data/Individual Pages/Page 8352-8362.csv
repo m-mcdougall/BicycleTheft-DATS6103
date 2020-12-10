@@ -1,0 +1,94 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,7706,"Brighton, MA 02135",None,None,2009.6.8,None
+1,7682,"Seattle, WA 98104",None,None,2009.6.8,None
+2,9441,"Boston, MA 02215",None,None,2009.6.7,None
+3,9448,"Springfield, VA 22150",None,None,2009.6.7,None
+4,9646,"Denver, CO 80209",None,None,2009.6.7,Reported
+5,10694,"Washington, DC 20009",None,None,2009.6.7,Reported
+6,6206,"Norman, OK 73072",None,None,2009.6.7,Reported
+7,7856,"Chico, CA 95926",None,None,2009.6.7,None
+8,9438,"Carrboro, NC 27510",None,None,2009.6.7,Reported
+9,5910,"Boulder, CO 80305",None,None,2009.6.6,None
+0,9449,"San Francisco, CA 94103",None,None,2009.6.6,None
+1,9797,"Portland, OR 97214",None,None,2009.6.6,None
+2,9879,"Coralville, IA 52241",None,None,2009.6.6,Reported
+3,7651,"Ayer, MA 01432",None,None,2009.6.6,None
+4,5754,"Rancho Cordova, CA 95670",None,None,2009.6.6,None
+5,9787,"Portland, OR 97209",None,None,2009.6.6,Reported
+6,10793,"Portland, OR 97212",None,None,2009.6.6,None
+7,9445,"New York, NY 10036",None,None,2009.6.6,None
+8,9434,"Seattle, WA 98122",None,None,2009.6.6,Reported
+0,9506,"San Francisco, CA 94104",None,None,2009.6.6,Reported
+1,9472,"Fullerton, CA 92832",None,None,2009.6.6,Reported
+2,10700,"Portland, OR 97201",None,None,2009.6.5,Reported
+3,7640,"Madison, WI 53715",None,None,2009.6.5,Reported
+4,6276,"Oakland, CA 94602",None,None,2009.6.5,None
+5,7669,"Portland, OR 97205",None,None,2009.6.5,Reported
+6,11758,"Fort Collins, CO 80524",None,None,2009.6.5,Reported
+7,9433,"Denver, CO 80205",None,None,2009.6.5,None
+8,9436,"Milwaukee, WI 53211",None,None,2009.6.5,Reported
+9,9431,"Boston, MA 02116",None,None,2009.6.4,None
+0,6758,"Portland, OR 97204",None,None,2009.6.4,Reported
+1,9518,"Hawthorne, CA 90250",None,None,2009.6.4,None
+2,10695,"Portland, OR 97204",None,None,2009.6.4,Reported
+3,9751,"Indian Harbour Beach, FL 32937",None,None,2009.6.4,None
+4,24139,"Seattle, WA 98105",None,None,2009.6.4,None
+5,9755,"Albuquerque, NM 87109",None,None,2009.6.4,None
+6,9711,"Brooklyn, NY 11206",None,None,2009.6.4,None
+7,7695,"Portland, OR 97203",None,None,2009.6.3,Reported
+8,9730,"Tempe, AZ 85281",None,None,2009.6.3,None
+9,10693,"South Bend, IN 46635",None,None,2009.6.3,Reported
+0,10603,"Newnan, GA 30263",None,None,2009.6.3,None
+1,9753,"Hasbrouck Heights, NJ 07604",None,None,2009.6.3,None
+2,6204,"San Francisco, CA 94110",None,None,2009.6.3,Reported
+3,7634,"Miami Beach, FL 33139",None,None,2009.6.2,Reported
+4,9425,"St. Louis, MO 63108",None,None,2009.6.2,None
+5,9807,"Foster City, CA 94404",None,None,2009.6.2,Reported
+6,17603,"Brooklyn, NY 11201",None,None,2009.6.2,None
+7,19318,"Greensboro, NC 27410",None,None,2009.6.2,None
+8,9233,"Boston, MA 02215",None,None,2009.6.2,None
+9,7102,"Wheaton, IL 60187",None,None,2009.6.1,Reported
+0,9596,"Cleveland, OH 44111",None,None,2009.6.1,None
+1,9231,"Boston, MA 02116",None,None,2009.6.1,Reported
+2,9687,"Austin, TX 78705",None,None,2009.6.1,Reported
+3,7692,"Portland, OR 97214",None,None,2009.6.1,Reported
+4,7627,"Oklahoma City, OK 73159",None,None,2009.6.1,Reported
+5,8101,"Baltimore, MD 21230",None,None,2009.6.1,Reported
+6,9423,"Philadelphia, PA 19103",None,None,2009.6.1,None
+7,24717,"West Allis, WI 53214",None,None,2009.6.1,None
+8,10133,"Palo Alto, CA 94301",None,None,2009.6.1,Reported
+0,10856,"Portland, OR 97214",None,None,2009.6.1,Reported
+1,9415,"New York City, NY 10010",None,None,2009.6.1,None
+2,10783,"Santa Barbara, CA 93101",None,None,2009.5.31,Reported
+3,6859,"Seattle, WA 98121",None,None,2009.5.31,None
+4,6092,"Canby, OR 97013",None,None,2009.5.30,None
+5,9675,"San Francisco, CA 94103",None,None,2009.5.30,None
+6,9409,"Cambridge, MA 02138",None,None,2009.5.30,None
+7,6089,"Falls Church, VA 22042",None,None,2009.5.30,None
+0,6087,"San Francisco, CA 94103",None,None,2009.5.30,None
+1,9460,"Portland, OR 97205",None,None,2009.5.30,None
+2,6112,"Portland, OR 97206",None,None,2009.5.30,None
+3,9403,"San Jose, CA 95110",None,None,2009.5.29,None
+4,9672,"Atlanta, GA 30313",None,None,2009.5.29,Reported
+5,9410,"Fort Collins, CO 80521",None,None,2009.5.29,Reported
+6,10691,"Kissimmee, FL 34758",None,None,2009.5.28,Reported
+7,6785,"Portland, OR 97201",None,None,2009.5.28,Reported
+8,13807,"Bethesda, MD 20895",None,None,2009.5.28,None
+0,9399,"Salt Lake City, UT 84103",None,None,2009.5.28,None
+1,14293,"Oak Forest, IL 60452",None,None,2009.5.27,None
+2,10641,"Chattanooga, TN 37405",None,None,2009.5.27,Reported
+3,9420,"Long Beach, CA 92656",None,None,2009.5.27,Reported
+4,9405,"El Cajon, CA 92021",None,None,2009.5.27,Reported
+5,6210,"Portland, OR 97209",None,None,2009.5.26,Reported
+6,7741,"Portland, OR 97206",None,None,2009.5.26,None
+7,10690,"Berkeley, CA 94704",None,None,2009.5.26,None
+8,9391,"Portland, OR 97202",None,None,2009.5.26,Reported
+0,9400,"Coeur D\\'Alene, ID 83814",None,None,2009.5.26,Reported
+1,9394,"Los Angeles, CA 90025",None,None,2009.5.26,Reported
+2,10225,"Vancouver, WA 98682",None,None,2009.5.25,None
+3,9564,"Columbus, OH 43224",None,None,2009.5.25,None
+4,11961,"Redlands, CA 92174",None,None,2009.5.25,None
+5,6085,"Seattle, WA 98115",None,None,2009.5.25,None
+6,9947,"Las Vegas, NV 89101",None,None,2009.5.24,None
+7,9732,"St. Paul, MN 55104",None,None,2009.5.24,None
+8,7590,"Chicago, IL 60614",None,None,2009.5.24,Reported

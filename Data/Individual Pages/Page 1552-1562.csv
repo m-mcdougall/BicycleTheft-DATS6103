@@ -1,0 +1,73 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,677302,"San Francisco, CA 94110",Not locked,None,2019.11.30,Reported
+1,677485,"Oakland, CA 94611",None,None,2019.11.30,Reported
+2,250462,"San Francisco, CA 94110",U-lock,"Lock is missing, along with the bike",2019.11.30,Reported
+3,672955,"Henderson, NV",U-lock and cable,"Lock was cut, and left at the scene",2019.11.30,Reported
+4,677283,"Boise, ID 83704",None,None,2019.11.30,None
+5,635094,"Seattle, WA 98105",U-lock,"Lock is missing, along with the bike",2019.11.30,None
+0,677236,"Portland, OR 97212",None,None,2019.11.30,None
+1,677231,"425 se 3rd ave, Portland, OR 96214",None,None,2019.11.30,None
+2,677216,"800 E Hall of Fame Ave, Stillwater, OK 74075",None,None,2019.11.30,None
+3,662236,"Seattle, WA 98125",Cable lock,"Lock is missing, along with the bike",2019.11.30,Reported
+4,686958,"Bellingham, WA 98226",None,None,2019.11.30,Reported
+5,677176,"Oakland, CA 94612",Cable lock,"Lock is missing, along with the bike",2019.11.30,Reported
+6,677125,"New Orleans, LA 70130",None,None,2019.11.29,None
+0,677107,"International boxing and fitness gym, Queens, NY",None,None,2019.11.29,None
+1,678982,"1500 Illinois Street, Golden, CO 80401",U-lock,"Lock was cut, and left at the scene",2019.11.29,None
+2,678014,"2500 E imperial hwy, Brea, CA 92821",Cable lock,"Lock was cut, and left at the scene",2019.11.29,None
+3,676988,"915 Commonwealth Avenue, Boston, MA 02115",None,None,2019.11.29,None
+4,677218,"Berkeley Circle & Berkeley Avenue, Los Angeles, CA 90026",None,None,2019.11.29,None
+5,678855,"San Carlos, CA 94070",Cable lock,"Lock was cut, and left at the scene",2019.11.29,Reported
+6,676940,"825 N Black Horse Pike, Runnemede, NJ 08078",None,None,2019.11.28,None
+7,676938,"210 Washington Ave S, Kent, WA 98032",None,None,2019.11.28,Reported
+0,683401,"Los Angeles, CA 90066-3016",Not locked,Bike was not locked,2019.11.28,Reported
+1,683414,"Los Angeles, CA 90066",None,None,2019.11.28,Reported
+2,683408,"Los Angeles, CA 90066",Other,None,2019.11.28,Reported
+3,676945,"San Jose, CA 95136",None,None,2019.11.28,Reported
+4,676924,"Austin, TX 78701",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.11.28,None
+5,385550,"Seattle, WA 98107",Cable lock,"Lock is missing, along with the bike",2019.11.28,None
+6,676905,"Tempe, AZ 85283",Not locked,None,2019.11.28,None
+7,676907,"Tempe, AZ 85283",None,None,2019.11.28,Reported
+8,663345,"Stanford, CA 94305",Cable lock,"Lock was cut, and left at the scene",2019.11.28,Reported
+0,677923,"Dallas, TX 75218",U-lock,"Lock is missing, along with the bike",2019.11.28,Reported
+1,677649,"Eugene, OR 97402",None,None,2019.11.28,Reported
+2,676822,"New Orleans, LA 70113",None,None,2019.11.28,None
+3,676784,"Seattl, WA 98105",None,None,2019.11.27,Reported
+4,676786,"Everett, WA 98201",None,None,2019.11.27,None
+5,611322,"Seattle, WA 98105",U-lock,"Lock is missing, along with the bike",2019.11.27,None
+0,676763,"Russellville, AR 72801",Cable lock,None,2019.11.27,None
+1,676757,"1600 17th St, San Francisco, CA 94107",None,None,2019.11.27,None
+2,596114,"Los Angeles, CA 90034",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.11.27,None
+3,676735,"1229 North Northbranch, Chicago, IL 60642",None,None,2019.11.27,None
+4,676894,"920 Heinz Ave, Berkeley, CA 94710",None,None,2019.11.27,Reported
+5,676681,"New Orleans, LA 70117",None,None,2019.11.27,None
+6,676830,"Webster, TX 77598",None,None,2019.11.27,Reported
+0,676745,"New Orleans, LA 70113",None,None,2019.11.27,None
+1,676672,"Venice and Grandview, Los Angeles, CA 90066",None,None,2019.11.27,None
+2,676982,"New Orleans, LA 70131",None,None,2019.11.27,Reported
+3,711523,"Dallas, TX 75204",None,"Lock was cut, and left at the scene",2019.11.27,Reported
+4,680130,"944 East University Boulevard, Tucson, AZ 85719",U-lock and cable,"Lock is missing, along with the bike",2019.11.26,Reported
+5,676669,"Portland, OR 97205",None,None,2019.11.26,Reported
+6,676584,"San Francisco, CA 94117",None,None,2019.11.26,None
+0,676581,"San Francisco, CA 94131",None,None,2019.11.26,None
+1,677497,"910 Cavalier Ln, Austin, TX 78757",U-lock,"Lock is missing, along with the bike",2019.11.26,Reported
+2,676568,"San Francisco, CA 94117",None,None,2019.11.26,Reported
+3,676544,"85th NW, Seattle, WA 98117",None,None,2019.11.26,None
+4,676470,"San Francisco, CA 94131",None,None,2019.11.25,None
+0,676535,"Boston, MA 02116",Chain with padlock,"Other situation, please describe below",2019.11.25,None
+1,645704,"Seattle, WA 98105",U-lock,"Lock was cut, and left at the scene",2019.11.25,None
+2,112913,"San Francisco, CA 94131",U-lock and cable,"Lock was cut, and left at the scene",2019.11.25,Reported
+3,676449,"Austin, TX 78752",None,None,2019.11.25,Reported
+4,676610,"439 Camille Cir, San Jose, CA 95134",Not locked,None,2019.11.25,Reported
+5,676448,"Portland, OR 97232",None,None,2019.11.25,None
+6,676604,"439 Camille Cir, San Jose, CA 95134",Not locked,None,2019.11.25,Reported
+7,676615,"Mission Viejo, CA 92692",None,None,2019.11.25,None
+8,625122,"San Pablo, CA 94806",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.11.25,Reported
+9,668217,"Chicago, IL 60606",U-lock,"Lock was cut, and left at the scene",2019.11.25,Reported
+0,676425,"2949 SE Yamhill St. , Portland, OR 97214",U-lock,None,2019.11.25,Reported
+1,676534,"462 2nd Avenue, New York, NY 10016",Not locked,Bike was not locked,2019.11.25,None
+2,676386,"San Diego, CA 92122",U-lock,"Lock is missing, along with the bike",2019.11.25,None
+3,676462,"Portland, OR 97211",U-lock,"Lock was opened, and left unharmed at the scene",2019.11.25,Reported
+4,676379,"Austin, TX 78704",None,None,2019.11.25,None
+5,613738,"Los Angeles, CA 90066-6115",Not locked,Bike was not locked,2019.11.25,Reported
+6,676335,"3627 W148th St, Cleveland, OH 44111",None,None,2019.11.25,None

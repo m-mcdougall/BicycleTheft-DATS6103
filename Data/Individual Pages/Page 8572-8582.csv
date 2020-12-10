@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,4920,"Chapel Hill, NC 27514",None,None,2007.11.30,None
+1,4915,"Austin, TX 78705",None,None,2007.11.29,None
+2,5131,"Tucson, AZ 85705",None,None,2007.11.28,None
+3,7320,"Portland, OR 97220",None,None,2007.11.27,None
+4,7673,"Concord, CA 94521",None,None,2007.11.27,None
+5,4934,"Tempe, AZ 85281",None,None,2007.11.26,None
+6,4910,"Davis, CA 95616",None,None,2007.11.26,None
+7,4928,"Queen Anne, WA 98195",None,None,2007.11.26,None
+8,5750,"Rochester, NY 14624",None,None,2007.11.26,None
+9,10714,"Rochester, NY 14624",None,None,2007.11.26,None
+0,5587,"Boston, MA 02114",None,None,2007.11.25,None
+1,6309,"Durham, NH 03824",None,None,2007.11.25,None
+2,5747,"Philadelphia, PA 19146",None,None,2007.11.25,None
+3,5123,"New York, NY 10003",None,None,2007.11.25,None
+4,6412,"El Cerrito, CA 94530",None,None,2007.11.24,None
+5,5121,"Austin, TX 78715",None,None,2007.11.21,None
+6,5589,"Rochester, NY 14627",None,None,2007.11.20,None
+7,5584,"Eugene, OR 97404",None,None,2007.11.20,None
+8,5582,"San Francisco, CA 94117",None,None,2007.11.20,None
+9,5583,"Eugene, OR 97404",None,None,2007.11.20,None
+0,11003,"Kernersville, NC 27284",None,None,2007.11.19,None
+1,5649,"Charlottesville, VA 22903",None,None,2007.11.18,None
+2,5354,"New Orleans, LA 70115",None,None,2007.11.18,None
+3,10939,"Los Gatos, CA 95032",None,None,2007.11.18,None
+4,5588,"Sacramento, CA 95814",None,None,2007.11.18,None
+5,5581,"Raleigh, NC 27604",None,None,2007.11.17,None
+6,5580,"Beaverton, OR 97005",None,None,2007.11.16,None
+7,10936,"East Lansing, MI 48825",None,None,2007.11.16,None
+8,10935,"Houston, TX 77019",None,None,2007.11.16,None
+9,5257,"New Haven, CT 06515",None,None,2007.11.15,None
+0,5116,"Seattle, WA 98104",None,None,2007.11.15,None
+1,8871,"Phoenix, AZ 85032",None,None,2007.11.15,None
+2,5575,"Huntington, WV 25701",None,None,2007.11.15,None
+3,5578,"Brooklyn, NY 11220",None,None,2007.11.15,None
+4,5746,"Portland, OR 97209",None,None,2007.11.13,None
+5,4943,"Portland, OR 97209",None,None,2007.11.13,None
+6,5117,"Venice, CA 90294",None,None,2007.11.13,None
+7,5004,"Park City, UT 84060",None,None,2007.11.13,None
+8,5570,"Greeley, CO 80634",None,None,2007.11.12,None
+0,5579,"Dublin, CA 94568",None,None,2007.11.12,None
+1,5574,"Austin, TX 78759",None,None,2007.11.12,None
+2,11572,"Santa Cruz, CA 95060",None,None,2007.11.11,Reported
+3,8207,"Seattle, WA 98115",None,None,2007.11.10,None
+4,5743,"Atlanta, GA 30308",None,None,2007.11.10,None
+5,5571,"Stanford, CA 94305",None,None,2007.11.10,None
+6,5725,"Berkeley, CA 94720",None,None,2007.11.9,None
+7,5003,"Seattle, WA 98102",None,None,2007.11.8,None
+8,5563,"Los Angeles, CA 90010",None,None,2007.11.7,None
+9,5562,"Berkeley, CA 94702",None,None,2007.11.7,None
+0,5569,"Seattle, WA 98103",None,None,2007.11.6,None
+1,6538,"Minneapolis, MN 55413",None,None,2007.11.5,None
+2,5561,"Denver, CO 80204",None,None,2007.11.5,None
+3,5113,"Austin, TX 78751",None,None,2007.11.4,None
+4,5572,"Eugene, OR 97401",None,None,2007.11.4,None
+5,5645,"Hollywood, FL 33021",None,None,2007.11.2,None
+6,6413,"Eagle Rock, CA 90041",None,None,2007.11.1,None
+7,5590,"San Francisco, CA 94110",None,None,2007.11.1,None
+8,5560,"Knoxville, TN 37916",None,None,2007.11.1,None
+9,6281,"Rochester, NY 14624",None,None,2007.11.1,None
+0,5778,"San Leandro, CA 94577",None,None,2007.11.1,None
+1,4999,"Amherst, MA 01002",None,None,2007.11.1,None
+2,5557,"Dover, NH 03820",None,None,2007.11.1,None
+3,4918,"Oakland, CA 94606",None,None,2007.11.1,None
+4,5678,"St. Helena, CA 94574",None,None,2007.11.1,None
+5,5566,"San Francisco, CA 94110",None,None,2007.10.31,None
+6,5554,"Portland, OR 97204",None,None,2007.10.30,None
+7,5573,"Philadelphia, PA 19106",None,None,2007.10.29,None
+8,34048,OR,None,None,2007.10.29,None
+9,5556,"San Francisco, CA 94122",None,None,2007.10.28,None
+0,10927,"Palo Alto, CA 94306",None,None,2007.10.27,None
+1,5549,"Eugene, OR 97401",None,None,2007.10.27,None
+2,5306,"San Francisco, CA 94123",None,None,2007.10.27,None
+3,5558,"Dunedin, FL 34698",None,None,2007.10.27,None
+4,5002,"Greeley, CO 80631",None,None,2007.10.26,None
+5,5551,"Chicago, IL 60626",None,None,2007.10.26,None
+6,5550,"Salt Lake City, UT 84103",None,None,2007.10.25,None
+7,5553,"Portland, OR 97211",None,None,2007.10.25,None
+8,5300,"Palo Alto, CA 94306",None,None,2007.10.25,None
+9,5547,"San Francisco, CA 94121",None,None,2007.10.24,None
+0,5548,"West Hempstead, NY 11552",None,None,2007.10.24,None
+1,5546,"Sacramento, CA 95833",None,None,2007.10.24,None
+2,5647,"Chicago, IL 60637",None,None,2007.10.24,None
+3,7246,"Denver, CO 80207",None,None,2007.10.24,None
+4,5129,"Indianapolis, IN 46260",None,None,2007.10.23,None
+5,5742,"Coppell, TX 75019",None,None,2007.10.23,None
+6,5001,"Chicago, IL 60613",None,None,2007.10.22,None
+7,5544,"Portland, ME 04103",None,None,2007.10.21,None
+8,13382,"Oakland, CA 94619",None,None,2007.10.21,None
+9,5741,"Auburn, AL 36830",None,None,2007.10.21,None
+0,5559,"Blacksburg, VA 24060",None,None,2007.10.21,None
+1,5545,"Columbia, SC 29201",None,None,2007.10.20,None
+2,6073,"Norfolk, VA 23510",None,None,2007.10.20,None
+3,5543,"Crownsville, MD 21032",None,None,2007.10.19,None
+4,5541,"Lexington, KY 40517",None,None,2007.10.18,None
+5,5540,"Houston, TX 77006",None,None,2007.10.15,None
+6,5000,"Houston, TX 77006",None,None,2007.10.15,None
+7,15253,"Portland, OR",None,None,2007.10.14,None
+8,10922,"South Lake Tahoe, CA 96150",None,None,2007.10.13,None

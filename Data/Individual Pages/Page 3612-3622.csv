@@ -1,0 +1,79 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,363414,"Rochester, NY 14623",Not locked,"Lock is missing, along with the bike.",2017.9.22,None
+1,363460,"Larkspur, CA 94939",U-lock,"Lock is missing, along with the bike.",2017.9.22,Reported
+2,363124,"Seattle, WA 98104",None,None,2017.9.22,Reported
+3,363260,"Minneapolis, MN 55403",None,None,2017.9.22,None
+4,363227,"New Orleans, LA 70118",Cable lock,"Lock is missing, along with the bike.",2017.9.22,Reported
+5,363172,"San Francisco, CA 94117",None,None,2017.9.22,Reported
+6,363087,"Hillsboro, OR 97124",None,"Lock is missing, along with the bike.",2017.9.22,Reported
+0,375657,"Phoenix, AZ 85034",None,"Other situation, please describe below.",2017.9.22,Reported
+1,363780,"Naperville, IL 60540",Not locked,Bike was not locked,2017.9.22,Reported
+2,363006,"Denton, TX 76201",U-lock,"Lock is missing, along with the bike.",2017.9.22,Reported
+3,363232,"New Orleans, LA 70118",None,None,2017.9.22,None
+4,363081,"Albuquerque, NM 87106",Cable lock,"Lock was cut, and left at the scene.",2017.9.22,None
+5,363077,"Holladay, UT 84124",None,None,2017.9.22,Reported
+6,363057,"Seattle, WA 98133",Not locked,None,2017.9.22,None
+7,363729,"Cincinnati, OH",None,"Lock is missing, along with the bike.",2017.9.22,None
+8,365993,"Sandy, UT 84092",Other,"Other situation, please describe below.",2017.9.22,Reported
+0,364008,"Corvallis, OR 97330",None,None,2017.9.22,Reported
+1,363061,"Columbia City, WA 98118",None,None,2017.9.22,None
+2,363421,"Portland, OR 97229",Not locked,Bike was not locked,2017.9.22,Reported
+3,363146,"Philadelphia, PA 19149",U-lock,"Other situation, please describe below.",2017.9.22,None
+4,362937,"Saratoga, CA 95070",None,None,2017.9.21,None
+5,362911,"Ann Arbor, MI 48104",None,None,2017.9.21,None
+6,362909,"Portland, OR 97214",None,None,2017.9.21,None
+7,362833,"Pacific Beach, CA 92109",None,None,2017.9.21,None
+0,362864,"Seattle, WA 98134",None,None,2017.9.21,None
+1,362932,"Chicago, IL 60613",Not locked,None,2017.9.21,None
+2,362929,"Portland, OR 97220",None,None,2017.9.21,Reported
+3,362971,"Oakland, CA 94609",U-lock,"Lock is missing, along with the bike.",2017.9.21,Reported
+4,362976,"Seattle, WA 98105-5347",Not locked,None,2017.9.21,Reported
+5,373672,"Houston, TX 77098",Cable lock,"Lock was cut, and left at the scene.",2017.9.21,None
+6,374516,"San Diego, CA 92182",None,None,2017.9.21,Reported
+7,94328,"Chicago, IL 60622",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2017.9.21,None
+8,362961,"Seattle, WA 98103",Not locked,None,2017.9.21,Reported
+0,363183,"Detroit, MI 48201",Cable lock,"Lock is missing, along with the bike.",2017.9.21,None
+1,94311,"Portland, OR 97232",U-lock,"Lock is missing, along with the bike.",2017.9.21,None
+2,362965,"Seattle, WA 98134",U-lock,"Lock was cut, and left at the scene.",2017.9.21,None
+3,362894,"Portland, OR 97214",Cable lock,None,2017.9.21,Reported
+4,363426,"Indianapolis, IN 46219",None,None,2017.9.21,Reported
+5,362960,"Seattle, WA 98134",None,None,2017.9.21,None
+6,362846,"Denton, TX 76201",Cable lock,"Lock is missing, along with the bike.",2017.9.21,Reported
+7,363002,"Ann Arbor, MI 48104",Cable lock,"Lock was cut, and left at the scene.",2017.9.21,None
+8,363167,"San Francisco, CA 94115",Not locked,"Other situation, please describe below.",2017.9.21,Reported
+0,362972,"Oakland, CA 94609",U-lock,"Lock is missing, along with the bike.",2017.9.21,Reported
+1,363137,"New Orleans, LA 70116",None,None,2017.9.21,Reported
+2,364100,"Brookline, MA 02446",Other,Bike was not locked,2017.9.21,None
+3,362845,"Denton, TX 76201",Cable lock,"Lock is missing, along with the bike.",2017.9.21,Reported
+4,363336,"Salinas, CA 93905",Cable lock,"Lock was cut, and left at the scene.",2017.9.21,None
+5,363009,"Spring Arbor, MI 49283",Not locked,None,2017.9.21,None
+6,362866,"New Orleans, LA 70115",None,None,2017.9.21,None
+7,363142,"East Boston, MA 02128",Cable lock,"Lock was cut, and left at the scene.",2017.9.21,Reported
+0,363476,"Seattle, WA 98119",Cable lock,"Lock is missing, along with the bike.",2017.9.21,None
+1,362999,"Tucson, AZ 85716",None,None,2017.9.21,Reported
+2,363349,"Seattle, WA 98103",None,None,2017.9.21,Reported
+3,362834,"Portland, OR 97203",Cable lock,"Lock was cut, and left at the scene.",2017.9.21,None
+4,362789,"Bellingham, WA 98225",None,None,2017.9.20,None
+5,362716,"Oakland, CA 94607",None,None,2017.9.20,None
+6,362774,"Seattle, WA 98102",Cable lock,"Lock was cut, and left at the scene.",2017.9.20,None
+0,362859,"Portland, OR 97203",None,None,2017.9.20,Reported
+1,363181,"Oakland, CA 94618",U-lock,"Lock was cut, and left at the scene.",2017.9.20,Reported
+2,363266,"Austin, TX 78751",Cable lock,"Lock was cut, and left at the scene.",2017.9.20,Reported
+3,363490,"Portland, OR 97202",None,None,2017.9.20,Reported
+4,374515,"San Diego, CA 92182",None,None,2017.9.20,Reported
+5,362704,"Redmond, WA 98052",Not locked,Bike was not locked,2017.9.20,Reported
+6,363994,"New York, NY 10040",Heavy duty bicycle security chain,"Other situation, please describe below.",2017.9.20,Reported
+7,362869,"Moorhead, MN 56563",None,None,2017.9.20,None
+8,362858,"Portland, OR 97229",Not locked,None,2017.9.20,Reported
+0,235657,"Los Angeles, CA 90064",Cable lock,"Lock was cut, and left at the scene.",2017.9.20,None
+1,363332,"Lorton, VA 22079",Not locked,Bike was not locked,2017.9.20,Reported
+2,362931,"Denver, CO 80209",Not locked,None,2017.9.20,None
+3,362837,"New Orleans, LA 70112",None,None,2017.9.20,None
+4,362796,"Tucson, AZ 85757",None,None,2017.9.20,Reported
+5,362702,"Portland, OR 97214",Cable lock,"Lock was cut, and left at the scene.",2017.9.20,None
+6,362761,"Houston, TX 77004",Cable lock,Bike was not locked,2017.9.20,None
+0,362804,"Saint Paul, MN 55101",Cable lock,"Lock is missing, along with the bike.",2017.9.20,None
+1,921393,"Iowa, IA 52240-4667",None,None,2017.9.19,None
+2,362564,"Seattle, WA 98119",Other,"Other situation, please describe below.",2017.9.19,Reported
+3,362585,"Columbia, MO 65203",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2017.9.19,None
+4,362586,"Tucson, AZ 87505",None,None,2017.9.19,None

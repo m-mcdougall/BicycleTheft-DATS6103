@@ -1,0 +1,70 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,646652,"Seattle, WA 98109",None,None,2019.8.20,Reported
+1,646078,"Portland, OR",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.20,Reported
+2,646815,"6000 Bullard Ave., New Orleans, LA 70128-2661",Cable lock,"Lock was cut, and left at the scene",2019.8.20,Reported
+3,645139,"Spokane, WA 99201",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.19,Reported
+0,645147,"Burlingame, CA 94010",None,None,2019.8.19,None
+1,645135,"4560 University Way, Seattle, WA",None,None,2019.8.19,None
+2,645035,"San Francisco, CA 94102",U-lock,"Lock is missing, along with the bike",2019.8.19,None
+3,645522,"Cleveland, OH 44106",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.19,Reported
+4,645121,"Austin, TX 78704",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.19,Reported
+5,645090,"Boston, MA 02215",None,None,2019.8.19,None
+6,645114,"133 Brookline Avenue, Boston, MA 02115",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.19,Reported
+0,648531,"795 El Camino Real,, Palo Alto, CA 94301",None,None,2019.8.19,Reported
+1,645351,"4560 University Way, Seattle, WA 98102",U-lock,"Lock was opened, and left unharmed at the scene",2019.8.19,Reported
+2,644967,"New Orleans, LA 70115",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.8.19,None
+3,648907,"Chicago, IL 60640",U-lock and cable,"Lock was cut, and left at the scene",2019.8.19,Reported
+4,570657,"Chico, CA 96055",None,None,2019.8.19,None
+5,644948,"550 16th Street, San Francisco, CA 94158",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.19,Reported
+6,644936,"Boise, ID 83702",None,None,2019.8.19,Reported
+7,647402,"Seattle, WA 98101",Cable lock,"Lock is missing, along with the bike",2019.8.19,Reported
+8,645013,"100 Filmore St, Denver, CO 80206",Cable lock,None,2019.8.19,Reported
+0,609791,"New Orleans, LA 70115",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.8.19,None
+1,644891,"State College, PA 16803",Cable lock,"Lock is missing, along with the bike",2019.8.19,None
+2,645235,"Portland, OR 97202",None,None,2019.8.19,Reported
+3,647724,"Springfield, MO 65802",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2019.8.19,Reported
+4,645641,"Seattle, WA 98122",U-lock,"Other situation, please describe below",2019.8.19,Reported
+5,644859,"Indianapolis, IN 46203",None,None,2019.8.19,Reported
+6,644851,"Sacramento, CA 95816-3322",None,None,2019.8.19,None
+0,656460,"6134 WOODMAN AVE APT 102, Van Nuys, CA 91401",U-lock and cable,"Lock is missing, along with the bike",2019.8.19,Reported
+1,645300,"304 S Braddock Avenue, Pittsburgh, PA 15221",Chain with padlock,"Lock was cut, and left at the scene",2019.8.19,Reported
+2,651701,"Helena, MT 59601",Cable lock,"Lock was cut, and left at the scene",2019.8.19,Reported
+3,658898,"Provo, UT 84604",None,None,2019.8.19,Reported
+4,644828,"Roseville, CA 95678",None,None,2019.8.19,None
+0,725590,"Eastern ave and Cherry Ave, Grand Rapids, MI 49508",None,None,2019.8.18,None
+1,650043,"Lexington, KY 40514",U-lock and cable,"Lock was cut, and left at the scene",2019.8.18,Reported
+2,650033,"Horticulture Research Farm, Lexington, KY 40514",U-lock and cable,"Lock was cut, and left at the scene",2019.8.18,Reported
+3,644985,"Oakland, CA 94611",U-lock,Bike was not locked,2019.8.18,Reported
+4,644793,"Saint Paul, MN 55105",Other,"Other situation, please describe below",2019.8.18,Reported
+5,644779,"College Park, MD 20742",None,None,2019.8.18,None
+0,645056,"Minneapolis, MN 55415",Cable lock,"Lock is missing, along with the bike",2019.8.18,None
+1,644744,"37th and O St, Washington, DC 20007",U-lock,"Other situation, please describe below",2019.8.18,Reported
+2,644686,"Bellingham, WA 98225",Cable lock,"Lock was cut, and left at the scene",2019.8.18,Reported
+3,644716,"Bike rack corner NW Vernon Place/ Leary Ave NW, Seattle, WA",Cable lock,"Lock is missing, along with the bike",2019.8.18,Reported
+4,645532,"San Francisco, CA 94117",U-lock,"Lock was cut, and left at the scene",2019.8.18,Reported
+5,645233,"San Francisco, CA 94122",Not locked,None,2019.8.18,None
+0,645027,"Philadelphia, PA 19147",Not locked,Bike was not locked,2019.8.18,Reported
+1,644576,"Oakland, CA 94612",U-lock,"Lock is missing, along with the bike",2019.8.18,Reported
+2,645024,"Philadelphia, PA 19147",Not locked,Bike was not locked,2019.8.18,Reported
+3,644566,"Washington, DC 20003",U-lock,None,2019.8.18,Reported
+4,645018,"Philadelphia, PA 19147",Other,"Other situation, please describe below",2019.8.18,Reported
+5,644523,"San Francisco, CA 94131",None,None,2019.8.18,None
+6,645362,"Denali Street, Anchorage, AK 99501",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.8.18,Reported
+0,645047,"77 w 7th Ave, New York, NY 10011",None,Bike was not locked,2019.8.18,Reported
+1,644520,"Connecticut Ave in front of DC zoo, Washington, DC",None,None,2019.8.18,None
+2,644569,"Calistoga, CA 94515",Not locked,Bike was not locked,2019.8.18,Reported
+3,644484,"8368 Chopin Dr, Buena Park, CA 90621",None,None,2019.8.18,None
+4,644645,"New Orleans, LA 70119",None,None,2019.8.18,None
+5,622309,"La Crosse, WI 54601",None,None,2019.8.18,None
+6,644812,"Oakland, CA 94612",Not locked,None,2019.8.18,Reported
+7,651376,"San Francisco, CA 94110",Not locked,None,2019.8.18,Reported
+0,645398,"Franklin Ave, Ocean Grove, NJ 07512",Cable lock,"Lock is missing, along with the bike",2019.8.18,Reported
+1,644885,"Crosby Ave, Kenmore, NY 14217",None,None,2019.8.18,Reported
+2,644746,"Portland, OR 97227",None,None,2019.8.18,Reported
+3,644773,"1409 Luke Street, Fort Collins, CO 80524",Cable lock,"Lock was cut, and left at the scene",2019.8.18,Reported
+4,644442,"Davis, CA 95616",None,None,2019.8.18,None
+5,644438,"CalTrain Station, Sunnyvale, CA 94086",Cable lock,"Lock was cut, and left at the scene",2019.8.18,None
+6,647444,"New Orleans, LA 70117",None,None,2019.8.18,Reported
+7,651207,"1100 Olive Way, Seattle, WA 98122",Not locked,None,2019.8.17,Reported
+8,644400,"San Francisco, CA 94103",U-lock,"Lock was cut, and left at the scene",2019.8.17,Reported
+9,840697,"145 Ee 18th Ave, Eugene, OR 97401",U-lock,"Other situation, please describe below",2019.8.17,Reported

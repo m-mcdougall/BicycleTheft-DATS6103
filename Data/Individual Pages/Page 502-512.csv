@@ -1,0 +1,72 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,747717,"Portland, OR Portland ",U-lock,"Lock is missing, along with the bike",2020.8.30,None
+1,848580,"185 Parker Ave, San Francisco, CA 94118",None,None,2020.8.30,None
+2,917784,"7000 Sunne ln, Walnut Creek, CA 94597",None,None,2020.8.30,Reported
+3,917783,"7000 Sunne ln, Walnut Creek, CA 94597",None,None,2020.8.30,Reported
+4,848707,"San Francisco, CA 94116",Cable lock,"Lock is missing, along with the bike",2020.8.30,Reported
+5,852868,"Bellingham, WA 98225",U-lock and cable,"Lock is missing, along with the bike",2020.8.30,Reported
+6,848574,"650 south dahlia cir, Glendale, CO 80222",None,None,2020.8.30,None
+7,848919,"Minneapolis, MN 55406",U-lock and cable,"Lock was cut, and left at the scene",2020.8.30,Reported
+0,848558,"Portland, OR 97202",U-lock,"Lock is missing, along with the bike",2020.8.30,None
+1,98790,"La Jolla, CA 92037-1303",U-lock,"Lock was cut, and left at the scene",2020.8.30,Reported
+2,852924,"Federal, WA 98003",Other,"Other situation, please describe below",2020.8.30,Reported
+3,643127,"1100 28th Street Boulder Property Management, Boulder, CO 80303",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.8.30,Reported
+4,849672,"E TIMBERSAW DR, Boise, ID 83716",Not locked,None,2020.8.30,None
+5,954987,"San Francisco, CA 94123",Cable lock,"Lock was cut, and left at the scene",2020.8.30,Reported
+6,954981,"San Francisco, CA 94123",Cable lock,"Lock was cut, and left at the scene",2020.8.30,Reported
+7,853101,"1153 W Belmont, Chicago, IL 60657",None,None,2020.8.30,None
+0,848696,"Los Angeles, CA 90025",None,None,2020.8.30,None
+1,853830,"Boise, ID 83716",None,None,2020.8.30,None
+2,848855,"Minneapolis, MN 55401",Not locked,Bike was not locked,2020.8.30,Reported
+3,863040,"1201 E 13th Ave, Denver, CO 80218",Cable lock,"Lock was cut, and left at the scene",2020.8.30,None
+4,664814,"Seattle, WA 98112",Cable lock,"Lock was cut, and left at the scene",2020.8.30,None
+5,848972,"Los Angeles, CA 90028",None,None,2020.8.30,Reported
+0,853221,"2367 S Blackhawk St, Aurora, CO 80014-1598",Cable lock,"Other situation, please describe below",2020.8.30,Reported
+1,848845,"Minneapolis, MN 55403",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.29,Reported
+2,848483,"Redding, CA 96002",Not locked,None,2020.8.29,Reported
+3,848350,"220 India St, Providence, RI 02903",Cable lock,"Lock was cut, and left at the scene",2020.8.29,Reported
+4,848424,"Bellevue, WA 98004",Cable lock,"Lock is missing, along with the bike",2020.8.29,Reported
+5,866645,"Lane Ave & Kenny Rd, Columbus, OH 43221",U-lock,"Lock is missing, along with the bike",2020.8.29,Reported
+6,848305,"Walnut Creek, CA 94596",U-lock,"Lock was opened, and left unharmed at the scene",2020.8.29,None
+0,849667,"4074 NE 16th Ave, Portland, OR 97212",None,None,2020.8.29,None
+1,848283,"San Francisco, CA 94117",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.8.29,Reported
+2,848184,"Pittsburg Ca, CA 94565-7473",None,None,2020.8.29,None
+3,848281,"2091 E Lakeshore Dr, Lake Elsinore, CA 92530",Cable lock,"Lock is missing, along with the bike",2020.8.29,Reported
+4,848347,"Trillium Lake Road, Government Camp, OR 97028",Cable lock,"Lock was cut, and left at the scene",2020.8.29,Reported
+5,847773,"Los Angeles, CA 90038",None,None,2020.8.29,None
+6,847625,"San Diego, CA 92110",Cable lock,"Other situation, please describe below",2020.8.29,None
+7,848216,"92443 Cape Arago Hwy, Coos Bay, OR 97420",Cable lock,Bike was not locked,2020.8.29,Reported
+0,848208,"92443 Cape Arago Hwy, Coos Bay, OR 97420",Cable lock,Bike was not locked,2020.8.29,Reported
+1,848356,"301 Centre Street, Jamaica Plain, MA 02130",U-lock and cable,None,2020.8.29,None
+2,918595,"Seattle, WA 98118",Cable lock,"Other situation, please describe below",2020.8.29,Reported
+3,848132,"St. Louis, MO 63116",None,None,2020.8.29,None
+4,848120,"8585 spice wood springs road apt 211 , Austin, TX 78759",None,None,2020.8.29,None
+5,848104,"Brooklyn, NY 11215",Chain with padlock,"Lock is missing, along with the bike",2020.8.29,None
+0,848815,"Denver, CO 80202",U-lock,"Lock is missing, along with the bike",2020.8.29,Reported
+1,919626,"New Orleans, LA 70115",None,None,2020.8.29,None
+2,849533,"Boston, MA 02114",None,None,2020.8.29,None
+3,849537,"Seattle, WA 98103",Cable lock,"Lock was cut, and left at the scene",2020.8.29,None
+4,866158,"Parthenia St & Lindley Ave, Northridge, CA 91325",Not locked,Bike was not locked,2020.8.29,Reported
+5,848052,"Franklin and Curfew, St. Paul, MN 55114",None,None,2020.8.29,None
+6,90553,"Portland, OR 97227",Not locked,Bike was not locked,2020.8.29,Reported
+7,848241,"Milwaukee, WI 53202",None,None,2020.8.29,None
+0,848001,"Denver, CO 80222",None,None,2020.8.29,None
+1,692820,"Sunnyvale, CA 94087",Not locked,None,2020.8.29,Reported
+2,853018,"New Orleans, LA 70115",None,None,2020.8.29,Reported
+3,848618,"1235 N LaSalle Dr, Chicago, IL 60610",None,None,2020.8.29,None
+4,848816,"San Francisco, CA 94118",None,None,2020.8.29,Reported
+5,776255,"Denver, CO 80205",None,None,2020.8.29,Reported
+6,844891,"Eugene, OR 97405",Not locked,"Other situation, please describe below",2020.8.29,None
+0,848415,"Berkeley, CA 94703",None,None,2020.8.29,None
+1,848419,"12820 N Lamar Blvd, Austin, TX 78753",Other,Bike was not locked,2020.8.29,None
+2,776294,"Denver, CO 80205",Not locked,None,2020.8.29,None
+3,847905,"900 E 57th St, Chicago, IL 60637",Cable lock,"Lock is missing, along with the bike",2020.8.29,None
+4,847910,"Seattle, WA 98104",U-lock and cable,"Lock is missing, along with the bike",2020.8.29,None
+5,847912,"4521 Nokomis Avenue, Minneapolis, MN 55406",None,None,2020.8.29,Reported
+0,848124,"Park Ave at E 42nd Street, New York, NY 10017",Chain with padlock,"Lock is missing, along with the bike",2020.8.29,Reported
+1,848179,"Kirkland, WA 98033",Not locked,"Other situation, please describe below",2020.8.29,Reported
+2,848510,"4301 Renaissance Dr, San Jose, CA 95134",Not locked,Bike was not locked,2020.8.29,Reported
+3,848197,"Salt Lake City, UT 84105",Not locked,None,2020.8.29,Reported
+4,847970,"Denver, CO 80209",None,None,2020.8.29,Reported
+5,919033,"Santa Monica, CA 90403",None,None,2020.8.29,Reported
+6,919035,"Santa Monica, CA 90403",None,None,2020.8.29,Reported

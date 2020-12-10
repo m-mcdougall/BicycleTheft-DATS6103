@@ -1,0 +1,63 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,926481,"Portland, OR 97227",None,None,2020.9.29,None
+1,926948,"Jay st and Johnson st , Brooklyn, NY 11201",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.29,Reported
+2,927626,"Arlington, VA 22203",Cable lock,None,2020.9.29,None
+3,929780,"Berkeley, CA 94705",Cable lock,"Lock is missing, along with the bike",2020.9.29,Reported
+4,926346,"Los Angeles, CA 90031-2906",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.29,Reported
+5,926786,"1324 Locust St, Philadelphia, PA 19143",U-lock,None,2020.9.29,Reported
+6,927912,"8162 Richmond Ave. Apt.1211, Houston, TX 77063",None,None,2020.9.29,Reported
+0,936994,"Ogden, UT 84404",Cable lock,"Lock was cut, and left at the scene",2020.9.29,Reported
+1,925837,"Salt Lake City, UT 84116",None,None,2020.9.29,Reported
+2,927650,"San Francisco, CA 94012",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.29,None
+3,679193,"Seattle, WA 98108",Not locked,None,2020.9.29,None
+4,926418,"Eagan, MN 55121",None,None,2020.9.29,Reported
+5,929092?locale=,"San Jose, CA 95123",Not locked,"Other situation, please describe below",2020.9.29,Reported
+6,926478?locale=,"Boulder, CO 80301",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.29,Reported
+0,827683?locale=,"Minneapolis, MN 55416-4918",Other,None,2020.9.29,Reported
+1,797992?locale=,"St Louis, MN 55416-4918",Other,"Other situation, please describe below",2020.9.29,Reported
+2,926566,"Boulder, CO 80303",Chain with padlock,"Lock was cut, and left at the scene",2020.9.29,Reported
+3,927508,"Boise, ID 83706",None,None,2020.9.29,None
+4,926486,"Portland, OR 97218",None,None,2020.9.29,None
+5,927512,"Boise, ID 83706",Not locked,None,2020.9.29,None
+6,926372,"San Francisco, CA 95616",Not locked,"Other situation, please describe below",2020.9.28,Reported
+7,927827,"67 Pearl Street, Somerville, MA 02145",U-lock,"Lock is missing, along with the bike",2020.9.28,None
+8,928162,"361 S. Walnut St, Huntington, WV 25705",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.28,None
+0,926353,"Los Angeles, CA 90016",None,None,2020.9.28,None
+1,926313,"Minneapolis, MN 55413",None,None,2020.9.28,None
+2,926351,"Omaha, NE 68131",Cable lock,"Lock is missing, along with the bike",2020.9.28,Reported
+3,926293,"Arlington, VA 22202",U-lock and cable,"Lock is missing, along with the bike",2020.9.28,Reported
+4,926267,"Portland, OR 97211",Cable lock,"Lock was cut, and left at the scene",2020.9.28,Reported
+5,926236?locale=en,"3600 w McFadden ave, Santa Ana, CA 92704",None,None,2020.9.28,None
+0,926234,"Washington, DC 20003",None,None,2020.9.28,None
+1,926408?locale=en,"240 Edgar Rd., Webster Groves, MO 63199",None,None,2020.9.28,None
+2,926223,"Portland, OR 97232",None,None,2020.9.28,None
+3,926218?locale=en,"Boston, MA 02127",None,None,2020.9.28,None
+4,926452,"San Antonio, TX 78213",None,None,2020.9.28,Reported
+5,926181?locale=en,"SilverLake Fabrication, Mears, MI 49436",Not locked,None,2020.9.28,None
+6,926938?locale=en,"2704 N. Pine Hills Rd, Orlando, FL 32808",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.28,None
+7,926160?locale=en,"E 42nd Street/Edmund Blvd, Minneapolis, MN 55406",None,None,2020.9.28,None
+0,926144?locale=en,"1700 w. Olive, Springfield, MO 65802",None,None,2020.9.28,None
+1,931524?locale=en,"415 Pacific Coast Hwy, Santa Monica, CA 90402",Cable lock,"Lock was cut, and left at the scene",2020.9.28,Reported
+2,926297?locale=en,"Provo, UT 84606",Cable lock,"Lock is missing, along with the bike",2020.9.28,Reported
+3,463402?locale=en,"760 Westwood Plaza, Los Angeles, CA 90024",U-lock,"Lock is missing, along with the bike",2020.9.28,Reported
+4,622151?locale=en,"Seattle, WA 98107",U-lock,"Lock is missing, along with the bike",2020.9.28,Reported
+5,622153?locale=en,"Seattle, WA 98107",U-lock,"Lock is missing, along with the bike",2020.9.28,Reported
+0,926016?locale=en,"St. Paul, MN 55102",None,None,2020.9.28,None
+1,926033?locale=en,"San Jose, CA 95130",None,None,2020.9.28,Reported
+2,926002?locale=en,"Allston, MA 02134",None,None,2020.9.28,None
+3,936781?locale=en,"Santa Monica, CA 90401",None,None,2020.9.28,None
+4,926011?locale=en,"Watertown, MA 02472",None,None,2020.9.28,Reported
+5,925984?locale=,"San Francisco, CA 94110",U-lock,"Lock was cut, and left at the scene",2020.9.28,Reported
+6,926275?locale=,"Brooklyn, NY 11217",U-lock and cable,"Lock is missing, along with the bike",2020.9.28,None
+0,927586?locale=,"600 s paulina st, Chicago, IL 60612",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.28,Reported
+1,929069?locale=,"1400 Greenwich St, San Francisco, CA 94109",Not locked,Bike was not locked,2020.9.28,Reported
+2,926100?locale=,"San Diego, CA 92126",Not locked,None,2020.9.28,None
+3,927584?locale=,"San Jose, CA 95110",U-lock and cable,None,2020.9.28,Reported
+0,926035?locale=,"New Orleans, LA 70130",None,"Lock was cut, and left at the scene",2020.9.28,Reported
+1,926059?locale=,"Minneapolis, MN 55419",Not locked,None,2020.9.28,Reported
+2,926110?locale=,"San Francisco, CA 94110",None,None,2020.9.28,Reported
+3,926116?locale=,"San Francisco, CA 94110",None,None,2020.9.28,Reported
+4,928917?locale=,"36th ave SW, Seattle, WA 98126",Cable lock,"Lock was cut, and left at the scene",2020.9.28,Reported
+0,926182?locale=,"Snoqualmie, WA 98066",Cable lock,"Lock is missing, along with the bike",2020.9.27,Reported
+1,117099,"Portland, OR 97214",U-lock and cable,Bike was not locked,2020.9.27,Reported
+2,925790?locale=,"Salt Lake City, UT 84101",None,None,2020.9.27,Reported

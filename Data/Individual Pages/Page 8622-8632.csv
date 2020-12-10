@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,5339,"Columbia, SC 29203",None,None,2007.6.1,None
+1,5330,"Austin, TX 78704",None,None,2007.5.31,None
+2,5063,"Glen Burnie, MD 21061",None,None,2007.5.31,None
+3,11061,"Seattle, WA 98105",None,None,2007.5.29,None
+4,11066,"Webster Groves, MO 63119",None,None,2007.5.29,None
+5,10798,"Somerville, MA 02144",None,None,2007.5.29,None
+6,5629,"Chicago, IL 60611",None,None,2007.5.29,None
+7,5062,"Chicago, IL 60611",None,None,2007.5.29,None
+8,5328,"Seattle, WA 98107",None,None,2007.5.29,None
+0,5327,"Council Bluffs, IA 51503",None,None,2007.5.28,None
+1,5061,"New York, NY 10003",None,None,2007.5.28,None
+2,5343,"Chicago, IL 60613",None,None,2007.5.28,None
+3,5326,"Virginia Beach, VA 23454",None,None,2007.5.27,None
+4,11802,"Santa Barbara, CA 93103",None,None,2007.5.27,Reported
+5,5329,"East Aurora, NY 14052",None,None,2007.5.27,None
+6,5325,"Berkeley, CA 94704",None,None,2007.5.27,None
+7,5438,"Sacramento, CA 95825",None,None,2007.5.26,None
+8,10797,"St. Paul, MN 55114",None,None,2007.5.25,None
+9,5627,"Worcester, MA 01604",None,None,2007.5.24,None
+0,5079,"Sugar Land, TX 77479",None,None,2007.5.24,None
+1,5628,"Portland, OR 97214",None,None,2007.5.23,None
+2,4966,"Santa Clara, CA 95050",None,None,2007.5.22,None
+3,5626,"San Francisco, CA 94102",None,None,2007.5.21,None
+4,5319,"Medford, NY 11763",None,None,2007.5.20,None
+5,5301,"Philadelphia, PA 19130",None,None,2007.5.20,None
+6,5318,"Los Angeles, CA 90026",None,None,2007.5.17,None
+7,5323,"San Francisco, CA 94103",None,None,2007.5.16,None
+8,5625,"San Francisco, CA 94110",None,None,2007.5.16,None
+9,5322,"Cedar Springs, MI 49319",None,None,2007.5.16,None
+0,5317,"Seattle, WA 98117",None,None,2007.5.16,None
+1,5706,"Waterford, WI 53185",None,None,2007.5.15,None
+2,6352,"Tampa, FL 33612",None,None,2007.5.15,None
+3,5321,"Temecula, CA 92592",None,None,2007.5.15,None
+4,10791,"San Francisco, CA 94132",None,None,2007.5.15,None
+5,5315,"Norfolk, VA 23504",None,None,2007.5.13,None
+6,4973,"Burbank, CA 91501",None,None,2007.5.12,None
+7,5316,"Ann Arbor, MI 48104",None,None,2007.5.12,None
+8,5623,"Carson City, NV 89701",None,None,2007.5.11,None
+0,5311,"Franklin, IN 46131",None,None,2007.5.10,None
+1,5313,"Chicago, IL 60613",None,None,2007.5.10,None
+2,5057,"Seattle, WA 98105",None,None,2007.5.10,None
+3,5331,"Portland, OR 97232",None,None,2007.5.10,None
+4,5314,"Nutley, NJ 07110",None,None,2007.5.10,None
+5,5310,"Minneapolis, MN 55406",None,None,2007.5.9,None
+6,5709,"Tucson, AZ 85719",None,None,2007.5.8,None
+7,10790,"Seattle, WA 98105",None,None,2007.5.8,None
+8,5060,"Seattle, WA 98105",None,None,2007.5.8,None
+9,5624,"Washington, MI 48094",None,None,2007.5.8,None
+0,5068,"Lansdale, PA 19446",None,None,2007.5.8,None
+1,5055,"Chico, CA 95973",None,None,2007.5.7,None
+2,5332,"Jersey City, NJ 07302",None,None,2007.5.6,None
+3,5308,"San Francisco, CA 94123",None,None,2007.5.5,None
+4,10789,"Pittsburgh, PA 15207",None,None,2007.5.5,None
+5,5307,"Pasadena, CA 91107",None,None,2007.5.5,None
+6,5056,"San Francisco, CA 94105",None,None,2007.5.4,None
+7,5705,"Beaverton, OR 97006",None,None,2007.5.3,None
+8,5305,"Tucson, AZ 85716",None,None,2007.5.3,None
+9,5304,"Montpelier, VT 05602",None,None,2007.5.3,None
+0,4914,"Sterling Heights, MI 48312",None,None,2007.5.2,None
+1,4964,"Seattle, WA 98107",None,None,2007.5.2,None
+2,5058,"Portland, OR 97239",None,None,2007.5.2,None
+3,4988,"Spokane, WA 99258",None,None,2007.5.1,None
+4,9555,"Evansville, IN 47712",None,None,2007.5.1,Reported
+5,6667,"Baltimore, MD 21224",None,None,2007.5.1,None
+6,5333,"Baltimore, MD 21231",None,None,2007.5.1,None
+7,5552,"Seattle, WA 98103",None,None,2007.4.30,None
+8,7705,"Ocala, FL 34472",None,None,2007.4.30,None
+9,5299,"Melbourne, AK 3000",None,None,2007.4.29,None
+0,5054,"Silver Spring, MD 20904",None,None,2007.4.29,None
+1,10787,"Brooklyn, NY 11201",None,None,2007.4.28,None
+2,10786,"Tampa, FL 33613",None,None,2007.4.28,None
+3,11024,"Lancaster, PA 17603",None,None,2007.4.28,None
+4,5296,"Seattle, WA 98101",None,None,2007.4.27,None
+5,12778,"San Francisco, CA 94109",None,None,2007.4.26,None
+6,5295,"Tucson, AZ 85712",None,None,2007.4.26,None
+7,5539,"Palo Alto, CA 94301",None,None,2007.4.25,None
+8,5309,"Seattle, WA 98195",None,None,2007.4.25,None
+9,5294,"Madison, WI 53705",None,None,2007.4.24,None
+0,5053,"Kettering, OH 45419",None,None,2007.4.24,None
+1,5291,"Portland, OR 97201",None,None,2007.4.24,None
+2,4963,"Chicago, IL 60613",None,None,2007.4.24,None
+3,10785,"Madison, WI 53702",None,None,2007.4.24,None
+4,5298,"Hoboken, NJ 07030",None,None,2007.4.23,None
+5,5303,"Seattle, WA 98109",None,None,2007.4.22,None
+6,5622,"Milford, CT 06460",None,None,2007.4.22,None
+7,5703,"Oakland, CA 94609",None,None,2007.4.21,None
+8,5704,"Chicago, IL 60640",None,None,2007.4.20,None
+9,5700,"Cambridge, MA 02138",None,None,2007.4.20,None
+0,5651,"San Jose, CA 95129",None,None,2007.4.18,None
+1,5292,"San Jose, CA 95129",None,None,2007.4.18,None
+2,5293,"Pacific Beach, CA 92109",None,None,2007.4.18,None
+3,5290,"Savage, MN 55378",None,None,2007.4.17,None
+4,5302,"Austin, TX 78705",None,None,2007.4.17,None
+5,5701,"Pocatello, ID 83201",None,None,2007.4.16,None
+6,10779,"Loma Linda, CA 92354",None,None,2007.4.16,None
+7,5536,"New Bern, NC 28560",None,None,2007.4.14,None
+8,5699,"Barberton, OH 44203",None,None,2007.4.14,None
+9,4962,"Santa Barbara, CA 93101",None,None,2007.4.14,None

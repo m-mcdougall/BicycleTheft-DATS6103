@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,18256,"Albuquerque, NM 87112",None,None,2013.4.18,None
+1,17411,"Ptld, OR 97266",None,None,2013.4.18,Reported
+2,14612,"Vancouver, WA 98664",None,None,2013.4.18,Reported
+3,17845,"Portland, OR 97214",None,None,2013.4.17,Reported
+4,18239,"Columbus, OH 43201",None,None,2013.4.17,None
+5,20482,"Houston, TX 77098",None,None,2013.4.17,Reported
+6,14587,"Portland, Or, 97206, OR",None,None,2013.4.17,Reported
+7,14608,"New York, NY 10027",None,None,2013.4.17,None
+8,16899,"Palo Alto, CA 94306",None,None,2013.4.17,Reported
+9,17390,"Portland, OR 97227",None,None,2013.4.17,Reported
+0,17892,"Venice, CA 90291",None,None,2013.4.17,None
+1,7574,"San Francisco, CA 94133",None,None,2013.4.17,Reported
+2,7569,"San Francisco, CA 94133",None,None,2013.4.17,Reported
+3,16748,"Sunnyvale, CA 94086",None,None,2013.4.17,Reported
+4,8662,"Huntington Beach, CA 92648",None,None,2013.4.17,Reported
+5,20465,"San Francisco, CA 94105",None,None,2013.4.17,Reported
+6,17455,"Medford, MA 02155",None,None,2013.4.17,Reported
+7,17393,"Portland, OR 97219",None,None,2013.4.16,None
+8,18221,"San Diego, CA 92123",None,None,2013.4.16,Reported
+9,14397,"Portland, OR 97215",None,None,2013.4.16,Reported
+0,14605,"East Lansing, MI 48823",None,None,2013.4.16,Reported
+1,14618,"Portland, OR 97205",None,None,2013.4.16,Reported
+2,8736,"San Carlos, CA 94070",None,None,2013.4.16,Reported
+3,20436,"San Mateo, CA 94403",None,None,2013.4.16,None
+4,22883,"San Jose, CA 95126",None,None,2013.4.16,None
+5,17355,"Baltimore, MD 21218",None,None,2013.4.16,None
+6,17352,"Portland, OR 97212",None,None,2013.4.16,Reported
+7,14576,"Boston, MA 02120",None,None,2013.4.16,None
+8,14599,"Portland, OR 97205",None,None,2013.4.16,None
+9,14685,"Portland, OR 97206",None,None,2013.4.15,Reported
+0,14616,"Los Gatos, CA 95032",None,None,2013.4.15,Reported
+1,17763,"Santa Rosa, CA 95404",None,None,2013.4.15,Reported
+2,22900,"Portland, OR 97205",None,None,2013.4.15,None
+3,22941,"Aptos, CA 95003",None,None,2013.4.15,Reported
+4,22855,"Auburn, AL 36830",None,None,2013.4.15,None
+5,17401,"San Francisco, CA 94114",None,None,2013.4.15,Reported
+6,20421,"Brooklyn, NY 11238",None,None,2013.4.15,None
+7,14580,"Portland, OR 97215",None,None,2013.4.15,None
+8,17341,"Springfield, OR 97477",None,None,2013.4.15,Reported
+9,18331,"Aptos, CA 95003",None,None,2013.4.15,Reported
+0,20873,"Portland, OR 97212",None,None,2013.4.15,None
+1,22938,"Aptos, CA 95003",None,None,2013.4.15,Reported
+2,20423,"Happy Valley, OR 97086",None,None,2013.4.15,None
+3,22224,"Alameda, CA 94501",None,None,2013.4.15,Reported
+4,18366,"Salt Lake Ctiy, UT 84105",None,None,2013.4.15,None
+5,17312,"Porterville, CA 93257",None,None,2013.4.15,Reported
+6,11518,"Portland, OR",None,None,2013.4.15,None
+7,17380,"Santa Monica, CA 90404",None,None,2013.4.14,Reported
+8,7521,"Portland, OR 97211",None,None,2013.4.14,None
+9,7584,"Portland, OR 97211",None,None,2013.4.14,Reported
+0,14569,"Portland, OR 97209",None,None,2013.4.14,None
+1,14552,"San Diego, CA 92109",None,None,2013.4.14,None
+2,20416,"Portland, OR 97209",None,None,2013.4.14,None
+3,11019,"Tempe, AZ 85281",None,None,2013.4.14,None
+4,18216,"Providence, RI 02906",None,None,2013.4.14,None
+5,17357,"Boulder, CO 80304",None,None,2013.4.14,Reported
+6,22869,"Tucson, AZ 85716",None,None,2013.4.13,Reported
+7,17277,"Federal Way, WA 98003",None,None,2013.4.13,None
+8,14546,"Tucson, AZ 85705",None,None,2013.4.13,None
+9,10938,"Cleveland, OH 44135",None,None,2013.4.13,None
+0,14543,"Oakland, CA 94610",None,None,2013.4.13,Reported
+1,14592,"Seattle, WA 98125",None,None,2013.4.13,None
+2,14602,"San Francisco, CA 94117",None,None,2013.4.13,None
+3,16616,"Portland, OR 97206",None,None,2013.4.13,Reported
+4,17281,"Charlotte, NC 28205",None,None,2013.4.13,Reported
+5,14549,"Philadelphia, PA 19140",None,None,2013.4.13,None
+6,17250,"Corvallis, OR 97331",None,None,2013.4.13,None
+7,14559,"Galveston, TX 77550",None,None,2013.4.13,Reported
+8,19228,"Huber Heights, OH 45424",None,None,2013.4.13,None
+9,17326,"Pacific Grove, CA 93950",None,None,2013.4.13,None
+0,14570,"Fort Collins, CO 80521",None,None,2013.4.13,Reported
+1,110131,"New Orleans, LA 70130",None,None,2013.4.13,None
+2,17332,"Cincinnati, OH 45202",None,None,2013.4.13,Reported
+3,20396,"San Francisco, CA 94117",None,None,2013.4.13,Reported
+4,14571,"Portland, OR 97214",None,None,2013.4.12,None
+5,17200,"San Diego, CA 92119",None,None,2013.4.12,Reported
+6,7450,"San Francisco, CA 94123",None,None,2013.4.12,Reported
+7,17199,"Portland, OR 97216",None,None,2013.4.12,Reported
+8,17212,"Oakland, CA 94612",None,None,2013.4.12,None
+9,19241,"Sacramento, CA 95825",None,None,2013.4.12,Reported
+0,20431,"San Francisco, CA 94103",None,None,2013.4.12,Reported
+1,22875,"San Mateo, CA 94403",None,None,2013.4.12,Reported
+2,14529,"Washington, DC 20009",None,None,2013.4.12,Reported
+3,17509,"Duluth, MN 55812",None,None,2013.4.12,None
+4,22851,"Denver, CO 80218",None,None,2013.4.12,Reported
+5,13882,"Lake Oswego, OR 97035",None,None,2013.4.12,Reported
+6,17157,"Alameda, CA 94501",None,None,2013.4.12,None
+7,14533,"Portland, OR 97212",None,None,2013.4.12,Reported
+8,17428,"Sewell, NJ 08080",None,None,2013.4.12,None
+9,17172,"Simi Valley, CA 93063",None,None,2013.4.11,None
+0,7621,"Redmond, WA 98052",None,None,2013.4.11,Reported
+1,10905,"San Rafael, CA 94903",None,None,2013.4.11,Reported
+2,17238,"Portland, OR 97216",None,None,2013.4.11,Reported
+3,14520,"Denver, CO 80209",None,None,2013.4.11,Reported
+4,14516,"Portland, OR 97220",None,None,2013.4.11,Reported
+5,14514,"Oakland, CA 94609",None,None,2013.4.11,Reported
+6,14524,"Brooklyn, NY 11238",None,None,2013.4.11,None
+7,14795,"Portland, OR 97216",None,None,2013.4.11,Reported
+8,14532,"Portland, OR 97201",None,None,2013.4.11,Reported
+9,17187,"Portland, OR 97214",None,None,2013.4.11,None

@@ -1,0 +1,72 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,757289,"Chicago, IL 60626",U-lock and cable,"Lock is missing, along with the bike",2020.6.10,Reported
+1,757448,"1959 NE Pacific St, Seattle, WA",None,None,2020.6.10,None
+2,757736,"West Hollywood, CA 90045",U-lock and cable,"Lock was cut, and left at the scene",2020.6.10,None
+3,653245,"San Francisco, CA 94117",None,None,2020.6.10,Reported
+4,564235,"855 El Camino Real, Palo Alto, CA 94303",Cable lock,"Lock is missing, along with the bike",2020.6.10,None
+5,757397,"Berkeley, CA 94704",Not locked,None,2020.6.10,Reported
+6,757346,"San, CA 95126",None,None,2020.6.10,Reported
+7,757365,"Tucson, AZ 85710",None,None,2020.6.10,Reported
+0,793469,"San Francisco, CA 94103",Other,"Lock is missing, along with the bike",2020.6.10,Reported
+1,390144,"Corner of K st NW and Vermont from rack in front of Pret a Manger, Washington, DC 20002",Cable lock,"Lock was cut, and left at the scene",2020.6.10,Reported
+2,758341,"Philadelphia, PA 19103",Not locked,Bike was not locked,2020.6.10,Reported
+3,757269,"Portland, OR 97206",None,None,2020.6.10,None
+4,758759,"Alexandria, VA 22302",Cable lock,None,2020.6.10,None
+5,757210,"Park City, UT 84060",None,None,2020.6.10,Reported
+6,757311,"73-01 25th Ave, Queens, NY 11370",Not locked,Bike was not locked,2020.6.10,None
+7,758092,"1600 Hillcrest drive apt 2, Manhattan, KS 66502",Cable lock,"Lock was cut, and left at the scene",2020.6.10,None
+0,760355,"Sacramento, CA 95835",None,None,2020.6.10,None
+1,757164,"New Orleans, LA",None,None,2020.6.10,None
+2,757353,"Tucson, AZ 85716",None,None,2020.6.10,None
+3,757127,"1908 Reston Metro Plaza, Reston, VA 20190",Cable lock,"Lock is missing, along with the bike",2020.6.10,Reported
+4,757184,"New Orleans, LA 70113",None,None,2020.6.10,None
+5,758354,"Draper, UT",None,None,2020.6.10,None
+6,757341,"Tucson, AZ 85716",Not locked,"Other situation, please describe below",2020.6.10,Reported
+7,757112,"Cincinnati, OH 45208",None,None,2020.6.10,None
+0,757218,"San Jose, CA 95126",Other,Bike was not locked,2020.6.10,None
+1,759779,"New Orleans, LA 70115",None,None,2020.6.10,None
+2,760913,"Yakima, WA 98901",U-lock,"Lock is missing, along with the bike",2020.6.10,None
+3,774876,"Portland, OR 97229",None,None,2020.6.10,Reported
+4,760969,"Seattle, WA 98102",Not locked,"Other situation, please describe below",2020.6.10,Reported
+0,762924,"San Carlos, CA 94070",Not locked,None,2020.6.10,Reported
+1,757575,"Minneapolis, MN 55416",Not locked,"Other situation, please describe below",2020.6.10,Reported
+2,829064,"Campbell, CA 95008",None,None,2020.6.10,Reported
+3,759535,"Naperville, IL 60563",Not locked,Bike was not locked,2020.6.10,Reported
+4,760762,"Campbell, CA 95008",Not locked,None,2020.6.10,Reported
+5,763906,"Salt Lake City, UT 84104",Not locked,None,2020.6.10,None
+0,676294,"Santa Fe, NM 87505",Other,Bike was not locked,2020.6.10,Reported
+1,757190,"Minneapolis, MN 55417",Not locked,"Other situation, please describe below",2020.6.10,Reported
+2,757197,"Minneapolis, MN 55417",Not locked,"Other situation, please describe below",2020.6.10,Reported
+3,756986,"111 SW Columbia Street, Portland, OR 97201",U-lock,"Lock was cut, and left at the scene",2020.6.9,Reported
+4,756989,"Glendale, CA 91205",Cable lock,"Lock was cut, and left at the scene",2020.6.9,Reported
+5,758009,"2644 Quarry Lake Dr., Columbus, OH 43054",Cable lock,"Lock was cut, and left at the scene",2020.6.9,Reported
+6,121995,"Savannah, GA 31410",U-lock,Bike was not locked,2020.6.9,None
+7,595425,"NE 7th Ave at Weidler St, Portland, OR 97232",Not locked,"Other situation, please describe below",2020.6.9,Reported
+0,758332,"Tacoma, WA 98407",None,None,2020.6.9,Reported
+1,758340,"Tacoma, WA 98407",None,None,2020.6.9,Reported
+2,756855,"Seattle, WA 98103",Other,"Other situation, please describe below",2020.6.9,None
+3,756861,"Concord, CA 94520",None,None,2020.6.9,Reported
+4,756819,"4455 Interlake Ave N, Seattle, WA 98103",U-lock and cable,"Lock is missing, along with the bike",2020.6.9,Reported
+0,756800,"Boulder, CO 80304",None,None,2020.6.9,Reported
+1,758653,"San Jose, CA 96131",None,None,2020.6.9,Reported
+2,756761,"San Francisco, CA 94115",None,None,2020.6.9,None
+3,756758,"San Francisco, CA 94115",U-lock and cable,"Lock is missing, along with the bike",2020.6.9,None
+4,756737,"Austin, TX 78703",None,None,2020.6.9,None
+5,757535,"Beverly Way, Neptune, NJ 07753",Not locked,Bike was not locked,2020.6.9,Reported
+6,756627,"Boise, ID 83702",Not locked,Bike was not locked,2020.6.9,Reported
+7,756594,"San Diego, CA 92115",None,None,2020.6.9,None
+8,756676,"Reno, NV 89509",Not locked,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.9,Reported
+0,756802,"13425 Community Road (Walmart lot), Poway, CA 92064",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.9,Reported
+1,756647,"11226 31st ave se, Everett, WA 98208",None,None,2020.6.9,None
+2,756604,"San Francisco, CA 94115",None,None,2020.6.9,None
+3,757721,"11541 Bayberry Circle, Draper, UT 84020",None,None,2020.6.9,Reported
+4,756568,"501 NE Stafford Street, Portland, OR 97211",None,None,2020.6.9,None
+5,756560,"2121 3rd Street Unit 0217, San Francisco, CA 94107",None,None,2020.6.9,None
+6,756552,"Iowa, IA 52245",None,None,2020.6.9,None
+0,756920,"5677 South Park Place, Greenwood Village, CO 80111",Other,"Other situation, please describe below",2020.6.9,Reported
+1,756534,"Minneapolis, MN 55403",Cable lock,"Lock was cut, and left at the scene",2020.6.9,Reported
+2,756451,"Richmond, VA 23223",None,None,2020.6.9,None
+3,756452,"1001 16th St NW & K St, Washington, DC 20036",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.9,Reported
+4,756778,"San Francisco, CA 94115",U-lock,"Lock is missing, along with the bike",2020.6.9,None
+5,756440,"Washington, DC 20017",None,None,2020.6.9,Reported
+6,758199,"3850 N Mississippi Ave, Portland, OR 97227",U-lock and cable,"Lock was cut, and left at the scene",2020.6.9,Reported

@@ -1,0 +1,93 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,8385,"Sacramento, CA 95815",None,None,2008.8.15,None
+1,8388,"Columbus, OH 43202",None,None,2008.8.15,None
+2,11071,"Columbus, OH 43210",None,None,2008.8.15,None
+3,6863,"Orlando, FL 32817",None,None,2008.8.15,None
+4,5952,"Seattle, WA 98102",None,None,2008.8.14,None
+5,6857,"Portland, OR 97214",None,None,2008.8.14,None
+6,18413,"Ballwin, MO 63021",None,None,2008.8.14,None
+7,6306,"Ann Arbor, MI 48109",None,None,2008.8.14,None
+0,6082,"Silver Spring, MD 20910",None,None,2008.8.14,None
+1,8379,"Grand Rapids, MI 49507",None,None,2008.8.13,None
+2,10194,"Longmont, CO 80501",None,None,2008.8.13,None
+3,6184,"Philadelphia, PA 19010",None,None,2008.8.13,None
+4,8373,"Palo Alto, CA 94301",None,None,2008.8.13,None
+5,8381,"East Lansing, MI 48825",None,None,2008.8.13,None
+6,5954,"Washington, DC 20016",None,None,2008.8.12,None
+7,8365,"Chicago, IL 60625",None,None,2008.8.12,None
+8,8429,"Silver Springs, FL 34488",None,None,2008.8.12,None
+0,10170,"Jacksonville, FL 32218",None,None,2008.8.12,None
+1,11077,"San Jose, CA 95110",None,None,2008.8.12,None
+2,5947,"Chicago, IL 60603",None,None,2008.8.12,None
+3,10378,"Oklahoma City, OK 73159",None,None,2008.8.12,None
+4,18673,"Vancouver, WA 98661",None,None,2008.8.12,None
+5,8399,"Laureldale, PA 19605",None,None,2008.8.11,None
+6,8368,"St. Cloud, MN 56303",None,None,2008.8.11,None
+7,8370,"Murray, UT 84157",None,None,2008.8.11,None
+8,5945,"San Francisco, CA 94117",None,None,2008.8.11,None
+0,8362,"Cleveland, OH 44106",None,None,2008.8.11,None
+1,8361,"Long Beach, CA 90802",None,None,2008.8.11,None
+2,8559,"San, CA 92124",None,None,2008.8.10,None
+3,5943,"Walnut Creek, CA 94595",None,None,2008.8.10,None
+4,6447,"Somerville, MA 02143",None,None,2008.8.10,None
+5,6841,"Bethesda, MD 20814",None,None,2008.8.10,None
+6,8346,"State College, PA 16801",None,None,2008.8.10,None
+7,8333,"Akron, OH 44313",None,None,2008.8.10,None
+8,8342,"Chicago, IL 60640",None,None,2008.8.10,None
+0,8349,"Saint Paul, MN 55107",None,None,2008.8.10,None
+1,5946,"Boston, MA 02114",None,None,2008.8.10,None
+2,6849,"Sunnyvale, CA 94086",None,None,2008.8.9,None
+3,8378,"Washington, DC 20001",None,None,2008.8.9,None
+4,6843,"Forest Grove, OR 97116",None,None,2008.8.9,None
+5,6837,"Mountain View, CA 94041",None,None,2008.8.9,None
+6,8366,"Arcata, CA 95521",None,None,2008.8.9,None
+7,8332,"Mountain View, CA 94040",Cable lock,"Lock is missing, along with the bike.",2008.8.8,None
+8,6833,"Miami, FL 33130",None,None,2008.8.8,None
+0,8327,"South Lake Tahoe, CA 96150",None,None,2008.8.8,None
+1,9968,"Philadelphia, PA 19130",None,None,2008.8.8,None
+2,6831,"Fort Collins, CO 80521",None,None,2008.8.8,None
+3,6827,"New York, NY 10014",None,None,2008.8.8,None
+4,10001,"Boulder, CO 80302",None,None,2008.8.8,None
+5,9122,"Crystal, MN 55422",None,None,2008.8.7,Reported
+6,8321,"Medford, MA 02155",None,None,2008.8.7,None
+7,6444,"Gainesville, FL 32606",None,None,2008.8.6,None
+8,6446,"Provo, UT 84604",None,None,2008.8.6,None
+0,11072,"Laureldale, PA 19605",None,None,2008.8.6,None
+1,8311,"Belcamp, MD 21017",None,None,2008.8.6,None
+2,8289,"Minnetonka, MN 55345",None,None,2008.8.5,None
+3,6442,"Puyallup, WA 98390",None,None,2008.8.5,None
+4,8318,"Rochester, NY 14623",None,None,2008.8.5,None
+5,8303,"Syracuse, NY 13203",None,None,2008.8.5,None
+6,6858,"Bonita, CA 91902",None,None,2008.8.5,None
+7,10397,"Minneapolis, MN 55404",None,None,2008.8.5,Reported
+8,8279,"Las Cruces, NM 88001",None,None,2008.8.4,None
+9,8292,"Merrick, NY 11566",None,None,2008.8.4,None
+0,8291,"El Segundo, CA 90245",None,None,2008.8.4,None
+1,6829,"South Bend, IN 46628",None,None,2008.8.4,None
+2,6816,"Spokane, WA 99201",None,None,2008.8.4,None
+3,8309,"Lincoln, NE 68508",None,None,2008.8.4,None
+4,9950,"Grand Rapids, MI 49507",None,None,2008.8.4,Reported
+5,9974,"Duluth, MN 55812",None,None,2008.8.4,None
+6,8296,"Denton, TX 76201",None,None,2008.8.4,None
+7,8287,"Ferndale, MI 48220",None,None,2008.8.4,None
+8,5892,"Sacramento, CA 95831",None,None,2008.8.3,None
+9,7453,"Santa Monica, CA 90405",None,None,2008.8.3,None
+0,6938,"Oceanside, CA 92057",None,None,2008.8.3,None
+1,5942,"Fayetteville, NC 28311",None,None,2008.8.3,None
+2,8278,"Los Angeles, CA 90039",None,None,2008.8.3,None
+3,8313,"Palo Alto, CA 94306",None,None,2008.8.2,None
+4,6853,"Newport Beach, CA 92663",None,None,2008.8.2,None
+5,11116,"Hillsboro, OR 97124",None,None,2008.8.1,None
+6,8275,"Portland, OR 97206",None,None,2008.8.1,None
+7,9224,"Boise, ID 83706",None,None,2008.8.1,None
+8,8272,"Santa Barbara, CA 93101",None,None,2008.8.1,None
+0,7004,"Cedar Rapids, IA 52302",None,None,2008.8.1,None
+1,11427,"San Francisco, CA 94133",None,None,2008.8.1,Reported
+2,7345,"Brooklyn, NY 11221",None,None,2008.8.1,None
+3,8851,"Austin, TX 78722",None,None,2008.8.1,None
+4,10091,"Denver, CO 80205",None,None,2008.8.1,Reported
+5,6813,"San Jose, CA 95112",None,None,2008.8.1,None
+6,6854,"Washington, DC 20036",None,None,2008.8.1,None
+7,5769,"Boulder, CO 80309",None,None,2008.8.1,None
+8,8619,"San Diego, CA 92116",None,None,2008.8.1,None
+9,8493,"Boxford, MA 01921",None,None,2008.8.1,None

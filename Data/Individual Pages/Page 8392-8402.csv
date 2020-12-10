@@ -1,0 +1,93 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,6397,"Cincinnati, OH 45220",None,None,2009.3.7,None
+1,10631,"Brooklyn, NY 11215",None,None,2009.3.7,None
+2,9094,"Buford, GA 30519",None,None,2009.3.6,None
+3,6795,"Philadelphia, PA 19147",None,None,2009.3.6,None
+4,9097,"Denver, CO 80202",None,None,2009.3.6,None
+5,9095,"San Francisco, CA 94115",None,None,2009.3.6,None
+6,9199,"Phoenix, AZ 85013",None,None,2009.3.6,None
+7,6839,"Missoula, MT 59801",None,None,2009.3.5,None
+0,10628,"College Station, TX 77840",None,None,2009.3.5,None
+1,6861,"San Francisco, CA 94117",None,None,2009.3.4,None
+2,6182,"Columbus, OH 43210",None,None,2009.3.3,None
+3,10634,"Los Angeles, CA 90024",None,None,2009.3.3,None
+4,6776,"Clemson, SC 29631",None,None,2009.3.3,None
+5,6804,"Langley, SC 29851",None,None,2009.3.1,Reported
+6,6820,"New York, NY 10024",None,None,2009.3.1,None
+7,6847,"Long Beach, CA 90802",None,None,2009.3.1,None
+8,9073,"Tucson, AZ 85705",None,None,2009.3.1,None
+0,7390,"Portland, OR 97215",None,None,2009.3.1,None
+1,6215,"Long Beach, CA 90815",None,None,2009.3.1,None
+2,9069,"Dallas, TX 75205",None,None,2009.2.28,None
+3,6253,"Manhattan, NY 10002",None,None,2009.2.28,None
+4,7774,"Encino, CA 91436",None,None,2009.2.27,None
+5,9106,"Harrisonburg, VA 22807",None,None,2009.2.26,None
+6,9065,"Seattle, WA 98115",None,None,2009.2.26,None
+7,9061,"Park Ridge, IL 60068",None,None,2009.2.25,None
+8,9091,"Denver, CO 80205",None,None,2009.2.24,None
+0,10573,"Chicago, IL 60614",None,None,2009.2.24,None
+1,10570,"Aurora, CO 80010",None,None,2009.2.24,None
+2,9056,"San Francisco, CA 94110",None,None,2009.2.24,None
+3,9090,"Chicago, IL 60611",None,None,2009.2.23,None
+4,6759,"Redmond, WA 98052",None,None,2009.2.22,None
+5,6019,"Los Angeles, CA 90067",None,None,2009.2.22,None
+6,6068,"Houston, TX 77084",None,None,2009.2.22,None
+7,9372,"Mar Vista, CA 90066",None,None,2009.2.21,None
+8,6005,"Houston, TX 77098",None,None,2009.2.19,None
+9,9083,"Seattle, WA 98122",None,None,2009.2.19,None
+0,5995,"College Station, TX 77840",None,None,2009.2.18,None
+1,5990,"Louisville, KY 40202",None,None,2009.2.18,None
+2,6743,"Corvallis, OR 97331",None,None,2009.2.16,None
+3,110692,"Lakewood, CA 90712",Other,"Other situation, please describe below.",2009.2.16,None
+4,9062,"Birmingham, AL 35222",None,None,2009.2.16,None
+5,6398,"Centennial, CO 80122",None,None,2009.2.15,Reported
+6,28738,"Los Angeles, CA 90007",None,None,2009.2.15,None
+7,5924,"Santa Fe, NM 87505",None,None,2009.2.15,None
+8,9042,"Liverpool, NY 13088",None,None,2009.2.14,None
+9,9051,"Ventura, CA 93001",None,None,2009.2.14,None
+0,3793,"Bellingham, WA",Cable lock,"Lock is missing, along with the bike.",2009.2.14,None
+1,7597,"Columbus, OH 43235",None,None,2009.2.13,Reported
+2,6720,"Pasadena, CA 91101",None,None,2009.2.10,None
+3,9067,"Grand Haven, MI 49417",None,None,2009.2.10,None
+4,5849,"St. Petersburg, FL 33706",None,None,2009.2.9,None
+5,9029,"Austin, TX 78746",None,None,2009.2.9,None
+6,10558,"San Luis Obispo, CA 93410",None,None,2009.2.7,None
+0,9030,"Tucson, AZ 85721",None,None,2009.2.6,None
+1,7607,"Cedar City, UT 84720",None,None,2009.2.6,None
+2,5860,"Tucson, AZ 85721",None,None,2009.2.6,None
+3,9024,"Hermosa Beach, CA 90254",None,None,2009.2.5,None
+4,10034,"Austin, TX 78704",None,None,2009.2.5,None
+5,10572,"Jacksonville, FL 32211",None,None,2009.2.4,None
+6,6052,"Austin, TX 78701",None,None,2009.2.4,None
+7,9100,"Jacksonville, FL 32211",None,None,2009.2.4,None
+8,6026,"Portland, OR 97207",None,None,2009.2.2,None
+9,6051,"Albany, OR 97322",None,None,2009.2.2,None
+0,9007,"Menlo Park, CA 94025",None,None,2009.2.1,None
+1,7151,"San Francisco, CA 94133",None,None,2009.2.1,None
+2,18356,"Pittsburg, CA 94565",None,None,2009.2.1,None
+3,9059,"Morris Plains, NJ 07950",None,None,2009.2.1,None
+4,5783,"Washington, DC 20001",None,None,2009.1.31,Reported
+5,6050,"New Haven, CT 06515",None,None,2009.1.31,None
+6,9009,"San Luis Obispo, CA 93405",None,None,2009.1.31,None
+7,6654,"Moab, UT 84532",None,None,2009.1.31,None
+8,9005,"Cape Coral, FL 33914",None,None,2009.1.31,None
+9,13839,"Kaukauna, WI 54130",None,None,2009.1.31,None
+0,6244,"Walnut Creek, CA 94596",None,None,2009.1.31,Reported
+1,9034,"San Francisco, CA 94105",None,None,2009.1.31,None
+2,8998,"Davis, CA 95616",None,None,2009.1.30,None
+3,7149,"Tempe, AZ 85281",None,None,2009.1.30,None
+4,6679,"San Francisco, CA 94122",None,None,2009.1.29,None
+5,10372,"Portland, OR 97015",None,None,2009.1.29,Reported
+6,9894,"Lansing, MI 48910",None,None,2009.1.29,None
+7,7145,"Tempe, AZ 85280",None,None,2009.1.29,None
+8,9907,"Santa Monica, CA 90403",None,None,2009.1.28,Reported
+9,10234,"Ashland, OR 97520",None,None,2009.1.28,Reported
+0,9014,"Atlanta, GA 30306",None,None,2009.1.28,None
+1,9884,"Baltimore, MD 21202",None,None,2009.1.28,Reported
+2,8990,"College Station, TX 77841",None,None,2009.1.27,None
+3,8141,"Spokane, WA 99201",None,None,2009.1.27,Reported
+4,8151,"Sol Vista, CO 80446",None,None,2009.1.26,Reported
+5,8153,"Portland, OR 97213",None,None,2009.1.26,None
+6,8993,"Minneapolis, MN 55416",None,None,2009.1.26,None
+7,7140,"Santa Monica, CA 90404",None,None,2009.1.25,None
+8,18798,"Portland, OR 66502",None,None,2009.1.25,Reported

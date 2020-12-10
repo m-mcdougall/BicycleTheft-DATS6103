@@ -1,0 +1,96 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,6280,"Eugene, OR 97401",None,None,2008.1.2,Reported
+1,9417,"Temecula, CA 92592",None,None,2008.1.1,None
+2,6213,"Miami Beach, FL 33139",None,None,2008.1.1,None
+3,6334,"Denham Springs, LA 7726",None,None,2008.1.1,None
+4,8222,"Verona, WI 53593",None,None,2008.1.1,None
+5,11588,"Phalidelphio, PA 30191",None,None,2008.1.1,None
+6,18416,"Portland, OR 97217",None,None,2008.1.1,None
+7,6047,"Portland, OR 97214",None,None,2008.1.1,None
+8,5882,"Beachwood, OH 44117",None,None,2008.1.1,None
+9,6270,"Santa Monica, CA 90405",None,None,2008.1.1,None
+0,7144,"Apopka, FL 32703",None,None,2008.1.1,None
+1,7508,"Chicago, IL 60610",None,None,2008.1.1,None
+2,7728,"Rome, GA 30161",None,None,2008.1.1,None
+3,9695,"San Diego, CA 92101",None,None,2008.1.1,None
+4,9105,"Phoenix, AZ 85029",None,None,2008.1.1,None
+5,9857,"Charleston, SC 29403",None,None,2008.1.1,Reported
+6,10215,"Louisville, KY 40206",None,None,2008.1.1,Reported
+7,10555,"Madison, WI 53705",None,None,2008.1.1,None
+8,10406,"Fremont, WA 98103",None,None,2008.1.1,None
+9,69526,"New Orleans, LA 70119",Cable lock,"Lock was cut, and left at the scene.",2008.1.1,None
+0,7192,"Salisbury, MD 21801",None,None,2008.1.1,None
+1,9188,"Portland, OR 97202",None,None,2008.1.1,Reported
+2,6555,"Gainesville, FL 32501",None,None,2008.1.1,None
+3,7111,"Bradenton, FL 34205",None,None,2008.1.1,None
+4,7712,"Seattle, WA 98106",None,None,2008.1.1,None
+5,8032,"Chicago, IL 60657",None,None,2008.1.1,None
+6,10159,"Houston, TX 77098",None,None,2008.1.1,Reported
+7,10356,"College Park, MD 2040",None,None,2008.1.1,Reported
+8,12168,"Tucson, AZ 85706",None,None,2008.1.1,Reported
+0,6122,"Eugene, OR 97401",None,None,2008.1.1,None
+1,6862,"Lexington, OH 44904",None,None,2008.1.1,None
+2,8034,"San Diego, CA 92130",None,None,2008.1.1,None
+3,7850,"Chico, CA 95973",None,None,2008.1.1,None
+4,8933,"San Francisco, CA 94117",None,None,2008.1.1,None
+5,10274,"Ventura, CA 93003",None,None,2008.1.1,None
+6,9037,"Berkeley, CA 94705",None,None,2008.1.1,None
+0,13720,"Washington, DC 20009",None,None,2008.1.1,Reported
+1,8383,"Bremerton, WA 98312",None,None,2008.1.1,None
+2,10312,"Bourbonnais, IL 60914",None,None,2008.1.1,None
+3,10561,"Santa Barbara, CA 93105",None,None,2008.1.1,None
+4,8277,"Oxnard, CA 93030",None,None,2008.1.1,None
+5,6810,"Salt Lake City, UT 84104",None,None,2008.1.1,None
+6,7478,"Reno, NV 89519",None,None,2008.1.1,None
+7,8257,"Hollywood, CA 90046",None,None,2008.1.1,None
+8,9325,"San Diego, CA 92124",None,None,2008.1.1,None
+9,12506,"Yuma, AZ 85364",None,None,2008.1.1,None
+0,6533,"San Diego, CA 92122",None,None,2008.1.1,None
+1,6669,"Davis, CA 95616",None,None,2008.1.1,None
+2,8015,"College Station, TX 77840",None,None,2008.1.1,None
+3,6506,"Federal Way, WA 98023",None,None,2007.12.31,None
+4,114035,"Tempe, AZ",Cable lock,"Lock is missing, along with the bike.",2007.12.31,Reported
+5,6349,"Pittsburgh, PA 15213",None,None,2007.12.30,None
+6,6403,"Milwaukee, WI 53202",None,None,2007.12.28,None
+7,6500,"Atlanta, GA 30318",None,None,2007.12.26,None
+8,6407,"El Cerrito, CA 94530",None,None,2007.12.24,None
+9,6315,"Sacramento, CA 95818",None,None,2007.12.24,None
+0,6525,"Houston, TX 77009",None,None,2007.12.23,None
+1,6501,"Los Angeles, CA 90027",None,None,2007.12.23,None
+2,6146,"Wichita, KS 67203",None,None,2007.12.23,None
+3,6317,"Columbia, SC 29204",None,None,2007.12.22,None
+4,7555,"Columbia, SC 29204",None,None,2007.12.22,None
+5,6302,"Columbia, SC 29204",None,None,2007.12.22,None
+6,6505,"Norton, OH 44203",None,None,2007.12.21,None
+7,6499,"Henderson, NV 89052",None,None,2007.12.19,None
+8,6074,"Seattle, WA 98109",None,None,2007.12.17,None
+9,10537,"Allison Park, PA 15101",None,None,2007.12.17,None
+0,6132,"Mesa, AZ 85204",None,None,2007.12.15,None
+1,6143,"San Diego, CA 92109",None,None,2007.12.15,None
+2,6651,"Newport News, VA 23606",None,None,2007.12.14,None
+3,8205,"Norman, OK 73032",None,None,2007.12.14,None
+4,5289,"Wishram, WA 98673",None,None,2007.12.14,None
+5,7197,"Austin, TX 78705",None,None,2007.12.13,None
+6,10952,"St. Louis, MO 63118",None,None,2007.12.13,None
+7,10539,"Seattle, WA 98011",None,None,2007.12.13,None
+8,10725,"Las Cruces, NM 88001",None,None,2007.12.12,None
+9,10536,"Tempe, AZ 85282",None,None,2007.12.12,None
+0,6494,"Madison, WI 53703",None,None,2007.12.12,None
+1,10533,"Lynnwood, WA 98036",None,None,2007.12.11,None
+2,6039,"Arcata, CA 95521",None,None,2007.12.11,None
+3,10945,"San Francisco, CA 94105",None,None,2007.12.11,None
+4,6496,"Tempe, AZ 85287",None,None,2007.12.11,None
+5,4937,"Shreveport, LA 71105",None,None,2007.12.9,None
+6,4929,"Houston, TX 77054",None,None,2007.12.9,None
+7,5007,"Fort Lauderdale, FL 33315",None,None,2007.12.9,None
+8,5145,"Fort Lauderdale, FL 33315",None,None,2007.12.9,None
+0,5883,"Concord, CA 94518",None,None,2007.12.8,None
+1,6040,"Atlanta, GA 30324",None,None,2007.12.8,None
+2,6041,"Clawson, MI 48017",None,None,2007.12.7,None
+3,4933,"Seattle, WA 98195",None,None,2007.12.6,None
+4,4936,"San Francisco, CA 94102",None,None,2007.12.5,None
+5,4930,"Tampa, FL 33601",None,None,2007.12.4,None
+6,10940,"Gainesville, FL 32608",None,None,2007.12.2,None
+7,5497,"Seattle, WA 98115",None,None,2007.12.1,None
+8,9077,"Dallas, TX 75243",None,None,2007.11.30,None
+9,10942,"Austin, TX 78705",None,None,2007.11.30,None

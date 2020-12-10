@@ -1,0 +1,94 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,8002,"Pittsburgh, PA 15213",None,None,2008.6.21,None
+1,6385,"Buffalo, NY 14222",None,None,2008.6.20,None
+2,6573,"Verona, NJ 07044",None,None,2008.6.20,None
+3,8021,"New York, NY 10012",None,None,2008.6.20,None
+4,8233,"Arlington, VA 22203",None,None,2008.6.20,None
+5,9044,"Lincoln, NE 68503",None,None,2008.6.20,None
+6,6695,"Long Beach, CA 90815",None,None,2008.6.20,None
+7,7984,"Buffalo, NY 14201",None,None,2008.6.20,None
+8,7978,"Brithon, MA 02135",None,None,2008.6.20,None
+9,8282,"Chicago, IL 60613",None,None,2008.6.20,None
+0,7995,"Massapequa Park, NY 11758",None,None,2008.6.20,None
+1,6691,"Eugene, OR 97403",None,None,2008.6.19,None
+2,6708,"San Francisco, CA 94102",None,None,2008.6.19,None
+3,9880,"Redlands, CA 92374",None,None,2008.6.19,Reported
+4,8219,"New Haven, CT 06511",None,None,2008.6.19,None
+5,7977,"Eugene, OR 97403",None,None,2008.6.19,None
+6,6099,"Cincinnati, OH 45219",None,None,2008.6.19,None
+7,6693,"Milwaukee, WI 53211",None,None,2008.6.19,None
+8,7519,"Boulder, CO 80305",None,None,2008.6.18,None
+0,7936,"Austin, TX 78705",None,None,2008.6.18,None
+1,923,"San Francisco, CA 94109",Not locked,"Other situation, please describe below.",2008.6.18,None
+2,6685,"Boulder, CO 80305",None,None,2008.6.18,None
+3,7938,"Minneapolis, MN 55416",None,None,2008.6.18,None
+4,7942,"Indianapolis, IN 46205",None,None,2008.6.18,None
+5,8003,"Boulder, CO 80309",None,None,2008.6.18,None
+6,6689,"Austin, TX 78705",None,None,2008.6.18,None
+7,7075,"Alameda, CA 94501",None,None,2008.6.17,Reported
+8,8081,"Frederick, MD 21701",None,None,2008.6.17,None
+9,11029,"Saint, FL 33709",None,None,2008.6.17,None
+0,11027,"Seattle, WA 98107",None,None,2008.6.17,None
+1,5919,"Grand Rapids, MI 49504",None,None,2008.6.17,None
+2,7944,"St. Louis, MO 63110",None,None,2008.6.17,None
+3,9660,"Cape Town, MT 20906",None,None,2008.6.17,None
+4,6381,"Boston, MA 02108",None,None,2008.6.16,None
+5,6379,"Denver, CO 80211",None,None,2008.6.16,None
+6,8167,"Chicago, IL 60614",None,None,2008.6.16,None
+7,7970,"Long Beach, WA 98631",None,None,2008.6.16,None
+8,7969,"Nutley, NJ 07110",None,None,2008.6.16,None
+9,7931,"Colorado Springs, CO 80915",None,None,2008.6.16,None
+0,20497,"Grand Rapids, MI 49506",None,None,2008.6.16,None
+1,6377,"Phoenix, AZ 85020",None,None,2008.6.16,None
+2,8027,"Meridian, ID 83642",None,None,2008.6.15,None
+3,6809,"Indianapolis, IN 46202",None,None,2008.6.15,None
+4,9535,"San Francisco, CA 94123",None,None,2008.6.15,None
+5,5918,"Albany, OR 97321",None,None,2008.6.15,None
+6,7906,"Chicago, IL 60611",None,None,2008.6.15,None
+7,11028,"Minneapolis, MN 55455",None,None,2008.6.15,None
+8,8340,"Buena Vista, CT 81211",None,None,2008.6.14,None
+9,6098,"Marysville, WA 98270",None,None,2008.6.14,Reported
+0,7933,"Lexington, KY 40507",None,None,2008.6.14,None
+1,6681,"Baltimore, MD 21218",None,None,2008.6.14,None
+2,7903,"Rochester, NY 14607",None,None,2008.6.13,None
+3,11025,"Cary, IL 60013",None,None,2008.6.13,None
+4,7916,"Colorado Springs, CO 80905",None,None,2008.6.13,None
+5,7943,"New Orleans, LA 70118",None,None,2008.6.13,None
+6,7898,"Columbus, OH 43210",None,None,2008.6.13,None
+0,6683,"Chicago, IL 60604",None,None,2008.6.12,None
+1,7922,"Hillsboro, OR 97123",None,None,2008.6.12,None
+2,8301,"Parma Heights, OH 44130",None,None,2008.6.12,None
+3,6124,"Shepherdstown, WV 25443",None,None,2008.6.12,None
+4,7923,"West Des Moines, IA 50265",None,None,2008.6.12,None
+5,8117,"Washington, DC 20009",None,None,2008.6.11,None
+6,5881,"Columbus, OH 43202",None,None,2008.6.11,None
+7,7888,"Columbus, OH 43201",None,None,2008.6.11,None
+8,7052,"Saint Louis, MO 63108",None,None,2008.6.10,Reported
+0,8020,"Salt Lake City, UT 84132",None,None,2008.6.10,None
+1,10144,"Queens, NY 11432",None,None,2008.6.10,None
+2,11022,"St. Paul, MN 55104",None,None,2008.6.10,None
+3,7882,"Campbell, CA 95008",None,None,2008.6.10,None
+4,7912,"Carson, CA 90745",None,None,2008.6.10,None
+5,7885,"Encino, CA 91316",None,None,2008.6.10,None
+6,7791,"C Hicago, IL 60613",None,None,2008.6.10,None
+7,7879,"Elmira, NY 14905",None,None,2008.6.9,None
+8,7663,"New Bern, NC 28560",None,None,2008.6.9,None
+0,7867,"Dunedin, FL 34698",None,None,2008.6.8,None
+1,11432,"Indianapolis, IN 46205",None,None,2008.6.8,Reported
+2,6663,"Washington, DC 20001",None,None,2008.6.8,None
+3,6364,"New York, NY 10003",None,None,2008.6.8,None
+4,5905,"Los Angeles, CA 90066",None,None,2008.6.7,None
+5,6630,"Vancouver, WA 98682",None,None,2008.6.7,None
+6,11021,"Irvine, CA 92612",None,None,2008.6.7,None
+7,7876,"Garden Grove, CA 92840",None,None,2008.6.7,None
+8,22472,"Los Angeles, CA 90035",None,None,2008.6.7,Reported
+9,6299,"Hays, KS 67601",None,None,2008.6.6,None
+0,5913,"Reno, NV 89503",None,None,2008.6.6,None
+1,7907,"Folsom, PA 19033",None,None,2008.6.6,None
+2,9801,"Columbus, OH 43206",None,None,2008.6.6,Reported
+3,9760,"Columbus, OH 43206",None,None,2008.6.6,Reported
+4,7864,"Indianapolis, IN 46227",None,None,2008.6.5,None
+5,7851,"New York, NY 10023",None,None,2008.6.5,None
+6,8108,"Round Lake, IL 60073",None,None,2008.6.4,None
+7,5912,"Miami, FL 33143",None,None,2008.6.4,None
+8,11433,"Indianapolis, IN 46205-",None,None,2008.6.4,Reported

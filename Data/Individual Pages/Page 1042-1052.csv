@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,679773,"Washington, DC 20017",None,None,2020.6.9,Reported
+1,756572,"Oakland, CA 94609",U-lock and cable,"Lock is missing, along with the bike",2020.6.9,Reported
+2,756658,"330 19th ave E., Seattle, WA 98112",U-lock and cable,"Lock was cut, and left at the scene",2020.6.9,Reported
+3,757966,"St Louis Park, MN 55416",None,"Lock was cut, and left at the scene",2020.6.9,None
+4,756355,"9th and Jefferson, Seattle, WA",None,None,2020.6.8,None
+5,756326,"800 N 3rd St, Minneapolis, MN 55401",Cable lock,"Lock was cut, and left at the scene",2020.6.8,Reported
+6,756328,"Minneapolis, MN 55401",Cable lock,"Lock was cut, and left at the scene",2020.6.8,Reported
+0,377848,"Expo/Sepulveda Station, Los Angeles, CA 90064",U-lock and cable,"Lock was cut, and left at the scene",2020.6.8,Reported
+1,757219,"Winthrop, MA 02152",None,None,2020.6.8,None
+2,756679,"Portland, OR 97202",Not locked,Bike was not locked,2020.6.8,None
+3,670042,"5215 Green River Rd, Chino Hills, CA 92880",None,None,2020.6.8,None
+4,756224,"131 NE MLK JR., Portland, OR 97232",None,None,2020.6.8,None
+5,756438,"3905 Duncan Pl, Palo Alto, CA 94306",None,None,2020.6.8,Reported
+6,756173,"5415 Connecticut Ave NW, Washington, DC 20015",Cable lock,"Lock is missing, along with the bike",2020.6.8,Reported
+0,756199,"4th and Mission Sts, San Francisco, CA 94105",U-lock,"Lock was cut, and left at the scene",2020.6.8,Reported
+1,659291,"Boise, ID 83706",Cable lock,"Lock was cut, and left at the scene",2020.6.8,Reported
+2,756164,"5415 Connecticut Ave NW, Washington, DC 20015",Cable lock,"Lock is missing, along with the bike",2020.6.8,Reported
+3,756138,"Boulder, CO 80305",U-lock and cable,"Lock is missing, along with the bike",2020.6.8,Reported
+4,756052,"San Francisco, CA 94131",None,None,2020.6.8,None
+5,756717,"Austin, TX 78705",None,None,2020.6.8,None
+6,756055,"San Francisco, CA 94131",None,"Other situation, please describe below",2020.6.8,None
+7,756066,"Fremont, CA 94538",Heavy duty bicycle security chain,None,2020.6.8,Reported
+8,756550,"New Orleans, LA 70115",None,None,2020.6.8,None
+0,756675,"CU Boulder East Campus, Boulder, CO 80303",None,None,2020.6.8,Reported
+1,756031,"Dayton, OH 45405",None,None,2020.6.8,Reported
+2,755963,"San Francisco, CA 94110",None,None,2020.6.8,Reported
+3,753821,"18470 N, Dallas Pkwy, Dallas, TX 75287",Not locked,None,2020.6.8,None
+4,755935,"Denver, CO 80211",None,None,2020.6.8,None
+5,756414,"Millcreek, UT 84106",Not locked,None,2020.6.8,Reported
+6,715913,"1st and burnside, Portland, OR 97209",None,None,2020.6.8,None
+0,376743,"San Francisco, CA 94117",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.8,Reported
+1,756271,"Berkeley, CA 94703",Other,"Other situation, please describe below",2020.6.8,None
+2,756531,"San Jose, CA 95110",None,None,2020.6.8,None
+3,756532,"San Jose, CA 95110",None,None,2020.6.8,None
+4,757111,"Boulder, CO 80305",Not locked,"Other situation, please describe below",2020.6.8,Reported
+5,677488,"Washington, DC 20001",Not locked,None,2020.6.8,Reported
+6,753517,"Price street offramp Eastside of bridge, Pismo Beach, CA 93433",Other,"Lock is missing, along with the bike",2020.6.8,None
+0,756092,"Washington, DC DC",U-lock,"Lock was opened, and left unharmed at the scene",2020.6.8,None
+1,757094,"New Orleans, LA 70115",None,None,2020.6.8,Reported
+2,758423,"Palo Alto, CA 94301",Not locked,None,2020.6.8,None
+3,758838,"Minneapolis, MN 55419",Not locked,Bike was not locked,2020.6.8,None
+4,758830,"Minneapolis, MN 55419",Not locked,Bike was not locked,2020.6.8,None
+5,756566,"San Jose, CA 95112",Not locked,Bike was not locked,2020.6.8,None
+6,756956,"Uptown , Minneapolis, MN 55408",Other,"Other situation, please describe below",2020.6.8,Reported
+0,756889,"Los Angeles, CA 90027",Not locked,Bike was not locked,2020.6.8,None
+1,757357,"Milwaukee, WI 53212",Cable lock,Bike was not locked,2020.6.7,Reported
+2,756334,"Burlington, VT 05401",Cable lock,"Lock is missing, along with the bike",2020.6.7,Reported
+3,756693,"Red Bridge, Lake Zurich, IL 60047",None,None,2020.6.7,None
+4,755694,"Sacramento, CA 95864",None,None,2020.6.7,None
+5,755661,"Grand Junction, CO 81501",None,None,2020.6.7,None
+6,755653,"Chicago, IL 60625",None,None,2020.6.7,None
+0,755809,"625 Black Lake Blvd SW, Olympia, WA 98501",Cable lock,"Lock was cut, and left at the scene",2020.6.7,None
+1,755604,"2985 District Avenue, Fairfax, VA 22031",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.7,None
+2,720416,"1625 P St NW, Washington, DC 20036",Not locked,Bike was not locked,2020.6.7,Reported
+3,418933,"Bellingham, WA 98225",None,None,2020.6.7,Reported
+4,755552,"Seattle, WA 98107",None,None,2020.6.7,None
+5,757391,"424 E 36th St, Charlotte, NC 28205",Cable lock,"Lock is missing, along with the bike",2020.6.7,Reported
+0,757399,"Charlotte, NC 28205",Cable lock,"Lock is missing, along with the bike",2020.6.7,Reported
+1,756548,"Sunnyvale, CA 94085",U-lock,"Lock was cut, and left at the scene",2020.6.7,Reported
+2,755526,"Channel & El Dorado Street, San Francisco, CA 94158",U-lock,"Lock was cut, and left at the scene",2020.6.7,Reported
+3,760567,"Washington, DC 20010",Cable lock,"Lock is missing, along with the bike",2020.6.7,Reported
+4,755485,"Culver City, CA 90230",Cable lock,"Lock was cut, and left at the scene",2020.6.7,Reported
+5,755455,"4th & Mission, San Francisco, CA 94103",U-lock,"Lock was cut, and left at the scene",2020.6.7,Reported
+6,755388,"Milwaukie, OR 97222",None,None,2020.6.7,Reported
+7,763217,"Houston, TX 77096",Not locked,Bike was not locked,2020.6.7,Reported
+8,755314,"Nicollet mall and 8th street south, Minneapolis, MN 55402",None,None,2020.6.7,None
+9,755301,"1230 South Pearl Street, Independence, MO 64055",None,None,2020.6.7,None
+0,755959,"18100 95th street NE, Redmond, WA 98052",Not locked,None,2020.6.7,None
+1,757549,"Wilton, CT 06897",None,None,2020.6.7,None
+2,453458,"Salt Lake City, UT",Cable lock,"Lock was cut, and left at the scene",2020.6.7,None
+3,755904,CA 93101,None,None,2020.6.7,None
+4,755770,"Redmond, WA 98052",Not locked,None,2020.6.7,Reported
+5,777782,"Somerville, MA 02145",Cable lock,"Lock was cut, and left at the scene",2020.6.7,Reported
+6,756898,"San Francisco, CA 94131",Other,"Other situation, please describe below",2020.6.7,Reported
+7,755258,"Portland, OR 97218",None,None,2020.6.7,None

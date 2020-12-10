@@ -1,0 +1,84 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,953789,"3600 Ramsey Street, Fayetteville, NC 28311",Chain with padlock,"Lock is missing, along with the bike",2020.11.28,Reported
+1,953719,"Portland, OR 97217",None,None,2020.11.28,None
+2,954647,"7th and Corona, Denver, CO 80218",Other,Bike was not locked,2020.11.28,Reported
+3,953582,"3445 NE Williams, Portland, OR 97212",Not locked,None,2020.11.28,Reported
+4,953629,"Los Angeles, CA 90034-2902",None,None,2020.11.28,None
+5,953605,"San Francisco, CA 94107",None,None,2020.11.28,None
+6,953645,"Santa Monica, CA 90404",None,None,2020.11.28,None
+7,953628,"St. Louis, MO 63110",None,"Other situation, please describe below",2020.11.28,Reported
+8,953535,"San Diego, CA 92108",None,None,2020.11.28,None
+9,750527,"Philadelphia, PA 19103",None,None,2020.11.28,None
+0,953542,"San Diego, CA 92108",Cable lock,None,2020.11.28,Reported
+1,953516,"25 Granada Drive, Corte Madera, CA 94925",Cable lock,"Lock was cut, and left at the scene",2020.11.28,Reported
+2,953500,"226 W Laurel, Fort Collins, CO 80521",None,None,2020.11.28,None
+3,953499,"San Diego, CA 921111",Other,"Other situation, please describe below",2020.11.28,Reported
+4,380161,"Tacoma, WA 98405",Not locked,Bike was not locked,2020.11.28,None
+5,953492,"1701 Tulip Street, Philadelphia, PA 19125",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.11.28,Reported
+6,953480,"St.Paul, MN 55105",None,None,2020.11.28,None
+7,954186,"Seattle, WA 98136",Not locked,None,2020.11.28,Reported
+0,954189,"Seattle, WA 98136",Not locked,None,2020.11.28,Reported
+1,953943,"7035 N Missouri Ave, Portland, OR 97210",None,None,2020.11.28,Reported
+2,954468,"San Jose, CA 95130",None,None,2020.11.28,Reported
+3,954462,"San Jose, CA 95130",Other,"Other situation, please describe below",2020.11.28,Reported
+4,953858,"San Francisco, CA 94118",Other,"Other situation, please describe below",2020.11.28,None
+5,953856,"San Francisco, CA 94118",Other,"Other situation, please describe below",2020.11.28,None
+6,953797,"San Francisco, CA 94118",Other,"Other situation, please describe below",2020.11.28,None
+7,954240,"Milwaukee, WI 53212",U-lock and cable,None,2020.11.28,Reported
+8,953430,"Medford, OR 97501",None,None,2020.11.28,None
+9,954345,"2210 Lisa Ln, Pleasant Hill, CA 94523",None,None,2020.11.27,Reported
+0,953330,"Berkeley, CA 94703",None,None,2020.11.27,None
+1,953268,"New Orleans, LA 70119",None,None,2020.11.27,None
+2,953709,"Orlando, FL 32812",None,None,2020.11.27,None
+3,949560,"Watertown, MA 02472",None,"Lock was cut, and left at the scene",2020.11.27,None
+4,773591,"San Francisco, CA 94110",U-lock,"Lock is missing, along with the bike",2020.11.27,None
+5,954341,"251 E 13th St, New York City, NY 10003",U-lock,"Lock is missing, along with the bike",2020.11.27,None
+6,955037,"Portland, OR 97209",U-lock and cable,"Lock is missing, along with the bike",2020.11.27,Reported
+0,953185,"Moraga, CA 94556",None,None,2020.11.27,None
+1,953174,"Portland, OR 97206",None,None,2020.11.27,None
+2,953172,"Fort Myers, FL 33907",None,None,2020.11.27,None
+3,953521,"Boise, ID 83716",Cable lock,"Lock was cut, and left at the scene",2020.11.27,Reported
+4,953152,"Seattle, WA 98105",None,None,2020.11.27,None
+5,953481,"Beth Israel Deaconess Medical Center 330 Brookline Ave , Boston, MA 02215",Cable lock,"Lock was cut, and left at the scene",2020.11.27,Reported
+6,950518,"San Diego, CA 92120",None,None,2020.11.27,None
+7,953142,"80 Lexington Ave, Brooklyn, NY 11238",None,None,2020.11.27,None
+0,954359,"Los Angeles, CA 90066",None,None,2020.11.27,Reported
+1,953139,"80 Lexington, Brooklyn, NY 11238",None,None,2020.11.27,None
+2,953275,"San Francisco, CA 94109",Not locked,Bike was not locked,2020.11.27,Reported
+3,953217,"San Francisco, CA 94109",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.27,Reported
+4,953286,"San Francisco, CA 94109",Not locked,Bike was not locked,2020.11.27,Reported
+5,953281,"San Francisco, CA 94109",Not locked,Bike was not locked,2020.11.27,Reported
+6,953138,"Portland, OR 97214",Not locked,"Other situation, please describe below",2020.11.27,Reported
+7,954211,"Saint Louis Park, MN 55416",U-lock,"Other situation, please describe below",2020.11.26,Reported
+8,954157,"Indianapolis, IN 46201",Cable lock,"Lock was cut, and left at the scene",2020.11.26,None
+9,953116,"Clement and 24th avenue, San Francisco, CA 94121",None,None,2020.11.26,None
+0,827023,"Long Beach, CA 90712",None,None,2020.11.26,None
+1,953047,"Clement and 24th avenue, San Francisco, CA 94121",None,None,2020.11.26,Reported
+2,953032,"Richmond, VA 23220",None,None,2020.11.26,None
+3,953020,"Seattle, WA 98103",None,None,2020.11.26,None
+4,953006,"4402 82nd St, Lubbock, TX 79424",U-lock,"Lock was cut, and left at the scene",2020.11.26,Reported
+0,114825,"Indianapolis, IN 46205",U-lock,Bike was not locked,2020.11.26,Reported
+1,953010,"Redmond, WA 98052",Not locked,Bike was not locked,2020.11.26,Reported
+2,953130,"Seattle, WA 98103",None,None,2020.11.26,Reported
+3,954068,"San, CA 94131",Cable lock,"Lock was cut, and left at the scene",2020.11.26,Reported
+4,954089,"San, CA 94131",Cable lock,"Lock was cut, and left at the scene",2020.11.26,Reported
+5,952996,"2550 E River Rd, 14203, Tucson, AZ 85718",Cable lock,"Lock was cut, and left at the scene",2020.11.26,Reported
+6,953055,"Boulder, CO 80301",Other,"Other situation, please describe below",2020.11.26,Reported
+7,953013,"Alhambra Blvd and Eggplant Alley, Sacramento, CA 95816",None,None,2020.11.26,None
+8,952878,"New Orleans, LA 70125",None,None,2020.11.26,None
+0,952843?locale=,"San Francisco, CA 94117",None,None,2020.11.25,None
+1,952833?locale=,"Pine Hills Lane, Oakland, CA 94611",None,None,2020.11.25,None
+2,952818?locale=,"San Francisco, CA 94117",None,None,2020.11.25,None
+3,952813?locale=,"Seattle, WA 98177",None,None,2020.11.25,Reported
+4,952793?locale=,"La Mesa, CA 91942",None,None,2020.11.25,None
+5,952765?locale=,"7960 Avenida Navidad, San Diego, CA 92122",None,None,2020.11.25,None
+6,952764?locale=,"7960 Avenida Navidad, San Diego, CA 92122",None,None,2020.11.25,None
+7,953623,"Seattle, WA 98109",None,None,2020.11.25,Reported
+0,952752,"4954 Xerxes Ave S, Minneapolis, MN 55410",Cable lock,"Lock was cut, and left at the scene",2020.11.25,Reported
+1,952747,"Saint Louis, MO 63110",Not locked,Bike was not locked,2020.11.25,None
+2,952875,"20-2 STOUGHTON ST, Boston, MA 02118",U-lock,"Other situation, please describe below",2020.11.25,Reported
+3,953339,"Los Angeles, CA 90004",None,None,2020.11.25,Reported
+4,954213,"San Francisco, CA 94134",U-lock and cable,"Lock is missing, along with the bike",2020.11.25,Reported
+5,952679,"7544 SE Monarch Lane, Hillsboro, OR 97123",None,None,2020.11.25,None
+6,952677,"Sausalito, CA 94965-1639",Cable lock,"Lock was cut, and left at the scene",2020.11.25,Reported
+7,952526,"Palo Alto, CA 94301",Cable lock,"Lock is missing, along with the bike",2020.11.25,Reported

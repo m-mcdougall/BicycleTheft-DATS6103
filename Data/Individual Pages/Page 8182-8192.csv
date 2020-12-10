@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,12594,"Oakland, CA 94607",None,None,2010.1.28,Reported
+1,12790,"Seattle, WA 98103",None,None,2010.1.28,Reported
+2,12796,"Portland, OR 97225",None,None,2010.1.27,Reported
+3,12582,"Portland, OR 97217",None,None,2010.1.26,Reported
+4,12783,"Klamath Falls, OR 97603",None,None,2010.1.25,Reported
+5,14670,"Portland, OR 97201",None,None,2010.1.25,None
+6,12774,"Austin, TX 78705",None,None,2010.1.25,Reported
+7,12601,"Portland, OR 97208",None,None,2010.1.25,None
+8,12576,"Salt Lake City, UT 84102",None,None,2010.1.24,None
+0,12578,"Santa Monica, CA 90403",None,None,2010.1.24,Reported
+1,12766,"Florissant, MO 63031",None,None,2010.1.23,None
+2,12760,"Austin, TX 78702",None,None,2010.1.23,Reported
+3,12763,"Tallahassee, FL 32313",None,None,2010.1.23,Reported
+4,12769,"Portland, OR 97211",None,None,2010.1.23,None
+5,12762,"Seattle, WA 98115",None,None,2010.1.23,None
+6,8156,"Petaluma, CA 94952",None,None,2010.1.22,None
+7,13218,"Phoenix, AZ 85382",None,None,2010.1.22,None
+8,12746,"Orlando, FL 32835",None,None,2010.1.22,Reported
+9,12572,"College Station, TX 77840",None,None,2010.1.22,None
+0,12751,"Columbus, OH 43210",None,None,2010.1.22,Reported
+1,14597,"Philadelphia, PA 19151",None,None,2010.1.22,None
+2,12752,"San Amteo, CA 94402",None,None,2010.1.22,None
+3,12580,"Del Mar, CA 92014",None,None,2010.1.21,None
+4,12740,"Spokane, WA 99202",None,None,2010.1.21,None
+5,17665,"Atlanta, GA 30303",None,None,2010.1.21,Reported
+6,18819,"El Cajon, CA 92020",None,None,2010.1.21,None
+7,12727,"New York, NY 10010",None,None,2010.1.21,None
+8,12737,"Portland, OR 97211",None,None,2010.1.21,None
+9,14633,"Del Mar, CA 92014",None,None,2010.1.21,None
+0,18776,"Beaverton, OR 97005",None,None,2010.1.21,None
+1,14615,"Joaquin, TX 75954",None,None,2010.1.20,None
+2,15105,"Peoria, AZ 85381",None,None,2010.1.20,Reported
+3,16498,"Markham, IL 60428",None,None,2010.1.20,None
+4,12743,"Yorba Linda, CA 92886",None,None,2010.1.19,Reported
+5,12556,"Brooklyn, NY 11215",None,None,2010.1.18,None
+6,12748,"San Francisco, CA 94117",None,None,2010.1.18,Reported
+7,18791,"Los Angeles, CA 90024",None,None,2010.1.18,None
+8,16469,"Washington, DC 20005",None,None,2010.1.18,None
+9,18775,"Portland, OR 97211",None,None,2010.1.18,None
+0,14581,"Menlo Park, CA 94025",None,None,2010.1.17,None
+1,12771,"Santa Clara, CA 95054",None,None,2010.1.17,Reported
+2,12730,"Manhattan, KS 66502",None,None,2010.1.17,Reported
+3,12719,"Echo Park, CA 90026",None,None,2010.1.17,None
+4,18769,"Echo Park, CA 90026",None,None,2010.1.17,None
+5,12856,"Pacific Beach, CA 92109",None,None,2010.1.17,None
+6,12716,"Columbus, OH 43201",None,None,2010.1.16,None
+7,10191,"Long Beach, CA 90805",None,None,2010.1.16,Reported
+8,18764,"Beaverton, OR 97007",None,None,2010.1.15,None
+0,12717,"Philadelphia, PA 19104",None,None,2010.1.15,None
+1,18763,"Portland, OR 97209",None,None,2010.1.15,None
+2,18765,"Portland, OR 97203",None,None,2010.1.15,None
+3,14567,"Portland, OR 97205",None,None,2010.1.15,None
+4,12700,"Santa Cruz, CA 95064",None,None,2010.1.15,Reported
+5,12693,"Pomona, CA 91768",None,None,2010.1.14,Reported
+6,12696,"Jersey City, NJ 07302",None,None,2010.1.14,Reported
+7,14536,"Portland, OR 97211",None,None,2010.1.14,None
+8,18162,"Montgomery Village, MD 20886",None,None,2010.1.14,Reported
+9,12702,"Santa Monica, CA 90401",None,None,2010.1.14,Reported
+0,13099,"Colorado Springs, CO 80909",None,None,2010.1.14,None
+1,6589,"Corona, CA 92881",None,None,2010.1.14,None
+2,12689,"Portland, OR 97211",None,None,2010.1.14,None
+3,18161,"Portland, OR",None,None,2010.1.13,None
+4,12683,"Santa Clara, CA 95050",None,None,2010.1.13,None
+5,12713,"Atlanta, GA 30263",None,None,2010.1.13,Reported
+6,12691,"Portland, OR 97211",None,None,2010.1.13,Reported
+7,15188,"Portland, OR 97227",None,None,2010.1.12,Reported
+8,12718,"Portland, OR 97205",None,None,2010.1.12,None
+9,14548,"Portland, OR 97212",None,None,2010.1.12,None
+0,17792,"Denver, CO 80234",None,None,2010.1.12,None
+1,18758,"Portland, OR 97203",None,None,2010.1.12,Reported
+2,12680,"Portland, OR 97210",None,None,2010.1.11,None
+3,12529,"San Francisco, CA 94131",None,None,2010.1.11,Reported
+4,15920,"Los Angeles, CA 90024",None,None,2010.1.11,None
+5,12527,"Phoenix, AZ 85006",None,None,2010.1.10,None
+6,12677,"Boise, ID 83702",None,None,2010.1.10,Reported
+7,14340,"San Francisco, CA 94123",None,None,2010.1.10,Reported
+8,12682,"La Jolla, CA 92092",None,None,2010.1.10,None
+9,12726,"Salt Lake City, UT 84105",None,None,2010.1.10,Reported
+0,15906,"Bakersfield, CA 93313",None,None,2010.1.9,None
+1,12672,"Riverside, CA 93543",None,None,2010.1.9,Reported
+2,12722,"Oklahoma City, OK 73107",None,None,2010.1.9,Reported
+3,18158,"Oakland, CA 94609",None,None,2010.1.9,None
+4,12673,"Flagstaff, AZ 86001",None,None,2010.1.9,Reported
+5,15171,"Colorado Springs, CO 80903",None,None,2010.1.8,None
+6,12522,"Phoenix, AZ 85004",None,None,2010.1.8,Reported
+7,12659,"Seattle, WA 98105",None,None,2010.1.8,None
+8,12662,"Portland, OR 97201",None,None,2010.1.8,None
+9,18771,"Ontario, CA 91709",None,None,2010.1.7,None
+0,11667,"Portland, OR",None,None,2010.1.7,None
+1,12675,"Hoboken, NJ 07030",None,None,2010.1.7,None
+2,12657,"Portland, OR 97219",None,None,2010.1.7,None
+3,12660,"Philadelphia, PA 19121",None,None,2010.1.7,None
+4,19347,"Fullerton, CA 92831",None,None,2010.1.7,None
+5,18755,"Portland, OR 97219",None,None,2010.1.7,None
+6,14527,"Baltimore, MD 21201",None,None,2010.1.7,Reported
+7,17782,"Tucson, AZ 85710",None,None,2010.1.6,Reported
+8,18754,"San Francisco, CA 94131",None,None,2010.1.6,None
+9,12687,"Folsom, CA 95630",None,None,2010.1.6,None

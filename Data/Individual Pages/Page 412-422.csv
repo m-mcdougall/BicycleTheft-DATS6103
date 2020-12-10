@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,881723,"Mahomet, IL 61853",None,None,2020.9.11,None
+1,867215,"Brookyn, NY 11230",None,None,2020.9.11,None
+2,882348,"1713 1/2 7th st , Greeley, CO 80631",Other,"Lock is missing, along with the bike",2020.9.11,None
+3,919878,"Chicago, IL 60640",Two U-locks,"Lock is missing, along with the bike",2020.9.11,Reported
+4,867207,"Houston, TX",None,None,2020.9.11,None
+5,867198,"330 e6th ave, Denver, CO 80203",None,None,2020.9.11,None
+6,919715,"Portland, OR 97214",U-lock and cable,"Lock was cut, and left at the scene",2020.9.11,Reported
+0,926203,"Boise, ID 83706",None,None,2020.9.11,None
+1,906422,"Brooklyn, NY 11215",Other,"Other situation, please describe below",2020.9.11,None
+2,867103,"403 Landfair Ave, Los Angeles, CA 90024",None,None,2020.9.11,None
+3,866433,"Seattle, WA 98107",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.11,None
+0,844343,"Brooklyn, NY 11217",None,None,2020.9.11,None
+1,917594,"Chicago, IL 60615",None,None,2020.9.11,None
+2,867077,"6429 n Division , Spokane, WA 99208",None,None,2020.9.11,Reported
+3,33184,"3607 W Fullerton Ave, Chicago, IL 60647",U-lock,"Lock was cut, and left at the scene",2020.9.11,Reported
+4,918420,"502 s Fremont Ave , Tampa, FL 33606",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.11,Reported
+5,909982,"Portland, OR 97216",None,None,2020.9.11,Reported
+6,918849,"Brooklyn, NY 11205",Other,None,2020.9.11,Reported
+7,867023,"Morgan, UT 84050",None,None,2020.9.11,None
+0,867009,"Brooklyn, NY 11222",None,None,2020.9.11,None
+1,867179,"San Diego, CA 92104",U-lock,"Other situation, please describe below",2020.9.11,Reported
+2,866575,"Los Angeles, CA 90034",Not locked,Bike was not locked,2020.9.11,Reported
+3,866982,"Leavenworth, WA 98826",None,None,2020.9.11,None
+4,866956,"Denver, CO 80202",None,None,2020.9.11,None
+5,919891,"1906 WEST WINNEMAC AVENUE, Chicago, IL 60640",U-lock,"Lock is missing, along with the bike",2020.9.11,Reported
+6,866914,"3401 E Pike St., Seattle, WA 98122",Cable lock,"Lock was cut, and left at the scene",2020.9.11,None
+7,45659,"Portland, OR 97202",None,None,2020.9.11,None
+0,866928,"1409 Mockingbird Terrace Drive, Louisville, KY 40207",Not locked,None,2020.9.11,Reported
+1,866926,"San Francisco, CA 94117",Not locked,"Other situation, please describe below",2020.9.11,None
+2,917958,"601 S Broadway St , Boulder, CO 80304",U-lock,"Lock was cut, and left at the scene",2020.9.11,None
+3,918408,"502 s Fremont Ave , Tampa, FL 33606",Cable lock,"Lock is missing, along with the bike",2020.9.11,Reported
+4,866811,"3101 W Waverly Ave, Tampa, FL 33629",None,None,2020.9.11,None
+5,866822,"Buffalo, NY 14223",U-lock,Bike was not locked,2020.9.11,Reported
+6,867156,"Richmond, VA 23228",None,Bike was not locked,2020.9.11,Reported
+7,918175,"Denver, CO CO",Cable lock,None,2020.9.11,None
+0,866784,"Jacksonville, FL 32246-6665",None,None,2020.9.11,None
+1,917918,"Ann Arbor, MI 48109",Cable lock,"Lock is missing, along with the bike",2020.9.11,None
+2,906761,"Tucson, AZ 85705",None,None,2020.9.11,Reported
+3,918108,"Seattle, WA 98107",None,None,2020.9.11,None
+4,866817,"Burlington, VT",U-lock and cable,"Other situation, please describe below",2020.9.11,None
+5,919544,"Fort Worth, TX 76109",None,"Lock is missing, along with the bike",2020.9.11,Reported
+6,918060,"4400 University Drive, Fairfax, VA 22030",Cable lock,"Lock was cut, and left at the scene",2020.9.11,Reported
+7,919485,"Murray, UT 84123",Not locked,None,2020.9.11,Reported
+8,866941,"San Francisco, CA CA",Not locked,None,2020.9.10,None
+0,918851,"3323 S Pearl St, Englewood, CO 80113",Not locked,Bike was not locked,2020.9.10,Reported
+1,712651,"2701 utah ave s, Seattle, WA 98134",U-lock,"Lock is missing, along with the bike",2020.9.10,Reported
+2,866692,"53 E State St, Athen, OH 45701",None,None,2020.9.10,None
+3,920166,"Portland, OR 97211",None,None,2020.9.10,None
+4,917794,"New Orleans, LA 70115",None,None,2020.9.10,None
+5,866699,"Mountain View, CA 94040",None,None,2020.9.10,Reported
+6,866642,"Parker Road and Miranda Street, Las Cruces, NM 88005",Cable lock,"Lock was cut, and left at the scene",2020.9.10,Reported
+0,919832,"Seattle, WA 98199",None,None,2020.9.10,Reported
+1,866384,"401 W Rich St, Columbus, OH 43215",None,None,2020.9.10,None
+2,866714,"Redmond, WA 98052",Not locked,None,2020.9.10,Reported
+3,866521,"Chicago, IL 60601",U-lock,"Lock is missing, along with the bike",2020.9.10,Reported
+4,866593,"Vista Transit, Vista, CA 92085",None,None,2020.9.10,None
+5,866608,"510 NW Sisemore St, Bend, OR 97703",Not locked,Bike was not locked,2020.9.10,Reported
+0,866594,"Seattle, WA 98102",None,None,2020.9.10,None
+1,928378,"794 E I-10 Service Rd, Slidell, LA 70458",Cable lock,"Lock is missing, along with the bike",2020.9.10,None
+2,866534,"Juniper & Arch Streets, Philadelphia, PA 19107",None,None,2020.9.10,Reported
+3,866543,"Denver, CO 80210",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.10,Reported
+4,866555,"St Paul, MN 55114",Cable lock,"Lock is missing, along with the bike",2020.9.10,Reported
+5,866492,"Irvine, CA 92602",U-lock,"Other situation, please describe below",2020.9.10,Reported
+6,866481,"San Francisco, CA 94107",None,None,2020.9.10,None
+7,866472,"Austin, TX 78702",None,None,2020.9.10,None
+8,833679,"Bellingham, WA 98229",None,None,2020.9.10,Reported
+0,866689," 2606 N Broadway, Los Angeles, CA 90031",Chain with padlock,Bike was not locked,2020.9.10,None
+1,867013,"Honolulu, HI 96826",Cable lock,None,2020.9.10,None
+2,929192,"1150 University Ave, Madison, WI 53706",Cable lock,"Lock was cut, and left at the scene",2020.9.10,Reported
+3,866412,"Seattle, WA 98107",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.9.10,None
+4,866680,"Redwood City, CA 94065",U-lock,"Lock is missing, along with the bike",2020.9.10,Reported
+5,866372,"New Orleans, LA 70112",None,None,2020.9.10,Reported
+6,921232,"Rosecrans and Hindry, Hawthorne, CA 90250",Not locked,None,2020.9.10,Reported

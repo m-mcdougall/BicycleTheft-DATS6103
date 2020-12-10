@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,17762,"Aptos, CA 95003",None,None,2007.1.2,None
+1,6304,"Redwood City, CA 94061",None,None,2007.1.2,None
+2,9071,"Daytona Beach, FL 32118",None,None,2007.1.1,None
+3,9419,"Kenilworth, IL 60093",None,None,2007.1.1,Reported
+4,6305,"Coronado, CA 92118",None,None,2007.1.1,None
+5,5413,"Orange, CA 92669",None,None,2007.1.1,None
+6,5436,"Natick, MA 01760",None,None,2007.1.1,None
+7,5501,"Eugene, OR 97405",None,None,2007.1.1,None
+8,5565,"Portland, OR 97201",None,None,2007.1.1,None
+9,7975,"Grand Rapids, MI 49503",None,None,2007.1.1,None
+0,4965,"Rochester, NY 14620",None,None,2007.1.1,None
+1,4931,"Austin, TX 78701",None,None,2007.1.1,None
+2,5100,"Durango, CO 81301",None,None,2007.1.1,None
+3,7002,"Brooklyn, NY 11226",None,None,2007.1.1,None
+4,5012,"Minneapolis, MN 55404",None,None,2007.1.1,None
+5,5052,"Indianapolis, IN 46208",None,None,2007.1.1,None
+6,5115,"Eugene, OR 97403",None,None,2007.1.1,None
+7,5361,"Northampton, MA 01060",None,None,2007.1.1,None
+8,5610,"San Francsico, CA 94111",None,None,2007.1.1,None
+0,5538,"Glendale, AZ 85308",None,None,2007.1.1,None
+1,10837,"Corvallis, OR 97333",None,None,2007.1.1,None
+2,5688,"New York, NY 10017",None,None,2006.12.31,None
+3,5225,"Seattle, WA 98102",None,None,2006.12.30,None
+4,5224,"Seattle, WA 98102",None,None,2006.12.30,None
+5,6513,"Austin, TX 78751",None,None,2006.12.26,None
+6,5231,"Baltimore, MD 21202",None,None,2006.12.26,None
+7,4953,"San Francisco, CA 94118",None,None,2006.12.25,None
+8,5222,"Sarasota, FL 34237",None,None,2006.12.21,None
+9,10918,"Austin, TX 78752",None,None,2006.12.20,None
+0,5220,"Philadelphia, PA 19103",None,None,2006.12.20,None
+1,5034,"Las Vegas, NV 89119",None,None,2006.12.19,None
+2,5218,"Pueblo, CO 81001",None,None,2006.12.18,None
+3,5219,"Pueblo, CO 81001",None,None,2006.12.18,None
+4,5223,"Minneapolis, MN 55418",None,None,2006.12.18,None
+5,5028,"Portland, OR 97232",None,None,2006.12.16,None
+6,10851,"Tucson, AZ 85705",None,None,2006.12.14,None
+7,4952,"Vancouver, WA 98661",None,None,2006.12.11,None
+8,5664,"Washington, DC 20009",None,None,2006.12.11,None
+9,5221,"San Francisco, CA 94110",None,None,2006.12.10,None
+0,5234,"Altamonte Springs, FL 32714",None,None,2006.12.10,None
+1,5687,"Tucson, AZ 85712",None,None,2006.12.7,None
+2,10737,"Eugene, OR 97404",None,None,2006.12.5,None
+3,5663,"Seattle, WA 98115",None,None,2006.12.4,None
+4,5026,"San Francisco, CA 94110",None,None,2006.12.2,None
+5,5029,"Seattle, WA 98104",None,None,2006.12.1,None
+6,5686,"San Francisco, CA 94133",None,None,2006.11.30,None
+7,5214,"San Francisco, CA 94115",None,None,2006.11.29,None
+8,10735,"Austin, TX 78705",None,None,2006.11.28,None
+0,5692,"East Lansing, MI 48824",None,None,2006.11.28,None
+1,10815,"Tucson, AZ 85719",None,None,2006.11.28,None
+2,5213,"San Diego, CA 92101",None,None,2006.11.27,None
+3,5211,"Berkeley, CA 94710",None,None,2006.11.26,None
+4,5609,"Atlanta, GA 30318",None,None,2006.11.25,None
+5,10729,"Coventry, RI 02816",None,None,2006.11.24,None
+6,5217,"Kona, HI 96820",None,None,2006.11.24,None
+7,10799,"Lower Downtown, CO 80203",None,None,2006.11.21,None
+8,10731,"Corvallis, OR 97333",None,None,2006.11.21,None
+9,5685,"Durham, NH 03824",None,None,2006.11.20,None
+0,5207,"Austin, TX 78757",None,None,2006.11.20,None
+1,6147,"Venice Beach, CA 90291",None,None,2006.11.20,None
+2,5208,"Santa Cruz, CA 95064",None,None,2006.11.19,None
+3,5206,"Chapel Hill, NC 27514",None,None,2006.11.19,None
+4,4951,"Seattle, WA 98103",None,None,2006.11.19,None
+5,5659,"Austin, TX 78705",None,None,2006.11.18,None
+6,5024,"Austin, TX 78705",None,None,2006.11.18,None
+7,20925,"Phoenix, AZ 85306",None,None,2006.11.16,Reported
+8,5202,"Portland, OR 97201",None,None,2006.11.16,None
+9,5203,"Santa Clara, CA 95050",None,None,2006.11.16,None
+0,5320,"Pittsburgh, PA 15203",None,None,2006.11.15,None
+1,10727,"Philadelphia, PA 19146",None,None,2006.11.15,None
+2,5209,"East Lansing, MI 48823",None,None,2006.11.15,None
+3,5658,"Houston, TX 77081",None,None,2006.11.14,None
+4,5312,"Pleasanton, CA 94566",None,None,2006.11.13,None
+5,5023,"Sandy, UT 84094",None,None,2006.11.13,None
+6,5198,"Rochester, NY 14623",None,None,2006.11.12,None
+7,5205,"Fargo, ND 58103",None,None,2006.11.12,None
+8,5592,"New Haven, CT 06511",None,None,2006.11.12,None
+9,5196,"Novato, CA 94945",None,None,2006.11.12,None
+0,5195,"Eugene, OR 97402",None,None,2006.11.10,None
+1,5228,"Denver, CO 80002",None,None,2006.11.10,None
+2,4950,"Cambridge, MA 02140",None,None,2006.11.10,None
+3,5194,"New Haven, CT 06511",None,None,2006.11.9,None
+4,5022,"Anoka, MN 55303",None,None,2006.11.9,None
+5,5199,"Houston, TX 77008",None,None,2006.11.9,None
+6,5200,"Seattle, WA 98122",None,None,2006.11.8,None
+7,5201,"Seattle, WA 98122",None,None,2006.11.8,None
+8,5025,"Fort Atkinson, WI 53538",None,None,2006.11.7,None
+9,5197,"Mesa, AZ 85215",None,None,2006.11.5,None
+0,4949,"San Francisco, CA 94133",None,None,2006.11.5,None
+1,5191,"Bellingham, WA 98225",None,None,2006.11.4,None
+2,10757,"Palm Springs, CA 92264",None,None,2006.11.4,None
+3,5019,"San Diego, CA 92101",None,None,2006.11.4,None
+4,5189,"Fargo, ND 58103",None,None,2006.11.4,None
+5,5021,"Seattle, WA 98112",None,None,2006.11.3,None
+6,10723,"Vancouver, WA 98663",None,None,2006.11.3,None
+7,5660,"Steamboat Springs, CO 80487",None,None,2006.11.3,None
+8,5226,"Portland, ME 04230",None,None,2006.11.1,None
+9,7825,"Apple Creek, OH 44606",None,None,2006.11.1,None

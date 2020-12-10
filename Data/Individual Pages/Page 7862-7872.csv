@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,35577,"Eugene, OR 97402",Not locked,Bike was not locked,2011.4.18,None
+1,20452,"Portland, OR 97217",None,None,2011.4.18,None
+2,16682,"Austin, TX 78705",None,None,2011.4.18,Reported
+3,12003,"Portland, OR 97219",None,None,2011.4.18,None
+4,16667,"Colorado Springs, CO 80904",None,None,2011.4.18,None
+5,16873,"Davis, CA 95616",None,None,2011.4.17,None
+6,17943,"Highland Park, NJ 08904",None,None,2011.4.17,Reported
+7,20449,"Playa Del Rey, CA 90293",None,None,2011.4.17,None
+8,20445,"South Pasadena, CA 91030",None,None,2011.4.17,Reported
+9,20459,"Chicago, IL 60657",None,None,2011.4.17,Reported
+0,16701,"Silver Spring, MD 20910",None,None,2011.4.17,Reported
+1,17980,"Chicago, IL 60657",None,None,2011.4.17,Reported
+2,17948,"San Jose, CA 95116",None,None,2011.4.16,None
+3,16715,"Athens, GA 30605",None,None,2011.4.16,Reported
+4,17941,"Chicago, IL 60657",None,None,2011.4.16,None
+5,24964,"Tucson, AZ 85715",None,None,2011.4.15,None
+6,15821,"Austin, TX 78705",None,None,2011.4.15,Reported
+7,17650,"Boston, MA 02115",None,None,2011.4.15,None
+8,17949,"Blacksburg, VA 24060",None,None,2011.4.15,Reported
+9,25086,"Marietta, OR 30067",None,None,2011.4.15,None
+0,15848,"Austin, TX 78751",None,None,2011.4.15,Reported
+1,17334,"Portland, OR 97217",None,None,2011.4.15,Reported
+2,14135,"Seattle, WA 98102",None,None,2011.4.15,Reported
+3,17641,"New Orleans, LA 70117",None,None,2011.4.15,None
+4,16653,"Portland, OR 97209",None,None,2011.4.15,Reported
+5,16651,"Eugene, OR 97402",None,None,2011.4.14,None
+6,17928,"San Jose, CA 95126",None,None,2011.4.14,None
+7,16717,"Seattle, WA 98102",None,None,2011.4.14,Reported
+8,20443,"San Ramon, CA 94583",None,None,2011.4.14,None
+9,17935,"Henderson, NV 89104",None,None,2011.4.13,None
+0,15803,"Seattle, WA 98103",None,None,2011.4.13,Reported
+1,16649,"Portland, OR 97209",None,None,2011.4.13,Reported
+2,17932,"Portland, OR 97202",None,None,2011.4.13,Reported
+3,17933,"San Luis Obispo, CA 93405",None,None,2011.4.13,None
+4,16646,"Seattle, WA 98103",None,None,2011.4.13,Reported
+5,17927,"Tucson, AZ 85743",None,None,2011.4.13,Reported
+6,16645,"Portland, OR 97232",None,None,2011.4.13,None
+7,16665,"Los Angeles, CA 90007",None,None,2011.4.13,None
+8,11970,"Sacramento, CA 95818",None,None,2011.4.13,None
+9,11976,"New York, NY 10009",None,None,2011.4.12,None
+0,16655,"Danville, CA 94526",None,None,2011.4.12,None
+1,18957,"Cupertino, CA 95014",None,None,2011.4.11,None
+2,16608,"College Station, TX 77840",None,None,2011.4.10,None
+3,15837,"Fayetteville, AR 72701",None,None,2011.4.10,None
+4,16609,"Milwaukee, WI 53207",None,None,2011.4.10,Reported
+5,16622,"Los Angeles, CA 90071",None,None,2011.4.10,None
+6,16438,"Duson, LA 70529",None,None,2011.4.10,None
+7,16610,"Portland, OR 97213",None,None,2011.4.10,Reported
+8,16625,"Los Angeles, CA 90071",None,None,2011.4.10,None
+0,15824,"Philadelphia, PA 19123",None,None,2011.4.10,Reported
+1,17929,"New York, NY 10009",None,None,2011.4.10,None
+2,14114,"Seattle, WA 98109",None,None,2011.4.10,Reported
+3,15794,"River Falls, WI 54022",None,None,2011.4.10,None
+4,16725,"Sunnyvale, CA 94085",None,None,2011.4.10,Reported
+5,16756,"Sunnyvale, CA 94085",None,None,2011.4.10,None
+6,17937,"Portland, OR 97206",None,None,2011.4.10,Reported
+7,16613,"Las Vegas, NV 89109",None,None,2011.4.10,Reported
+8,16437,"Allston, MA 02134",None,None,2011.4.10,None
+9,16440,"Huntington Beach, CA 92649",None,None,2011.4.10,Reported
+0,17631,"Vancouver, WA 98664",None,None,2011.4.9,None
+1,16640,"Portland, OR 97206",None,None,2011.4.9,None
+2,17921,"Palm Desert, CA 92260",None,None,2011.4.9,None
+3,16604,"Mountain View, CA 94040",None,None,2011.4.8,None
+4,17629,"Bethlehem, PA 18015",None,None,2011.4.8,None
+5,16606,"Pittsburgh, PA 15213",None,None,2011.4.8,None
+6,16627,"San Francisco, CA 94158",None,None,2011.4.8,None
+7,16602,"New Haven, CT 06512",None,None,2011.4.8,None
+8,11963,"Portland, OR 97202",None,None,2011.4.8,Reported
+9,16599,"New York, NY 10001",None,None,2011.4.7,None
+0,15767,"Portland, OR 97212",None,None,2011.4.7,Reported
+1,17920,"Seattle, WA 98102",None,None,2011.4.7,Reported
+2,16579,"Salisbury University, MD 21804",None,None,2011.4.6,Reported
+3,16588,"Portland, OR 97210",None,None,2011.4.6,Reported
+4,20439,"Seattle, WA 98119",None,None,2011.4.6,Reported
+5,15750,"Modesto, CA 95350",None,None,2011.4.6,None
+6,16583,"Murfreesboro, TN 37130",None,None,2011.4.6,Reported
+7,17663,"Salt Lake City, UT 84106",None,None,2011.4.6,Reported
+8,16563,"Portland, OR 97212",None,None,2011.4.5,Reported
+9,16544,"Santa Cruz, CA 95060",None,None,2011.4.5,None
+0,16678,"Portland, OR 97216",None,None,2011.4.5,None
+1,16552,"Sacramento, CA 95814",None,None,2011.4.5,Reported
+2,16545,"Portland, OR 97202",None,None,2011.4.4,None
+3,20430,"Portland, OR 97205",None,None,2011.4.4,Reported
+4,16638,"Rohnert Park, CA 94928",None,None,2011.4.4,None
+5,16556,"Austin, TX 78703",None,None,2011.4.4,None
+6,13214,"Stockton, CA 95204",None,None,2011.4.4,None
+7,16648,"Portland, OR 97213",None,None,2011.4.4,None
+8,17077,"New Orleans, LA 70119",None,None,2011.4.4,Reported
+9,17914,"Lansing, MI 48910",None,None,2011.4.4,Reported
+0,42552,"Berkeley, CA 94702",None,None,2011.4.4,None
+1,111942,"Stockton, CA 95204",Not locked,Bike was not locked,2011.4.4,None
+2,18064,"Orlando, FL 32801",None,None,2011.4.4,Reported
+3,15743,"Santa Monica, CA 90401-",None,None,2011.4.4,None
+4,16548,"Pasadena, CA 91105",None,None,2011.4.4,Reported
+5,16577,"Portland, OR 97209",None,None,2011.4.4,None
+6,16590,"Portland, OR 97232",None,None,2011.4.4,Reported
+7,23640,"Orlando, FL 32916",None,None,2011.4.3,None
+8,17910,"Agoura Hills, CA 91301",None,None,2011.4.3,Reported
+9,11954,"Seattle, WA 98103",None,None,2011.4.3,Reported

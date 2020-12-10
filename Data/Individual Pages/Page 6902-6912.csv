@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,21453,"Portland, OR 97212",None,None,2013.7.21,Reported
+1,21235,"Chicago, IL 60613",None,None,2013.7.21,Reported
+2,16750,"Falmouth, MA 02540",Not locked,Bike was not locked,2013.7.21,Reported
+3,20767,"Portland, OR 97214",None,None,2013.7.21,Reported
+4,21663,"Brooklyn, NY 11235",None,None,2013.7.21,Reported
+5,22143,"Portland, OR 97222",None,None,2013.7.21,Reported
+6,21000,"Phoenix, AZ 85051",None,None,2013.7.21,None
+7,16637,"Rochester, NY 14627",None,None,2013.7.21,None
+8,16058,"Tucson, AZ 85716",None,None,2013.7.21,None
+9,22387,"Minneapolis, MN 55409",None,None,2013.7.21,None
+0,22162,"Chicago, IL 60661",None,None,2013.7.21,Reported
+1,20818,"Lake Como, NJ 07719",None,None,2013.7.21,None
+2,15959,"Portland, OR 97202",None,None,2013.7.21,Reported
+3,22440,"Philadelphia, PA 19130",None,None,2013.7.21,None
+4,19897,"Long Beach, NY 11561",None,None,2013.7.21,None
+5,22165,"Oakland, CA 94608",None,None,2013.7.20,Reported
+6,22157,"Spokane, WA 99202",None,None,2013.7.20,None
+7,16641,"San Jose, CA 95131",None,None,2013.7.20,None
+8,21280,"Columbus, OH 43201",None,None,2013.7.20,None
+0,53698,"Salem, OR 97305",Chain with padlock,"Lock was cut, and left at the scene.",2013.7.20,Reported
+1,20848,"Columbus, OH 43215",None,None,2013.7.20,None
+2,16632,"Portland, OR 97218",None,None,2013.7.20,None
+3,20406,"San Diego, CA 92110",None,None,2013.7.20,Reported
+4,20870,"Oakland, CA 94609",None,None,2013.7.20,None
+5,21322,"Amherst, MA 01002",None,None,2013.7.20,Reported
+6,22164,"Spokane, WA 99202",None,None,2013.7.20,None
+7,22149,"Portland, OR",None,None,2013.7.20,None
+8,22039,"Salt Lake City, UT 84104",None,None,2013.7.20,Reported
+0,21536,"Seattle, WA 98103",None,None,2013.7.20,None
+1,17270,"Rossyln, VA 22209",None,None,2013.7.20,Reported
+2,16635,"San Francisco, CA 94110",None,None,2013.7.20,Reported
+3,22348,"Boulder, CO 80301",None,None,2013.7.20,Reported
+4,20885,"Columbus, OH 43201",None,None,2013.7.20,None
+5,19870,"San Diego, CA 92116",None,None,2013.7.20,Reported
+6,21072,"Mc Arthur, OH 45651",None,None,2013.7.20,Reported
+7,21655,"Vancouver, WA 98683",None,None,2013.7.20,None
+8,16484,"Portland, OR 97209",None,None,2013.7.20,Reported
+9,16222,"San Francisco, CA 94123",None,None,2013.7.20,None
+0,20027,"Seattle, WA 98107",None,None,2013.7.20,Reported
+1,21258,"Portland, OR 97206",None,None,2013.7.20,Reported
+2,22033,"Portland, OR 97212",None,None,2013.7.20,None
+3,20886,"Columbus, OH 43201",None,None,2013.7.20,None
+4,22152,"Portland, OR 97218",None,None,2013.7.20,None
+5,22147,"Portland, OR 97206",None,None,2013.7.20,Reported
+6,22167,"San Francisco, CA 94102",None,None,2013.7.20,Reported
+7,21233,"Portland, OR 97212",None,None,2013.7.20,Reported
+8,16596,"San Francisco, CA 94114",None,None,2013.7.20,Reported
+9,27168,"Shirley, NY 11967",Not locked,None,2013.7.20,None
+0,22160,"Chicago, IL 60625",None,None,2013.7.19,None
+1,29101,OR 97211,U-lock,"Lock is missing, along with the bike.",2013.7.19,Reported
+2,22141,"Portland, OR 97217",None,None,2013.7.19,Reported
+3,22166,"Berkeley, CA 94704",None,None,2013.7.19,Reported
+4,16169,"Chicago, IL 60615",None,None,2013.7.19,None
+5,16155,"Eugene, OR 97477",None,None,2013.7.19,Reported
+6,16631,"Tucson, AZ 85719",None,None,2013.7.19,None
+7,21281,"Hillsboro, OR 97124",None,None,2013.7.19,Reported
+8,22145,"Pdx, OR 97212",None,None,2013.7.19,None
+9,22139,"Tucson, AZ 85719",None,None,2013.7.19,None
+0,16666,"Portland, OR 97214",None,None,2013.7.19,None
+1,22161,"Porltand, OR 97203",None,None,2013.7.19,None
+2,16630,"Portland, OR 97209",None,None,2013.7.19,Reported
+3,16834,"Minnetonka, MN 55305",None,None,2013.7.19,Reported
+4,17309,"Glendora, NJ 08078",None,None,2013.7.19,Reported
+5,16179,"Emeryville, CA 94608",None,None,2013.7.19,Reported
+6,21243,"Philadelphia, PA 19143",None,None,2013.7.19,Reported
+7,16623,"Berkeley, CA 94705",None,None,2013.7.19,Reported
+8,21254,"Philadelphia, PA 19103",None,None,2013.7.19,None
+9,19889,"Portland, OR 97205",None,None,2013.7.19,None
+0,21266,"Porltand, OR 97203",None,None,2013.7.19,Reported
+1,16633,"Chicago, IL 60656",None,None,2013.7.19,None
+2,20811,"Portland, OR 97213",None,None,2013.7.19,None
+3,22303,"Tucson, AZ 85719",None,None,2013.7.19,Reported
+4,22154,"Sacramento, CA 95820",None,None,2013.7.19,None
+5,16620,"Portland, OR 97214",None,None,2013.7.18,Reported
+6,16329,"El Cerrito, CA 94530",None,None,2013.7.18,Reported
+7,21441,"Boise, ID 83703",None,None,2013.7.18,None
+8,22111,"Santa Clara University, CA 95050",None,None,2013.7.18,None
+9,22083,"Portland, OR 97205",None,None,2013.7.18,None
+0,21225,"Portland, OR 97204",None,None,2013.7.18,Reported
+1,51677,"Davis, CA 95616",U-lock and cable,"Lock is missing, along with the bike.",2013.7.18,None
+2,16185,"Seattle, WA 98115",None,None,2013.7.18,None
+3,19880,"Seattle, WA 98117",None,None,2013.7.18,Reported
+4,19878,"Mountain View, CA 94043",None,None,2013.7.18,None
+5,20364,"Portland, OR 97239",None,None,2013.7.18,None
+6,22116,"Portland, OR 97204",None,None,2013.7.18,None
+7,16181,"Seattle, WA 98115",None,None,2013.7.18,None
+8,16605,"San Diego, CA 92101",None,None,2013.7.18,None
+9,17064,"Pittsburgh, PA 15221",None,None,2013.7.18,Reported
+0,19894,"Portland, OR 97209",None,None,2013.7.18,Reported
+1,20817,"Corvallis, OR 97333",None,None,2013.7.18,None
+2,22136,"Minneapolis, MN 55408",None,None,2013.7.18,Reported
+3,20272,"Philadelphia, PA 19143",None,None,2013.7.18,None
+4,20768,"Anchorage, AK 99518",None,None,2013.7.18,None
+5,22578,"Columbus, OH 43204",None,None,2013.7.18,None
+6,20851,"Cedar Rapids, IA 52401",None,None,2013.7.18,Reported
+7,19871,"Denver, CO 80211",None,None,2013.7.17,Reported
+8,22602,"Sierra Vista, AZ 85635",None,None,2013.7.17,None
+9,20766,"San Jose, CA 95134",None,None,2013.7.17,None

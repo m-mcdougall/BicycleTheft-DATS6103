@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,5994,"Portland, OR 97202",None,None,2013.11.29,Reported
+1,9198,"San Diego, CA 92111",None,None,2013.11.29,Reported
+2,9235,"Tucson, AZ 85711",None,None,2013.11.29,Reported
+3,9161,"San Francisco, CA 94121",None,None,2013.11.29,Reported
+4,9176,"Chandler, AZ 85224",None,None,2013.11.29,Reported
+5,9148,"Portland, OR 97212",None,None,2013.11.29,None
+6,9204,"Portland, OR 97211",None,None,2013.11.29,Reported
+7,9877,"Atlanta, GA 30312",None,None,2013.11.29,Reported
+8,6025,"Oakland, CA 94602",None,None,2013.11.29,Reported
+9,9202,"San Diego, CA 92111",None,None,2013.11.29,Reported
+0,9457,"Salt Lake City, UT 84105",None,None,2013.11.29,None
+1,6018,"San Francisco, CA 94117",None,None,2013.11.29,None
+2,9189,"Portland, OR 97201",None,None,2013.11.29,Reported
+3,9152,"Portland, OR 97214",None,None,2013.11.28,Reported
+4,73857,"Boulder, CO 80304",Cable lock,"Lock was cut, and left at the scene.",2013.11.28,None
+5,9134,"San Francisco, CA 94103",None,None,2013.11.28,None
+6,9159,"Portland, OR 97214",None,None,2013.11.28,Reported
+7,9187,"Los Angeles, CA 90034",None,None,2013.11.28,None
+8,9136,"Tucson, AZ 85719",None,None,2013.11.28,None
+9,6077,"Costa Mesa, CA 92627",None,None,2013.11.27,Reported
+0,9230,"Bradenton, FL 34205",None,None,2013.11.27,Reported
+1,9149,"Portland, OR 97214",None,None,2013.11.27,Reported
+2,11524,"San Francisco, CA 94110",None,None,2013.11.27,Reported
+3,9286,"Tucson, AZ 85706",None,None,2013.11.27,None
+4,5961,"Philadelphia, PA 19104",None,None,2013.11.26,Reported
+5,60771,"Chico, CA 95926",Cable lock,"Lock was cut, and left at the scene.",2013.11.26,Reported
+6,5915,"Portland, OR 97202",None,None,2013.11.26,Reported
+7,9125,"Philadelphia, PA 19104",None,None,2013.11.26,Reported
+8,11523,"Philadelphia, PA 19104",None,None,2013.11.26,Reported
+9,8991,"Seattle, WA 98103",None,None,2013.11.26,Reported
+0,9089,"San Francisco, CA 94110",None,None,2013.11.26,Reported
+1,5951,"Gresham, OR 97030",None,None,2013.11.26,None
+2,9079,"Portland, OR 97211",None,None,2013.11.25,None
+3,5983,"Portland, OR 97211",None,None,2013.11.25,None
+4,9081,"San Francisco, CA 94107",None,None,2013.11.25,None
+5,9098,"Portland, OR 97213",None,None,2013.11.25,Reported
+6,9284,"Portland, OR 97232",None,None,2013.11.25,Reported
+7,9123,"Portland, OR 97206",None,None,2013.11.25,None
+8,5933,"Portland, OR 97217",None,None,2013.11.25,None
+9,5902,"Portland, OR 97211",None,None,2013.11.25,Reported
+0,5909,"Oakland, CA 94607",None,None,2013.11.25,None
+1,9092,"San Francisco, CA 94110",None,None,2013.11.25,None
+2,11522,"San Diego, CA 92110",None,None,2013.11.25,Reported
+3,9191,"Tacoma, WA 98406",None,None,2013.11.25,Reported
+4,1310,"Eugene, OR 97401",Not locked,Bike was not locked,2013.11.24,Reported
+5,9104,"Alameda, CA 94501",None,None,2013.11.24,Reported
+6,9058,"Tigard, OR 97223",None,None,2013.11.24,None
+7,9068,"Coronado, CA 92118",None,None,2013.11.24,Reported
+8,11519,"Portland, OR 97227",None,None,2013.11.24,None
+0,9060,"San Francisco, CA 94102",None,None,2013.11.24,None
+1,9117,"Portland, OR 97212",None,None,2013.11.24,Reported
+2,5866,"Bellingham, WA 98226",None,None,2013.11.24,None
+3,9049,"San Francisco, CA 94114",None,None,2013.11.23,None
+4,5870,"Portland, OR 97217",None,None,2013.11.23,Reported
+5,6838,"Berkeley, CA 94704",None,None,2013.11.23,None
+6,9052,"Portland, OR 97217",None,None,2013.11.23,Reported
+7,9475,"Portland, OR 97210",None,None,2013.11.23,None
+8,5898,"Milwaukie, OR 97222",None,None,2013.11.23,Reported
+9,9064,"Laguna Beach, CA 92651",None,None,2013.11.23,Reported
+0,1256,"Chicago, IL",Other,None,2013.11.22,Reported
+1,5873,"Chico, CA 95926",None,None,2013.11.22,None
+2,5850,"Seattle, WA 9136",None,None,2013.11.21,None
+3,6059,"Baltimore, MD 21211",None,None,2013.11.21,None
+4,9047,"San Francisco, CA 94103",None,None,2013.11.21,Reported
+5,9050,"Manhattan, NY 10003",None,None,2013.11.21,None
+6,9039,"Berkeley, CA 94705",None,None,2013.11.21,None
+7,9266,"San Diego, CA 92103",None,None,2013.11.21,Reported
+8,9863,"Tempe, AZ 85281",None,None,2013.11.21,Reported
+9,9072,"Oakland, CA 94609",None,None,2013.11.21,Reported
+0,9028,"Mountain View, CA 94040",None,None,2013.11.20,Reported
+1,11513,"Portland, OR",None,None,2013.11.20,Reported
+2,9022,"Largo, FL 33770",None,None,2013.11.20,Reported
+3,9026,"Portland, OR 97206",None,None,2013.11.20,Reported
+4,6300,"Newton, MA 025458",None,None,2013.11.20,None
+5,9035,"San Francisco, CA 94122",None,None,2013.11.20,None
+6,9004,"Stanford, CA 94305",None,None,2013.11.19,None
+7,7976,"Toledo, WA 98591",None,None,2013.11.19,None
+8,9002,"Santa Monica, CA 90405",None,None,2013.11.19,Reported
+9,8994,"San Diego, CA 92106",None,None,2013.11.19,None
+0,9031,"Portland, OR 97217",None,None,2013.11.19,Reported
+1,11514,"Washington, DC 20009",None,None,2013.11.19,Reported
+2,8995,"Tempe, AZ 85281",None,None,2013.11.19,None
+3,9000,"Portland, OR 97266",None,None,2013.11.19,Reported
+4,9127,"Portland, OR 97214",None,None,2013.11.19,Reported
+5,5842,"Portland, OR 97202",None,None,2013.11.19,None
+6,9157,"Portland, OR 97202",None,None,2013.11.19,Reported
+7,8989,"Berkely, CA 94608",None,None,2013.11.18,Reported
+8,9084,"Seattle, WA 98103",None,None,2013.11.18,Reported
+9,9137,"San Diego, CA 92037",None,None,2013.11.18,None
+0,11511,"Portland, OR 97218",None,None,2013.11.18,None
+1,27965,"Sacramento, CA 95823",Cable lock,"Lock was cut, and left at the scene.",2013.11.18,Reported
+2,7773,"Detroit, MI 48224",None,None,2013.11.18,None
+3,8966,"Portland, OR 97202",None,None,2013.11.18,Reported
+4,8999,"Portland, OR 97214",None,None,2013.11.18,None
+5,9163,"Kingston, NY 12401",None,None,2013.11.18,None
+6,9006,"Brandon, FL 33510",None,None,2013.11.18,None
+7,8992,"Livermore, CA 94551",None,None,2013.11.18,None
+8,9141,"San Diego, CA 92037",None,None,2013.11.18,None
+9,11515,"Portland, OR 97214",None,None,2013.11.17,None

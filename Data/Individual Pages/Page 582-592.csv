@@ -1,0 +1,64 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,841381,"St James St , Boston, MA 02116",None,None,2020.8.19,Reported
+1,841379,"8th and Lee Hill Drive, Boulder, CO 80304",Not locked,"Other situation, please describe below",2020.8.19,Reported
+2,841406,"Columbus, OH 43202",None,None,2020.8.19,None
+3,841661,"210 Yale Blvd NE, Albuquerque, NM 87106",Cable lock,"Lock is missing, along with the bike",2020.8.19,Reported
+4,841338,"Portland, OR 97202",Other,"Lock was cut, and left at the scene",2020.8.19,Reported
+5,842038,"Minneapolis, MN 55413",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.19,Reported
+6,841300,"7001 Elliot Ave., Richfield, MN 55423",None,None,2020.8.19,None
+0,841288,"Maple Grove, MN 55311",Not locked,"Other situation, please describe below",2020.8.19,None
+1,840869,"146 EVERIT ST APT E, New Haven, CT 06511-1345",Not locked,"Lock is missing, along with the bike",2020.8.19,Reported
+2,841273,"200 Bryant St, Buffalo, NY 14222",None,None,2020.8.19,None
+3,841280,"Cambridge, MA 02141",Not locked,None,2020.8.19,Reported
+4,695039,"4723 SE 66th Ave, Portland, OR 97206",Cable lock,"Lock is missing, along with the bike",2020.8.19,Reported
+5,841163,"Milwaukee, WI 53212",None,None,2020.8.19,None
+0,844028,"Sacramento, CA 95833",Not locked,None,2020.8.19,Reported
+1,842152,"Lee University, Cleveland, TN 37311",Cable lock,"Lock is missing, along with the bike",2020.8.19,None
+2,844230,"2300 W. Seltice Way, Coeur D’alene, ID 83814",Cable lock,"Lock was cut, and left at the scene",2020.8.19,Reported
+3,841133,"Lazy Days Resort, Tampa, FL",None,None,2020.8.19,None
+4,841169,"New Orleans, LA 70124",None,None,2020.8.19,None
+5,614762,"Seattle, WA 98107",U-lock,"Lock was cut, and left at the scene",2020.8.19,Reported
+6,865230,"Spokane, WA 99201",Other,"Other situation, please describe below",2020.8.19,Reported
+7,926150,"Aurora, CO 80014",Cable lock,"Lock was cut, and left at the scene",2020.8.19,Reported
+0,841611,"San Francisco, CA 94103",None,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.8.19,Reported
+1,843959,"Somerville, MA 02143",U-lock,None,2020.8.19,None
+2,697793,"3850 barranca Pkwy, Irvine, CA 92606",Cable lock,"Lock is missing, along with the bike",2020.8.18,Reported
+3,841270,"Gaithersburg, MD 20878",None,None,2020.8.18,Reported
+4,841021,"2400 N Dustin Avenue, Farmington, NM 87401",None,None,2020.8.18,None
+5,840999,"Buffalo, NY 14210",None,None,2020.8.18,None
+0,841193,"Richmond, VA 23227",None,None,2020.8.18,Reported
+1,840985,"Salt Lake City, UT 84206",Chain with padlock,"Lock is missing, along with the bike",2020.8.18,None
+2,840939,"South, UT 84095",Other,None,2020.8.18,Reported
+3,795955,"Seattle, WA 98122",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.8.18,Reported
+0,840844,"Flagstaff, AZ 86001",U-lock and cable,"Lock is missing, along with the bike",2020.8.18,Reported
+1,733957,"Iron Industry Athletics1611 Birchwood Avenue, Bellingham, WA 98225",Not locked,None,2020.8.18,Reported
+2,840831,"New Orleans, LA 70115",None,None,2020.8.18,None
+3,840834,"New Orleans, LA 70115",None,None,2020.8.18,None
+4,848202,"Winnetka, CA 91306",Not locked,"Other situation, please describe below",2020.8.18,None
+5,840798,"Fort Wayne, IN 46825",None,None,2020.8.18,None
+6,840780,"20th Ave NE and NE 77th St, Seattle, WA 98115",None,None,2020.8.18,None
+0,841425,"Hillsboro, OR 97006",None,None,2020.8.18,Reported
+1,840741,"Seattle, WA 98105",None,None,2020.8.18,None
+2,840723,"48771 marina cove , Belleville, MI 48111",None,None,2020.8.18,None
+3,840742,"8585 spicewood springs road , Austin, TX 78759",None,None,2020.8.18,Reported
+4,840721,"Denver, CO 80230",Other,None,2020.8.18,Reported
+0,840729,"Seattle, WA 98103",Not locked,None,2020.8.18,Reported
+1,842189,"Seattle, WA 98102",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.18,Reported
+2,842192,"Seattle, WA 98102",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.18,Reported
+3,840698,"Seattle, WA 98116",None,None,2020.8.18,None
+4,840764,"7525 132nd Ave NE, Kirkland, WA 98033",Not locked,None,2020.8.18,None
+5,840637,"Mountain View, CA 94043",None,None,2020.8.18,None
+0,840620,"400 2nd Street SE, Minneapolis, MN 55414",None,None,2020.8.18,None
+1,840611,"Menlo Park, CA 94025",None,None,2020.8.18,None
+2,840647,"12th & W Thompson, Philadelphia, PA 19122",None,None,2020.8.18,None
+3,840653,"New Orleans, LA 70117",None,None,2020.8.18,None
+4,840615,"801 Sugaree Ave, Austin, TX 78757",None,None,2020.8.18,Reported
+5,791752,"Seattle, WA 98109",U-lock,None,2020.8.18,None
+6,840535,"Mountain View, CA 94040",None,None,2020.8.18,None
+0,841138,"2615 NE 112th Ave, Vancouver, WA 98684",Not locked,Bike was not locked,2020.8.18,Reported
+1,839265,"Washington, DC 20009",Cable lock,"Lock was cut, and left at the scene",2020.8.18,Reported
+2,840213,"Gresham, OR 97230",U-lock,Bike was not locked,2020.8.18,None
+3,840669,"Salt Lake City, UT 84103",Cable lock,"Lock was cut, and left at the scene",2020.8.18,None
+4,840454,"Salem, OR 97304",None,None,2020.8.18,None
+5,841461,"41 7th Avenue, New York, NY 10011",Cable lock,"Other situation, please describe below",2020.8.18,Reported
+6,843563,"22828 76th Ave W, Edmonds, WA 98026",None,None,2020.8.18,None

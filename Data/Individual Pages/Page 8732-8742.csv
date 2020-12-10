@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,4817,"Alexandria, LA 71302",None,None,2005.10.22,None
+1,4328,"Boston, MA 02108",None,None,2005.10.22,None
+2,4331,"Granby, CT 06035",None,None,2005.10.21,None
+3,4327,"Tampa, FL 33604",None,None,2005.10.21,None
+4,4322,"Oceanside, CA 92054",None,None,2005.10.20,None
+5,3940,"Santa Monica, CA 90401",None,None,2005.10.20,None
+6,4321,"Oceanside, CA 92054",None,None,2005.10.20,None
+7,4415,"Orlando, FL 32826",None,None,2005.10.20,None
+8,4060,"Bellevue, OH 44811",None,None,2005.10.20,None
+9,4320,"Springfield, PA 19064",None,None,2005.10.20,None
+0,4062,"Berkeley, CA 94703",None,None,2005.10.20,None
+1,4325,"Cedar Falls, IA 50613",None,None,2005.10.19,None
+2,4815,"New York, NY 10023",None,None,2005.10.19,None
+3,4319,"Oakland, CA 94618",None,None,2005.10.18,None
+4,4337,"Occidental, CA 95465",None,None,2005.10.18,None
+5,4317,"East Palo Alto, CA 94303",None,None,2005.10.18,None
+6,4318,"Alexandria, VA 22301",None,None,2005.10.18,None
+7,5111,"Eugene, OR 97401",None,None,2005.10.16,None
+8,4058,"Mankato, MN 56001",None,None,2005.10.15,None
+9,4326,"Worcester, MA 01609",None,None,2005.10.15,None
+0,4063,"Oakland, CA 94677",None,None,2005.10.15,None
+1,4310,"Seattle, WA 98102",None,None,2005.10.14,None
+2,4312,"Murrieta, CA 92563",None,None,2005.10.14,None
+3,4315,"Denver, CO 80203",None,None,2005.10.14,None
+4,4814,"Des Moines, IA 50310",None,None,2005.10.14,None
+5,4314,"Boulder, CO 80304",None,None,2005.10.13,None
+6,4816,"Los Angeles, CA 90066",None,None,2005.10.12,None
+7,4306,"Los Angeles, CA 90095",None,None,2005.10.11,None
+8,4311,"Terre Haute, IN 47809",None,None,2005.10.11,None
+9,4813,"San Francisco, CA 94102",None,None,2005.10.11,None
+0,4056,"Overland Park, KS 66212",None,None,2005.10.11,None
+1,4812,"Denver, CO 80206",None,None,2005.10.10,None
+2,4057,"San Diego, CA 92109",None,None,2005.10.10,None
+3,4305,"Portland, OR 97201",None,None,2005.10.10,None
+4,4389,"Chandler, AZ 85225",None,None,2005.10.10,None
+5,4309,"Portland, OR 97211",None,None,2005.10.9,None
+6,4795,"Spokane, WA 99204",None,None,2005.10.9,None
+7,4108,"Corvallis, OR 97333",None,None,2005.10.8,None
+8,4316,"Bremerton, WA 98312",None,None,2005.10.6,None
+9,4299,"Los Angeles, CA 90026",None,None,2005.10.6,None
+0,4706,"Denver, CO 80211",None,None,2005.10.6,None
+1,3966,"Minneapolis, MN 55403",None,None,2005.10.6,None
+2,4324,"Oakland, CA 94611",None,None,2005.10.6,None
+3,4301,"Menlo Park, CA 94025",None,None,2005.10.5,None
+4,4809,"Springfield, OR 97405",None,None,2005.10.5,None
+5,3957,"Dallas, TX 75390",None,None,2005.10.4,None
+6,4291,"Santa Cruz, CA 95060",None,None,2005.10.4,None
+7,4738,"Saint Francis, WI 53235",None,None,2005.10.4,None
+8,4289,"Weston, FL 33326",None,None,2005.10.4,None
+9,4297,"East Lansing, MI 48823",None,None,2005.10.3,None
+0,4294,"East Lansing, MI 48823",None,None,2005.10.3,None
+1,4293,"Santa Monica, CA 90403",None,None,2005.10.3,None
+2,4292,"Riverton, IL 62561",None,None,2005.10.3,None
+3,4055,"San Diego, CA 92103",None,None,2005.10.2,None
+4,4819,"East Lansing, MI 48825",None,None,2005.10.2,None
+5,4304,"Watsonville, CA 95076",None,None,2005.10.2,None
+6,3971,"Tucson, AZ 85716",None,None,2005.10.2,None
+7,4295,"State College, PA 16801",None,None,2005.10.1,None
+8,4834,"Poolesville, MD 20837",None,None,2005.10.1,None
+9,3967,"La Pine, OR 97739",None,None,2005.10.1,None
+0,4810,"Worcester, MA 01609",None,None,2005.10.1,None
+1,6552,"Denver, CO 80212",None,None,2005.10.1,None
+2,3985,"Huber Heights, OH 45424",None,None,2005.10.1,None
+3,4303,"Temecula, CA 92092",None,None,2005.10.1,None
+4,4340,"Daytona Beach, FL 32114",None,None,2005.10.1,None
+5,4352,"Las Cruces, NM 88007",None,None,2005.10.1,None
+6,4287,"Houston, TX 77004",None,None,2005.9.30,None
+7,4283,"Portland, OR 97214",None,None,2005.9.29,None
+8,4059,"Denver, CO 80209",None,None,2005.9.28,None
+9,4736,"Burlington, VT 05401",None,None,2005.9.27,None
+0,3939,"Brighton, MA 02135",None,None,2005.9.26,None
+1,4845,"Moab, UT 84532",None,None,2005.9.26,None
+2,4054,"Tucson, AZ 85719",None,None,2005.9.26,None
+3,4807,"Pittsburgh, PA 15217",None,None,2005.9.26,None
+4,4271,"Moab, UT 84532",None,None,2005.9.26,None
+5,4285,"New York, NY 10014",None,None,2005.9.25,None
+6,4281,"Topeka, KS 66604",None,None,2005.9.24,None
+7,4279,"Bellmawr, NJ 08031",None,None,2005.9.24,None
+8,3965,"Bozeman, MT 59715",None,None,2005.9.24,None
+9,4052,"Lansing, MI 48825",None,None,2005.9.24,None
+0,4280,"Pacific Grove, CA 93950",None,None,2005.9.24,None
+1,4276,"Washington, DC 20036",None,None,2005.9.24,None
+2,3953,"Seattle, WA 98109",None,None,2005.9.23,None
+3,4329,"Arlington, WA 98223",None,None,2005.9.22,None
+4,4273,"Chicago, IL 60606",None,None,2005.9.22,None
+5,4272,"Seattle, WA 98101",None,None,2005.9.22,None
+6,4336,"59 Institute Rd, Worcester, MA 01609",Other,"Lock was cut, and left at the scene",2005.9.22,Reported
+7,3972,"59 Institute Rd, Worcester, MA 01609",Other,"Other situation, please describe below",2005.9.21,Reported
+8,4733,"Chicago, IL 60618",None,None,2005.9.21,None
+9,5237,"Chicago, IL 60606",None,None,2005.9.21,None
+0,4270,"Rochester, MN 55901",None,None,2005.9.21,None
+1,4268,"East Lansing, MI 48825",None,None,2005.9.20,None
+2,14007,"Brooklyn, NY 11235",None,None,2005.9.20,None
+3,4051,"Rochester, NY 14607",None,None,2005.9.20,None
+4,4053,"Corvallis, OR 97330",None,None,2005.9.20,None
+5,4278,"Vancouver, WA 98663",None,None,2005.9.20,None
+6,4124,"La Jolla, CA 92093",None,None,2005.9.19,None
+7,4806,"Seattle, WA 98121",None,None,2005.9.19,None
+8,4049,"Worcester, MA 01609",None,None,2005.9.19,None
+9,4275,"Stamford, CT 06906",None,None,2005.9.18,None

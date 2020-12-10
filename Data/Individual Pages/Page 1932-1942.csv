@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,640689,"157 Ramsdell Ave #3, Buffalo, NY 14216",Not locked,"Other situation, please describe below",2019.8.10,Reported
+1,644882,"Seattle, WA 98116",Not locked,"Other situation, please describe below",2019.8.10,Reported
+2,641079,"Lakewood, WA 98498",None,"Lock was cut, and left at the scene",2019.8.10,Reported
+3,642000,"Portland, OR 97202",None,None,2019.8.10,Reported
+4,641933,"Minneapolis, MN 55419",None,None,2019.8.10,Reported
+5,641540,"Los Angeles, CA 90064",U-lock,"Lock is missing, along with the bike",2019.8.10,None
+0,642033,"NE Wasco and MLK Blvd, Portland, OR 97232",None,None,2019.8.10,None
+1,626474,"Portland, OR 97202",U-lock,None,2019.8.10,Reported
+2,641171,"Portland, OR 97239",None,None,2019.8.9,Reported
+3,395035,"San Francisco, CA 94129",U-lock,"Lock is missing, along with the bike",2019.8.9,None
+4,640578,"1419 Zepol, Santa Fe, NM 87507",Cable lock,"Lock is missing, along with the bike",2019.8.9,Reported
+5,640554,"1419 Zepol Rd, Santa Fe, NM 87507",Cable lock,"Lock is missing, along with the bike",2019.8.9,Reported
+6,647612,"Saint Paul, MN",U-lock,"Lock is missing, along with the bike",2019.8.9,None
+7,645138,"Spokane, WA 99201",Other,"Other situation, please describe below",2019.8.9,Reported
+0,640503,"Riverton knolls , West Henrietta, NY 14586 ",None,None,2019.8.9,None
+1,640492,"1108 severson drive, Sun Prairie, WI 53590",None,None,2019.8.9,None
+2,655467,"Gulfport, MS 39501",None,None,2019.8.9,Reported
+3,640975,"Sacramento, CA 95833",Cable lock,"Lock is missing, along with the bike",2019.8.9,Reported
+4,640521,"New Orleans, LA 70124",None,None,2019.8.9,Reported
+5,627056,"Palo Alto, CA 94301",Not locked,None,2019.8.9,Reported
+6,640460,"Loveland, CO 80537",Not locked,Bike was not locked,2019.8.9,Reported
+7,643124,"Chicago, IL 60611",Cable lock,"Lock is missing, along with the bike",2019.8.9,Reported
+0,649691,"Shorewood, WI 53211",None,None,2019.8.9,None
+1,644955,"Louisville, KY 40203",Cable lock,None,2019.8.9,Reported
+2,641066,"2400 4th Ave, Seattle, WA 98121",None,None,2019.8.9,Reported
+3,640324,"2700 S Western Ave, Chicago, IL, Chicago, IL 60608",Not locked,None,2019.8.9,None
+4,640329,"7010 Pritchard Place, New Orleans, LA 70125",None,None,2019.8.9,None
+5,643486,"2 Sassafras Pier, Erie, PA 16507",None,None,2019.8.9,None
+0,642425,"E Indiana Ave and Sullivan, Spokane Valley, WA 99216",None,"Other situation, please describe below",2019.8.9,Reported
+1,640831,"8436 NE 203rd PL, Bothell, WA 98011",None,None,2019.8.9,Reported
+2,640261,"305 Colorado Ave, Santa Monica, CA 90401",None,None,2019.8.8,None
+3,518058,"Seattle, WA 98104",Cable lock,"Lock was cut, and left at the scene",2019.8.8,Reported
+4,642196,"Charlotte, NC 28262",None,None,2019.8.8,None
+5,113474,"Seattle, WA 98107",Not locked,None,2019.8.8,Reported
+6,640275,"Seattle, WA 98122",None,None,2019.8.8,Reported
+0,648622,"Seattle, WA 98119",Not locked,Bike was not locked,2019.8.8,Reported
+1,640513,"Kenosha, WI 53140",Not locked,Bike was not locked,2019.8.8,Reported
+2,640150,"Portland, OR 97220",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2019.8.8,None
+3,641209,"Brooklyn, NY 11217",None,None,2019.8.8,None
+0,608996,"Salem, OR 97302",Cable lock,"Lock is missing, along with the bike",2019.8.8,Reported
+1,640053,"3221 Carter ave, Marina Del Rey, CA 90292",None,None,2019.8.8,None
+2,643797,"Redwood City, CA 94063",Cable lock,"Lock was cut, and left at the scene",2019.8.8,Reported
+3,640035,"Saint, MN 55104",Not locked,None,2019.8.8,Reported
+4,642284,"1445 Foxworthy Ave, Suite 60, San Jose, CA 95125",Not locked,None,2019.8.8,None
+5,640346,"New Orleans, LA 70125",None,None,2019.8.8,None
+6,640022,"4801 Fauntleroy Way SW, Fauntleroy Apartments lobby bike rack, Seattle, WA 98116",None,None,2019.8.8,Reported
+7,640014,"San Francisco, CA",None,None,None,None
+0,640344,"Charlotte, NC 28203",Cable lock,"Lock is missing, along with the bike",2019.8.8,None
+1,596357,"Seattle, WA 98103",Not locked,"Lock is missing, along with the bike",2019.8.8,None
+2,639968,"Rochester, NY 14607",None,None,2019.8.8,None
+3,639953,"424 east Seneca st, Tucson, AZ 85705",Not locked,None,2019.8.8,None
+4,391886,"Seattle, WA 98117",None,None,2019.8.8,None
+5,670611,"Minneapolis, MN 55409",Not locked,"Other situation, please describe below",2019.8.8,None
+6,639941,"Central Avenue , Tracy, CA 95376",None,None,2019.8.8,None
+0,55385,"Missoula, MT 59802",Chain with padlock,"Lock was cut, and left at the scene",2019.8.8,Reported
+1,640733,"Bellevue, WA 98008",None,None,None,None
+2,90971,"Portland, OR 97266",Not locked,None,2019.8.8,None
+3,640747,"Bellevue Area, WA 98008",Other,None,2019.8.8,Reported
+4,640071,"New Orleans, LA 70115",None,None,2019.8.8,None
+5,109253,"Seattle, WA 98103",Cable lock,"Lock was cut, and left at the scene",2019.8.8,Reported
+6,109257,"Seattle, WA 98103",Cable lock,"Lock was cut, and left at the scene",2019.8.8,Reported
+7,639902,"St. Paul, MN 55104",Cable lock,Bike was not locked,2019.8.7,None
+8,639887,"Milwaukee, WI 53204",None,None,2019.8.7,None
+0,639901,"San Francisco, CA 94103",None,None,2019.8.7,Reported
+1,639900,"6718 13th Ave NW, Seattle, WA 98117",Not locked,None,2019.8.7,Reported
+2,642835,"Issaquah, WA 98029",Cable lock,"Lock is missing, along with the bike",2019.8.7,Reported
+3,639867,"San Francisco, CA 94103",U-lock,"Lock is missing, along with the bike",2019.8.7,None
+4,59779,"Seattle, WA 98105",U-lock and cable,"Lock was cut, and left at the scene",2019.8.7,Reported
+5,639823,"1325 indiana st. , San Francisco, CA",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2019.8.7,Reported
+6,639779,"New Orleans, LA 70119",Not locked,Bike was not locked,2019.8.7,Reported
+7,383818,"Long Beach, CA 90804",U-lock,"Lock is missing, along with the bike",2019.8.7,Reported
+8,639767,"Seattle, WA 98106",None,None,2019.8.7,None
+9,639766,"595 Technology Square, Cambridge, MA 02139",Cable lock,"Lock is missing, along with the bike",2019.8.7,Reported

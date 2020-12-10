@@ -1,0 +1,65 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,932647,"922A Shoofly, Santa Fe, NM 87505",None,None,2020.10.10,Reported
+1,932650,"922A Shoofly, Santa Fe, NM 87505",None,None,2020.10.10,Reported
+2,932685," 1447 Ocean Ave, Santa Monica, CA 90401",Cable lock,"Lock is missing, along with the bike",2020.10.10,Reported
+3,932617,"1607 W. Cesar Chavez Lane, Boise, ID 83706",None,None,2020.10.10,None
+4,932613,"Brookline, MA 02446 ",None,None,2020.10.10,None
+5,932628,"San Diego, CA 92103",None,None,2020.10.10,Reported
+0,932864,"Seattle, WA 98103",Cable lock,"Other situation, please describe below",2020.10.10,Reported
+1,934149,"7th Ave NW, Issaquah, WA 98027",Cable lock,"Lock was cut, and left at the scene",2020.10.10,Reported
+2,932559,"3175 E 3300 S, Millcreek, UT 84109",None,None,2020.10.10,None
+3,934161,"853 Laurel Street, Alameda, CA 94501",Cable lock,None,2020.10.10,Reported
+0,932594,"560 East Potter Avenue, Milwaukee, WI 53207",None,"Other situation, please describe below",2020.10.10,Reported
+1,939334,"18414 104th Ave NE, Bothell, WA 98011",None,None,2020.10.10,Reported
+2,934372,"Pittsburgh, PA 15213",None,None,2020.10.10,Reported
+3,933794,"Portland, OR 97210",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.10,Reported
+4,933804,"Portland, OR 97210",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.10.10,Reported
+5,933871,"Oakland, CA 94618",None,None,2020.10.10,Reported
+6,936360,"Portland, OR 97217",None,None,2020.10.10,None
+0,937087,"419 19th Ave E, Seattle, WA 98112",Cable lock,"Lock was cut, and left at the scene",2020.10.10,Reported
+1,934333,"Cincinnati, OH 45202",Cable lock,"Lock is missing, along with the bike",2020.10.10,None
+2,933704,"New Orleans, LA 70119",U-lock,"Lock is missing, along with the bike",2020.10.10,Reported
+3,936070,"Bowling Green, KY 42104",U-lock and cable,"Lock was cut, and left at the scene",2020.10.9,None
+4,932472,"Shoreline, WA 98133",Other,"Lock was cut, and left at the scene",2020.10.9,None
+5,932773,"Upper Park Rd and Wardell Pl, Orlando, FL 32814",Not locked,Bike was not locked,2020.10.9,Reported
+6,932728,"Chicago, IL 606453360",U-lock,Bike was not locked,2020.10.9,Reported
+0,932436,"2255 Dayton St, Aurora, CO 80238",None,None,2020.10.9,Reported
+1,934141,"Los Angeles, CA 90049",None,None,2020.10.9,Reported
+2,932818,"Dallas, TX 75206-5905",None,None,2020.10.9,Reported
+3,933833,"New Orleans, LA 70119",None,None,2020.10.9,None
+4,932402,"San, CA 92103-7303",U-lock,"Lock was cut, and left at the scene",2020.10.9,Reported
+5,932371,"Sioux City, IA",Cable lock,"Other situation, please describe below",2020.10.9,None
+0,932385,"Los Angeles, CA 90034",None,None,2020.10.9,Reported
+1,932458,"3500 Main St, Amherst, NY 14226",Cable lock,"Lock was cut, and left at the scene",2020.10.9,Reported
+2,932327,"5901 Center Drive, Los Angeles, CA 90045",Cable lock,"Lock was cut, and left at the scene",2020.10.9,Reported
+3,932330,"Center Drive , Los Angeles, CA 95134",None,None,2020.10.9,Reported
+4,932350,"Denver, CO 80218",Other,"Other situation, please describe below",2020.10.9,None
+5,932840,"Austin, TX 78759",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.10.9,Reported
+6,932303,"Campbell, CA 95008",Other,"Other situation, please describe below",2020.10.9,Reported
+0,932318,"Seattle, WA 98199",None,None,2020.10.9,Reported
+1,932583,"New Orleans, LA 70130",None,None,2020.10.9,None
+2,933358,"West 7th Harbor Freight, Eugene, OR 97405",Cable lock,"Lock was cut, and left at the scene",2020.10.9,Reported
+3,932220,"Des Moines, CO 50311",None,None,2020.10.9,None
+4,932323,"Denver, CO 80206",Cable lock,"Lock is missing, along with the bike",2020.10.9,Reported
+5,932235,"Westminster, CO",Cable lock,"Lock was cut, and left at the scene",2020.10.9,Reported
+6,934440,"Seattle, WA 98102",Other,"Other situation, please describe below",2020.10.9,Reported
+7,932175,"South Boston, MA 02127",None,None,2020.10.9,None
+8,932164,"Portland, OR 97211",None,None,2020.10.9,None
+0,932156,"Sunnyvale, CA 94086",U-lock and cable,"Lock is missing, along with the bike",2020.10.9,Reported
+1,90746,"San Francisco, CA 94117",U-lock,"Lock is missing, along with the bike",2020.10.9,None
+2,932081,"It was stolen somewhere in Camden in a store I was told , Camden, NJ",None,None,2020.10.9,None
+3,932068,"Ann Arbor, MI 48104",U-lock,"Lock was opened, and left unharmed at the scene",2020.10.9,None
+4,932423,"801 S Paulina St, Chicago, IL 60612",None,None,2020.10.9,Reported
+0,933918,"Washington, DC 20002",None,None,2020.10.9,Reported
+1,667453,"2249 Carondelet Strret, New Orleans, LA 70130",Not locked,"Other situation, please describe below",2020.10.9,None
+2,932426,"Snoqualmie, WA 98065",None,None,2020.10.9,None
+3,932196,"Portland, OR 97227",None,None,2020.10.9,Reported
+4,932413,"Eugene, OR 97408",None,None,2020.10.9,Reported
+5,932752,"Hermosa Beach, CA 90254",U-lock,"Other situation, please describe below",2020.10.9,Reported
+6,931996,"500 Broadway , Farmington, UT 84025",None,None,2020.10.9,None
+0,932748,"Los Angeles, CA 90016",None,None,2020.10.9,None
+1,932035,"Sacramento, CA 95864",Not locked,Bike was not locked,2020.10.8,Reported
+2,931946,"8400 Jamestown Dr, Apt 506, Austin, TX 78758",None,None,2020.10.8,None
+3,931952,"Jackson st and Leonard st , Brooklyn, NY 11211",U-lock,"Lock was cut, and left at the scene",2020.10.8,None
+4,932398,"1400 block 17th Street, Washington, DC 20036",Cable lock,None,2020.10.8,Reported
+5,641388,"Washington, DC 20011",Other,"Other situation, please describe below",2020.10.8,Reported

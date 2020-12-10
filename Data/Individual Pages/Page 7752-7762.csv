@@ -1,0 +1,93 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,22934,"Los Angeles, CA 90247",None,None,2011.8.3,None
+1,21964,"Forest Grove, OR 97116",None,None,2011.8.3,None
+2,22604,"San Francisco, CA 94121",None,None,2011.8.3,Reported
+3,23410,"Palo Alto, CA 94306",None,None,2011.8.3,None
+4,22684,"Okoboji, IA 51355",None,None,2011.8.3,None
+5,21929,"Portland, OR 97212",None,None,2011.8.3,Reported
+6,22609,"Mead, WA 99021",None,None,2011.8.3,None
+7,24613,"Chicago, IL 60607",None,None,2011.8.3,None
+8,22565,"Missouri City, TX 77459",None,None,2011.8.2,Reported
+0,22571,"Spokane, WA 99223",None,None,2011.8.2,Reported
+1,22579,"Brooklyn, NY 11225",None,None,2011.8.2,None
+2,21218,"Corvallis, OR 97333",None,None,2011.8.2,Reported
+3,21502,"Cary, IL 60013",None,None,2011.8.2,None
+4,22557,"Portland, OR",None,None,2011.8.2,None
+5,22558,"Boston, MA 02118",None,None,2011.8.2,Reported
+6,24648,"Madison, WI 53703",None,None,2011.8.2,Reported
+7,22583,"Newark, OH 43055",None,None,2011.8.2,Reported
+8,22553,"Philadelphia, PA 19107",None,None,2011.8.2,None
+9,21217,"Portland, OR 97212",None,None,2011.8.2,None
+0,22555,"Brooklyn, NY 11201",None,None,2011.8.2,None
+1,22622,"East Haven, CT 06512",None,None,2011.8.2,Reported
+2,22511,"Bozeman, MT 59715",None,None,2011.8.1,None
+3,23316,"Ocala, FL 34476",None,None,2011.8.1,None
+4,25297,"Duluth, MN 55807",None,None,2011.8.1,Reported
+5,25441,"Walnut Creek, CA 94598",None,None,2011.8.1,None
+6,21662,"Portland, OR 97214",None,None,2011.8.1,Reported
+0,22697,"Northampton, MA 01060",None,None,2011.8.1,None
+1,22648,"Glendale, CA 91206",None,None,2011.8.1,Reported
+2,22914,"Portland, OR 97232",None,None,2011.8.1,Reported
+3,23597,"San Francisco, CA 94103",None,None,2011.8.1,None
+4,23486,"Phoenix, AZ 85022",None,None,2011.8.1,None
+5,22037,"Englewood, CO 80110",None,None,2011.8.1,Reported
+6,42300,"Woods Cross, UT",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2011.8.1,None
+7,22666,"Portland, OR 97212",None,None,2011.8.1,None
+8,22006,"Portland, OR 97206",None,None,2011.8.1,None
+9,23431,"Salem, OR 97301",None,None,2011.8.1,None
+0,23037,"Buffalo, NY 14201",None,None,2011.8.1,None
+1,22920,"Portland, OR 97206",None,None,2011.8.1,None
+2,22947,"Austin, TX 78737",None,None,2011.8.1,None
+3,22479,"St Paul, MN 55117",None,None,2011.7.31,None
+4,21920,"Baltimore, MD 21230",None,None,2011.7.31,Reported
+5,24548,"Denver, CO 80204",None,None,2011.7.31,Reported
+6,28758,"Valley Village, CA 91607",None,None,2011.7.31,None
+7,22485,"Kansas City, MO 64111",None,None,2011.7.31,Reported
+8,22576,"Fresno, CA 93612",None,None,2011.7.31,None
+9,22736,"Charlotte, NC 28202",None,None,2011.7.31,Reported
+0,24543,"Washington, DC 20002",None,None,2011.7.31,None
+1,22501,"New Haven, CT 06512",None,None,2011.7.31,None
+2,22735,"Charlotte, NC 2802",None,None,2011.7.31,Reported
+3,24531,"Appleton, WI 54911",None,None,2011.7.31,Reported
+4,22481,"St. Louis, MO 63143",None,None,2011.7.31,None
+5,24953,"Chicago, IL 60647",None,None,2011.7.31,Reported
+6,22882,"Santa Cruz, CA 95062",None,None,2011.7.31,None
+7,21932,"Portland, OR 97217",None,None,2011.7.31,Reported
+8,22508,"Cambridge, MA 02138",None,None,2011.7.30,Reported
+9,21209,"Portland, OR 97202",Not locked,None,2011.7.30,Reported
+0,24525,"New York, NY 10035",None,None,2011.7.30,None
+1,24524,"Portland, OR 97206",None,None,2011.7.30,Reported
+2,22562,"Portland, OR 97211",None,None,2011.7.30,Reported
+3,21918,"Brentwood, NY 11717",None,None,2011.7.29,Reported
+4,22466,"Portland, OR 97215",None,None,2011.7.29,None
+5,22499,"Hoboken, NJ 07030",None,None,2011.7.29,Reported
+6,22494,"Lexington, KY 40507",None,None,2011.7.29,None
+7,24522,"Austin, TX 78751",None,None,2011.7.29,Reported
+0,22471,"Anchorage, AK 99501",None,None,2011.7.29,Reported
+1,22483,"Chapel Hill, NC 27514",None,None,2011.7.29,Reported
+2,24528,"Irvine, CA 92603",None,None,2011.7.29,None
+3,25296,"Hanson/ Monponsett, MA 02350",None,None,2011.7.29,None
+4,22498,"Brooklyn, NY 11219",None,None,2011.7.29,None
+5,21226,"Portland, OR 97217",None,None,2011.7.29,Reported
+6,21661,"Portland, OR 97207",None,None,2011.7.28,Reported
+7,21826,"Seattle, WA 98105",None,None,2011.7.28,Reported
+8,22455,"Portland, OR 97214",None,None,2011.7.28,Reported
+0,23380,"Washington, DC 20002",None,None,2011.7.28,Reported
+1,21210,"Chicago, IL 60614",None,None,2011.7.28,Reported
+2,22053,"Tucson, AZ 85721",None,None,2011.7.28,None
+3,23379,"Helena, MT 59601",None,None,2011.7.28,Reported
+4,22450,"Portland, OR 97217",None,None,2011.7.28,Reported
+5,25291,"Portland, OR 97217",None,None,2011.7.28,Reported
+6,22460,"Portland, OR 97211",None,None,2011.7.28,Reported
+7,25313,"Corvallis, OR 97330",None,None,2011.7.28,Reported
+8,22470,"Portland, OR 97214",None,None,2011.7.28,None
+0,22433,"Tucson, AZ 85705",None,None,2011.7.27,None
+1,22427,"Portland, OR 97232",None,None,2011.7.27,Reported
+2,21205,"Houston, TX 77007",None,None,2011.7.27,Reported
+3,22435,"Portland, OR 97206",None,None,2011.7.27,Reported
+4,24498,"Portland, OR 97214",None,None,2011.7.27,Reported
+5,25292,"Oak Park, IL 60302",None,None,2011.7.27,Reported
+6,22438,"Portland, OR 97211",None,None,2011.7.27,None
+7,22448,"Jamaica Plain, MA 02130",None,None,2011.7.27,None
+8,23503,"Portland, OR 97214",None,None,2011.7.27,Reported
+9,21202,"Portland, OR 97206",None,None,2011.7.27,None

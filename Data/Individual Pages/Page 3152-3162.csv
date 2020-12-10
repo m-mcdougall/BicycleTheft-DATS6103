@@ -1,0 +1,86 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,393141,"Steamboat Springs, CO 80487",Not locked,None,2018.5.8,Reported
+1,392031,"Denver, CO 80202",Cable lock,"Lock was cut, and left at the scene.",2018.5.8,None
+2,391982,"Seattle, WA 98103",Not locked,None,2018.5.8,None
+3,392059,"Herndon, VA 20171",Not locked,Bike was not locked,2018.5.8,Reported
+4,392322,"Cincinnati, OH 45219",Cable lock,"Lock is missing, along with the bike.",2018.5.8,Reported
+5,406297,"Saint Paul, MN 55105",Cable lock,None,2018.5.8,None
+6,665236,"Seattle, WA 98119",Not locked,"Other situation, please describe below",2018.5.7,None
+7,391819,"Washington, DC 20002",None,None,2018.5.7,None
+0,391794,"Cambridge, MA 02139",None,None,2018.5.7,None
+1,379221,"Spanaway, WA 98387",None,None,2018.5.7,None
+2,392244,"New Orleans, LA 70115 ",None,None,2018.5.7,None
+3,392696,"Portland, OR 97209",Cable lock,"Lock was cut, and left at the scene.",2018.5.7,Reported
+4,379214,"Spanaway, WA 98387",None,None,2018.5.7,None
+5,379222,"Spanaway, WA 98387",None,None,2018.5.7,None
+0,399047,"Seattle, WA 98103",Other,None,2018.5.7,None
+1,379216,"Spanaway, WA 98387",None,None,2018.5.7,None
+2,391930,"New Orleans, LA 70118",None,None,2018.5.7,Reported
+3,391784,"San Francisco, CA 94131",None,None,2018.5.7,Reported
+4,391869,"Draper, UT 84020",None,None,2018.5.7,None
+5,391890,"New Orleans, LA 70117",None,None,2018.5.7,Reported
+6,392421,"Issaquah, WA 98029",None,None,2018.5.7,Reported
+7,391787,"San Francisco, CA 94131",None,None,2018.5.7,Reported
+8,391978,"Seattle, WA 98122",None,None,2018.5.7,Reported
+9,392060,"Haddon Township, NJ 08108",Cable lock,"Lock was cut, and left at the scene.",2018.5.7,Reported
+0,392568,"Minneapolis, MN 55401",U-lock,"Lock is missing, along with the bike.",2018.5.7,Reported
+1,392116,"Minneapolis, MN 55410",Not locked,Bike was not locked,2018.5.7,Reported
+2,391915,"Seattle, WA 98107",Cable lock,"Lock was cut, and left at the scene.",2018.5.7,Reported
+3,392546,"San Francisco, CA 94110",U-lock,"Other situation, please describe below.",2018.5.7,Reported
+4,379229,"Spanaway, WA 98387",None,None,2018.5.7,None
+5,391927,"New Orleans, LA 70130",None,None,2018.5.7,Reported
+6,391786,"San Francisco, CA 94131",None,None,2018.5.7,Reported
+7,379230,"Spanaway, WA 98387",None,None,2018.5.7,None
+8,379233,"Spanaway, WA 98387",None,None,2018.5.7,None
+0,379224,"Spanaway, WA 98387",None,None,2018.5.7,None
+1,391808,"Detroit, MI 48201",Heavy duty bicycle security chain,"Lock is missing, along with the bike.",2018.5.7,Reported
+2,379231,"Spanaway, WA 98387",None,None,2018.5.7,None
+3,379217,"Spanaway, WA 98387",None,None,2018.5.7,None
+4,379219,"Spanaway, WA 98387",None,None,2018.5.7,None
+5,379234,"Spanaway, WA 98387",None,None,2018.5.7,None
+6,379213,"Spanaway, WA 98387",None,None,2018.5.7,None
+7,379220,"Spanaway, WA 98387",None,None,2018.5.7,None
+8,379215,"Spanaway, WA 98387",None,None,2018.5.7,None
+0,379218,"Spanaway, WA 98387",None,None,2018.5.7,None
+1,379225,"Spanaway, WA 98387",None,None,2018.5.7,None
+2,379232,"Spanaway, WA 98387",None,None,2018.5.7,None
+3,379226,"Spanaway, WA 98387",None,None,2018.5.7,None
+4,379227,"Spanaway, WA 98387",None,None,2018.5.7,None
+5,391867,"Boulder, CO 80302",Cable lock,"Lock is missing, along with the bike.",2018.5.7,Reported
+6,379228,"Spanaway, WA 98387",None,None,2018.5.7,None
+7,392140,"Olympia, WA 98506",None,None,2018.5.7,Reported
+8,379235,"Spanaway, WA 98387",Other,"Other situation, please describe below.",2018.5.7,None
+9,379223,"Spanaway, WA 98387",None,None,2018.5.7,None
+0,391689,"Seattle, WA 98105",None,None,2018.5.6,None
+1,391678,"Brooklyn, NY 11221",None,None,2018.5.6,None
+2,391569,"Madison, WI 53704",None,None,2018.5.6,None
+3,392234,"San Luis Obispo, CA 93405",U-lock,None,2018.5.6,None
+4,344734,"Seattle, WA 98106",Not locked,"Other situation, please describe below.",2018.5.6,Reported
+5,392818,"Manhattan Beach, CA 90266",U-lock and cable,"Lock was cut, and left at the scene.",2018.5.6,Reported
+6,397017,"Houston, TX 77004",Cable lock,"Lock was cut, and left at the scene.",2018.5.6,Reported
+7,391674,"New York, NY",None,None,2018.5.6,None
+0,391688,"Oakland, CA 94610",U-lock and cable,"Lock is missing, along with the bike.",2018.5.6,Reported
+1,391814,"New Orleans, LA 70113",Not locked,None,2018.5.6,None
+2,391605,"Chicago, IL 60622",Cable lock,"Lock was cut, and left at the scene.",2018.5.6,Reported
+3,391901,"Sunnyvale, CA 94089",None,None,2018.5.6,None
+4,391851,"Winona, MN 55987",Cable lock,"Lock is missing, along with the bike.",2018.5.6,None
+5,399053,"Seattle, WA 98121",Other,None,2018.5.6,None
+6,384706,"Berkeley, CA 94704",U-lock and cable,"Lock was cut, and left at the scene.",2018.5.6,Reported
+7,392435,"Brooklyn Center, MN 55429",Not locked,None,2018.5.6,Reported
+0,392820,"Manhattan Beach, CA 90266",U-lock and cable,"Lock was cut, and left at the scene.",2018.5.6,Reported
+1,391872,"New Orleans, LA 70115",None,None,2018.5.6,None
+2,391610,"Seattle, WA 98106",Other,"Other situation, please describe below.",2018.5.6,Reported
+3,396575,"Portland, OR 97232",Other,"Other situation, please describe below.",2018.5.6,Reported
+4,391973,"Indianapolis, IN 46202",Not locked,"Other situation, please describe below.",2018.5.6,Reported
+5,391643,"New Orleans, LA 70117",None,None,2018.5.6,None
+6,392241,"New Orleans, LA 70115",None,None,2018.5.6,None
+7,392054,"New Orleans, LA 70116",None,None,2018.5.6,None
+8,397019,"Houston, TX 77004",Cable lock,"Lock was cut, and left at the scene.",2018.5.6,Reported
+0,391626,"San Francisco, CA 94111",U-lock and cable,"Lock was cut, and left at the scene.",2018.5.6,Reported
+1,391642,"New Orleans, LA 70117",None,None,2018.5.6,None
+2,391931,"New Orleans, LA 70117",None,None,2018.5.6,Reported
+3,391474,"Chicago, IL 60647",None,None,2018.5.5,None
+4,391473,"Chicago, IL 60647",None,None,2018.5.5,None
+5,391457,"Seattle, WA 98107",None,None,2018.5.5,None
+6,391613,"Portland, OR 97205",None,None,2018.5.5,Reported
+7,81242,"Isle Vista, CA 93117",U-lock and cable,"Lock is missing, along with the bike.",2018.5.5,Reported

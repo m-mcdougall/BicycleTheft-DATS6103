@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,11007,"Napa, CA 94558",None,None,2007.4.14,None
+1,5288,"Seattle, WA 98119",None,None,2007.4.14,None
+2,5669,"Huntington Beach, CA 92647",None,None,2007.4.11,None
+3,15538,"Austin, TX 78751",None,None,2007.4.10,None
+4,10777,"San Francisco, CA 94102",None,None,2007.4.10,None
+5,10781,"Denver, CO 80202",None,None,2007.4.10,None
+6,10775,"Chicago, IL 60607",None,None,2007.4.9,None
+7,5050,"Charlottesville, VA 22901",None,None,2007.4.9,None
+8,5049,"Portland, OR 97209",None,None,2007.4.9,None
+9,10772,"San Francisco, CA 94109",None,None,2007.4.8,None
+0,10780,"Lincoln, NE 68506",None,None,2007.4.7,None
+1,5619,"Georgetown, SC 29440",None,None,2007.4.7,None
+2,5287,"Del Rey Oaks, CA 93940",None,None,2007.4.7,None
+3,10766,"Los Angeles, CA 90035",None,None,2007.4.6,None
+4,10767,"Tempe, AZ 85287",None,None,2007.4.6,None
+5,5285,"Seattle, WA 98115",None,None,2007.4.5,None
+6,10778,"Chico, CA 95928",None,None,2007.4.5,None
+7,5618,"Austin, TX 78745",None,None,2007.4.4,None
+8,10989,"Boise, ID 83709",None,None,2007.4.3,None
+9,7650,"Portland, OR 97236",None,None,2007.4.2,Reported
+0,5067,"Seattle, WA 98107",None,None,2007.4.2,None
+1,10776,"Northfield, NH 03276",None,None,2007.4.2,None
+2,6612,"San Francisco, CA 94101",None,None,2007.4.1,None
+3,7647,"Portland, OR 97236",None,None,2007.4.1,Reported
+4,4960,"Los Angeles, CA 90036",None,None,2007.4.1,None
+5,5286,"West Fargo, ND 58078",None,None,2007.4.1,None
+6,5297,"Lafayette, IN 47905",None,None,2007.4.1,None
+7,5051,"Capitol Heights, MD 20743",None,None,2007.3.30,None
+8,10765,"Albuquerque, NM 87106",None,None,2007.3.29,None
+0,5283,"Tempe, AZ 85283",None,None,2007.3.28,None
+1,5047,"Seattle, WA 98102",None,None,2007.3.28,None
+2,5280,"Albuquerque, NM 87106",None,None,2007.3.27,None
+3,5281,"Jacksonville, FL 32259",None,None,2007.3.27,None
+4,5279,"Glen Oaks, NY 11004",None,None,2007.3.27,None
+5,5277,"Berkeley, CA 94720",None,None,2007.3.25,None
+6,5046,"Orange, CA 92867",None,None,2007.3.25,None
+7,5043,"Pasadena, CA 91103",None,None,2007.3.25,None
+8,5048,"Rancho Cordova, CA 95670",None,None,2007.3.24,None
+9,10763,"San Francisco, CA 94132",None,None,2007.3.24,None
+0,5044,"Palo Alto, CA 94025",None,None,2007.3.23,None
+1,5042,"Washington, DC 20001",None,None,2007.3.22,None
+2,5617,"Madison, WI 53715",None,None,2007.3.22,None
+3,4958,"Cambridge, MA 02139",None,None,2007.3.22,None
+4,4959,"San Francisco, CA 94122",None,None,2007.3.22,None
+5,5040,"Chicago, IL 60660",None,None,2007.3.21,None
+6,5274,"Ridgecrest, CA 93555",None,None,2007.3.21,None
+7,5272,"Seattle, WA 98136",None,None,2007.3.20,None
+8,10769,"Odessa, FL 33556",None,None,2007.3.20,None
+9,5616,"San Jose, CA 95112",None,None,2007.3.20,None
+0,5271,"Seattle, WA 98101",None,None,2007.3.19,None
+1,5273,"Seattle, WA 98105",None,None,2007.3.18,None
+2,5269,"Torrance, CA 90505",None,None,2007.3.18,None
+3,5698,"Pasadena, CA 91107",None,None,2007.3.17,None
+4,4957,"Eugene, OR 97408",None,None,2007.3.16,None
+5,4938,"Littleton, CO 80128",None,None,2007.3.15,None
+6,5267,"Arcadia, CA 91007",None,None,2007.3.15,None
+7,5268,"Los Gatos, CA 95030",None,None,2007.3.14,None
+8,5265,"Murrieta, CA 92563",None,None,2007.3.13,None
+9,10760,"Seattle, WA 98104",None,None,2007.3.12,None
+0,12597,"Boulder, CO 80301",None,None,2007.3.11,None
+1,6389,"Lacey, WA 98503",None,None,2007.3.10,None
+2,5263,"San Francisco, CA 94110",None,None,2007.3.9,None
+3,10954,"Seattle, WA 98195",None,None,2007.3.9,None
+4,4912,"Destin, FL 32541",None,None,2007.3.8,None
+5,5615,"Los Angeles, CA 90066",None,None,2007.3.8,None
+6,5270,"San Diego, CA 92130",None,None,2007.3.8,None
+7,10762,"Seattle, WA 98101",None,None,2007.3.8,None
+8,5264,"Campbell, CA 95008",None,None,2007.3.8,None
+9,5697,"Portland, OR 97232",None,None,2007.3.6,None
+0,10759,"Portland, OR 97210",None,None,2007.3.5,None
+1,5260,"San Jose, CA 95134",None,None,2007.3.4,None
+2,5045,"Ford City, PA 16226",None,None,2007.3.4,None
+3,5261,"Seattle, WA 98104",Cable lock,"Lock was cut, and left at the scene.",2007.3.3,Reported
+4,5275,"Tempe, AZ 85282",None,None,2007.3.1,None
+5,4913,"Pomona, CA 91766",None,None,2007.3.1,None
+6,5284,"Milwaukee, WI 53212",None,None,2007.3.1,None
+7,5258,"Tucson, AZ 85705",None,None,2007.3.1,None
+8,5255,"Brooklyn, NY 11206",None,None,2007.2.28,None
+0,5039,"Lubbock, TX 79410",None,None,2007.2.28,None
+1,4911,"Seattle, WA 98105",None,None,2007.2.22,None
+2,5251,"Seattle, WA 98107",None,None,2007.2.22,None
+3,5252,"Albuquerque, NM 87108",None,None,2007.2.22,None
+4,5038,"Pasadena, CA 91125",None,None,2007.2.21,None
+5,10755,"San Francisco, CA 94110",None,None,2007.2.20,None
+6,5253,"Austin, TX 78705",None,None,2007.2.20,None
+7,5041,"Seattle, WA 98136",None,None,2007.2.20,None
+8,10753,"San Francisco, CA 94108",None,None,2007.2.19,None
+9,5256,"Redondo Beach, CA 90277",None,None,2007.2.19,None
+0,18832,"Palm Springs, CA 92262",None,None,2007.2.18,Reported
+1,10752,"Auburn, CA 95603",None,None,2007.2.18,None
+2,5249,"Houston, TX 77057",None,None,2007.2.16,None
+3,5695,"Washington, DC 20052",None,None,2007.2.16,None
+4,5248,"La Verne, CA 91750",None,None,2007.2.16,None
+5,5247,"Pleasanton, CA 94588",None,None,2007.2.14,None
+6,5613,"Coral Gables, FL 33134",None,None,2007.2.14,None
+7,4956,"Missoula, MT 59801",None,None,2007.2.14,None
+8,4909,"Oakland, CA 94610",None,None,2007.2.14,None
+9,5650,"Oakland, CA 94610",None,None,2007.2.13,None

@@ -1,0 +1,68 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,759798,"Houston, TX 77096",None,Bike was not locked,2020.6.12,Reported
+1,760237,"San Francisco, CA 94115",Other,"Other situation, please describe below",2020.6.12,Reported
+2,745325,"2505 Longview St., Austin, TX 78705",U-lock,"Lock was cut, and left at the scene",2020.6.12,None
+3,758839,"Santa Clara, CA 95050",Cable lock,"Lock is missing, along with the bike",2020.6.12,Reported
+4,755948,"Plano, TX 75074",None,None,2020.6.12,None
+5,758762,"Chinatown, Seattle, WA 9814",None,None,2020.6.12,Reported
+6,596116,"Lake Forest Park, WA 98155",Cable lock,"Lock was cut, and left at the scene",2020.6.12,Reported
+7,758800,"860 The City Dr, Anaheim, CA 92868",Not locked,Bike was not locked,2020.6.12,None
+0,759088,"South 6th Street and Virginia Street from Apt #264 balcony, San Jose, CA 95112",None,None,2020.6.12,Reported
+1,759085,"San Jose, CA 95112",None,None,2020.6.12,Reported
+2,758710,"San Francisco, CA 94117",U-lock and cable,"Lock is missing, along with the bike",2020.6.12,Reported
+3,759202,"riegelmann boardwalk, Brooklyn, NY 11224",Cable lock,None,2020.6.12,None
+4,758768,"Arlington, VA 22201",U-lock and cable,"Lock is missing, along with the bike",2020.6.12,Reported
+5,758684,"Salt Lake City, UT 84108",None,None,2020.6.12,Reported
+6,759465,"Medford/Winchester, MA",Not locked,None,2020.6.12,Reported
+0,758673,"124 MANILA AVE, Staten, NY 10306",None,None,2020.6.12,None
+1,608999,"Novato, CA 94947",Other,"Other situation, please describe below",2020.6.12,None
+2,758590,"724 18th ave s, St. Cloud, MN 56301",None,None,2020.6.12,None
+3,758732,"Melrose, MA 02176",Cable lock,"Lock was cut, and left at the scene",2020.6.12,Reported
+0,758911,"San Leandro, CA 94578",Not locked,"Other situation, please describe below",2020.6.12,Reported
+1,759622,"Seattle, WA 98107",None,None,2020.6.12,Reported
+2,758787,"Salt Lake City, UT 84108",Not locked,None,2020.6.12,Reported
+3,640955,"Seattle, WA 98103",U-lock and cable,"Lock is missing, along with the bike",2020.6.12,Reported
+4,764241,"Redwood City, CA",None,None,2020.6.12,None
+5,760051,"San Francisco, CA 94102",U-lock,"Other situation, please describe below",2020.6.12,Reported
+0,747174,"2140 nw Kearney St apt414, Portland, OR 97210",None,None,2020.6.12,None
+1,758690,"1245 Peach St, San Luis Obispo, CA 93401",Not locked,Bike was not locked,2020.6.12,None
+2,758363,"La, CA 92037",None,None,2020.6.11,None
+3,758398,"Denver, CO 80210",None,None,2020.6.11,None
+4,760174,"Bellevue, WA 98007",Cable lock,"Lock is missing, along with the bike",2020.6.11,Reported
+5,762973,"34828 SE Douglas St, Snoqualmie, WA 98065",Not locked,Bike was not locked,2020.6.11,Reported
+6,758335,"2170 6th Avenue N, #201, Seattle, WA 98109",None,None,2020.6.11,None
+0,758345,"25 Oakvue RD, Pleasant Hill, CA 94523",None,None,2020.6.11,Reported
+1,758355,"25 Oakvue RD, Pleasant Hill, CA 94523",None,None,2020.6.11,Reported
+2,758364,"743 Rainier Ave S, Renton, WA 98057",Cable lock,"Lock is missing, along with the bike",2020.6.11,Reported
+3,758279,"Boston, MA 02215",None,None,2020.6.11,Reported
+4,759107,"Lakewood, WA 98499-____",Not locked,"Other situation, please describe below",2020.6.11,Reported
+5,760494,"370 Rose Street, Lexington, KY 40508",U-lock,"Lock is missing, along with the bike",2020.6.11,Reported
+6,758225,"New Orleans, LA 70125",None,None,2020.6.11,None
+7,758561,"650 E Bidwell, Folsom, CA 95630",Not locked,Bike was not locked,2020.6.11,Reported
+8,758130,"Lakeville, MN 55044",None,None,2020.6.11,None
+0,779192,"Washigton, DC 20011",None,None,None,None
+1,758117,"Lakeville, MN 55044",None,None,2020.6.11,None
+2,758116,"Portland, OR 97202",None,None,2020.6.11,None
+3,767052,"801 Alma St, Palo Alto, CA 94301",None,None,2020.6.11,None
+4,758059,"Gresham, OR 97080",None,None,2020.6.11,None
+5,758033,"San Francisco, CA 94107",None,None,2020.6.11,None
+0,757932,"Seattle, WA 98102",Other,None,2020.6.11,Reported
+1,757834,"Seattle, WA 98188",None,None,2020.6.11,None
+2,757696,"Piedmont, CA 94611",Not locked,None,2020.6.11,Reported
+3,638997,"Salt Lake City, UT 84103",U-lock,"Lock is missing, along with the bike",2020.6.11,None
+0,758150,"Portland, OR 97202",None,None,2020.6.11,Reported
+1,793385,"Everett, WA 98204",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.11,Reported
+2,757729,"San Francisco, CA 94102",None,None,2020.6.11,None
+3,764759,"San, CA 94109",Not locked,None,2020.6.11,None
+4,775079,"611 Dairy Ashford, Houson, TX 77079",Other,"Other situation, please describe below",2020.6.11,Reported
+5,757635,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.6.10,Reported
+6,757661,"San Anselmo, CA 94960",Not locked,None,2020.6.10,Reported
+7,777293,"New Orleans, LA 94608",None,None,2020.6.10,None
+0,73139,"Seattle, WA 98107",Not locked,None,2020.6.10,None
+1,757576,"Manhattan, KS 66502",Cable lock,"Lock was cut, and left at the scene",2020.6.10,Reported
+2,757588,"Seattle, WA 98117",Not locked,None,2020.6.10,Reported
+3,758043,"Eugene, OR 97404",None,None,2020.6.10,Reported
+4,758044,"Eugene, OR 97404",None,None,2020.6.10,Reported
+5,757700,"82nd Drive @ dennys parking lot , Clackamas, OR 97267",Cable lock,"Lock is missing, along with the bike",2020.6.10,None
+6,706152,"San Jose, CA 95112",Other,"Other situation, please describe below",2020.6.10,None
+7,689509,"3272 Fuhrman Ave E #218, Seattle, WA 98102",U-lock,None,2020.6.10,Reported

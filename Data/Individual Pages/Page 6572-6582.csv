@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,11290,"Portland, OR 97266on",None,None,2014.4.4,None
+1,2294,"Chicago, IL 60607",None,"Lock is missing, along with the bike.",2014.4.4,Reported
+2,10827,"Berkeley, CA 94710",U-lock,"Lock was cut, and left at the scene.",2014.4.4,Reported
+3,10817,"New, CT 06511",None,None,2014.4.4,None
+4,10826,"San Francisco, CA 94109",None,None,2014.4.4,None
+5,10816,"New, CT 06511",None,None,2014.4.4,None
+6,90465,"Seattle, WA 98107",Chain with padlock,"Lock was cut, and left at the scene.",2014.4.4,Reported
+7,10991,"Seattle, WA 98122",Cable lock,"Lock is missing, along with the bike.",2014.4.4,Reported
+8,10934,"Blaine, WA 98230",None,None,2014.4.4,None
+9,10819,"New, CT 06511",None,None,2014.4.4,None
+0,7241,"Indianapolis, IN 46202",None,None,2014.4.3,Reported
+1,10833,"San Francisco, CA 94124",None,None,2014.4.3,Reported
+2,10839,"Los Angeles, CA 90024",None,None,2014.4.3,None
+3,7375,"San Francisco, CA 94110",None,None,2014.4.3,Reported
+4,7223,"Portland, OR 97209",None,None,2014.4.3,Reported
+5,10810,"Portland, OR 97211",None,None,2014.4.3,None
+6,10813,"Portland, OR 97232",None,None,2014.4.3,Reported
+7,10806,"Portland, OR 97210",None,None,2014.4.3,None
+8,10808,"Tampa, FL 33609",None,None,2014.4.3,Reported
+9,10811,"Antelope, CA 95843",None,None,2014.4.3,None
+0,7534,"Bellingham, WA 98225",None,None,2014.4.3,Reported
+1,7215,"Oakland, CA 94618",None,None,2014.4.2,Reported
+2,7262,"Los Angeles, CA 90005",None,None,2014.4.2,Reported
+3,7271,"Nashville, TN 37206",None,None,2014.4.2,None
+4,8724,"Denver, CO 80218",None,None,2014.4.2,Reported
+5,10795,"Portland, OR 97217",None,None,2014.4.2,Reported
+6,7337,"Berkeley, CA 94702",None,None,2014.4.2,Reported
+7,10800,"Miami, FL 33132",None,None,2014.4.2,None
+8,10801,"Berkeley, CA 94702",None,None,2014.4.2,Reported
+9,10796,"Patchogue, NY 11772",None,None,2014.4.2,None
+0,7516,"Portland, OR 97236",None,None,2014.4.1,None
+1,2352,"Chico, CA 95973",Cable lock,"Lock was cut, and left at the scene.",2014.4.1,Reported
+2,7738,"Portland, OR 97201",None,None,2014.4.1,Reported
+3,8431,"Santa Cruz, CA 95062",None,None,2014.4.1,Reported
+4,9834,"Portland, OR 97214",None,None,2014.4.1,None
+5,10009,"Portland, OR 97214",None,None,2014.4.1,None
+6,11265,"Tempe, AZ 85287",None,None,2014.4.1,None
+7,28752,"Portland, OR 97205",None,None,2014.4.1,Reported
+8,10961,"Portland, OR 97206",None,None,2014.4.1,Reported
+9,11252,"Aurora, CO 80011",None,None,2014.4.1,None
+0,15639,"Portland, OR 97236",None,None,2014.4.1,Reported
+1,6984,"Philadelphia, PA 19104",None,None,2014.4.1,Reported
+2,7243,"Portland, OR 97214",None,None,2014.4.1,None
+3,7733,"Portland, OR 97202",None,None,2014.4.1,Reported
+4,10788,"Houston, TX 77006",None,None,2014.4.1,Reported
+5,7757,"Lafayette, LA 70504",None,None,2014.4.1,Reported
+6,11302,"San Carlos, CA 94070",None,None,2014.4.1,None
+7,10823,"Brentwood, CA 94513",None,None,2014.4.1,None
+8,10784,"San Diego, CA 92115",None,None,2014.4.1,Reported
+9,10773,"Portland, OR 97214",None,None,2014.4.1,Reported
+0,10734,"Seattle, WA 98119",None,None,2014.3.31,None
+1,2260,"North Seattle, WA 98103",None,None,2014.3.31,Reported
+2,10770,"Austin, TX 78701",None,None,2014.3.31,Reported
+3,10738,"Oakland, CA 94610",None,None,2014.3.31,None
+4,10904,"Denver, CO 80204",None,None,2014.3.31,Reported
+5,10794,"San Francisco, CA 94117",None,None,2014.3.31,Reported
+6,10792,"San Francisco, CA 94117",None,None,2014.3.31,Reported
+7,10732,"Portland, OR 97214",None,None,2014.3.31,None
+8,10730,"Portland, OR 97214",None,None,2014.3.31,None
+9,27808,"San Francisco, CA 94103",Cable lock,"Lock is missing, along with the bike.",2014.3.31,Reported
+0,10754,"Boulder, CO 80304",None,None,2014.3.31,None
+1,10006,"Oakland, CA 94610",None,None,2014.3.31,None
+2,7210,"Seattle, WA 98122",None,None,2014.3.31,Reported
+3,8720,"Seattle, WA 98101",None,None,2014.3.30,Reported
+4,10771,"Portland, OR 97206",None,None,2014.3.30,Reported
+5,10746,"Sunnyvale, CA 94043",None,None,2014.3.30,Reported
+6,10726,"San Francisco, CA 94110",None,None,2014.3.30,None
+7,6988,"Portland, OR 97202",None,None,2014.3.30,Reported
+8,7397,"Boulder, CO 80302",None,None,2014.3.30,Reported
+9,7503,"Cupertino, CA 95014",None,None,2014.3.30,Reported
+0,10722,"San, CA 94110",None,None,2014.3.30,None
+1,7355,"San Diego, CA 92130",None,None,2014.3.30,Reported
+2,9696,"Portland, OR 97211",None,None,2014.3.29,Reported
+3,7133,"Portland, OR 97206",None,None,2014.3.29,None
+4,7520,"Portland, OR 97206",None,None,2014.3.29,Reported
+5,12023,"Portland, OR 97212",None,None,2014.3.29,Reported
+6,7179,"Denver, CO 80218",None,None,2014.3.29,Reported
+7,7498,"Chicago, IL 60647",None,None,2014.3.29,None
+8,7677,"Moscow, ID 83843",None,None,2014.3.29,Reported
+9,10711,"Portland, OR 97206",None,None,2014.3.29,None
+0,7136,"Portland, OR 97202",None,None,2014.3.29,Reported
+1,9971,"San, CA 94109",None,None,2014.3.29,Reported
+2,7137,"Wilmington, NC 28401",None,None,2014.3.29,Reported
+3,10707,"Portland, OR 97211",None,None,2014.3.29,Reported
+4,7435,"Pasadena, CA 91105",None,None,2014.3.29,None
+5,7486,"Portland, OR 97211",None,None,2014.3.29,Reported
+6,6757,"Palo Alto, CA 94306",None,None,2014.3.28,Reported
+7,7790,"Oakland, CA 94102",None,None,2014.3.28,None
+8,10705,"Portland, OR 97211",None,None,2014.3.28,None
+9,10741,"Oakland, CA 94601",None,None,2014.3.28,None
+0,10677,"Silver Spring, MD 20910",None,None,2014.3.28,None
+1,10848,"Oakland, CA 94609",None,None,2014.3.28,Reported
+2,10774,"Carlsbad, CA 92011",None,None,2014.3.28,Reported
+3,9381,"Portland, OR 97215",None,None,2014.3.28,None
+4,7125,"Parlin, NJ 08859",None,None,2014.3.28,None
+5,7477,"Washington, DC 20009",None,None,2014.3.27,Reported
+6,10902,"Ogden, UT 84401",None,None,2014.3.27,Reported
+7,27024,"San Francisco, CA 94115",U-lock,"Lock was cut, and left at the scene.",2014.3.27,Reported
+8,7121,"Chico, CA 95928",None,None,2014.3.27,None
+9,8620,"San Francisco, CA 94118",None,None,2014.3.27,None

@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,768366,"Denver, CO 80211",None,None,2020.6.22,None
+1,768330,"San Francisco, CA 94115",None,None,2020.6.22,None
+2,768317,"Portland, OR 97202",U-lock,"Lock is missing, along with the bike",2020.6.22,Reported
+3,769082,"Houston, TX 77055",Cable lock,"Lock was cut, and left at the scene",2020.6.22,Reported
+4,773243,"3916 4th Street NW, Washington, DC 20011",None,None,2020.6.22,Reported
+5,774479,"1101 S Wabash Ave, Chicago, IL 60605",None,None,2020.6.22,Reported
+6,768595,"Chicago, IL 60618",Not locked,Bike was not locked,2020.6.22,Reported
+0,768261,"Irving, TX 75061",None,None,2020.6.22,None
+1,772989,"Washington, DC 20008",Not locked,Bike was not locked,2020.6.22,None
+2,650456,"San Francisco, CA 94112",Not locked,None,2020.6.22,None
+3,768163,"375 commonwealth avenue, Boston, MA 02115",U-lock,"Lock is missing, along with the bike",2020.6.22,None
+4,774162,"48 Autumn ln , Central Point, OR 97502",Not locked,None,2020.6.22,Reported
+0,790747,"Palo Alto, CA 94303",Not locked,None,2020.6.22,Reported
+1,775345,"Eugene, OR 97403",None,None,2020.6.22,Reported
+2,768169,"New Orleans, LA 70113",None,None,2020.6.22,None
+3,722627,"Torrance, CA 90503",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.6.22,None
+4,769066,"Scotts Valley, CA 95066",Not locked,None,2020.6.22,Reported
+5,773481,"Boise, ID 83705",Other,"Lock was cut, and left at the scene",2020.6.22,Reported
+6,773482,"Boise, ID 83705",Other,"Lock was cut, and left at the scene",2020.6.22,Reported
+7,786583,"Minneapolis, MN 55406",Other,"Other situation, please describe below",2020.6.22,Reported
+0,768859,"352 University ave, Palo Alto, CA",Cable lock,"Lock is missing, along with the bike",2020.6.22,Reported
+1,768513,"10655 Lemon Ave #1804, Rancho Cucamonga, CA 91737",None,"Other situation, please describe below",2020.6.22,Reported
+2,701670,"900 E 9th St Apt 4, Muscatine, IA 52761",None,None,2020.6.22,None
+3,677140,"San Francisco, CA 94123",U-lock and cable,"Lock is missing, along with the bike",2020.6.22,None
+4,826857,"Seattle, WA 98105",None,None,2020.6.22,Reported
+5,777667,"Salt Lake City, UT 84103",Not locked,None,2020.6.21,Reported
+6,775753,"Salt Lake City, UT",Not locked,None,2020.6.21,Reported
+7,777651,"Salt Lake City, UT 84103",None,None,2020.6.21,Reported
+0,767994,"309 Burlington Avenue , Billings, MT 59101",Not locked,"Other situation, please describe below",2020.6.21,None
+1,767974,"Seattle, WA 98122",None,None,2020.6.21,None
+2,767960,"Glendale, AZ 85304",None,None,2020.6.21,None
+3,787035,"1429 Stockton St, San Francisco, CA 94133",None,None,2020.6.21,Reported
+4,767904,"462 2nd Ave Apt. 2, San Francisco, CA 94118",None,None,2020.6.21,None
+5,767945,"Boston, MA 02164",U-lock,"Lock is missing, along with the bike",2020.6.21,Reported
+6,767860,"Mountain View, CA 94043",None,None,2020.6.21,None
+7,767857,"Mountain View, CA 94043",None,None,2020.6.21,None
+8,403806,"1414 10th Ave, Seattle, WA 98122",U-lock and cable,"Lock is missing, along with the bike",2020.6.21,Reported
+0,768449,"Denver, CO 80212",Not locked,Bike was not locked,2020.6.21,Reported
+1,768546,"Denver, CO 80212",Not locked,Bike was not locked,2020.6.21,Reported
+2,768875,"Brooklyn, NY 11225",Two U-locks,"Lock was cut, and left at the scene",2020.6.21,None
+3,767828,"450 NE 71st St, Seattle, WA 98115",None,None,2020.6.21,None
+4,695334,"East Elmhurst, NY 11369",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.21,None
+5,767765,"New Orleans, LA 70116",None,None,2020.6.21,None
+6,906323,"Montclair, NJ 07042",None,None,2020.6.21,None
+0,919009,"Long Beach, MS 39560",None,None,2020.6.21,Reported
+1,767722,"Carlsbad, CA 92009",None,None,2020.6.21,None
+2,767706,"414 E 7th Ave, Spokane, WA 99202",None,None,2020.6.21,None
+3,781941,"Encino, CA 91316",Chain with padlock,None,2020.6.21,None
+4,768307,"Chicago, IL 60640",Not locked,Bike was not locked,2020.6.21,None
+5,767698,"Redwood City, CA 94063",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.21,Reported
+6,790173,"Seattle, WA 98119",None,None,2020.6.21,Reported
+7,767695,"Columbus, OH 43206",Not locked,"Other situation, please describe below",2020.6.21,Reported
+8,768238,"Newhall, CA 91321",None,None,2020.6.21,Reported
+9,771917,"107 N Cook Street, Portland, OR 97227",Cable lock,"Other situation, please describe below",2020.6.21,Reported
+0,768133,"San Francisco, CA 94115",Cable lock,"Lock is missing, along with the bike",2020.6.21,Reported
+1,773274,"Ballard 7-Eleven on Market Street, Seattle, WA 98107",None,None,2020.6.21,None
+2,750439,"San Francisco, CA 94122",Not locked,Bike was not locked,2020.6.21,None
+3,774004,"3423 21st Ave W, Seattle, WA 98199",None,None,2020.6.21,None
+4,767761,"Edmonton, T5T3T2",Not locked,None,2020.6.21,None
+5,768553,"Seattle, WA 98117",None,"Other situation, please describe below",2020.6.21,Reported
+6,773986,"3423 21st Ave W, Seattle, WA 98199",None,None,2020.6.21,Reported
+7,768211,"1024 turquoise st, San Diego, CA 92109",Cable lock,"Lock is missing, along with the bike",2020.6.21,None
+8,767926,"New Orleans, LA 70117",Other,None,2020.6.21,Reported
+0,767614,"2700 Colorado Blvd Unit 14, Denton, TX 76210",Other,"Lock is missing, along with the bike",2020.6.21,None
+1,768349,"Normal, IL 61761",Not locked,Bike was not locked,2020.6.21,Reported
+2,768887,"Los Angeles, CA 90024",None,None,2020.6.21,None
+0,767446,"Chandler, AZ 85224",Not locked,Bike was not locked,2020.6.20,Reported
+1,767461,"Portland, OR 97201",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.6.20,None
+2,767452,"Santa Monica, CA",Cable lock,"Lock is missing, along with the bike",2020.6.20,Reported
+3,768779,"St Louis Park, MN 55416",None,None,2020.6.20,Reported
+4,767416,"District Of Columbia, DC 20002",None,None,2020.6.20,None
+5,767423,"Mill, CA 949412808",None,None,2020.6.20,Reported
+6,732454,"San Diego, CA 92104",U-lock,"Lock is missing, along with the bike",2020.6.20,None
+7,769007,"Boise, ID 83705",Not locked,Bike was not locked,2020.6.20,Reported
+8,767373,"845 Ramona ST APT 625, Palo Alto, CA 94301",None,None,2020.6.20,None

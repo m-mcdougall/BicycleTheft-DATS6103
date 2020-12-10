@@ -1,0 +1,68 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,806893,"3700 42nd St S, Fargo, ND 58104",None,None,2020.7.28,Reported
+1,806867,"San Francisco, CA 94117",None,None,2020.7.28,Reported
+2,794394,"Bakersfield, CA 93308",None,None,2020.7.28,None
+3,612236,"719 Scott St., San Francisco, CA 94117",U-lock,"Lock was cut, and left at the scene",2020.7.28,Reported
+4,806847,"Springfield, MO 65803",None,None,2020.7.28,None
+5,806843,"Olympia, WA 98501",None,None,2020.7.28,None
+6,806751,"Asheville, NC 28806",Cable lock,"Lock was cut, and left at the scene",2020.7.28,Reported
+7,827004,"52 Cooper square (and 6th Street), New York, NY 10003",Cable lock,"Lock is missing, along with the bike",2020.7.28,None
+0,806805,"4929 skyway Dr. , Jacksonville, FL 32246",None,None,2020.7.28,None
+1,806790,"San Francisco, CA 94117",None,None,2020.7.28,Reported
+2,806883,"Los Angeles, CA 90034",Other,"Other situation, please describe below",2020.7.28,Reported
+3,806740,"Provo, UT 84606",None,None,2020.7.28,None
+4,806730,"7050 West Hampton Ave, Lakewood, CO 80227",Cable lock,"Lock was cut, and left at the scene",2020.7.28,Reported
+0,806753,"San Francisco, CA 94117",None,None,2020.7.28,Reported
+1,918395,"Milwaukee, WI 53202",None,None,2020.7.28,Reported
+2,806648,"Ithaca, NY 14850",Cable lock,"Lock is missing, along with the bike",2020.7.28,Reported
+3,815691,"1754 S Breezy Meadow Dr, Sacramento, CA 95834",Cable lock,"Lock was cut, and left at the scene",2020.7.28,Reported
+4,827441,"San Francisco, CA 94117",U-lock and cable,"Lock was cut, and left at the scene",2020.7.28,Reported
+5,806938,"900 SE Hawthorne Blvd, Portland, OR 97214",Other,"Other situation, please describe below",2020.7.28,None
+6,806987,"Oakland, CA 94607",None,None,2020.7.28,Reported
+7,796826,"2197 Chase Drive, Rancho Cordova, CA 95670",Cable lock,None,2020.7.28,None
+0,848899,"Seattle, WA 98117",None,None,2020.7.28,Reported
+1,835545,"Houston, TX 77007",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.7.28,Reported
+2,806771,"Los Angeles, CA 9034",None,None,2020.7.28,None
+3,832786,"San Jose, CA 95148",Not locked,None,2020.7.28,Reported
+4,827043,"Richmond, CA 94801",None,None,2020.7.28,Reported
+5,847163,"2935 Central St, Evanston, IL 60201",None,"Other situation, please describe below",2020.7.28,Reported
+6,806770,"San Francisco, CA 94117",Not locked,"Other situation, please describe below",2020.7.28,Reported
+7,828290,"1800 Burlington Dr., Hickory Corners, MI 49060",None,None,2020.7.28,Reported
+0,827360,"Denver, CO 80230",Chain with padlock,"Lock was cut, and left at the scene",2020.7.28,Reported
+1,829144,"Auburn, WA 98092",Other,"Other situation, please describe below",2020.7.28,None
+2,806581,"San Francisco, CA 94117",Not locked,"Other situation, please describe below",2020.7.28,Reported
+3,806562,"Redmond, WA 98052",Not locked,None,2020.7.27,None
+4,841111,"125 Coolidge Avenue, Watertown, MA 02472",Cable lock,"Lock is missing, along with the bike",2020.7.27,None
+5,806612,"475 W San Carlos Street, # 5103, San Jose, CA 95110",None,None,2020.7.27,Reported
+0,806526,"533 S Western Ave #B, Los Angeles, CA 90020",None,None,2020.7.27,None
+1,806531,"Seattle, WA 98112",Not locked,None,2020.7.27,None
+2,838328,"Charlotte, NC 28204",U-lock,"Lock is missing, along with the bike",2020.7.27,Reported
+3,738351,"Bothell, WA 98012",None,None,2020.7.27,Reported
+4,829425,"Broadway W58th Street near the corner of Duane Reade and Columbus Circle, Manhattan, NY",Cable lock,"Lock was cut, and left at the scene",2020.7.27,None
+5,828309,"Boise, ID 83703",Not locked,Bike was not locked,2020.7.27,Reported
+6,918470,"Houston, TX 77006",Not locked,None,2020.7.27,Reported
+7,798310,"Emeryville, CA 94608",None,None,2020.7.27,None
+8,798350,"900w 551s, Salt Lake, UT",None,None,2020.7.27,None
+0,798359,"Republican St. & Broadway, Seattle, WA 98102",U-lock,"Lock is missing, along with the bike",2020.7.27,Reported
+1,814260,"Dallas, TX 75207",U-lock,"Lock is missing, along with the bike",2020.7.27,Reported
+2,782959,"Portland, OR",Chain with padlock,None,2020.7.27,None
+3,826978,"1932 A P Tureaud, New Orleans, LA 70116",Cable lock,"Lock is missing, along with the bike",2020.7.27,Reported
+4,395547,"Seattle, WA 98117",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.7.27,Reported
+5,798321,"2825 Oak Lawn Ave, Dallas, TX 75219",Cable lock,"Lock is missing, along with the bike",2020.7.27,None
+6,798320,"165 blossom Hill rd. #222, San Jose, CA 95123",None,None,2020.7.27,None
+0,798324,"Emeryville, CA 94608",None,None,2020.7.27,None
+1,826977,"1932 A P Tureaud, New Orleans, LA 70116",Cable lock,"Lock is missing, along with the bike",2020.7.27,Reported
+2,798262,"Tucson, AZ 85745",None,None,2020.7.27,None
+3,798248,"Anaheim, CA 92805",U-lock,None,2020.7.27,None
+0,806904,"7858 SE 28th St. , Mercer Island, WA 98040",Cable lock,"Lock was cut, and left at the scene",2020.7.27,Reported
+1,815684,"Los Angeles, CA 90027",None,None,2020.7.27,None
+2,798186,"San Francisco, CA 94118",Not locked,"Other situation, please describe below",2020.7.27,Reported
+3,806970,"Spring Street , Charleston, SC 29403",None,None,2020.7.27,Reported
+4,392306,"311 Bellevue Avenue East, Seattle, WA 98102",U-lock and cable,"Lock was cut, and left at the scene",2020.7.27,None
+5,806733,"New Orleans, LA 70112",None,None,2020.7.27,None
+0,798051,"1631 Fairmount Ave, Philadelphia, PA 19130",Cable lock,None,2020.7.27,None
+1,798054,"Marina Del Rey, CA 90292",U-lock,"Lock was opened, and left unharmed at the scene",2020.7.27,Reported
+2,807033,"San Antonio, TX 78249",Other,"Other situation, please describe below",2020.7.27,None
+3,798023,"3144 Chowen ave s, Minneapolis, MN 55416",None,None,2020.7.27,None
+4,727717,"1701 Airport Blvd, San Jose, CA 95110",Cable lock,"Lock is missing, along with the bike",2020.7.27,Reported
+5,798001,"Denver, CO 80218",None,None,2020.7.27,Reported

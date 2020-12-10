@@ -1,0 +1,58 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,788650,"Chicago, IL 60647",Not locked,None,2020.7.13,None
+1,789977,"Minneapolis, MN 55416",Cable lock,"Lock was cut, and left at the scene",2020.7.13,Reported
+2,789637,"San Gabriel, CA 91775",None,None,2020.7.13,Reported
+3,789429,"Salt Lake City, UT 84105",None,None,2020.7.13,Reported
+4,827037,"48th St. & Nevada Ave., Nashville, TN 37209",None,None,2020.7.13,None
+5,827042,"48th St. & Nevada Ave., Nashville, TN 37209",None,None,2020.7.13,Reported
+0,827030,"48th St. & Nevada Ave., Nashville, TN 37209",None,None,2020.7.13,Reported
+1,827045,"48th St. & Nevada Ave., Nashville, TN 37209",None,None,2020.7.13,Reported
+2,827039,"48th St. & Nevada Ave., Nashville, TN 37209",None,None,2020.7.13,Reported
+3,788315,"San Dimas, CA 91773",U-lock,"Lock is missing, along with the bike",2020.7.12,Reported
+4,781188,"3911 n 25th , Tacoma, WA",None,None,2020.7.12,None
+5,790574,"1099 Houston St, College Station, TX 77840",Cable lock,"Lock is missing, along with the bike",2020.7.12,Reported
+6,788220,"188 Avenue A, NY, 10009, New York, NY 10009",Cable lock,"Other situation, please describe below",2020.7.12,Reported
+0,788213,"San Jose, CA 95110",None,None,2020.7.12,None
+1,788215,"Newark, CA 94560",Not locked,Bike was not locked,2020.7.12,Reported
+2,788151,"Chicago, IL 60613",None,None,2020.7.12,None
+3,788172,"Redmond, WA 98052",None,None,2020.7.12,Reported
+4,788119,"1341 Masonic Ave, San Francisco, CA 94117",None,None,2020.7.12,None
+5,788118,"Washington, DC 20010",None,None,2020.7.12,None
+6,787977,"Somerville, MA 02143",None,None,2020.7.12,None
+0,788630,"Coralville, IA 52241",Other,"Other situation, please describe below",2020.7.12,Reported
+1,788030,"1929 Beloit Avenue, Los Angeles, CA 90025",U-lock and cable,"Lock was cut, and left at the scene",2020.7.12,None
+2,788037,"San Francisco, CA 94107",None,None,2020.7.12,Reported
+3,788451,"Boise, ID 83702",Cable lock,"Lock was cut, and left at the scene",2020.7.12,Reported
+4,788513,"Portland, OR 97211",None,None,2020.7.12,Reported
+5,789133,"1260 Shelby St, Indianapolis, IN 46203",Cable lock,"Lock was cut, and left at the scene",2020.7.12,Reported
+6,791066,"San Francisco, CA 94102",None,"Lock was cut, and left at the scene",2020.7.12,Reported
+7,841628,"Golden, CO 80401",Other,"Lock was cut, and left at the scene",2020.7.12,Reported
+0,788882,"Woodland Hills, CA 91367",U-lock,"Lock was cut, and left at the scene",2020.7.12,None
+1,788892,"Woodland Hills, CA 91367",U-lock,"Lock was cut, and left at the scene",2020.7.12,None
+2,788402,"Woburn, MA 01801-4410",Not locked,Bike was not locked,2020.7.12,None
+3,713287,"San Francisco, CA 94123",None,None,2020.7.12,Reported
+4,789456,"San Francisco, CA 94123",None,None,2020.7.12,Reported
+5,787919,"3415 Lebon Dr, San Diego, CA 92122",U-lock and cable,"Lock is missing, along with the bike",2020.7.12,Reported
+6,787976,"San Francisco, CA 94118",Not locked,Bike was not locked,2020.7.12,Reported
+0,788511,"New Orleans, LA 70115",None,None,2020.7.12,Reported
+1,791290,"Portland, OR 97217",None,None,2020.7.12,Reported
+2,789031,"South Boston, MA 02127",U-lock and cable,"Lock was cut, and left at the scene",2020.7.12,Reported
+3,788854,"Westerville, OH 43081",Cable lock,None,2020.7.12,Reported
+4,788295,"1950 Gough St, San Francisco, CA 94109",U-lock,"Lock is missing, along with the bike",2020.7.12,Reported
+5,787897,"Seattle, WA 98133",None,None,2020.7.12,None
+0,788614,"Asheville, NC 28801",Other,"Other situation, please describe below",2020.7.11,None
+1,795262,"Oxford Ave, Belmont, MA 02478",Not locked,Bike was not locked,2020.7.11,None
+2,787639,"57 Saturn st , San Francisco, CA 94114",Not locked,"Other situation, please describe below",2020.7.11,Reported
+3,787654,"4176 east menlo, Wichita, KS 67218",Not locked,None,2020.7.11,None
+4,712803,"700 E. Robson st, Tampa, FL 33604",Not locked,Bike was not locked,2020.7.11,None
+0,787528,"777 N. Emerson St., Denver, CO 80218",None,None,2020.7.11,Reported
+1,787467,"7101 11th ave w, Bradenton, FL 34209",None,None,2020.7.11,None
+2,788690,"New Orleans, LA",None,None,2020.7.11,None
+3,789266,"New Orleans, LA 71109",None,None,2020.7.11,None
+4,788116,"New Orleans, LA 71109",None,None,2020.7.11,None
+5,787406,"2233 W Division , Chicago, IL 60622",U-lock and cable,"Lock is missing, along with the bike",2020.7.11,Reported
+0,789211,"Boise, ID 83706",Cable lock,"Lock was cut, and left at the scene",2020.7.11,Reported
+1,760337,"Santa Monica, CA 90401",Cable lock,"Lock is missing, along with the bike",2020.7.11,None
+2,788010,"San Jose, CA 95124",None,None,2020.7.11,Reported
+3,787304,"Denver, CO 80220",U-lock and cable,"Lock is missing, along with the bike",2020.7.11,Reported
+4,787278,"Rancho Mirage, CA 92270",U-lock and cable,"Lock is missing, along with the bike",2020.7.11,Reported

@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,713791,"315 h street nw, Washington, DC 20001",None,None,2020.4.18,None
+1,789568,"Denver, CO 80210",Not locked,None,2020.4.18,Reported
+2,713872,"1120 14th Ave S , Seattle, WA 98144",Not locked,None,2020.4.18,Reported
+3,713675,"Arlington, VA 22202",U-lock,"Lock is missing, along with the bike",2020.4.18,Reported
+4,713851,"Seattle, WA 98107",None,None,2020.4.18,Reported
+5,713664,"Portland, OR 97239",U-lock,None,2020.4.18,None
+6,713666,"5751 33rd Ave NE, Seattle, WA 98105",Other,"Other situation, please describe below",2020.4.18,Reported
+7,713519,"Boston, MA 02118",None,None,2020.4.18,None
+0,713419,"Washington, DC 20001",None,None,2020.4.18,None
+1,713383,"5350 Pinehurst Park Dr, Charlotte, NC 28211",Chain with padlock,"Lock is missing, along with the bike",2020.4.18,Reported
+2,714638,"117850 Jefferson blvd, Culver, CA 90230",Cable lock,"Lock is missing, along with the bike",2020.4.18,Reported
+3,713337,"Orlando, FL 32803",None,None,2020.4.18,None
+4,715014,"Denver, CO 80205",U-lock and cable,"Other situation, please describe below",2020.4.18,None
+0,718276,"Knotts Glen Court and Holley Ave, Chico, CA 95926",None,None,2020.4.18,Reported
+1,718253,"Holley Ave and Knotts Glen Court, Chico, CA 95926",None,None,2020.4.18,Reported
+2,713181,"1545 NW 57th St., Seattle, WA 98107",Other,None,2020.4.18,None
+3,713340,"Sunnyvale, CA 94087",None,None,2020.4.17,None
+4,102351,"Berkeley, CA 94702",U-lock and cable,"Other situation, please describe below",2020.4.17,None
+5,711753,"Portland, OR 97211",U-lock,None,2020.4.17,Reported
+6,712892,"Portland, OR 97209",None,None,2020.4.17,Reported
+7,712888,"Champaign, IL 61820",Cable lock,"Lock was cut, and left at the scene",2020.4.17,None
+0,714652,"Boise, ID 83704",None,"Lock is missing, along with the bike",2020.4.17,Reported
+1,712839,"New Orleans, LA 70116",None,None,2020.4.17,None
+2,712834,"755 S 11st , Philadelphia, PA 19147",Not locked,Bike was not locked,2020.4.17,Reported
+3,716523,"San Diego, CA 92123",Cable lock,"Lock was cut, and left at the scene",2020.4.17,Reported
+4,61050,"Bellevue, WA 98004",Cable lock,"Lock is missing, along with the bike",2020.4.17,Reported
+5,712782,"Edmonton, T5N 4R9",None,None,2020.4.17,Reported
+6,712821,"Syracuse, NY 13202",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.4.17,None
+7,712735,"Seattle, WA 98103",None,None,2020.4.17,None
+8,713522,"Boston, MA 02118",Cable lock,"Lock was cut, and left at the scene",2020.4.17,Reported
+0,713506,"Boston, MA 02118",Cable lock,"Lock was cut, and left at the scene",2020.4.17,Reported
+1,713511,"Boston, MA 02118",Cable lock,"Lock was cut, and left at the scene",2020.4.17,Reported
+2,712700,"Seattle, WA 98115",None,None,2020.4.17,None
+3,712273,"New Orleans, LA 70116",None,None,2020.4.17,Reported
+4,712662,"San Francisco, CA 94114",U-lock,Bike was not locked,2020.4.17,Reported
+5,712669,"New Orleans, LA 70130",None,None,2020.4.17,None
+6,714784,"Mountain View, CA 94043",U-lock,"Lock is missing, along with the bike",2020.4.17,Reported
+7,712649,"4225 e Bellevue , Tucson, AZ 85712",None,None,2020.4.17,None
+0,720154,"1514 Newton Street, Denver, CO 80204",Not locked,Bike was not locked,2020.4.17,Reported
+1,716705,"Milwaukee, WI 53211",Cable lock,"Lock is missing, along with the bike",2020.4.17,Reported
+2,712561,"Tucson, AZ 85719",U-lock,None,2020.4.17,Reported
+3,712553,"Kansas City, MO 64111",None,None,2020.4.17,None
+4,713177,"Zanesville, OH 43701",None,None,2020.4.17,None
+5,733043,"San Francisco, CA 94107",Other,"Other situation, please describe below",2020.4.17,Reported
+0,672959,"4225 e Bellevue , Tucson, AZ 85712",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.4.17,Reported
+1,713591,"Portland, OR 97213",None,None,2020.4.17,Reported
+2,712659,"San Francisco, CA 94114",U-lock,Bike was not locked,2020.4.17,Reported
+3,713066,"Wenatchee, WA 98801",None,None,2020.4.17,Reported
+4,712441,"Independence, KS",None,None,2020.4.17,None
+5,712435,"San Francisco, CA 94117",None,None,2020.4.17,None
+6,712375,"Seattle, WA 98122",U-lock and cable,"Lock is missing, along with the bike",2020.4.16,Reported
+7,718863,"Playa Vista, CA 90094",U-lock and cable,"Lock is missing, along with the bike",2020.4.16,Reported
+8,712363,"Portland, OR 97266-____",Cable lock,"Lock was cut, and left at the scene",2020.4.16,Reported
+0,712368,"2015 Lyndale Ave S, Minneapolis, MN 55405",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.4.16,None
+1,712534,"Wholefoods /788 S Grand Ave, Los Angeles, CA 90017, Los Angeles, CA 90017",U-lock and cable,"Lock was cut, and left at the scene",2020.4.16,Reported
+2,710574,"Independence, KS",None,None,2020.4.16,None
+3,712349,"Murray, UT 84107",Not locked,None,2020.4.16,Reported
+4,712396,"Bryan, TX 77801",Cable lock,"Lock was cut, and left at the scene",2020.4.16,None
+5,712744,"QFC Parking Lot, Capitol Hill, Broadway and East Pike Street , Seattle, WA 98122",Cable lock,"Other situation, please describe below",2020.4.16,Reported
+6,600984,"San Diego, CA 92173",None,None,2020.4.16,Reported
+7,712340,"5320 NE 33rd Ave, Portland, OR 97211",Not locked,None,2020.4.16,Reported
+0,712265,"Oakland, CA 94607",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.4.16,Reported
+1,712237,"2001 McAllister St, San Francisco, CA 94118",Two U-locks,"Lock was cut, and left at the scene",2020.4.16,Reported
+2,667561,"Los Angeles, CA",None,None,2020.4.16,None
+3,712231,"Bentonville, AR 72712",Cable lock,"Lock was cut, and left at the scene",2020.4.16,Reported
+4,717111,"Somerville, MA 02144",None,None,2020.4.16,None
+5,711702,"New Orelans, LA 70119",None,None,2020.4.16,None
+0,712093,"New Orleans, LA 70124",None,None,2020.4.16,Reported
+1,712215,"Valley Village, CA 91607",None,None,2020.4.16,Reported
+2,712211,"Valley Village, CA 91607",None,None,2020.4.16,Reported
+3,714145,"Placerville, CA 95667",U-lock and cable,"Lock was cut, and left at the scene",2020.4.16,None
+4,712107,"100 Thurman Ave, Columbus, OH 43206",None,None,2020.4.16,None
+5,709967,"Edmonton, KS T5M 2P8",None,None,2020.4.16,None
+6,712069,"University of Washington Medical Center 1959 ne pacific street , Seattle, WA 98119",None,None,2020.4.16,None
+7,712206,"Valley Village, CA 91607",None,None,2020.4.16,Reported

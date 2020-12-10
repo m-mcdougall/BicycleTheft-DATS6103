@@ -1,0 +1,91 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,762799,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+1,762798,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+2,762797,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+3,762802,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+4,762801,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+5,762796,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+6,762800,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+7,762810,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+8,762805,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+9,762804,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+0,762809,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+1,762808,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+2,762807,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+3,762806,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+4,762813,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+5,762812,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+6,762811,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+7,762819,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+8,762815,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+9,762823,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+0,762822,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+1,762818,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+2,762816,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+3,762821,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+4,762820,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+5,762817,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+6,762827,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+7,762829,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+8,762824,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+9,762828,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+0,762830,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+1,762826,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+2,762831,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+3,762832,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+4,762833,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+5,762834,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+6,762836,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+7,762837,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+8,762835,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+9,762839,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+0,762838,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+1,762787,"303 Bowery, New York, NY 10003",None,None,2020.5.30,Reported
+2,757644,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+3,757646,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+4,757643,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+5,757642,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+6,757641,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+7,757637,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+8,757650,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+9,757649,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+0,757648,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+1,757647,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+2,757651,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+3,757652,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+4,757653,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+5,757645,"3411 M Street Northwest, Washington, DC 20007",None,None,2020.5.30,Reported
+6,749936,"6203 Edloe St, West University, TX 77005",Not locked,"Other situation, please describe below",2020.5.30,Reported
+7,768327,"Los Angeles, CA",None,None,2020.5.30,None
+8,749866,"Saratoga, CA 96070",None,None,2020.5.30,Reported
+9,750428,"San Francisco, CA 94103",U-lock and cable,"Lock was cut, and left at the scene",2020.5.30,None
+0,774697,"Portland, OR 97210",None,None,2020.5.30,Reported
+1,751339,"Mendham, NJ 07945",None,None,2020.5.30,None
+2,749766,"Seattle, WA 98188",Not locked,Bike was not locked,2020.5.30,Reported
+3,751069,"Boise, ID 83706",Not locked,Bike was not locked,2020.5.30,Reported
+4,749442,"Poulsbo, WA 98370",None,None,2020.5.30,Reported
+5,749430,"Poulsbo, WA 98370",None,None,2020.5.30,Reported
+6,749391,"Salem, OR 97301",None,None,2020.5.30,None
+0,676537,"Denton Hall, University of Maryland, College Park, MD 20742",U-lock,"Lock is missing, along with the bike",2020.5.30,None
+1,749401,"3054 West Wilson Avenue, 2, Chicago, IL 60625",None,None,2020.5.30,None
+2,749397,"Chicago, IL 60625",None,None,2020.5.30,None
+3,749360,"Seattle, WA 98115",None,None,2020.5.30,None
+4,749263,"Theodore Roosevelt Park, Arlington, VA 22207",None,None,2020.5.30,None
+5,752960,"Denver, CO 80212",Not locked,Bike was not locked,2020.5.30,Reported
+6,625326,"2625 East Burnside St, Portland, OR 97214",Not locked,"Other situation, please describe below",2020.5.30,Reported
+7,749973,"Pasadena, CA 91106",U-lock,"Lock is missing, along with the bike",2020.5.30,Reported
+8,749388,"4116 Cole Ave., Dallas, TX 75204",U-lock,"Lock was opened, and left unharmed at the scene",2020.5.30,Reported
+0,754280,"Seattle, WA 98103",None,None,2020.5.30,Reported
+1,768160,"560 South 100 West, Provo, UT 84601",Not locked,None,2020.5.30,None
+2,750851,"Seattle, WA 98125",Cable lock,"Lock is missing, along with the bike",2020.5.30,Reported
+3,750356,"Draper, UT 84020",None,None,2020.5.30,Reported
+4,749955,"Denver, CO 80218",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.30,Reported
+5,750052,"Miami, FL 33139",None,None,2020.5.29,Reported
+0,648961,"Commerce City, CO 80022",Not locked,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.5.29,None
+1,622829,"San Francisco, CA 94110",None,None,2020.5.29,None
+2,748889,"345 East 25th Street , New York, NY 10010",None,None,2020.5.29,None
+3,750981,"Boise, ID 83704",Other,"Other situation, please describe below",2020.5.29,Reported
+4,753996,"7905A SE Powell Blvd, Portland, OR 97206",None,None,2020.5.29,Reported
+5,748633,"4727 SE 86th Ct, Portland, OR 97266",None,None,2020.5.29,None
+6,749255,"Denver, CO 80205",None,None,2020.5.29,Reported
+7,755911,"San Jose, CA 95125",None,"Other situation, please describe below",2020.5.29,Reported

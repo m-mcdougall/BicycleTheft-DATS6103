@@ -1,0 +1,72 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,945233,"Phoenix, AZ 85008",None,None,2020.11.5,None
+1,944729,"1030 E Green St, Pasadena, CA 91106",U-lock,"Lock was cut, and left at the scene",2020.11.5,Reported
+2,946726,"Utica, MI 48316",Other,None,2020.11.4,Reported
+3,944680,"New Haven, CT 06511",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.4,Reported
+4,945445,"Los Angeles, CA 90007",Not locked,"Lock is missing, along with the bike",2020.11.4,Reported
+5,944672,"Intersection of Harris and North St (~341 North St), Boston, MA 02109",U-lock and cable,"Lock was cut, and left at the scene",2020.11.4,Reported
+0,944341,"98 Van Ness St, Fenway, MA 02215",None,None,2020.11.4,None
+1,944334,"3104 172nd St. NW, Arlington, WA 98223",None,None,2020.11.4,None
+2,944331,"1106 Columbia Rd NW, Washington, DC 20009",U-lock and cable,"Lock is missing, along with the bike",2020.11.4,Reported
+3,945323,"Stillwater, OK 74075",None,None,2020.11.4,None
+4,947220,"San Francisco, CA 94102",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.4,None
+5,944320,"45 poncetta dr, Daly City, CA 94015",None,"Other situation, please describe below",2020.11.4,Reported
+6,944275,"Minneapolis, MN 55418",None,None,2020.11.4,Reported
+7,944272,"713 LAMONT ST NW, Washington, DC 20010",U-lock and cable,"Lock was cut, and left at the scene",2020.11.4,None
+0,944251,"Fort Collins, CO 80523",U-lock,"Lock was cut, and left at the scene",2020.11.4,None
+1,944210,"College Park, MD 20740",None,None,2020.11.4,None
+2,944195,"14 Edgewater Towne Center Unit 3A, Edgewater, NJ 07020",None,None,2020.11.4,Reported
+3,944220,"San Francisco, CA 94121",None,None,2020.11.4,Reported
+4,943913,"Alameda, CA 94501",U-lock and cable,Bike was not locked,2020.11.4,Reported
+5,947430,"Austin, TX 78745",Cable lock,None,2020.11.4,Reported
+6,944346,"Portland, OR 97214",None,None,2020.11.4,None
+7,945719,"4040 Tennyson St, Denver, CO 80212",Cable lock,"Lock was cut, and left at the scene",2020.11.4,Reported
+0,377612,"Seattle, WA 98199",None,None,2020.11.4,None
+1,944957,"1200 Boylston ave., Seattle, WA 98122",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.11.4,Reported
+2,944073,"Portland, OR 97209",None,None,2020.11.4,None
+3,793430,"555 South Hill, Bernalillo, NM 87004",Not locked,None,2020.11.4,Reported
+4,945289,"San Francisco, CA 94121",None,None,2020.11.4,None
+5,944847,"Layton, UT 84014",Cable lock,"Lock was cut, and left at the scene",2020.11.4,Reported
+6,943910,"1827 Yale avenue, Seattle, WA 98101",None,None,2020.11.4,None
+7,946682,"713 Lamont Street Northwest, Washington, DC 20010",None,None,2020.11.4,None
+0,947675,"Sausalito, CA 94965",Not locked,None,2020.11.3,Reported
+1,944209,"Portland, OR 97214",None,None,2020.11.3,Reported
+2,944142,"Berea, OH 44017",Other,"Other situation, please describe below",2020.11.3,None
+3,947674,"Washington, DC 20001",Other,"Lock is missing, along with the bike",2020.11.3,Reported
+0,943801,"Medford, MA 02155",Not locked,None,2020.11.3,None
+1,943809,"New Orleans, LA",None,None,2020.11.3,None
+2,943724,"San Francisco, CA 94116",None,None,2020.11.3,None
+3,943719,"San Francisco, CA 94116",Other,"Other situation, please describe below",2020.11.3,None
+4,943714,"2832 Emerson Ave S, Minneapolis, MN 55408",None,"Other situation, please describe below",2020.11.3,Reported
+5,943694,"Bronx, NY 10470",None,None,2020.11.3,None
+6,949865,"Redwood City, CA 94061",None,None,2020.11.3,Reported
+0,943687,"Cambridge, MA 02139",Not locked,None,2020.11.3,None
+1,944297,"Phoenix, AZ 85016",Cable lock,"Lock is missing, along with the bike",2020.11.3,Reported
+2,943672,"Portland, OR 97206",Not locked,None,2020.11.3,Reported
+3,943663,"Davis, CA 95616",U-lock,"Lock is missing, along with the bike",2020.11.3,Reported
+4,943635,"Washington, DC 20007",U-lock and cable,"Lock is missing, along with the bike",2020.11.3,None
+5,943631,"333 Sunol St, Unit 313, San Jose, CA 95126",U-lock,"Lock is missing, along with the bike",2020.11.3,Reported
+0,943627,"San Jose, CA 95126",U-lock,"Lock is missing, along with the bike",2020.11.3,Reported
+1,943622,"Washington, DC 20007",U-lock and cable,"Lock is missing, along with the bike",2020.11.3,None
+2,937720,"New Orleans, LA 70119",Cable lock,None,2020.11.3,Reported
+3,943041,"266 East 10th Street, New York, NY 10009",None,None,2020.11.3,None
+4,945910,"Portland, OR 97206",Not locked,"Other situation, please describe below",2020.11.3,Reported
+5,943617,"Cottage Grove, WI 53527",Cable lock,"Lock is missing, along with the bike",2020.11.3,None
+6,937721,"3rd & sunset, Venice, CA 90291",None,None,2020.11.3,None
+7,942446,"1175 13th street east, Tuscaloosa, AL 35404",None,None,2020.11.3,None
+8,944217,"San Francisco, CA 94117",Cable lock,"Lock is missing, along with the bike",2020.11.3,None
+0,943668,"509 Spring Garden Street, Philadelphia, PA 19123",U-lock,"Lock was cut, and left at the scene",2020.11.3,Reported
+1,691501,"Boulder, CO 80302",Other,"Other situation, please describe below",2020.11.3,Reported
+2,695937,"Boulder, CO 80304",Other,"Other situation, please describe below",2020.11.3,Reported
+3,943829,"Holladay, UT 84117",None,None,2020.11.3,Reported
+4,943721,"Davis, CA 95616",U-lock and cable,"Lock was cut, and left at the scene",2020.11.3,None
+5,942241,"101 Main Street, Santa Cruz, CA 95060",None,None,2020.11.2,None
+6,942243,"101 Main Street, Santa Cruz, CA 95060",Other,"Other situation, please describe below",2020.11.2,Reported
+7,947681,"Sausalito, CA 94965",Not locked,None,2020.11.2,Reported
+0,944554,"Annandale, VA 22003",Cable lock,Bike was not locked,2020.11.2,Reported
+1,942210,"6510 Tucker Avenue, Mc Lean, VA 22101",None,None,2020.11.2,None
+2,942183,"Phoenix, AZ 85017",None,"Lock is missing, along with the bike",2020.11.2,Reported
+3,942148,"216 Dryden Rd, Ithaca, NY 14850",None,"Lock is missing, along with the bike",2020.11.2,None
+4,942110,"West Jordan, UT 84010",None,None,2020.11.2,None
+5,942058,"Boise, ID Id",Not locked,None,2020.11.2,Reported
+6,942091,"2566 S Kinnickinnic Ave, Milwaukee, WI 53207",Not locked,Bike was not locked,2020.11.2,Reported

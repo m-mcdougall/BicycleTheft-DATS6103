@@ -1,0 +1,97 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,57018,"Portland, OR 97202",None,None,2015.9.5,Reported
+1,57017,"Auburn, CA 95603",None,None,2015.9.5,None
+2,57015,"Portland, OR 97213",None,None,2015.9.5,Reported
+3,46712,"Brooklyn, NY 11216",Not locked,Bike was not locked,2015.9.5,Reported
+4,57019,"San Diego, CA 92122",None,None,2015.9.5,Reported
+5,57076,"Albany, OR 97322",None,None,2015.9.5,Reported
+6,58627,"Kalispell, MT 59901",None,None,2015.9.5,None
+7,58739,"Portland, OR 97201",None,"Other situation, please describe below.",2015.9.5,Reported
+8,57166,"Binghamton, NY 13905",Cable lock,"Lock is missing, along with the bike.",2015.9.5,Reported
+9,57028,"Portland, OR 97209",Cable lock,"Other situation, please describe below.",2015.9.5,Reported
+0,57065,"Mountain View, CA 94080",Cable lock,None,2015.9.5,Reported
+1,57580,"Los Angeles, CA 90038",U-lock and cable,"Lock is missing, along with the bike.",2015.9.5,None
+2,57385,"Seattle, WA 98109",Other,None,2015.9.5,None
+3,57097,"Evansville, IN 47715",Cable lock,"Lock was opened, and left unharmed at the scene.",2015.9.5,None
+4,57014,"San Francisco, CA 94115",None,None,2015.9.5,Reported
+5,57056,"San Francisco, CA 94102",U-lock,"Lock was cut, and left at the scene.",2015.9.5,None
+6,57071,"Malden, MA 02148",None,None,2015.9.5,None
+7,57074,"Mamaroneck, NY 10543",Not locked,Bike was not locked,2015.9.5,None
+8,56992,"New York, NY 10028",None,None,2015.9.4,None
+0,56938,"Edmonton, T5M3J4",None,None,2015.9.4,None
+1,57804,"Washington, DC 20003",Cable lock,None,2015.9.4,None
+2,57221,"Vancouver, WA 98664",None,None,2015.9.4,Reported
+3,57392,"Stockton, CA 95204",Not locked,Bike was not locked,2015.9.4,Reported
+4,56910,"Cincinnati, OH 45220",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2015.9.4,None
+5,56995,"Alameda, CA 94501",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2015.9.4,Reported
+6,57009,"Baltimore, MD 21218",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2015.9.4,Reported
+7,57099,"Salem Oregon, OR 97305",Cable lock,"Lock was cut, and left at the scene.",2015.9.4,Reported
+8,57294,"Santa Clara, CA 95054",Cable lock,"Lock was cut, and left at the scene.",2015.9.4,Reported
+9,56909,"Washington, DC 20002",Other,None,2015.9.4,Reported
+0,56986,"Seattle, WA 98122",Cable lock,"Lock is missing, along with the bike.",2015.9.4,None
+1,56987,"Chicago, IL 60613",U-lock,"Lock is missing, along with the bike.",2015.9.4,Reported
+2,57198,"Murray, UT 84107",Not locked,None,2015.9.4,Reported
+3,94336,"Seattle, WA",U-lock,"Lock is missing, along with the bike.",2015.9.4,None
+4,58430,"Davenport, IA 52804",None,None,2015.9.4,Reported
+5,56998,"Oakland, CA 94610",None,None,2015.9.4,Reported
+6,56924,"Seattle, WA 98102",Not locked,None,2015.9.4,Reported
+7,56913,"Richmond, VA 23838",U-lock,Bike was not locked,2015.9.4,Reported
+8,94485,"Missoula, MT 59802",Not locked,None,2015.9.4,None
+9,56916,"Seattle, WA 98102",Not locked,None,2015.9.4,Reported
+0,57615,"Houston, TX 77006",Cable lock,"Lock was cut, and left at the scene.",2015.9.4,Reported
+1,57163,"San Francisco, CA 94116",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2015.9.4,Reported
+2,57406,"College Park, MD 20782",U-lock,"Lock is missing, along with the bike.",2015.9.4,Reported
+3,56999,"Tucson, AZ 85716",Cable lock,"Lock is missing, along with the bike.",2015.9.4,None
+4,56983,"Portland, ME 04102",None,None,2015.9.4,None
+5,56968,"Columbus, OH 43210",Cable lock,None,2015.9.4,Reported
+6,57412,"Oakland, CA 94604",U-lock and cable,"Lock is missing, along with the bike.",2015.9.4,Reported
+7,57011,"Baltimore, MD 21218",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2015.9.4,Reported
+8,58652,"Austin, TX 78701",Cable lock,"Lock is missing, along with the bike.",2015.9.4,Reported
+9,56997,"Alameda, CA 94501",Cable lock,None,2015.9.4,Reported
+0,56896,"Seattle, WA 98104",None,None,2015.9.3,Reported
+1,56888,"Portland, OR 97213",None,None,2015.9.3,Reported
+2,56884,"Portland, OR 97219",None,None,2015.9.3,Reported
+3,56880,"Portland, OR 97209",None,None,2015.9.3,None
+4,56868,"Portland, OR 97212",None,None,2015.9.3,Reported
+5,56865,"Seattle, WA 98177",None,None,2015.9.3,None
+6,56848,"Eugene, OR 97405",None,None,2015.9.3,None
+7,56901,"Aurora, CO 80014",Cable lock,"Lock was cut, and left at the scene.",2015.9.3,Reported
+8,56831,"San Francisco, CA 94107",U-lock,"Lock was cut, and left at the scene.",2015.9.3,Reported
+0,56859,"Washington, DC 20016",Cable lock,"Lock was cut, and left at the scene.",2015.9.3,Reported
+1,56892,"Littleton, CO 80123",Other,"Other situation, please describe below.",2015.9.3,Reported
+2,56883,"Minneapolis, MN 55454",Cable lock,"Lock is missing, along with the bike.",2015.9.3,Reported
+3,56925,"Indianapolis, IN 46204",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2015.9.3,Reported
+4,58364,"Kent, WA 98032",Cable lock,"Lock is missing, along with the bike.",2015.9.3,Reported
+5,56869,"Seattle, WA 98102",Not locked,"Other situation, please describe below.",2015.9.3,Reported
+6,56927,"Chicago, IL",U-lock,"Lock was opened, and left unharmed at the scene.",2015.9.3,Reported
+7,57109,"Seattle, WA 98199",Cable lock,"Lock was opened, and left unharmed at the scene.",2015.9.3,Reported
+8,56879,"Los Angeles, CA 90028",U-lock and cable,"Other situation, please describe below.",2015.9.3,None
+9,56923,"Rockford, IL 61108",None,Bike was not locked,2015.9.3,Reported
+0,56844,"Portland, OR 97217",U-lock,"Lock was cut, and left at the scene.",2015.9.3,Reported
+1,57033,"Seattle, WA 98103",Cable lock,"Lock is missing, along with the bike.",2015.9.3,None
+2,56908,"Baltimore, MD 21201",U-lock and cable,"Lock was cut, and left at the scene.",2015.9.3,Reported
+3,56902,"San Jose, CA 95123",Cable lock,"Lock is missing, along with the bike.",2015.9.3,Reported
+4,62375,"Alameda, CA 94501",Cable lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2015.9.3,Reported
+5,56835,"Portland, OR",Not locked,Bike was not locked,2015.9.3,None
+6,58141,"Oakland, CA 94609",Cable lock,"Lock is missing, along with the bike.",2015.9.3,Reported
+7,56900,"San Francisco, CA 94107",Cable lock,"Lock is missing, along with the bike.",2015.9.3,Reported
+0,56863,"Oakland, CA 94609",U-lock,"Lock was cut, and left at the scene.",2015.9.3,Reported
+1,57471,"Milwaukie, OR 97267",Other,"Other situation, please describe below.",2015.9.3,Reported
+2,56784,"Tucson, AZ 85711",None,None,2015.9.2,Reported
+3,56783,"Point Loma, CA 92109",None,None,2015.9.2,None
+4,56778,"Denver, CO 80207",None,None,2015.9.2,None
+5,56760,"Portland, OR 97212-1153",None,None,2015.9.2,None
+6,56937,"Austin, TX 78741",U-lock,"Lock is missing, along with the bike.",2015.9.2,Reported
+7,56773,"Spokane Valley, WA 99216",Heavy duty bicycle security chain,"Other situation, please describe below.",2015.9.2,None
+8,56891,"Littleton, CO 80123",Other,"Other situation, please describe below.",2015.9.2,Reported
+9,64500,"Beaverton, OR 97005",Chain with padlock,"Lock is missing, along with the bike.",2015.9.2,Reported
+0,93972,"Salt Lake City, UT 84105",Cable lock,"Lock is missing, along with the bike.",2015.9.2,None
+1,56811,Ottawa,None,None,2015.9.2,None
+2,57586,"Shoreline, WA 98177",Cable lock,"Lock was cut, and left at the scene.",2015.9.2,Reported
+3,56765,"Berkeley, CA 94702",Not locked,Bike was not locked,2015.9.2,None
+4,57075,"San Diego, CA 92101",U-lock and cable,"Lock is missing, along with the bike.",2015.9.2,Reported
+5,56815,"Pittsburgh, PA 15206",Other,"Other situation, please describe below.",2015.9.2,Reported
+6,56873,"Seattle, WA 98105",Other,"Lock was cut, and left at the scene.",2015.9.2,Reported
+7,56801,"Boston, MA 02215",Cable lock,"Lock is missing, along with the bike.",2015.9.2,Reported
+8,56819,"Salt Lake City, UT 84111",Cable lock,"Lock was cut, and left at the scene.",2015.9.2,Reported
+9,56805,"Saint Paul, MN 55106",Other,"Other situation, please describe below.",2015.9.2,Reported

@@ -1,0 +1,90 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,17217,"Chicago, IL 60614",None,None,2011.6.12,Reported
+1,22104,"San Diego, CA 92109",None,None,2011.6.12,None
+2,16458,"Chicago, IL 60601",None,None,2011.6.12,Reported
+3,17219,"Chicago, IL 60616",None,None,2011.6.12,Reported
+4,18124,"Brooklyn, NY 11201",None,None,2011.6.12,Reported
+5,17278,"Portland, OR 97212",None,None,2011.6.12,Reported
+6,20505,"Santa Cruz, CA 95063",None,None,2011.6.12,Reported
+7,17231,"Portland, OR 97214",None,None,2011.6.12,None
+8,17257,"Portland, OR 97213",None,None,2011.6.12,None
+0,25368,"Tucson, AZ 85712",None,None,2011.6.11,Reported
+1,16449,"Muncie, IN 47303",None,None,2011.6.11,None
+2,17400,"Cambridge, MA 02140",None,None,2011.6.11,None
+3,18103,"Houston, TX 77008",None,None,2011.6.11,Reported
+4,16435,"Seattle, WA 98117",None,None,2011.6.11,Reported
+5,17210,"Washington, DC 20007",None,None,2011.6.11,Reported
+6,17216,"San Diego, CA 92110",None,None,2011.6.11,Reported
+7,17184,"Portland, OR 97212",None,None,2011.6.11,Reported
+0,17214,"Tucson, AZ 85719",None,None,2011.6.11,Reported
+1,22081,"Indianapolis, IN 46220",None,None,2011.6.11,None
+2,18090,"Gresham, OR",None,None,2011.6.11,None
+3,22056,"Portland, OR 97209",None,None,2011.6.11,Reported
+4,17193,"Gresham, OR",None,None,2011.6.11,None
+5,26536,"Washington, DC 20003",None,None,2011.6.11,None
+6,17207,"New York, NY 10016",None,None,2011.6.11,Reported
+7,16425,"Corvallis, OR 97330",None,None,2011.6.10,None
+8,22177,"Oregon, IL 61061",None,None,2011.6.10,None
+9,18099,"Lake Buena Vista, FL 32830",None,None,2011.6.10,Reported
+0,17206,"Davis, CA 95616",None,None,2011.6.10,None
+1,17179,"Seattle, WA 98121",None,None,2011.6.10,Reported
+2,20499,"Portland, OR",None,None,2011.6.10,Reported
+3,12256,"Houston, TX 77019",None,None,2011.6.10,Reported
+4,18088,"Bountiful, UT 84010",None,None,2011.6.10,None
+5,17176,"Portland, OR 97206",None,None,2011.6.10,Reported
+6,17182,"Belltown, WA 98101",None,None,2011.6.10,None
+7,12239,"Venice, CA 90291",None,None,2011.6.9,None
+8,17171,"Seattle, WA 98112",None,None,2011.6.9,Reported
+0,17201,"Roseville, MN 55113",None,None,2011.6.9,Reported
+1,14378,"Portland, OR 97209",None,None,2011.6.9,Reported
+2,17170,"Tacoma, WA 98406",None,None,2011.6.9,Reported
+3,17169,"Spokane, WA 99207",None,None,2011.6.9,Reported
+4,18497,"Portland, OR 97201",None,None,2011.6.9,None
+5,23017,"St Louis, MO 63112",None,None,2011.6.8,Reported
+6,17178,"Watertown, MA 02472",None,None,2011.6.8,None
+7,17175,"Seattle, WA 98105",None,None,2011.6.8,Reported
+8,16415,"Las Vegas, NV 89146",None,None,2011.6.8,None
+0,17208,"Oceanside, CA 92054",None,None,2011.6.8,Reported
+1,17196,"Roseville, MN 55113",None,None,2011.6.8,Reported
+2,17173,"Edison, NJ 08817",None,None,2011.6.8,None
+3,17158,"Lansing, MI 48912",None,None,2011.6.8,None
+4,17160,"East Lansing, MI 48825",None,None,2011.6.8,Reported
+5,18078,"Philadelphia, PA 19147",None,None,2011.6.8,Reported
+6,21052,"Seattle, WA 98126",None,None,2011.6.8,Reported
+7,17156,"Fremont, CA 94536",None,None,2011.6.8,Reported
+8,16399,"Astoria, NY 11103",None,None,2011.6.8,None
+0,24641,"Indianapolis, IN 46280",None,None,2011.6.8,Reported
+1,18083,"San Francisco, CA 94110",None,None,2011.6.8,Reported
+2,17145,"Lexington, KY 40508",None,None,2011.6.7,None
+3,18086,"San Luis Obispo, CA 93401",None,None,2011.6.7,None
+4,17159,"Denver, CO 80218",None,None,2011.6.7,Reported
+5,19969,"Denver, CO 80220",None,None,2011.6.7,None
+6,17152,"Saint Petersburg, FL 33701",None,None,2011.6.7,Reported
+7,12237,"Madison, WI 53703",None,None,2011.6.7,Reported
+8,12233,"Portland, OR",None,None,2011.6.7,Reported
+0,17753,"Portland, OR 97227",None,None,2011.6.7,Reported
+1,17135,"Portland, OR 97227",None,None,2011.6.7,None
+2,22178,"San, CA 92102",None,None,2011.6.7,Reported
+3,17232,"Tampa, FL 33603",None,None,2011.6.6,Reported
+4,17130,"Philadelphia, PA 19103",None,None,2011.6.6,Reported
+5,12225,"Arlington, VA 22209",None,None,2011.6.6,Reported
+6,17129,"Austin, TX 78703",None,None,2011.6.6,Reported
+7,16452,"Davenport, IA 52803",None,None,2011.6.6,None
+8,17126,"Portland, OR 97212",None,None,2011.6.6,Reported
+0,18074,"Portland, OR 97218",None,None,2011.6.6,Reported
+1,12228,"Portland, OR 97214",None,None,2011.6.6,Reported
+2,12210,"New York, NY 10019",None,None,2011.6.5,None
+3,17108,"Virginia Beach, VA 23451",None,None,2011.6.5,None
+4,17162,"Philadelphia, PA 19103",None,None,2011.6.5,None
+5,17197,"Minneapolis, MN 55406",None,None,2011.6.5,Reported
+6,17128,"Ballard, WA 98117",None,None,2011.6.5,None
+0,20490,"Portland, OR 97211",None,None,2011.6.5,None
+1,5896,"San Francisco, CA 94103",U-lock,None,2011.6.5,Reported
+2,18065,"Venice, CA 90291",None,None,2011.6.5,None
+3,17134,"Portland, OR 97215",None,None,2011.6.5,Reported
+4,17131,"Santa Monica, CA 90405",None,None,2011.6.5,None
+5,17755,"Carrboro, NC 27510",None,None,2011.6.5,Reported
+6,18060,"Portland, OR 97204",None,None,2011.6.4,Reported
+7,17104,"Honolulu, HI 96815",None,None,2011.6.4,None
+8,12200,"Goleta, CA 93117",None,None,2011.6.4,Reported
+9,17119,"Portland, OR 97211",None,None,2011.6.4,None

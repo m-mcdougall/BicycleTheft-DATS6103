@@ -1,0 +1,61 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,862561,"San Francisco, CA 94133",Cable lock,"Lock was cut, and left at the scene",2020.9.4,Reported
+1,864113,"Tampa, FL 33603",Not locked,"Other situation, please describe below",2020.9.4,None
+2,918258,"2251 S Tawny Woods Place, Boise, ID 83706",Not locked,"Other situation, please describe below",2020.9.4,Reported
+3,864089,"6 metrotech centre , Brooklyn, NY",None,None,2020.9.4,None
+4,863254,"1431 W Nine Mile Road , Pensacola, FL 32534",U-lock and cable,"Lock was cut, and left at the scene",2020.9.4,None
+0,866185,"New Orleans, LA 70117",None,None,2020.9.4,None
+1,765789,"Portland, OR 97215",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.4,Reported
+2,862903,"Portland, OR 97225",Not locked,None,2020.9.4,Reported
+3,863521,"Bellevue, WA 98005",Not locked,None,2020.9.4,Reported
+4,865502,"San Francisco, CA 94109",Other,"Other situation, please describe below",2020.9.4,Reported
+5,862813,"828 Marietta Ave, Lancaster, PA 17603",Not locked,Bike was not locked,2020.9.4,None
+6,863420,"San Diego, CA 92109",Not locked,"Other situation, please describe below",2020.9.4,Reported
+7,863484,"Chicago, IL 60647",None,None,2020.9.4,Reported
+8,925992,"Portland, OR 97206",None,None,2020.9.4,Reported
+0,862816,"Duluth, MN 55807",Not locked,"Other situation, please describe below",2020.9.4,Reported
+1,862792,"58 broadway, Denver, CO 80203",None,None,2020.9.4,None
+2,865066,"Mesa Ave, Clifton, CO 81520",None,None,2020.9.4,Reported
+3,865068,"Mesa Ave, Clifton, CO 81520",None,None,2020.9.4,Reported
+4,863089,"17 Ocean Ave , Ocean Grove, NJ 07756",Cable lock,"Lock is missing, along with the bike",2020.9.4,Reported
+5,865239,"La Crosse, WI 54601",Cable lock,"Lock is missing, along with the bike",2020.9.4,Reported
+6,863590,"126 Border St, Boston, MA 02128",Other,"Other situation, please describe below",2020.9.4,None
+0,922892,"Moraga, CA 94556",None,None,2020.9.4,Reported
+1,862923,"Chicago, IL 60647",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.4,Reported
+2,862710,"8953 Northwood Rd, Lynden, WA 98264",Other,"Lock is missing, along with the bike",2020.9.3,None
+3,862699,"11988 El Camino Real, San Diego, CA 92130",Cable lock,"Lock was cut, and left at the scene",2020.9.3,Reported
+4,862895,"Coconut Creek, FL 33073",Chain with padlock,Bike was not locked,2020.9.3,Reported
+5,862676,"East 7th Street Between Ave C and D, New York, NY 10009-6078",None,None,2020.9.3,None
+6,862661,"Florence Field , Arlington, MA 02476",None,None,2020.9.3,None
+0,862632,"Malden, MA 02148 ",None,None,2020.9.3,None
+1,853542,"Boulder, CO 80303",Chain with padlock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.3,Reported
+2,862615,"Saint Paul, MN 55102",Cable lock,"Lock was cut, and left at the scene",2020.9.3,Reported
+3,862617,"Denver, CO 80211",Cable lock,"Lock was cut, and left at the scene",2020.9.3,Reported
+4,863137,"675 E. 500 S., Salt Lake City, UT 84102",Other,"Other situation, please describe below",2020.9.3,Reported
+0,103729,"Oakland, CA 94607-5207",Two U-locks,"Lock was cut, and left at the scene",2020.9.3,None
+1,922032,"Woodland, CA 95776",None,None,2020.9.3,Reported
+2,863246,"Santa Monica Pier, Santa Monica, CA 90401",Cable lock,"Lock was cut, and left at the scene",2020.9.3,Reported
+3,863243,"Santa Monica Pier, Santa Monica, CA 90401",Cable lock,"Lock was cut, and left at the scene",2020.9.3,Reported
+4,862492,"2303 14th St. NW, Washington, DC 20009",None,None,2020.9.3,None
+5,863591,"1732 SE Ash Street, Portland, OR 97214",Other,"Lock was cut, and left at the scene",2020.9.3,Reported
+0,862483,"Boulder, CO 80309",U-lock,"Lock was opened, and left unharmed at the scene",2020.9.3,Reported
+1,697943,"Sunnyvale, CA 94085",Cable lock,"Lock is missing, along with the bike",2020.9.3,Reported
+2,867038,"Los Angeles, CA 90034",Not locked,Bike was not locked,2020.9.3,Reported
+3,696619,"598 W Main St, Boise, ID 83702",Not locked,Bike was not locked,2020.9.3,Reported
+4,862463,"Portland, OR 97220",None,None,2020.9.3,Reported
+5,863034,"Redwood City, CA 94061",None,None,2020.9.3,Reported
+6,864730,"New Orleans, LA 70130",None,None,2020.9.3,None
+0,862417,"1633 Ocean Front Walk, Santa Monica, CA 90401",None,None,2020.9.3,None
+1,862423,"Washington, PA 20001",None,"Lock was cut, and left at the scene",2020.9.3,None
+2,862497,"455 South 700 East, Salt Lake City, UT 84102",Not locked,"Other situation, please describe below",2020.9.3,Reported
+3,862957,"Portland, OR 97230",Not locked,Bike was not locked,2020.9.3,Reported
+0,862473,"Salt Lake City, UT",None,None,2020.9.3,Reported
+1,866949,"N Ashland Ave & Belmont, Chicago, IL 60657",Cable lock,"Other situation, please describe below",2020.9.3,None
+2,919708,"Boise, ID 83706",Cable lock,"Other situation, please describe below",2020.9.3,Reported
+3,919757,"Boise, ID 83706",Cable lock,"Lock was cut, and left at the scene",2020.9.3,Reported
+4,854199,"Chicago, IL 60647",None,None,2020.9.3,None
+5,919754,"Boise, ID 83706",Cable lock,"Lock was cut, and left at the scene",2020.9.3,Reported
+0,854122,"6301 North Sheridan Road, Chicago, IL 60660",None,None,2020.9.3,None
+1,918379,"Playa Del Rey, CA 90293",Cable lock,"Lock is missing, along with the bike",2020.9.3,Reported
+2,862555,"Portland, OR 97209",Cable lock,"Lock is missing, along with the bike",2020.9.3,None
+3,854110,"Portland, OR 97211",None,None,2020.9.3,Reported

@@ -1,0 +1,97 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,17923,"Burlingame, CA 94010",None,None,2009.7.5,Reported
+1,12445,"Portland, OR",None,None,2009.7.5,None
+2,9670,"Portland, OR 97215",None,None,2009.7.5,None
+3,6113,"Fort Wayne, IN 46845",None,None,2009.7.5,Reported
+4,9641,"Virginia Beach, VA 23451",None,None,2009.7.5,None
+5,6108,"Clintonville, OH 43202",None,None,2009.7.4,None
+6,31368,"The Colony, TX 75056",None,None,2009.7.4,Reported
+7,5853,"Orlando, FL 32801",None,None,2009.7.4,None
+8,9639,"Tampa, FL 33611",None,None,2009.7.4,Reported
+9,10092,"Portland, OR 97211",None,None,2009.7.4,None
+0,10053,"Menomonie, WI 54751",None,None,2009.7.4,Reported
+1,15946,"Mosheim, TN 37818",None,None,2009.7.4,None
+2,31377,"The Colony, TX 75056",None,None,2009.7.4,Reported
+3,9636,"Portland, OR 97214",None,None,2009.7.3,None
+4,6110,"Portland, OR 97217",None,None,2009.7.3,None
+5,7927,"Portland, OR 97217",None,None,2009.7.3,None
+6,9637,"Madison, WI 53703",None,None,2009.7.3,None
+7,9617,"Portland, OR 97215",None,None,2009.7.3,Reported
+8,9624,"Portland, OR",None,None,2009.7.3,None
+9,9620,"Baltimore, MD 21230",None,None,2009.7.3,Reported
+0,7147,"Portland, OR 97318",None,None,2009.7.3,None
+1,9664,"Makiki, HI 96822",None,None,2009.7.2,Reported
+2,9603,"Portland, OR 97210",None,None,2009.7.2,None
+3,9614,"Portland, OR 97210",None,None,2009.7.2,Reported
+4,6107,"Cambridge, MA 02139",None,None,2009.7.1,None
+5,9616,"Santa Monica, CA 90405",None,None,2009.7.1,Reported
+6,19988,"College Station, TX 77840",None,None,2009.7.1,Reported
+7,7846,"Burbank, CA 91506",None,None,2009.7.1,None
+8,10040,"Burbank, CA 91506",None,None,2009.7.1,None
+9,14106,"Hood River, OR",None,None,2009.7.1,None
+0,6294,"San Francisco, CA 94112",None,None,2009.6.30,None
+1,7209,"Denver, CO 80238",None,None,2009.6.30,None
+2,7843,"Portland, OR 97214",None,None,2009.6.30,Reported
+3,9612,"New York, NY 10003",None,None,2009.6.30,Reported
+4,10023,"Washington, DC 20005",None,None,2009.6.30,None
+5,10104,"Haverill, MA 01832",None,None,2009.6.30,Reported
+6,21566,"Lake Hughes, CA 93532",None,None,2009.6.30,None
+7,10058,"Portland, OR 97209",None,None,2009.6.30,None
+8,7940,"Sacramento, CA 95816",None,None,2009.6.29,Reported
+0,9597,"Washington, DC 20002",None,None,2009.6.29,Reported
+1,7115,"White Plains, NY 10607",None,None,2009.6.29,None
+2,7966,"Portland, OR 97213",None,None,2009.6.29,Reported
+3,10294,"Albuquerque, NM 87102",None,None,2009.6.29,Reported
+4,6220,"Sacramento, CA 95816",None,None,2009.6.29,Reported
+5,6106,"Denver, CO 80202",None,None,2009.6.28,None
+6,9580,"Oakdale, MN 55042",None,None,2009.6.28,None
+7,9594,"Columbus, OH 43201",None,None,2009.6.28,Reported
+8,10003,"Columbus, OH 43201",None,None,2009.6.28,None
+0,6104,"Pittsburgh, PA 15213",None,None,2009.6.28,Reported
+1,9575,"Portland, OR 97212",None,None,2009.6.28,None
+2,6818,"Portland, OR 97210",None,None,2009.6.28,Reported
+3,9576,"Portland, OR 97217",None,None,2009.6.28,Reported
+4,7103,"Portland, OR 97214",None,None,2009.6.28,None
+5,6487,"St. Paul, MN 55117",None,None,2009.6.27,None
+6,6485,"Charlottesville, VA 22903",None,None,2009.6.27,None
+7,9600,"Miami, FL 33138",None,None,2009.6.27,None
+8,9582,"Austin, TX 78701",None,None,2009.6.27,Reported
+9,6489,"Portland, OR 97205",None,None,2009.6.27,None
+0,7829,"Milwaukee, WI 53211",None,None,2009.6.26,None
+1,9994,"Moorhead, MN 56560",None,None,2009.6.26,Reported
+2,7821,"Austin, TX 78746",None,None,2009.6.26,None
+3,9573,"Los Angeles, CA 90020",None,None,2009.6.26,None
+4,9570,"Portland, OR 97231",None,None,2009.6.26,Reported
+5,9591,"Portland, OR 97202",None,None,2009.6.26,None
+6,10299,"Seattle, WA 98107",None,None,2009.6.26,Reported
+7,7823,"Portland, OR 97202",None,None,2009.6.26,None
+8,7858,"Gresham, OR 97024",None,None,2009.6.26,Reported
+9,7833,"Portland, OR 97214",None,None,2009.6.26,None
+0,9604,"Newport Beach, CA 92663",None,None,2009.6.26,None
+1,7132,"San Francisco, CA 94132",None,None,2009.6.26,None
+2,8078,"Phippsburg, ME 04562",None,None,2009.6.26,None
+3,7817,"Portland, OR 97214",None,None,2009.6.25,None
+4,6103,"Los Angeles, CA 90292",None,None,2009.6.25,None
+5,7813,"Los Angeles, CA 90292",None,None,2009.6.25,None
+6,9876,"Buffalo, NY 14202",None,None,2009.6.25,None
+7,9959,"Northbridge, MA 01588",None,None,2009.6.25,None
+8,7810,"Philadelphia, PA 19125",None,None,2009.6.25,Reported
+9,9562,"Murray, UT 84111",None,None,2009.6.25,None
+0,9967,"Portland, OR 97214",None,None,2009.6.25,None
+1,18259,"Portland, OR 97212",None,None,2009.6.25,None
+2,9718,"Redmond, WA 98052",None,None,2009.6.25,Reported
+3,6102,"Portland, OR 97202",None,None,2009.6.24,None
+4,9558,"Bethesda, MD 20816",None,None,2009.6.24,None
+5,8220,"Seattle, WA 98126",None,None,2009.6.24,None
+6,9595,"Albuquerque, NM 87103",None,None,2009.6.24,Reported
+7,9560,"Philadelphia, PA 19104",None,None,2009.6.24,None
+8,11672,"Anacortes, WA 98221",None,None,2009.6.24,None
+0,7097,"Hayward, CA 94545",None,None,2009.6.24,Reported
+1,7845,"Dallas, TX 75225",None,None,2009.6.24,None
+2,10276,"Oakland, CA 94612",None,None,2009.6.24,Reported
+3,7803,"Lake Oswego, OR 97034",None,None,2009.6.23,None
+4,9997,"Austin, TX 78701",None,None,2009.6.23,Reported
+5,18993,"Huntington Beach, CA 92648",None,None,2009.6.23,None
+6,7795,"Springfield, MO 65803",None,None,2009.6.22,Reported
+7,10005,"Wood Village, OR 97060",None,None,2009.6.22,Reported
+8,7785,"Brighton, MA 02135",None,None,2009.6.22,None

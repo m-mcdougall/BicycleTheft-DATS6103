@@ -1,0 +1,73 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,920898,"4050 N High St, Columbus, OH 43214",Cable lock,"Lock is missing, along with the bike",2020.9.18,None
+1,925986,"Los Angeles, CA 90064",Other,"Lock is missing, along with the bike",2020.9.18,Reported
+2,920860,"Denver, CO 80211",Other,"Other situation, please describe below",2020.9.18,Reported
+3,922136,"1234 SW 18th Ave, Portland, OR 97205",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.18,Reported
+4,922487,"Tempe, AZ 85282",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.18,Reported
+5,921407,"Denver, CO 80209",None,None,2020.9.18,Reported
+0,921626,"Seattle, WA 98116",None,None,2020.9.18,None
+1,923801,"New Orleans, LA 70115",None,None,2020.9.18,None
+2,922071,"Eugene, OR 97405",Not locked,Bike was not locked,2020.9.18,None
+3,920492,"200 E Burnsville Pkwy, Burnsville, MN 55337",U-lock and cable,"Lock was cut, and left at the scene",2020.9.17,Reported
+0,922681,"Boise, ID 83713",Cable lock,"Lock was cut, and left at the scene",2020.9.17,Reported
+1,920330,"1836 E Tramway Dr, Sandy, UT 84092",None,None,2020.9.17,None
+2,611806,"Boise, ID 83704",Other,"Other situation, please describe below",2020.9.17,Reported
+3,920294,"300 Rowan Blvd, Glassboro, NJ 08028",None,None,2020.9.17,None
+4,920278,"Fort Collins, CO 80521",U-lock and cable,"Lock was cut, and left at the scene",2020.9.17,None
+5,920268,"Seattle, WA 98103",None,None,2020.9.17,None
+6,921167,"Indiana, PA 15701",Not locked,Bike was not locked,2020.9.17,Reported
+7,923289,"10506 Santa Monica Boulevard , Los Angeles, CA 90025",U-lock,"Lock is missing, along with the bike",2020.9.17,Reported
+0,920258,"735 SW Saint Clair Ave, Portland, OR 97205",None,None,2020.9.17,Reported
+1,920293,"Seattle, WA 98109",U-lock and cable,"Lock was cut, and left at the scene",2020.9.17,None
+2,920331,"San Francisco, CA 94110",U-lock,"Lock was cut, and left at the scene",2020.9.17,Reported
+3,920251,"Boulder, CO 80305",None,None,2020.9.17,Reported
+4,920224,"Minneapolis, MN 55416",None,None,2020.9.17,None
+5,920220,"San Francisco, CA 94110",U-lock,"Lock was cut, and left at the scene",2020.9.17,None
+6,920208,"San Francisco, CA 94132",None,None,2020.9.17,None
+7,936770,"325 9th Ave, Seattle, WA 98104",Cable lock,"Lock is missing, along with the bike",2020.9.17,None
+0,920412,"100 n 85th street, Seattle, WA 98103",Cable lock,"Lock was cut, and left at the scene",2020.9.17,Reported
+1,920776,"306 Broderick St., San Francisco, CA 94117",None,"Other situation, please describe below",2020.9.17,None
+2,920128,"Campbell, CA 95008",None,None,2020.9.17,None
+3,920131,"Los Angeles, CA 90230",None,None,2020.9.17,None
+4,920137,"Milwaukee, WI 53211",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.17,Reported
+5,409317,"Austin, TX 78705",U-lock,"Lock was opened, and left unharmed at the scene",2020.9.17,Reported
+6,949867,"515 Lincoln Avenue, San Jose, CA 95126",Cable lock,"Lock is missing, along with the bike",2020.9.17,Reported
+7,920114,"1401 S Flores St, San Antonio, TX 78204",None,None,2020.9.17,Reported
+8,710298,"Denver, CO 80209",Not locked,Bike was not locked,2020.9.17,Reported
+0,920083,"Cottonwood, UT 84121",Not locked,"Other situation, please describe below",2020.9.17,Reported
+1,120358,"Portland, OR 97232",Cable lock,"Lock was opened, and left unharmed at the scene",2020.9.17,None
+2,923694,"San Francisco, CA 94105",Other,"Other situation, please describe below",2020.9.17,Reported
+3,919989,"3939 Botanical Ave, Saint Louis, MO 63110",None,None,2020.9.17,Reported
+4,746554,"2869 NE SANDY Blvd , Portland, OR 97232",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.17,Reported
+5,919970,"Minneapolis, MN 55406",Not locked,"Other situation, please describe below",2020.9.17,Reported
+6,920207,"2020 SE Taylor St, Portland, OR 97214",None,None,2020.9.17,None
+0,920325,"Rochester, NY 14620",Cable lock,"Lock is missing, along with the bike",2020.9.17,Reported
+1,919951,"45th and Ortega , San Francisco, CA 94122",None,None,2020.9.17,None
+2,920250,"Boulder, CO 80305",None,None,2020.9.17,Reported
+3,920090,"Portland, OR 97202",None,None,2020.9.17,Reported
+4,923610,"900 23rd St NW, Washington, DC 20037",None,None,2020.9.17,Reported
+5,928278,"Salt Lake City, UT 84101",None,None,2020.9.17,Reported
+6,920560,"Denver, CO 80206",None,None,2020.9.17,Reported
+7,920967,"Seattle, WA 98133",None,Bike was not locked,2020.9.17,Reported
+8,929477,"Lake Powell Park, 23104 Lakeview Dr., Panama City Beach, FL 32413",Not locked,Bike was not locked,2020.9.17,Reported
+0,930435,"23104 Lakeview Dr., Panama City Beach, FL 32413",Not locked,Bike was not locked,2020.9.17,Reported
+1,919873,"Denver, CO 80216",None,None,2020.9.16,None
+2,919874,"Montana Stairs/Santa Monica Beach Path, Santa Monica, CA 90402",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.16,Reported
+3,922232,"St. Paul, MN 55114",U-lock and cable,"Lock was cut, and left at the scene",2020.9.16,Reported
+4,922240,"Saint Paul, MN 55114",U-lock and cable,"Lock was cut, and left at the scene",2020.9.16,Reported
+5,952660,"42170 Big Bear Blvd., Big Bear Lake, CA 92315",Cable lock,"Lock is missing, along with the bike",2020.9.16,None
+6,728025,"Vallejo, CA 94590",Cable lock,None,2020.9.16,None
+0,919865,"1655 N. Williams St., Denver, CO 80218",None,None,2020.9.16,Reported
+1,920180,"Denver, CO 80204",Chain with padlock,"Other situation, please describe below",2020.9.16,Reported
+2,922397,"Portland, OR 97206",None,None,2020.9.16,Reported
+3,922402,"Portland, OR 97206",None,None,2020.9.16,Reported
+4,793029,"New York, NY 10009",Cable lock,"Lock is missing, along with the bike",2020.9.16,None
+5,919791,"Seattle, WA",None,None,2020.9.16,None
+6,919751,"Puyallup, WA 98375",None,None,2020.9.16,None
+0,919741,"Seattle, WA 98103",Chain with padlock,"Lock was cut, and left at the scene",2020.9.16,Reported
+1,924413,"Denver, CO 80203",Cable lock,"Lock was cut, and left at the scene",2020.9.16,Reported
+2,919684,"2126 Isleta Blvd SW #C1, Albuquerque, NM 87105",None,None,2020.9.16,None
+3,919629,"2332 Kewanee Way, Golden Valley, MN 55422",None,None,2020.9.16,None
+4,919616,"1906 College Heights Blvd., Bowling Green, KY 42101",None,"Lock was cut, and left at the scene",2020.9.16,Reported
+5,919622,"2601 76TH AVE SE, Mercer Island, WA 98040",Chain with padlock,"Lock is missing, along with the bike",2020.9.16,Reported
+6,920547,"410 W 10th Ave, Columbus, OH 43210",Cable lock,None,2020.9.16,None

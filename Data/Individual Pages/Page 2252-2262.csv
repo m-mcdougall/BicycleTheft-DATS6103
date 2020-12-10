@@ -1,0 +1,82 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,607972,"New Orleans, LA 70114",None,None,2019.5.2,Reported
+1,610523,"Santa Rosa, CA 95401",Not locked,"Other situation, please describe below.",2019.5.2,None
+2,605209,"Santa Monica, CA",None,None,2019.5.2,None
+3,636093,"Milwaukee, WI 53212",U-lock,"Other situation, please describe below",2019.5.2,Reported
+4,605222,"Building 38 North Perimeter Rd, San Luis Obispo, CA 93410",Cable lock,"Lock is missing, along with the bike.",2019.5.2,Reported
+5,387489,"Pensacola, FL 32514",U-lock,None,2019.5.2,Reported
+0,605197,"Sunnyvale, CA 94087",None,None,2019.5.2,None
+1,605193,"Seattle, WA 98101",Not locked,Bike was not locked,2019.5.2,None
+2,608261,"Englewood, CO 80112",None,None,2019.5.2,Reported
+3,605190,"Venice, FL 34293",None,None,None,None
+4,615445,"New Orleans, LA 70130",Cable lock,"Lock is missing, along with the bike.",2019.5.2,None
+5,605356,LA 70121,None,None,2019.5.2,Reported
+6,604626,"416 Dolores Street, San Francisco, CA 94110",Not locked,"Other situation, please describe below.",2019.5.2,Reported
+7,608505,"Portland, OR 97209",None,None,2019.5.2,None
+8,609086,"Los Angeles, CA 90068",U-lock and cable,"Lock was cut, and left at the scene.",2019.5.2,Reported
+0,671739,"San Jose, CA 95110",Cable lock,None,2019.5.2,None
+1,604603,"670 N. Russell Street, Portland, OR 97227",Heavy duty bicycle security chain,"Lock is missing, along with the bike.",2019.5.2,Reported
+2,87254,"Portland, OR 97213",Other,"Other situation, please describe below.",2019.5.1,Reported
+3,608500,"Palo Alto, CA 94304",U-lock and cable,"Lock is missing, along with the bike.",2019.5.1,None
+4,606226,"138 SW Clay St, Portland, OR 97201",Cable lock,None,2019.5.1,None
+5,604527,"1310 Minor Ave, Seattle, WA 98101",None,None,2019.5.1,None
+6,604520,"41st & Halsey Trader Joe’s , Portland, OR 97213",None,None,2019.5.1,Reported
+7,604517,"9347 SE 82ND AVE, Happy, OR 97086",Other,None,2019.5.1,Reported
+8,118512,"Houston, TX 77007",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2019.5.1,Reported
+0,604508,"4750 Roosevelt way NE , Seattle, WA 98105",None,None,2019.5.1,None
+1,604502,"Chapel Hill, NC 27514",None,None,2019.5.1,None
+2,609077,"Los Angeles, CA 90045",None,None,2019.5.1,Reported
+3,604412,"New Orleans, LA 70130",None,None,2019.5.1,Reported
+4,604462,"Fairfield, IA 52556",Not locked,None,2019.5.1,None
+5,604465,"Atlanta, GA 30307",Cable lock,Bike was not locked,2019.5.1,Reported
+6,646282,"2727 Kings Rd, #1105, Dallas, TX 75219",None,"Lock was cut, and left at the scene",2019.5.1,None
+7,605210,"Froiland Science Complex, W 33rd St, Sioux Falls, SD 57197",Cable lock,"Lock was cut, and left at the scene.",2019.5.1,Reported
+8,616594,"Portland, OR 97209",U-lock,"Lock is missing, along with the bike.",2019.5.1,None
+0,604435,"Melbourne, FL 32901",None,None,2019.5.1,Reported
+1,604422,"Boston, MA 02116",Not locked,None,2019.5.1,Reported
+2,614082,"St. Paul, MN 55106",Other,"Other situation, please describe below.",2019.5.1,Reported
+3,607976,"Arabi, LA 70032",None,None,2019.5.1,Reported
+4,38439,"San Francisco, CA 94103",U-lock,"Lock was cut, and left at the scene.",2019.5.1,Reported
+5,604566,"301 Church Ave. , College Station, TX 77840",Cable lock,"Lock is missing, along with the bike.",2019.5.1,Reported
+6,604374,"3518 N Broadway St, Chicago, IL 60657",U-lock,"Lock is missing, along with the bike.",2019.4.30,None
+7,604516,"Providence, RI 02906",Not locked,Bike was not locked,2019.4.30,Reported
+8,604370,"Portland, OR 97205",None,None,None,None
+0,609127,"98 Windward Ct, Venice, CA 90291",Not locked,None,2019.4.30,None
+1,512993,"Boise, ID 83706",Not locked,None,2019.4.30,Reported
+2,514229,"Houston, TX 77058",Not locked,Bike was not locked,2019.4.30,Reported
+3,604350,"San Francisco, CA 94102",None,None,2019.4.30,None
+4,608603,"1300 Treme St, New Orleans, LA 70116",Not locked,"Other situation, please describe below.",2019.4.30,None
+5,604296,"Los Angeles, CA 90045",None,None,2019.4.30,None
+6,604289,"22500 SE 56th Street, Issaquah, WA 98029",None,None,2019.4.30,None
+0,604284,"Ridgewood, NY 11385",Other,"Other situation, please describe below.",2019.4.30,None
+1,605213,"201 Brookline Ave, Boston, MA 02215",Cable lock,"Lock is missing, along with the bike.",2019.4.30,None
+2,604261,"1338 S Michigan Ave, Chicago, IL 60605",None,None,2019.4.30,None
+3,604355,"Portland, OR 97211",Other,"Other situation, please describe below.",2019.4.30,Reported
+4,604356,"Portland, OR 97211",Other,"Other situation, please describe below.",2019.4.30,Reported
+5,604281,"Del Mar, CA 92075",Other,"Other situation, please describe below.",2019.4.30,Reported
+6,608543,"Minneapolis, MN 55408",None,None,2019.4.30,Reported
+0,604609,"San Francisco, CA 94115",U-lock and cable,"Other situation, please describe below.",2019.4.30,Reported
+1,407445,"Encino, CA 91436",Cable lock,"Lock was opened, and left unharmed at the scene.",2019.4.30,None
+2,604231,"Market and 8th , San Francisco, CA 94103",None,None,2019.4.30,None
+3,604264,"23rd and Walnut Street, Philadelphia, PA 19103",U-lock,"Lock is missing, along with the bike.",2019.4.30,None
+4,604170,"Bijou Theater bike parking by 13th Ave., Eugene, OR 97403",U-lock,None,2019.4.29,None
+5,604203,"Alameda, CA 94501-6226",U-lock and cable,"Lock is missing, along with the bike.",2019.4.29,None
+6,76464,"Portland, OR 97232",U-lock,"Lock is missing, along with the bike.",2019.4.29,Reported
+7,38519,"San Francisco, CA 94107",U-lock,"Lock is missing, along with the bike.",2019.4.29,Reported
+0,604468,"8601 Broadway Ave, Richmond, VA 23228",None,"Other situation, please describe below.",2019.4.29,None
+1,597043,"San Antonio, TX 78211",None,None,2019.4.29,None
+2,388765,"Seattle, WA 98109",None,None,2019.4.29,None
+3,614001,"New Orleans, LA 70119",None,None,2019.4.29,None
+4,604154,"Los Angles, CA",None,None,2019.4.29,None
+5,604155,"Los Angles, CA",Cable lock,"Lock is missing, along with the bike.",2019.4.29,None
+6,604478,"42 Duffield St, Brooklyn, NY 11201",Not locked,"Other situation, please describe below.",2019.4.29,None
+7,604125,"1002 S Lake street, Salt Lake City, UT 84105",None,None,2019.4.29,None
+0,604116,"4515 21st Ave NE, Seattle, WA 98105",None,None,2019.4.29,None
+1,604113,"Seattle, WA 98103",None,None,2019.4.29,Reported
+2,604534,"Seattle, WA 98101",None,None,2019.4.29,Reported
+3,604095,"Campbell, CA 95008",Other,"Other situation, please describe below.",2019.4.29,Reported
+4,604096,"Campbell, CA 85008",Other,"Other situation, please describe below.",2019.4.29,Reported
+5,604097,"Campbell,, CA 95008",Other,"Other situation, please describe below.",2019.4.29,Reported
+6,604098,"Campbell,, CA 95008",Other,"Other situation, please describe below.",2019.4.29,Reported
+7,604083,"New Orleans, LA 70117",None,None,2019.4.29,None
+8,604072,"Portland, OR 97218",None,None,2019.4.29,Reported

@@ -1,0 +1,85 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,429679,"Chicago, IL 60642",Not locked,Bike was not locked,2018.9.26,Reported
+1,429777,"Oakland, CA 94612",U-lock,"Lock was cut, and left at the scene.",2018.9.26,Reported
+2,429680,"Chicago, IL 60642",Not locked,Bike was not locked,2018.9.26,Reported
+3,429633,"Chicago, IL 60642",Not locked,"Other situation, please describe below.",2018.9.26,Reported
+4,429603,"Austin, CT 78741",None,None,2018.9.26,None
+5,429604,"Brooklyn, NY 11221",U-lock and cable,"Lock was cut, and left at the scene.",2018.9.26,None
+6,430223,"Palo Alto, CA 94301",Cable lock,"Lock is missing, along with the bike.",2018.9.26,Reported
+7,428848,"New Orleans, LA 70117",None,None,2018.9.26,Reported
+8,645716,"Indianapolis, IN 46201",Other,"Lock was cut, and left at the scene",2018.9.26,Reported
+9,430743,"Seattle, WA 98121",None,None,2018.9.26,Reported
+0,429969,"Portland, OR 97214",Cable lock,"Lock was cut, and left at the scene.",2018.9.26,Reported
+1,429315,"Berkeley, CA 94705",None,None,2018.9.26,None
+2,429626,"Eugene, OR 97401",Chain with padlock,"Lock was cut, and left at the scene.",2018.9.26,None
+3,429333,"Tacoma, WA 98405",Not locked,None,2018.9.25,None
+4,429783,"Boise, ID 83701",Cable lock,"Lock is missing, along with the bike.",2018.9.25,Reported
+5,429744,"New Orleans, LA 70130",Cable lock,"Lock was cut, and left at the scene.",2018.9.25,Reported
+6,431634,"Albuquerque, NM 87120",Cable lock,"Lock is missing, along with the bike.",2018.9.25,Reported
+0,434133,"Redwood Shores, CA 94065",Chain with padlock,"Lock was cut, and left at the scene.",2018.9.25,None
+1,429716,"Oakland, CA 94609",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2018.9.25,Reported
+2,428999,"Buffalo, NY 14201",Chain with padlock,"Lock was cut, and left at the scene.",2018.9.25,None
+3,428821,"Austin, TX 78701",None,None,2018.9.25,None
+4,428779,"Salem, OR 97301",None,None,2018.9.25,None
+5,428782,"Santa Rosa, CA 95403",Not locked,"Other situation, please describe below.",2018.9.25,Reported
+6,428800,"Chicago, IL 60607",Heavy duty bicycle security chain,"Lock was opened, and left unharmed at the scene.",2018.9.25,Reported
+7,428838,"Larkspur, CA 94939",Cable lock,"Lock is missing, along with the bike.",2018.9.25,None
+0,428756,"Santa Rosa, CA 95401",Not locked,Bike was not locked,2018.9.25,Reported
+1,428660,"Buffalo, NY 14213",None,"Lock was cut, and left at the scene.",2018.9.25,Reported
+2,428694,"Columbus, OH 43206",U-lock,"Lock is missing, along with the bike.",2018.9.25,Reported
+3,430907,"Omaha, NE 68106",None,None,2018.9.25,Reported
+4,430896,"Omaha, NE 68106",None,None,2018.9.25,Reported
+5,364482,"Seattle, WA 98195",Chain with padlock,"Lock was cut, and left at the scene.",2018.9.25,Reported
+6,428928,"Webster Groves, MO 63119",Not locked,None,2018.9.25,Reported
+7,428869,"Milwaukee, WI 53207",None,None,2018.9.25,Reported
+8,428481,"Davis, CA 95616",None,None,2018.9.25,None
+0,429740,"Washington, DC 20010",Other,"Other situation, please describe below.",2018.9.25,Reported
+1,428082,"Ventura, CA 93001",None,None,2018.9.24,None
+2,430126,"Tucson, AZ 85705",Cable lock,"Lock is missing, along with the bike.",2018.9.24,None
+3,428994,"Oregon City, OR 97045",Not locked,None,2018.9.24,Reported
+4,429774,"Montpelier, VT 05602",Cable lock,"Lock is missing, along with the bike.",2018.9.24,None
+5,430086,"Austin, TX 78757",Other,"Other situation, please describe below.",2018.9.24,Reported
+6,428331,"Wareham, MA 02571",Heavy duty bicycle security chain,"Object that bike was locked to was broken, removed, or otherwise compromised.",2018.9.24,Reported
+7,428338,"Brooklyn, NY 11231",None,None,2018.9.24,None
+0,433066,"Providence, RI 02903",None,None,2018.9.24,Reported
+1,428386,"Austin, TX 78705",Cable lock,"Lock is missing, along with the bike.",2018.9.24,None
+2,429054,"New York, NY 10027",Not locked,"Other situation, please describe below.",2018.9.24,None
+3,429014,"Buffalo, NY 14213",Cable lock,"Lock was cut, and left at the scene.",2018.9.24,None
+4,429170,"Los Angeles, CA 90068",None,None,2018.9.24,None
+5,428160,"Houston, TX 77005",U-lock and cable,"Object that bike was locked to was broken, removed, or otherwise compromised.",2018.9.24,None
+6,428301,"New York, New York, NY 10010",Cable lock,"Lock was cut, and left at the scene.",2018.9.24,Reported
+7,428791,"Tampa, FL 33613",Cable lock,"Lock is missing, along with the bike.",2018.9.24,Reported
+0,428096,"Fort Wayne, IN 46816",None,None,2018.9.24,None
+1,427997,"Albuquerque, NM 87106",None,None,2018.9.24,Reported
+2,427964,"Sunnyvale, CA 94087",None,None,2018.9.24,None
+3,427984,"Berkeley, CA 94720",Chain with padlock,"Lock was cut, and left at the scene.",2018.9.24,Reported
+4,427943,"Princeton, NJ 08540",Cable lock,"Lock was cut, and left at the scene.",2018.9.24,None
+5,427892,"Newport Beach, CA 92657",Cable lock,"Lock is missing, along with the bike.",2018.9.24,Reported
+6,429628,"Indianapolis, IN 46202",Not locked,"Lock is missing, along with the bike.",2018.9.24,None
+7,427868,"Everett, WA 98201",None,None,2018.9.24,None
+8,427846,"Des Moines, IA 50315",None,None,2018.9.24,None
+0,429895,"Oakland, CA 94609",Cable lock,"Lock was cut, and left at the scene.",2018.9.24,Reported
+1,428006,"Columbus, OH 43202",Cable lock,"Lock is missing, along with the bike.",2018.9.24,None
+2,435186,"Saint Paul, MN 55116",Cable lock,"Lock is missing, along with the bike.",2018.9.24,Reported
+3,427347,"Washington, DC 20002",None,None,2018.9.23,None
+4,427348,"Eugene, OR",Cable lock,"Lock is missing, along with the bike.",2018.9.23,None
+5,427374,"Philadelphia, PA 19122",Not locked,"Other situation, please describe below.",2018.9.23,Reported
+0,427314,"Berkeley, CA 94704",None,None,2018.9.23,None
+1,427291,"Stockton, CA 95219",None,None,2018.9.23,None
+2,427290,"Stockton, CA 95219",None,None,2018.9.23,None
+3,427281,"Stockton, CA 95219",None,None,2018.9.23,None
+4,427267,"Stockton, CA 95219",None,None,2018.9.23,None
+5,427277,"Stockton, CA 95219",Not locked,None,2018.9.23,None
+6,428094,"Portland, OR 97211",Cable lock,"Lock was cut, and left at the scene.",2018.9.23,Reported
+7,427143,"Phoenix, AZ 85007",None,None,2018.9.23,None
+8,427244,"San Jose, CA 95134",U-lock and cable,"Lock was cut, and left at the scene.",2018.9.23,Reported
+0,432278,"Vancouver, WA 98685",None,None,2018.9.23,Reported
+1,427066,"Stockton, CA 95219",Not locked,None,2018.9.23,None
+2,427009,"Seattle, WA 98107",Other,"Other situation, please describe below.",2018.9.23,None
+3,406305,"Saint, MN 55117",Two U-locks,"Lock is missing, along with the bike.",2018.9.23,Reported
+4,406482,"Saint, MN 55117",Two U-locks,"Lock is missing, along with the bike.",2018.9.23,Reported
+5,426953,"Pittsburgh, PA 15206",Not locked,Bike was not locked,2018.9.23,None
+6,426929,"Salt Lake City, UT 84101",None,None,2018.9.23,None
+7,427357,"Pasadena, CA 91106",None,None,2018.9.23,Reported
+8,428356,"Boise, ID 83702",None,None,2018.9.23,None
+9,428105,"San Diego, CA 92101",Cable lock,"Lock is missing, along with the bike.",2018.9.23,Reported

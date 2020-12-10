@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,16908,"Portland, OR 97217",None,None,2013.8.1,Reported
+1,19990,"Portland, OR 97217",None,None,2013.8.1,Reported
+2,17552,"St. Louis, MO 63125",None,None,2013.8.1,None
+3,16998,"New Haven, CT 06511",None,None,2013.8.1,Reported
+4,17558,"St. Louis, MO 63125",None,None,2013.8.1,None
+5,16784,"Portland, OR 97213",None,None,2013.8.1,None
+6,22378,"Portland, OR 97232",None,None,2013.8.1,None
+7,16896,"Portland, OR 97217",None,None,2013.8.1,Reported
+8,19948,"Winterville, NC 28590",None,None,2013.8.1,None
+9,22582,"Portland, OR 97215",None,None,2013.8.1,Reported
+0,21192,"Carrboro, NC 27510",None,None,2013.7.31,Reported
+1,20990,"Portland, OR 97213",None,None,2013.7.31,None
+2,20224,"Dover Bay, ID 83825",None,None,2013.7.31,None
+3,21477,"Modesto, CA 95354",None,None,2013.7.31,None
+4,22193,"Portland, OR 97214",None,None,2013.7.31,None
+5,20227,"Dover Bay, ID 83825",None,None,2013.7.31,None
+6,22415,"Portland, OR 97227",None,None,2013.7.31,None
+7,17248,"Dover Bay, ID 83825",None,None,2013.7.31,None
+8,16798,"Portland, OR 97232",None,None,2013.7.31,None
+9,19964,"Beaverton, OR 97006",None,None,2013.7.31,Reported
+0,22618,"Carrboro, NC 27510",None,None,2013.7.31,Reported
+1,19965,"Portland, OR 97214",None,None,2013.7.31,Reported
+2,16083,"San Francisco, CA 94110",None,None,2013.7.31,None
+3,21764,"Carrboro, NC 27510",None,None,2013.7.31,Reported
+4,22363,"Portland, OR 97203",None,None,2013.7.31,Reported
+5,20009,"Portland, OR",None,None,2013.7.31,None
+6,16754,"Northampton, MA 01060",None,None,2013.7.31,Reported
+7,22374,"Tualatin, OR 97062",None,None,2013.7.30,None
+8,20986,"Tualatin, OR 97062",None,None,2013.7.30,None
+9,21400,"Portland, OR 97209",None,None,2013.7.30,Reported
+0,22391,"San Francisco, CA 94122",None,None,2013.7.30,Reported
+1,35383,"Berkeley, CA 94709",U-lock and cable,"Other situation, please describe below.",2013.7.30,Reported
+2,35384,"Berkeley, CA 94709",U-lock and cable,"Other situation, please describe below.",2013.7.30,Reported
+3,16740,"New York, NY 10010",None,None,2013.7.30,None
+4,22358,"New, NY 10013",None,None,2013.7.30,None
+5,20316,"St Paul, MN 55104",None,None,2013.7.30,Reported
+6,20984,"Longview, WA 98632",None,None,2013.7.30,Reported
+7,22389,"Portland, OR 97202",None,None,2013.7.30,None
+8,16199,"Chico, CA 95928",None,None,2013.7.30,None
+9,22317,"Portland, OR 97202-2706",None,None,2013.7.30,Reported
+0,16730,"Portland, OR 97209",None,None,2013.7.30,None
+1,21437,"Seattle, WA 98109",None,None,2013.7.30,Reported
+2,16762,"Portland, OR 97204",None,None,2013.7.30,Reported
+3,16780,"Chicago, IL 60647",None,None,2013.7.30,None
+4,21583,"Ithaca, NY 14850",None,None,2013.7.29,None
+5,20788,"Shoreline, WA 98133",None,None,2013.7.29,Reported
+6,22265,"Virginia Beach, VA 23452",None,None,2013.7.29,None
+7,22289,"Pittsburgh, PA 15232",None,None,2013.7.29,Reported
+8,12401,"Portland, OR 97202",None,None,2013.7.29,Reported
+9,19950,"Hillsboro, OR 97124",None,None,2013.7.29,Reported
+0,21513,"Champaign, IL 61820",None,None,2013.7.29,None
+1,22304,"Seattle, WA 98101",None,None,2013.7.29,None
+2,16728,"Spokane, WA 99203",None,None,2013.7.29,None
+3,22328,"Chicago, IL 60614",None,None,2013.7.29,Reported
+4,22379,"Portland, OR 97211",None,None,2013.7.29,Reported
+5,22272,"Long Beach, CA 90803",None,None,2013.7.29,Reported
+6,22314,"La Jolla, CA 92093",None,None,2013.7.29,Reported
+7,22251,"Tucson, AZ 85719",None,None,2013.7.29,Reported
+8,22401,"South Salt Lake, UT 84115",None,None,2013.7.29,None
+9,20983,"Hell\\'S Kitchen, NY 10036",None,None,2013.7.29,Reported
+0,16729,"Sacramenot, CA 95825",None,None,2013.7.29,Reported
+1,19945,"West Philly, PA 19104",None,None,2013.7.29,Reported
+2,16829,"Portland, OR 97202",None,None,2013.7.29,Reported
+3,16736,"Brooklyn, NY 11238",None,None,2013.7.29,Reported
+4,20530,"Portland, OR 97209",None,None,2013.7.29,Reported
+5,22454,"Portland, OR 97206",None,None,2013.7.29,None
+6,20976,"Tacoma, WA 98405",None,None,2013.7.29,Reported
+7,16734,"Lincoln, NE 68502",None,None,2013.7.29,Reported
+8,21177,"Salt Lake City, UT 84102",None,None,2013.7.29,None
+9,16791,"West Palm Beach, FL 33407",None,None,2013.7.28,Reported
+0,22561,"Seattle, WA 98112",None,None,2013.7.28,Reported
+1,16833,"New York City, NY 10001",None,None,2013.7.28,None
+2,19926,"Portland, OR 97209",None,None,2013.7.28,None
+3,20981,"Brooklyn, NY 11222",None,None,2013.7.28,None
+4,21009,"Portland, OR 97206",None,None,2013.7.28,Reported
+5,16796,"Portland, OR 97209",None,None,2013.7.28,Reported
+6,16704,"Portland, OR 97214",None,None,2013.7.28,None
+7,22247,"San Jose, CA 95125",None,None,2013.7.28,Reported
+8,22318,"Portland, OR 97209",None,None,2013.7.28,Reported
+9,16718,"Chicago, IL 60601",None,None,2013.7.28,Reported
+0,20004,"Portland, OR 97459",None,None,2013.7.28,None
+1,19933,"San Diego, CA 92109",None,None,2013.7.28,Reported
+2,21396,"San Francisco, CA 94112",None,None,2013.7.28,Reported
+3,22196,"Philadelphia, PA 19130",None,None,2013.7.28,Reported
+4,22295,"Berkeley, CA 94705",None,None,2013.7.28,Reported
+5,22488,"North Bend, OR 97459",None,None,2013.7.28,None
+6,28729,"Hayes Valley, CA 94102",None,None,2013.7.28,None
+7,22313,"Madison/Capitol Hill, WA 98112",None,None,2013.7.28,None
+8,19934,"Portland, OR 97214",None,None,2013.7.28,Reported
+0,20988,"Portlandq, OR 97209",None,None,2013.7.27,None
+1,22355,"Cambridge, MA 02139",None,None,2013.7.27,Reported
+2,22531,"Portland, OR 97210",None,None,2013.7.27,Reported
+3,16077,"New York City, NY 10279",None,None,2013.7.27,None
+4,728,"Santa Monica, CA 90403",Cable lock,"Lock was cut, and left at the scene.",2013.7.27,Reported
+5,16694,"Portland, OR 97209",None,None,2013.7.27,None
+6,21592,"Portland, OR 97210",None,None,2013.7.27,Reported
+7,22173,"Portland, OR 97209",None,None,2013.7.27,Reported
+8,22192,"Portland, OR 97203",None,None,2013.7.27,Reported
+9,22206,"Portland, OR 97206",None,None,2013.7.27,Reported

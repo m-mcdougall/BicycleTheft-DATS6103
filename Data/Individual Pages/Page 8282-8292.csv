@@ -1,0 +1,89 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,10508,"Philadelphia, PA 19143",None,None,2009.8.28,None
+1,10503,"Saint Paul, MN 55104",None,None,2009.8.28,None
+2,10285,"Philadelphia, PA 19102",None,None,2009.8.28,Reported
+3,7704,"Portland, OR 97214",None,None,2009.8.28,None
+4,6261,"Chicago, IL 60657",None,None,2009.8.27,Reported
+5,10259,"Philadelphia, PA 19106",None,None,2009.8.27,Reported
+6,10283,"Portland, OR 97213",None,None,2009.8.27,Reported
+7,10279,"Philadelphia, PA 19106",None,None,2009.8.27,Reported
+8,10267,"Las Vegas, NV 89156",None,None,2009.8.27,None
+0,10490,"Jersey City, NJ 07302",None,None,2009.8.27,Reported
+1,5851,"Bethel, CT 06801",None,None,2009.8.27,None
+2,6256,"San Francisco, CA 94110",None,None,2009.8.26,Reported
+3,28772,"Portland, OR",None,None,2009.8.26,None
+4,5859,"Harmony, PA 16037",None,None,2009.8.26,Reported
+5,5834,"Riverview, FL 33578",None,None,2009.8.26,Reported
+6,5837,"Cambridge, MA 02141",None,None,2009.8.26,None
+7,6199,"Salt Lake City, UT 84104",None,None,2009.8.26,Reported
+8,9768,"Chicago, IL 60622",None,None,2009.8.26,None
+0,10459,"Manhattan, NY 10016",None,None,2009.8.26,None
+1,18205,"Portland, OR 97202",None,None,2009.8.26,Reported
+2,11952,"Falcon Heights, MN 55108",None,None,2009.8.26,None
+3,10469,"Portland, OR",None,None,2009.8.26,None
+4,10256,"Raleigh, NC 27608",None,None,2009.8.26,Reported
+5,5824,"Portland, OR 97236",None,None,2009.8.25,Reported
+6,6890,"Medford, MA 97501",None,None,2009.8.25,None
+7,7639,"Portland, OR 87209",None,None,2009.8.25,None
+0,8799,"Portland, OR 97203",None,None,2009.8.25,None
+1,10212,"Philadelphia, PA 19103",None,None,2009.8.25,None
+2,10326,"Portland, OR",None,None,2009.8.25,None
+3,5828,"Olathe, KS 66062",None,None,2009.8.25,None
+4,5829,"Houston, TX 77057",None,None,2009.8.25,None
+5,7799,"Reno, NV 89509",None,None,2009.8.25,Reported
+6,10216,"Topeka, KS 66611",None,None,2009.8.25,Reported
+7,10230,"New York, NY 10003",None,None,2009.8.25,Reported
+8,11575,"Tucson, AZ 85701",None,None,2009.8.25,None
+9,10332,"Portland, OR 97232",None,None,2009.8.25,Reported
+0,10235,"San Diego, CA 92109",None,None,2009.8.25,Reported
+1,10334,"Portland, OR 97232",None,None,2009.8.25,Reported
+2,14550,"Portland, OR 97212",None,None,2009.8.24,Reported
+3,10223,"Murphysboro, IL 62966",None,None,2009.8.24,None
+4,10208,"Boston, MA 02116",None,None,2009.8.24,None
+5,10322,"Tulsa, OK 74133",None,None,2009.8.24,None
+6,10461,"Statesboro, GA 30458",None,None,2009.8.24,Reported
+7,6266,"Bakersfield, CA 93306",None,None,2009.8.24,Reported
+8,10328,"Tulsa, OK 74133",None,None,2009.8.24,None
+9,12921,"Portland, OR 97209",None,None,2009.8.24,None
+0,18193,"San Francisco, CA 94110",None,None,2009.8.24,Reported
+1,7701,"Los Angeles, CA 90025",None,None,2009.8.23,Reported
+2,5797,"Orlando, FL 32803",None,None,2009.8.23,Reported
+3,5820,"Portland, OR 97211",None,None,2009.8.23,None
+4,7716,"Panama City Beach, FL 32411",None,None,2009.8.23,None
+5,10196,"Venice, CA 90291",None,None,2009.8.23,Reported
+6,10506,"Orlando, FL 32803",None,None,2009.8.23,Reported
+7,10452,"San Francisco, CA 94103",None,None,2009.8.23,None
+8,10199,"Philadelphia, PA 19146",None,None,2009.8.23,None
+0,7740,"Atlanta, GA 30308",None,None,2009.8.23,Reported
+1,7735,"Vancouver, WA 98684",None,None,2009.8.23,Reported
+2,6864,"San Francisco, CA 94102",None,None,2009.8.23,None
+3,10296,"Orlando, FL 32803",None,None,2009.8.23,Reported
+4,12159,"Beach Haven, NJ 08008",None,None,2009.8.23,None
+5,10445,"Chicago, IL 60634",None,None,2009.8.22,Reported
+6,10447,"Minneapolis, MN 55406",None,None,2009.8.22,None
+7,5818,"Portland, OR 97211",None,None,2009.8.22,None
+8,10186,"Downingtown, PA 19335",None,None,2009.8.22,Reported
+9,12571,"Houston, TX 77002",None,None,2009.8.22,None
+0,18200,"Chicago, IL 60642",None,None,2009.8.22,Reported
+1,10188,"San Francisco, CA 94110",None,None,2009.8.22,None
+2,10177,"Mattituck, NY 11952",None,None,2009.8.22,None
+3,10168,"Baton Rouge, LA 70816",None,None,2009.8.21,None
+4,10187,"San Diego, CA 92104",None,None,2009.8.21,Reported
+5,6185,"Duluth, MN 55802",None,None,2009.8.21,Reported
+0,13618,"Lincoln, NE 68512",None,None,2009.8.21,Reported
+1,10174,"Albuquerque, NM 87108",None,None,2009.8.21,None
+2,10249,"Sierra Madre, CA 91024",None,None,2009.8.21,Reported
+3,10192,"San Francisco, CA 94110",None,None,2009.8.21,None
+4,6181,"New York, NY 10009",None,None,2009.8.21,None
+5,10166,"Chicago, IL 60647",None,None,2009.8.21,Reported
+6,10205,"Spokane, WA 99203",None,None,2009.8.21,None
+7,6252,"Sacramento, CA 95817",None,None,2009.8.21,None
+0,5815,"Greensboro, NC 27410",None,None,2009.8.21,None
+1,13856,"Los Angeles, CA 90007",None,None,2009.8.20,None
+2,10165,"Portland, OR 97212",None,None,2009.8.20,None
+3,5807,"Philadelphia, PA 19102",None,None,2009.8.20,None
+4,7566,"Tucson, AZ 85719",None,None,2009.8.20,None
+5,10173,"Austin, TX 78703",None,None,2009.8.20,None
+6,10164,"Portland, OR 97232",None,None,2009.8.20,None
+7,14762,"Iowa City, IA 52244",None,None,2009.8.20,None
+8,10172,"Huntington Beach, CA 92648",None,None,2009.8.20,None

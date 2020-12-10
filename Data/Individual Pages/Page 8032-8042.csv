@@ -1,0 +1,91 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,19980,"Sacramento, CA 95818",None,None,2010.8.11,Reported
+1,13679,"Portland, OR 97215",None,None,2010.8.11,Reported
+2,19516,"Royal Oak, MI 48073",None,None,2010.8.11,Reported
+3,19604,"Portland, OR 97219",None,None,2010.8.11,None
+4,14596,"Cambirdge, MA 02139",None,None,2010.8.10,Reported
+5,14619,"Seattle, WA 98112",None,None,2010.8.10,Reported
+6,19592,"New York, NY 10002",None,None,2010.8.10,None
+7,14600,"Phoenix, AZ 85004",None,None,2010.8.10,Reported
+8,17146,"Chicago, IL 60642",None,None,2010.8.10,Reported
+9,19556,"Washington, DC 20001",None,None,2010.8.10,Reported
+0,9186,"San Francisco, CA 94107",None,None,2010.8.10,None
+1,19433,"Cleveland Heights, OH 44106",None,None,2010.8.10,None
+2,18321,"Arlington, VA 22201",None,None,2010.8.9,Reported
+3,19622,"Portland, OR 97236",None,None,2010.8.9,None
+4,19584,"New York, NY 10009",None,None,2010.8.9,None
+5,19583,"Des Moines, WA 98198",None,None,2010.8.9,None
+6,19570,"Portland, OR",None,None,2010.8.9,None
+7,14590,"Houston, TX 77006",None,None,2010.8.8,Reported
+0,12758,"Tucson, AZ 85705",None,None,2010.8.8,None
+1,14606,"Seattle, WA 98115",None,None,2010.8.8,Reported
+2,18787,"Seattle, WA 98122",None,None,2010.8.8,None
+3,19555,"Portland, OR 97211",None,None,2010.8.8,None
+4,13686,"Atlanta, GA 30307",None,None,2010.8.8,Reported
+5,19415,"Portland, OR 97229",None,None,2010.8.8,None
+6,19561,"Lake Oswego, OR 97034",None,None,2010.8.8,Reported
+7,14607,"Atlanta, GA 30307",None,None,2010.8.8,Reported
+0,13661,"Seattle, WA 98102",None,None,2010.8.8,None
+1,19560,"Lake Oswego, OR 97034",None,None,2010.8.8,Reported
+2,17446,"Wood Village, OR",None,None,2010.8.7,None
+3,12191,"Hayward, MA 02645",None,None,2010.8.7,None
+4,13657,"Seattle, WA 98105",None,None,2010.8.7,Reported
+5,19564,"San Diego, CA 92122",None,None,2010.8.7,Reported
+6,19571,"Philadelphia, PA 19125",None,None,2010.8.7,Reported
+7,19562,"San Diego, CA 92122",None,None,2010.8.7,Reported
+8,19430,"Austin, TX 78745",None,None,2010.8.7,Reported
+0,19589,"New York City, NY 10003",None,None,2010.8.7,None
+1,14593,"Reno, NV 89509",None,None,2010.8.7,Reported
+2,19412,"Tucson, AZ 85719",None,None,2010.8.7,Reported
+3,14583,"Tucson, AZ 85719",None,None,2010.8.7,Reported
+4,14579,"Salt Lake City, UT 84102",None,None,2010.8.7,Reported
+5,18297,"Palo Alto, CA 94301",None,None,2010.8.7,None
+6,19568,"Las Vegas, NV 89107",None,None,2010.8.7,None
+7,14589,"Seattle, WA 98108",None,None,2010.8.7,None
+8,14565,"San Francisco, CA 94114",None,None,2010.8.6,Reported
+9,12756,"San Francisco, CA 94118",None,None,2010.8.6,Reported
+0,13765,"Austin, TX 78723",None,None,2010.8.6,Reported
+1,14560,"Takoma Park, MD 20912",None,None,2010.8.6,Reported
+2,14585,"Chicago, IL 60622",None,None,2010.8.6,None
+3,14586,"San Francisco, CA 94118",None,None,2010.8.6,Reported
+4,14595,"Carol Stream, IL 60116",None,None,2010.8.6,None
+5,14604,"Eastlake, Chula Vista, CA 91914",None,None,2010.8.6,Reported
+6,19553,"San Francisco, CA 94122",None,None,2010.8.6,None
+7,19857,"Indaho, ID 55637",None,None,2010.8.6,None
+8,14568,"Snohomish, WA 98296",None,None,2010.8.5,None
+0,14544,"Philadelphia/ 15th And Race St., PA 19102",None,None,2010.8.5,None
+1,14551,"Santa Monica, CA 90401",None,None,2010.8.5,None
+2,17060,"Berkeley, CA 94701",None,None,2010.8.5,Reported
+3,18353,"Huntington Beach, CA 92648",None,None,2010.8.5,None
+4,19533,"Portland, OR 97201",None,None,2010.8.5,Reported
+5,19523,"Seattle, WA 98104",None,None,2010.8.5,None
+6,14598,"Portland, OR 97205",None,None,2010.8.5,None
+7,19520,"Portland, OR 97209",None,None,2010.8.5,Reported
+8,13736,"Portland, OR",None,None,2010.8.4,Reported
+0,19537,"Seattle, WA 98108",None,None,2010.8.4,None
+1,14563,"San Francisco, CA 94103",None,None,2010.8.4,Reported
+2,14575,"Orange, CA 92866",None,None,2010.8.4,None
+3,14538,"Chicago, IL 60657",None,None,2010.8.4,Reported
+4,17443,"Denver, CO 80222",None,None,2010.8.4,Reported
+5,19557,"Portland, OR 97210",None,None,2010.8.4,Reported
+6,19566,"Portland, OR 97219",None,None,2010.8.4,Reported
+7,19498,"Portland, OR 97205",None,None,2010.8.4,Reported
+8,12163,"Portland, OR 97206",None,None,2010.8.4,None
+9,14540,"Portland, OR 97266",None,None,2010.8.4,Reported
+0,14573,"Portland, OR 97210",None,None,2010.8.4,Reported
+1,19482,"Portland, OR 97215",None,None,2010.8.3,None
+2,14515,"University Of Washington Campus, WA 98101",None,None,2010.8.3,None
+3,14522,"Indianapolis, IN 46202",None,None,2010.8.3,None
+4,19493,"Adams, MA 01220",None,None,2010.8.3,Reported
+5,18483,"Mesa, AZ 85224",None,None,2010.8.3,None
+6,19511,"Lehi, UT 84043",None,None,2010.8.3,None
+7,19394,"Portland, OR 97213",None,None,2010.8.2,Reported
+8,13622,"Portland, OR 97202",None,None,2010.8.2,Reported
+9,13607,"Portland, OR 97205",None,None,2010.8.2,Reported
+0,14513,"Tucson, AZ 85719",None,None,2010.8.2,Reported
+1,14507,"Portland, OR 97213",None,None,2010.8.2,Reported
+2,14682,"Clearwater, FL 33761",None,None,2010.8.2,Reported
+3,19472,"Portland, OR 97205",None,None,2010.8.2,Reported
+4,14499,"San Diego, CA 92103",None,None,2010.8.2,Reported
+5,19461,"Portland, OR 97211",None,None,2010.8.2,Reported
+6,19481,"Portland, OR 97201",None,None,2010.8.2,Reported

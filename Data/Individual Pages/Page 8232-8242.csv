@@ -1,0 +1,93 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,11874,"Baltimore, MD 21230",None,None,2009.10.24,Reported
+1,11876,"Amherst, MA 01002",None,None,2009.10.24,None
+2,12509,"Sanford, FL 32771",None,None,2009.10.24,Reported
+3,18536,"Nashville, TN 37212",None,None,2009.10.24,None
+4,19879,"Eugene, OR 97401",None,None,2009.10.24,Reported
+5,11842,"San Antonio, TX 78209",None,None,2009.10.24,Reported
+6,11864,"Nashville, TN 37212",None,None,2009.10.24,Reported
+7,18525,"Cedar Rapids, IA 52402",None,None,2009.10.24,None
+8,18524,"Lindon, UT 84042",None,None,2009.10.23,Reported
+0,14136,"Portland, OR 97211",None,None,2009.10.23,None
+1,15627,"San Diego, CA 92129",None,None,2009.10.23,Reported
+2,11866,"Washington, DC 20036",None,None,2009.10.23,None
+3,11847,"Portland, OR 97239",None,None,2009.10.23,None
+4,11901,"San Francisco, CA 94132",None,None,2009.10.23,None
+5,11833,"Austin, TX 78751",None,None,2009.10.22,None
+6,12207,"El Cerrito, CA 94530",None,None,2009.10.22,Reported
+7,18520,"Portland, OR 97202",None,None,2009.10.22,None
+8,19309,"San Francisco, CA 94117",None,None,2009.10.22,None
+0,11855,"Los Angeles, CA 90045",None,None,2009.10.21,None
+1,11845,"San Francisco, CA 94133",None,None,2009.10.21,Reported
+2,12204,"Portland, OR 97214",None,None,2009.10.21,None
+3,18551,"Portland, OR 97202",None,None,2009.10.21,Reported
+4,18514,"Tucson, AZ 85741",None,None,2009.10.21,Reported
+5,18511,"Portland, OR 97214",None,None,2009.10.21,None
+6,12245,"Katy, TX 77450",None,None,2009.10.20,None
+7,11815,"Portland, OR 97213",None,None,2009.10.20,None
+8,18518,"Portland, OR",None,None,2009.10.20,None
+0,12220,"Columbus, OH 43210",None,None,2009.10.20,Reported
+1,12351,"Katy, TX 77450",None,None,2009.10.20,None
+2,11879,"Portland, OR 97219",None,None,2009.10.20,None
+3,11813,"Portland, OR 97210",None,None,2009.10.20,None
+4,11868,"Baltimore, MD 21228",None,None,2009.10.20,None
+5,11878,"Portland, OR 97219",None,None,2009.10.20,None
+6,11836,"Reno, NV 89557",None,None,2009.10.20,None
+7,14836,"Fresno, CA 93722",None,None,2009.10.19,None
+8,19855,"Austin, TX 78705",None,None,2009.10.19,Reported
+9,18337,"Citrus Heights, CA 95621",None,None,2009.10.19,Reported
+0,18339,"Portland, OR 97215",None,None,2009.10.19,None
+1,12197,"Portland, OR 97232",None,None,2009.10.19,None
+2,11803,"Pendleton, OR 97801",None,None,2009.10.18,Reported
+3,11805,"Manitou Springs, CO 80829",None,None,2009.10.18,None
+4,12260,"Ocean City, MD 21842",None,None,2009.10.18,None
+5,12247,"Portland, OR",None,None,2009.10.17,None
+6,18480,"Portland, OR 97214",None,None,2009.10.17,None
+7,18509,"Palo Alto, CA 94306",None,None,2009.10.17,None
+8,18510,"Wilmington, NC 28403",None,None,2009.10.17,Reported
+0,11784,"Northampton, MA 01060",None,None,2009.10.16,None
+1,12187,"Portland, OR 97201",None,None,2009.10.16,None
+2,12180,"Seattle, WA 98112",None,None,2009.10.16,Reported
+3,18506,"Seattle, WA 98112",None,None,2009.10.16,Reported
+4,18005,"Portland, OR 97213",None,None,2009.10.16,Reported
+5,12071,"Eugene, OR 97401",None,None,2009.10.16,Reported
+6,14112,"Portland, OR 97204",None,None,2009.10.16,Reported
+7,12450,"League City, TX 77573",None,None,2009.10.15,None
+8,12179,"Portland, OR 97211",None,None,2009.10.15,None
+0,18505,"Seattle, WA 98112",None,None,2009.10.15,Reported
+1,12251,"Irvine, CA 92614",None,None,2009.10.15,Reported
+2,11761,"Seattle, WA 98117",None,None,2009.10.15,Reported
+3,11798,"Portland, OR 97206",None,None,2009.10.15,None
+4,13692,"Portland, OR",None,None,2009.10.15,None
+5,18334,"Portland, OR 97212",None,None,2009.10.15,Reported
+6,18340,"Long Beach, CA 90815",None,None,2009.10.14,Reported
+7,11916,"Portland, OR",None,None,2009.10.14,Reported
+8,18504,"Hillsboro, OR 97123",None,None,2009.10.14,None
+0,18537,"Arvada, CO 80004",None,None,2009.10.14,None
+1,11800,"Portland, OR 97206",None,None,2009.10.14,None
+2,11811,"Portland, OR 97210",None,None,2009.10.13,None
+3,18493,"Portland, OR 97209",None,None,2009.10.13,Reported
+4,18199,"Portland, OR 97204",None,None,2009.10.13,None
+5,11780,"Portland, OR 97213",None,None,2009.10.12,None
+6,11793,"Denver, CO 80202",None,None,2009.10.12,Reported
+7,14842,"San Francisco, CA 94110",None,None,2009.10.12,Reported
+0,18489,"Albany, NY 12210",None,None,2009.10.12,None
+1,18491,"Portland, OR 97201",None,None,2009.10.12,None
+2,18324,"New Haven, CT 06511",None,None,2009.10.12,Reported
+3,11772,"Somerville, MA 02144",None,None,2009.10.11,Reported
+4,11785,"State College, PA 16803",None,None,2009.10.11,None
+5,11791,"Marshfield, VT 05658",None,None,2009.10.11,Reported
+6,18478,"Centralia, WA 98531",None,None,2009.10.11,None
+7,18472,"Brooklyn, NY 11211",None,None,2009.10.11,None
+8,18546,"Palm Bay, FL 32907",None,None,2009.10.11,Reported
+9,18481,"Portland, OR 97210",None,None,2009.10.10,None
+0,18312,"Portland, OR 97205",None,None,2009.10.10,Reported
+1,11834,"Santa Cruz, CA 95062",None,None,2009.10.10,Reported
+2,11768,"Cincinnati, OH 45220",None,None,2009.10.10,None
+3,14092,"Redondo Beach, CA 90277",None,None,2009.10.10,Reported
+4,18308,"Portland, OR 97206",None,None,2009.10.10,None
+5,18474,"Oakland, CA 94610",None,None,2009.10.10,Reported
+6,18473,"Redondo Beach, CA 90277",None,None,2009.10.10,Reported
+7,12167,"Columbus, OH 43215",None,None,2009.10.10,Reported
+8,18348,"Washington, DC 20009",None,None,2009.10.10,Reported
+9,18463,"Indianapolis, ID 46203",None,None,2009.10.9,None

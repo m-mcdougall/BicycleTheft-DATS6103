@@ -1,0 +1,74 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,702116,"New Orleans, LA 70119",None,None,2020.3.19,None
+1,702076,"Dallas, TX 75243",None,None,2020.3.19,None
+2,702075,"4900-4992 E 41st St, Tulsa, OK 74135, Tulsa, OK 74135",None,None,2020.3.19,None
+3,543767,"Gresham, OR 97030",Chain with padlock,"Lock was cut, and left at the scene",2020.3.19,Reported
+4,690724,"Portland, OR 97205",U-lock,"Lock is missing, along with the bike",2020.3.19,None
+5,702121,"Las Vegas, NV 89122",Chain with padlock,"Lock is missing, along with the bike",2020.3.19,Reported
+0,716694,"Tempe, AZ 85281",U-lock and cable,"Lock is missing, along with the bike",2020.3.19,Reported
+1,629059,"Seattle, WA 98105",Other,"Other situation, please describe below",2020.3.19,None
+2,702024,"Ryland St./San Pedro, San Jose, CA 95110",None,None,2020.3.19,None
+3,702245,"Denver, CO 80223",None,None,2020.3.18,Reported
+4,702250,"Denver, CO 80223",None,None,2020.3.18,Reported
+5,702211,"San Diego, CA 92122",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.3.18,None
+6,699145,"Washington, DC 20009",U-lock,"Lock is missing, along with the bike",2020.3.18,None
+7,699143,"Seattle, WA 98105",None,None,2020.3.18,None
+8,701991,"San Francisco, CA 94131",None,None,2020.3.18,None
+0,410969,"Portland, OR 97206",Cable lock,"Lock is missing, along with the bike",2020.3.18,Reported
+1,703364,"341 W 48th Street, New York, NY 10036",Other,"Lock is missing, along with the bike",2020.3.18,Reported
+2,702359,"Los Angeles, CA 90045",Cable lock,"Lock was cut, and left at the scene",2020.3.18,Reported
+3,701971,"142 Thunder Ridge Rd S, Nederland, CO 80466",None,None,2020.3.18,None
+4,701974,"Boulder, CO 80303",None,None,2020.3.18,None
+5,702988,"Hoboken, NJ 07030",Not locked,"Other situation, please describe below",2020.3.18,Reported
+6,701960,"Denver, CO 80212",None,None,2020.3.18,None
+7,702144,"Portland, OR 97211",U-lock,"Lock is missing, along with the bike",2020.3.18,None
+0,701931,"Encino, CA 91316",Cable lock,"Lock is missing, along with the bike",2020.3.18,None
+1,701926,"Seattle, WA 98177",None,None,2020.3.18,None
+2,715963,"Durham, NC 27701",None,None,2020.3.18,None
+3,701919,"New Orleans, LA 70118",None,None,2020.3.18,None
+4,701928,"Eugene, OR 97405",Cable lock,"Lock was cut, and left at the scene",2020.3.18,Reported
+5,701932,"Eugene, OR 97405",Cable lock,"Lock was cut, and left at the scene",2020.3.18,Reported
+6,702013,"Seattle, WA 98103",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.18,Reported
+7,721241,"Denver, CO 80218",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.17,Reported
+0,701836,"2465 NW Raleigh St, Portland, OR 97210",U-lock,"Lock is missing, along with the bike",2020.3.17,None
+1,20935,"San Francisco, CA 94110",None,None,2020.3.17,Reported
+2,701808,"1440 Hotel Circle North, San Diego, CA 92108",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.3.17,Reported
+3,701811,"Sunnyvale, CA 94086",U-lock and cable,"Lock is missing, along with the bike",2020.3.17,Reported
+4,701818,"Seattle, WA 98104",None,None,2020.3.17,Reported
+5,701123,"Los Angeles, CA 90034",U-lock,"Lock is missing, along with the bike",2020.3.17,None
+6,701786,"910 Main Street, Redwood City, CA 94063",Other,"Other situation, please describe below",2020.3.17,Reported
+0,701734,"Washington, DC",None,None,2020.3.17,None
+1,701616,"Seattle, WA 98107",None,None,2020.3.17,Reported
+2,701721,"4257 N. Alaska street, #119, Portland, OR 97203",None,None,2020.3.17,Reported
+3,701995,"Portland, OR 97202",U-lock and cable,"Other situation, please describe below",2020.3.17,Reported
+4,701996,"Portland, OR 97202",U-lock and cable,"Other situation, please describe below",2020.3.17,Reported
+5,701951,"Arlington, VA 22201",Cable lock,"Other situation, please describe below",2020.3.17,Reported
+6,654606,"Seattle, WA 981192938",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.3.17,Reported
+0,701661,"Seattle, WA 98107",None,None,2020.3.17,Reported
+1,701685,"Los Angeles, CA 90024",Cable lock,"Lock was cut, and left at the scene",2020.3.17,Reported
+2,701570,"Oroville, CA 95966",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.3.16,None
+3,702553,"Los Angeles, CA 90034",U-lock,"Lock was cut, and left at the scene",2020.3.16,Reported
+4,701578,"Broomfield, CO 80020",None,None,None,Reported
+0,701918,"Orlando, FL 32828",Not locked,None,2020.3.16,Reported
+1,701935,"Portland, OR 97206",Other,"Other situation, please describe below",2020.3.16,Reported
+2,702077,"New Orleans, LA 70112",None,None,2020.3.16,Reported
+3,700176,"Stanford, CA 94305",Cable lock,"Lock is missing, along with the bike",2020.3.16,None
+4,701427,"2800 Mission St., San Francico, CA 94110",Two U-locks,None,2020.3.16,Reported
+5,701892,"New Orleans, LA 70112",None,None,2020.3.16,None
+0,701893,"New Orleans, LA 70112",None,None,2020.3.16,None
+1,701894,"New Orleans, LA 70112",None,None,2020.3.16,None
+2,721067,"Lone Tree, CO 80124",None,None,2020.3.16,Reported
+3,721073,"Lone Tree, CO 80124",None,None,2020.3.16,Reported
+4,701664,"San Francisco, CA 94118",None,None,2020.3.16,Reported
+5,701597,"Los Angeles, CA 90094",None,None,2020.3.16,Reported
+6,701281,"96th and 5th ave , New York, NY 10035",None,None,2020.3.15,None
+7,702184,"Dallas, TX 75235",Other,None,2020.3.15,Reported
+8,701269,"Tualatin, OR 97062",None,None,2020.3.15,None
+0,702182,"Oakland, CA 94610",None,None,2020.3.15,Reported
+1,931158,"St Mary and I 10 Santa Cruz path, Tucson, AZ 85635",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.3.15,Reported
+2,701168,"3053 E Shields Ave, Fresno, CA 93726",None,None,2020.3.15,None
+3,699098,"Fresno, CA 93726",Cable lock,"Lock was cut, and left at the scene",2020.3.15,Reported
+4,700933,"San Francisco, CA 94109",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.3.15,Reported
+5,705784,"Denver, CO 80207",None,None,2020.3.15,None
+6,705788,"Denver, CO 80207",None,None,2020.3.15,None
+7,705780,"Denver, CO 80207",None,None,2020.3.15,None

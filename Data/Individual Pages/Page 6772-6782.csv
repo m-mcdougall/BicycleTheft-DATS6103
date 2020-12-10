@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,20694,"Portland, OR 97217",None,None,2013.9.29,Reported
+1,22649,"Long Beach, CA 90802",None,None,2013.9.29,None
+2,23033,"St Paul, MN 55101",None,None,2013.9.29,None
+3,18048,"Austin, TX 78705",None,None,2013.9.29,None
+4,22257,"Pinole, CA 94564",None,None,2013.9.29,Reported
+5,22468,"Seattle, WA 98119",None,None,2013.9.29,Reported
+6,22516,"Portland, OR 97213",None,None,2013.9.29,None
+7,15550,"East Lansing, MI 48825",None,None,2013.9.29,None
+8,21515,"Oakland, CA 94608",None,None,2013.9.29,None
+9,8768,"Seattle, WA 98119",None,None,2013.9.29,Reported
+0,22515,"Portland, OR 97213",None,None,2013.9.29,None
+1,22519,"Portland, OR 97213",None,None,2013.9.29,Reported
+2,18063,"Odenton, MD 21113",None,None,2013.9.29,None
+3,21521,"Mercer Island, WA 98040",None,None,2013.9.29,Reported
+4,32406,"San Francisco, CA 94103",None,"Object that bike was locked to was broken, removed, or otherwise compromised.",2013.9.29,None
+5,18050,"La Jolla, CA 92037",None,None,2013.9.28,Reported
+6,9256,"San Francisco, CA 94129",None,None,2013.9.28,None
+7,18042,"Iowa City, IA 52246",None,None,2013.9.28,Reported
+8,20701,"Mountain View, CA 94040",None,None,2013.9.28,Reported
+9,20703,"Seattle, WA 98102",None,None,2013.9.28,None
+0,21510,"Skokie, IL 60076",None,None,2013.9.28,Reported
+1,22275,"Baltimore, MD 21230",None,None,2013.9.28,None
+2,22652,"Washington, DC 20010",None,None,2013.9.28,None
+3,22245,"Mountain View, CA 94040",None,None,2013.9.28,Reported
+4,22423,"Portland, OR 97214",None,None,2013.9.28,None
+5,21568,"Gurgaon, OR 122001",None,None,2013.9.28,Reported
+6,20693,"Iowa City, IA 52246",None,None,2013.9.28,Reported
+7,22509,"Philadelphia, PA 19106",None,None,2013.9.28,Reported
+8,18034,"Provo, UT 84606",None,None,2013.9.27,Reported
+9,11670,"Portland, OR 97202",None,None,2013.9.27,Reported
+0,22373,"Mc Minnville, OR 97128",None,None,2013.9.27,None
+1,707,"Bellingham, WA 98225",Other,"Other situation, please describe below.",2013.9.27,Reported
+2,22227,"Seattle, WA 98103",None,None,2013.9.27,None
+3,22655,"St Petersburg, FL 33701",None,None,2013.9.27,Reported
+4,6516,"Belton, TX 76513",None,None,2013.9.27,None
+5,6498,"Rochester, NY 14623",None,None,2013.9.27,None
+6,18039,"Austin, TX 78705",None,None,2013.9.27,Reported
+7,20685,"Milwaukie, OR 97267",None,None,2013.9.27,Reported
+8,22219,"Baltimore, MD 21210",None,None,2013.9.27,Reported
+9,22647,"Los Angeles, CA 90210",None,None,2013.9.27,None
+0,21517,"Portland, OR",None,None,2013.9.27,Reported
+1,20737,"Portland, OR 97205",None,None,2013.9.27,Reported
+2,18029,"Santa Cruz, CA 95060",None,None,2013.9.27,None
+3,20683,"Seattle, WA 98103",None,None,2013.9.27,None
+4,20698,"Rochester, NY 14623",None,None,2013.9.26,None
+5,95189,"Brooklyn, NY 11215",Not locked,Bike was not locked,2013.9.26,Reported
+6,18021,"S Eattle, WA 98109",None,None,2013.9.26,Reported
+7,22338,"Irvine, CA 92612",None,None,2013.9.26,Reported
+8,9832,"San Francisco, CA 94102",Cable lock,"Lock was cut, and left at the scene.",2013.9.26,Reported
+9,9088,"Kansas City, MO 64124",None,None,2013.9.26,None
+0,11697,"Clackamas, OR 97086",None,None,2013.9.26,Reported
+1,11709,"Clackamas, OR 97086",None,None,2013.9.26,Reported
+2,17966,"San Francisco, CA 94131",None,None,2013.9.26,Reported
+3,19791,"Denver, CO 80222",None,None,2013.9.26,Reported
+4,20672,"Seattle, WA 98133",None,None,2013.9.26,Reported
+5,22992,"Clackamas, OR 97086",None,None,2013.9.26,Reported
+6,18094,"Portland, OR 97217",None,None,2013.9.26,None
+7,18004,"New York, NY 11249",None,None,2013.9.26,None
+8,5770,"Tampa, FL 33604",None,None,2013.9.26,Reported
+9,18019,"Portland, OR 97213",None,None,2013.9.26,Reported
+0,20682,"Tucson, AZ 85706",None,None,2013.9.26,Reported
+1,20678,"New Orleans, LA 70116",None,None,2013.9.26,None
+2,20674,"San Diego, CA 92037",None,None,2013.9.26,Reported
+3,20696,"Portland, OR 97217",None,None,2013.9.26,Reported
+4,20704,"San Francisco, CA 94110",None,None,2013.9.26,Reported
+5,20689,"King City, OR 97224",None,None,2013.9.26,Reported
+6,20666,"New York, NY 10003",None,None,2013.9.26,None
+7,22924,"Seattle, WA 98126",None,None,2013.9.26,Reported
+8,22320,"Gresham, OR 97030",None,None,2013.9.26,None
+9,22307,"Astoria, NY 11377",None,None,2013.9.26,None
+0,17989,"Seattle, WA 98103",None,None,2013.9.26,Reported
+1,18091,"Portland, OR 97266",None,None,2013.9.26,None
+2,18033,"Seattle, WA 98103",None,None,2013.9.26,Reported
+3,17979,"Portland, OR 97266",None,None,2013.9.26,None
+4,18073,"Portland, OR 97215",None,None,2013.9.26,Reported
+5,17990,"Bethlehem, PA 18018",None,None,2013.9.26,None
+6,21483,"Portland, OR 97209",None,None,2013.9.25,None
+7,20660,"Portland, OR 97210",None,None,2013.9.25,Reported
+8,22520,"San Francisco, CA 94105",U-lock,"Lock is missing, along with the bike.",2013.9.25,None
+0,22312,"Portland, OR 97205",None,None,2013.9.25,None
+1,791,"Chicago, IL 60640",Not locked,"Other situation, please describe below.",2013.9.25,Reported
+2,6571,"Baltimore, MD 21218",None,None,2013.9.25,None
+3,11664,"Bellevue, WA 98005",None,None,2013.9.25,Reported
+4,21486,"Portland, OR 97214",None,None,2013.9.25,None
+5,17967,"Seattle, WA 98115",None,None,2013.9.25,None
+6,18584,"Portland, OR 97201",None,None,2013.9.25,None
+7,17117,"Portland, OR 97233",None,None,2013.9.25,Reported
+8,17994,"Boulder, CO 80302",None,None,2013.9.25,Reported
+9,20658,"Portland, OR 97211",None,None,2013.9.25,None
+0,20053,"Portland, OR 97211",None,None,2013.9.25,None
+1,21490,"Portland, OR 97215",None,None,2013.9.25,Reported
+2,11682,"Portland, OR 97209",None,None,2013.9.25,Reported
+3,18072,"Portland, OR 97209",None,None,2013.9.25,None
+4,23084,"Jersey City, NJ 07302",None,None,2013.9.25,None
+5,11701,"Portland, OR 97210",None,None,2013.9.25,None
+6,17953,"San Jose, CA 95192",None,None,2013.9.25,Reported
+7,23070,"San Francisco, CA 94114",None,None,2013.9.25,Reported
+8,21472,"San Francisco, CA 94103",None,None,2013.9.25,None
+9,20665,"Portland, OR 97210",None,None,2013.9.25,Reported

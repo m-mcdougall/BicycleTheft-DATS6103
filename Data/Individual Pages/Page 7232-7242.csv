@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,13655,"Oakland, CA 94609",None,None,2012.10.27,None
+1,12343,"San Francisco, CA 94110",None,None,2012.10.27,Reported
+2,18646,"Portland, OR 97266",None,None,2012.10.27,Reported
+3,13537,"Seymour, IN 47274",None,None,2012.10.27,None
+4,23252,"Portland, OR 97201",None,None,2012.10.27,Reported
+5,12345,"Miani Beach, FL 33139",None,None,2012.10.27,None
+6,13504,"Portland, OR 97211",None,None,2012.10.27,Reported
+7,18667,"Columbus, OH 43205",None,None,2012.10.27,None
+8,39039,"San Jose, CA 95126",Not locked,Bike was not locked,2012.10.27,Reported
+9,13498,"Seattle, WA 98144",None,None,2012.10.26,Reported
+0,13499,"San Francisco, CA 94103",None,None,2012.10.26,Reported
+1,13495,"Seattle, WA 98144",None,None,2012.10.26,Reported
+2,18655,"Hacienda Heights, CA 91745",None,None,2012.10.26,Reported
+3,23247,"Portland, OR 97217",None,None,2012.10.26,Reported
+4,12372,"Seattle, WA 98105",None,None,2012.10.26,Reported
+5,15597,"Portland, OR 97239",None,None,2012.10.26,Reported
+6,22038,"Portland, OR 97266",None,None,2012.10.26,None
+7,23246,"Portland, OR 97217",None,None,2012.10.26,None
+8,12387,"Milwaukee, WI 53203",None,None,2012.10.26,Reported
+9,13490,"Portland, OR 97214",None,None,2012.10.26,Reported
+0,18637,"Seattle, WA 98103",None,None,2012.10.26,Reported
+1,23244,"Portland, OR 97215",None,None,2012.10.26,Reported
+2,12338,"Portland, OR 97204",None,None,2012.10.25,None
+3,12337,"Portland, OR 97211",None,None,2012.10.25,Reported
+4,13478,"Rochester, NY 14605",None,None,2012.10.25,None
+5,13522,"San Diego, CA 92108",None,None,2012.10.25,None
+6,21833,"San Francisco, CA 94103",None,None,2012.10.25,None
+7,12332,"Decatur, IL 62523",None,None,2012.10.25,None
+8,13493,"Portland, OR 97211",None,None,2012.10.25,Reported
+9,18633,"Tucson, AZ 85719",None,None,2012.10.25,Reported
+0,13501,"Seattle, WA 98105",None,None,2012.10.25,Reported
+1,12403,"Portland, OR 97217",None,None,2012.10.24,None
+2,12398,"Bellingham, WA 98225",None,None,2012.10.24,None
+3,13471,"Greenwich Village, New York, NY 10012",None,None,2012.10.24,None
+4,14164,"Portland, ME 04101",None,None,2012.10.24,Reported
+5,17655,"Portland, OR 97210",None,None,2012.10.24,None
+6,12341,"San Francisco, CA 94107",None,None,2012.10.24,Reported
+7,18598,"Portland, OR 97211",None,None,2012.10.24,Reported
+8,12323,"Bellingham, WA 98225",None,None,2012.10.24,None
+9,13459,"Bellingham, WA 98225",None,None,2012.10.24,None
+0,13455,"Atlanta, GA 30307",None,None,2012.10.24,Reported
+1,15499,"Seattle, WA 98102",None,None,2012.10.24,Reported
+2,23266,"Seattle, WA 98105",None,None,2012.10.24,Reported
+3,21820,"Concord, CA 94519",None,None,2012.10.24,None
+4,13463,"Bellingham, WA 98225",None,None,2012.10.24,None
+5,13505,"San Francisco, CA 94107",None,None,2012.10.24,Reported
+6,18602,"Berkeley, CA 94720",None,None,2012.10.24,Reported
+7,12331,"Santa Cruz, CA 95060",None,None,2012.10.24,None
+8,18554,"San Francisco, CA 94114",None,None,2012.10.23,None
+0,12329,"Seattle, WA 98117",None,None,2012.10.23,None
+1,12319,"Portland, OR 97217",None,None,2012.10.23,None
+2,13494,"Greenville, SC 29613",None,None,2012.10.23,None
+3,13438,"San Francisco, CA 94121",None,None,2012.10.23,None
+4,15503,"Portland, OR 97209",None,None,2012.10.23,Reported
+5,12392,"Menlo Park, CA 94025",None,None,2012.10.23,Reported
+6,12305,"San Francisco, CA 94121",None,None,2012.10.23,None
+7,16366,"Tallahassee, FL 32313",None,None,2012.10.23,None
+8,12315,"Portland, OR 97202",None,None,2012.10.23,Reported
+9,23220,"Portland, OR 97214",None,None,2012.10.23,None
+0,13981,"Portland, OR 97206",None,None,2012.10.23,None
+1,13445,"Portland, OR 97202",None,None,2012.10.23,Reported
+2,21905,"Dallast, TX 75205",None,None,2012.10.22,None
+3,716,"New York, NY 10003",U-lock,"Lock was opened, and left unharmed at the scene.",2012.10.22,None
+4,12383,"Corvallis, OR 97333",None,None,2012.10.22,Reported
+5,21794,"San Francisco, CA 94115",None,None,2012.10.22,None
+6,15182,"Salinas, CA 93901",None,None,2012.10.22,None
+7,13417,"Brooklyn, NY 11385",None,None,2012.10.22,Reported
+8,13425,"Brandon, FL 33511",None,None,2012.10.22,Reported
+9,15429,"San Francisco, CA 94107",None,None,2012.10.22,None
+0,15387,"Brookline, MA 02446",None,None,2012.10.22,None
+1,12294,"Portland, OR 97206",None,None,2012.10.22,Reported
+2,13423,"Portland, OR 97214",None,None,2012.10.21,None
+3,21782,"Lincoln, NE 68503",None,None,2012.10.21,Reported
+4,18486,"Austin, TX 78721",None,None,2012.10.21,Reported
+5,19585,"North Brunswick, NJ 08902",None,None,2012.10.21,None
+6,12618,"Woodburn, OR 97071",None,None,2012.10.21,Reported
+7,13453,"Charlotte, NC 28269",None,None,2012.10.21,Reported
+8,18488,"Portland, OR 97206",None,None,2012.10.21,Reported
+9,23134,"Minneapolis, MN 55404",None,None,2012.10.21,Reported
+0,12288,"Rego Park, NY 11374",None,None,2012.10.21,None
+1,12286,"San, CA 94122",None,None,2012.10.21,None
+2,18487,"Portland, OR 97202",None,None,2012.10.20,None
+3,12280,"Jacksonville, FL 32205",None,None,2012.10.20,Reported
+4,12279,"San Jose, CA 95110",None,None,2012.10.20,Reported
+5,13403,"Tucson, AZ 85719",None,None,2012.10.20,Reported
+6,13392,"La, CA 90004",None,None,2012.10.20,Reported
+7,13400,"Portland, OR 97211",None,None,2012.10.20,Reported
+8,13386,"Tucson, AZ 85724",None,None,2012.10.20,None
+0,13409,"Cuyahoga Falls, OH 44223",None,None,2012.10.20,None
+1,13404,"Seattle, WA 91803",None,None,2012.10.20,Reported
+2,12282,"Santa Barbara, CA 93101",None,None,2012.10.20,None
+3,22322,"Silverlake, CA 90039",None,None,2012.10.20,None
+4,18544,"Washington, DC 20016",None,None,2012.10.20,Reported
+5,12311,"Citrus Heights, CA 95621",None,None,2012.10.20,Reported
+6,18458,"Brooklyn, NY 11211",None,None,2012.10.20,None
+7,12301,"San Jose, CA 95121",None,None,2012.10.20,Reported
+8,22606,"Sacramento, CA 95820",None,None,2012.10.20,Reported
+9,14375,"Milwaukie, OR 97222",None,None,2012.10.20,None

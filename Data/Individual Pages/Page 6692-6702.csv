@@ -1,0 +1,101 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,8977,"San Diego, CA 92139",None,None,2013.11.17,Reported
+1,5788,"Oceanside, CA 92057",None,None,2013.11.17,None
+2,5871,"Lexington, KY 40502",None,None,2013.11.17,None
+3,6808,"Portland, OR 97220",None,None,2013.11.17,None
+4,7182,"Tucson, AZ 85716",None,None,2013.11.17,None
+5,9041,"San Francisco, CA 94109",None,None,2013.11.17,Reported
+6,8988,"San Francisco, CA 94133",None,None,2013.11.17,None
+7,9744,"Morro Bay, CA 93442",None,None,2013.11.17,Reported
+8,9729,"Minneapolis, MN 55414",None,None,2013.11.17,Reported
+9,9739,"Palo Alto, CA 94306",None,None,2013.11.17,Reported
+0,11510,"Bellingham, WA 98225",None,None,2013.11.17,Reported
+1,8946,"Duluth, MN 55802",None,None,2013.11.17,None
+2,5814,"Costa Mesa, CA 92627",None,None,2013.11.17,Reported
+3,9683,"Seattle, WA 98105",None,None,2013.11.17,Reported
+4,8963,"Portland, OR 97204",None,None,2013.11.17,Reported
+5,9975,"San Francisco, CA 94111",None,None,2013.11.17,Reported
+6,5781,"Portland, OR 97214",None,None,2013.11.16,Reported
+7,5827,"Brooklyn, NY 11233",None,None,2013.11.16,Reported
+8,8730,"Portland, OR 97214",None,None,2013.11.16,None
+9,8948,"Portland, OR 97215",None,None,2013.11.16,Reported
+0,11509,"Portland, OR 97214",None,None,2013.11.16,Reported
+1,8952,"Portland, OR 97215",None,None,2013.11.16,Reported
+2,6374,"San Francisco, CA 94117",None,None,2013.11.16,Reported
+3,5833,"San Jose, CA 95134",None,None,2013.11.16,Reported
+4,9019,"Portland, OR 97206",None,None,2013.11.16,Reported
+5,9165,"Lafayette, CO 80026",None,None,2013.11.16,Reported
+6,8953,"Portland, OR 97214",None,None,2013.11.16,Reported
+7,9146,"San Francisco, CA 94117",None,None,2013.11.16,None
+8,8854,"Portland, OR 97202",None,None,2013.11.15,Reported
+9,5796,"Portland, OR 97206",None,None,2013.11.15,Reported
+0,6241,"Seattle, WA 98109",None,None,2013.11.15,Reported
+1,8928,"Clearwater, FL 33764",None,None,2013.11.15,Reported
+2,9219,"San Francisco, CA 94108",None,None,2013.11.15,Reported
+3,70624,"Bellevue, WA 98008",Not locked,None,2013.11.15,None
+4,6830,"South Euclid, OH 44121",None,None,2013.11.15,Reported
+5,6262,"Denver, CO 80209",None,None,2013.11.15,Reported
+6,11507,"Berkeley, CA 94702",None,None,2013.11.15,None
+7,9390,"San Diego, CA 92107",None,None,2013.11.15,Reported
+8,9228,"Portland, OR 97211",None,None,2013.11.15,Reported
+9,11503,"Bridgeport, CT 06605",None,None,2013.11.15,None
+0,8934,"Seattle, WA 98107",None,None,2013.11.15,Reported
+1,6260,"Portland, OR 97212",None,None,2013.11.14,Reported
+2,8540,"Mountain View, CA 94043",None,None,2013.11.14,Reported
+3,8898,"Iowa City, IA 52240",None,None,2013.11.14,Reported
+4,8960,"Huntington Beach, CA 92648",None,None,2013.11.14,Reported
+5,8924,"Washington, DC 20015",None,None,2013.11.14,Reported
+6,10696,"Portland, OR 97206",None,None,2013.11.14,None
+7,62081,"New York, NY 10013",Other,Bike was not locked,2013.11.14,Reported
+8,5799,"Oakland, CA 94705",None,None,2013.11.14,Reported
+9,6781,"Walnut Creel, CA 94597",None,None,2013.11.14,Reported
+0,9103,"San Diego, CA 92106",None,None,2013.11.14,Reported
+1,6771,"San Francisco, CA 94109",None,None,2013.11.14,Reported
+2,8917,"Portland, OR 97202",None,None,2013.11.14,Reported
+3,11504,"Portland, OR 97220",None,None,2013.11.14,Reported
+4,6239,"Oakland, CA 94610",None,None,2013.11.14,None
+5,8904,"Marina, CA 93933",None,None,2013.11.14,Reported
+6,10886,"Portland, OR",None,None,2013.11.14,None
+7,8900,"Portland, OR 97210",None,None,2013.11.14,Reported
+8,8915,"Portland, OR 97219",None,None,2013.11.14,Reported
+9,6056,"Clearwater, FL 33756",None,None,2013.11.13,Reported
+0,8909,"San Francisco, CA 94131",None,None,2013.11.13,Reported
+1,9722,"Seattle, WA 98117",None,None,2013.11.13,Reported
+2,10673,"Lawrence, KS 66046",None,None,2013.11.13,Reported
+3,10709,"Fort Collins, CO 80525",None,None,2013.11.13,None
+4,11505,"New Brunswick, NJ 08901",None,None,2013.11.13,None
+5,11521,"Albany, CA 94706",None,None,2013.11.13,None
+6,8907,"San Francisco, CA 94131",None,None,2013.11.13,Reported
+7,5858,"Tucson, AZ 85721",None,None,2013.11.13,Reported
+8,8885,"San Francisco, CA 94131",None,None,2013.11.13,Reported
+9,10702,"San Francisco, CA 94131",None,None,2013.11.13,Reported
+0,5809,"Tucson, AZ 85711-",None,None,2013.11.13,Reported
+1,10697,"Seattle, WA 98104",None,None,2013.11.13,Reported
+2,10865,"Santa Monica, CA 90402",None,None,2013.11.13,None
+3,55045,"Hollywood, CA 90028",Not locked,"Other situation, please describe below.",2013.11.13,Reported
+4,8975,"Apple Valley, MN 55124",None,None,2013.11.12,None
+5,8218,"Oakland, CA 94609",None,None,2013.11.12,Reported
+6,37640,"Vienna, VA 22180",Other,"Other situation, please describe below.",2013.11.12,Reported
+7,8815,"Tampa, FL 33615",None,None,2013.11.12,None
+8,8630,"Houston, TX 77006",None,None,2013.11.12,Reported
+9,8880,"San Francisco, CA 94117",None,None,2013.11.12,None
+0,10685,"Portland, OR 97232",None,None,2013.11.12,Reported
+1,8850,"Oakland, CA 94608",None,None,2013.11.11,None
+2,8942,"San Francisco, CA 94110",None,None,2013.11.11,None
+3,10665,"Salt Lake City, UT 84101",None,None,2013.11.11,None
+4,1167,"Brookline, MA 2446",U-lock,"Other situation, please describe below.",2013.11.11,Reported
+5,1168,"Brookline, MA 2446",U-lock,"Other situation, please describe below.",2013.11.11,Reported
+6,5835,"San Francisco, CA 94107",None,None,2013.11.11,None
+7,6750,"Vancouver, WA 98660",None,None,2013.11.11,None
+8,8706,"Baltimore, MD 21217",None,None,2013.11.11,Reported
+9,9184,"Portland, OR 97206",None,None,2013.11.11,Reported
+0,11499,"Houston, TX 77004",None,None,2013.11.11,Reported
+1,8858,"Garden Grove, CA 92843",None,None,2013.11.11,None
+2,8845,"Portland, OR 97214",None,None,2013.11.11,None
+3,11506,"Oakland, CA 94607",None,None,2013.11.11,Reported
+4,10681,"Portland, OR 97211",None,None,2013.11.11,Reported
+5,8889,"Portland, OR 97211",None,None,2013.11.11,Reported
+6,8986,"Redmond, WA 98008",None,None,2013.11.10,Reported
+7,73118,"Los Angeles, CA 90012",Cable lock,"Lock is missing, along with the bike.",2013.11.10,None
+8,6615,"Portland, OR 97203",None,None,2013.11.10,None
+9,7935,"Columbus, OH 43201",None,None,2013.11.10,Reported

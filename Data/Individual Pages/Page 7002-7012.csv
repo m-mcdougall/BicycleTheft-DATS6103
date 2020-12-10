@@ -1,0 +1,99 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,15129,"Portland, OR 97210",None,None,2013.5.25,Reported
+1,18700,"Portland, OR 97212",None,None,2013.5.25,Reported
+2,20623,"Portland, OR 97204",None,None,2013.5.25,Reported
+3,21850,"Portland, OR 97209",None,None,2013.5.25,Reported
+4,18897,"San Francisco, CA 94114",None,None,2013.5.25,Reported
+5,20815,"Parkville, MD 21234",None,None,2013.5.25,None
+6,18702,"Denver, CO 80207",None,None,2013.5.25,Reported
+7,15148,"Seattle, WA 98112",None,None,2013.5.25,Reported
+8,15130,"Tucson, AZ 85719",None,None,2013.5.25,Reported
+9,18691,"Asheville, NC 28805",None,None,2013.5.24,Reported
+0,15185,"Boulder, CO 80305",None,None,2013.5.24,None
+1,18663,"Edison, NJ 08837",None,None,2013.5.24,Reported
+2,19045,"Portland, OR 97206",None,None,2013.5.24,Reported
+3,19041,"Edison, NJ 08837",None,None,2013.5.24,Reported
+4,19097,"New York, NY 10023",None,None,2013.5.24,Reported
+5,17963,"Portland, OR 97202",None,None,2013.5.24,Reported
+6,16479,"Portland, OR 97219",None,None,2013.5.24,None
+7,18689,"Portland, OR 97202",None,None,2013.5.24,Reported
+8,20676,"Albany, CA 94706",None,None,2013.5.24,None
+9,15128,"Boise, ID 83714",None,None,2013.5.24,None
+0,15107,"Edison, NJ 08837",None,None,2013.5.24,Reported
+1,18647,"Portland, OR 97202",None,None,2013.5.24,None
+2,15166,"Philadelphia, PA 19104",None,None,2013.5.23,None
+3,19046,"San Francisco, CA 94121",None,None,2013.5.23,None
+4,15179,"Seattle, WA 98102",None,None,2013.5.23,Reported
+5,15217,"Skokie, IL 60077",None,None,2013.5.23,Reported
+6,20673,"Minneapolis, MN 55419",None,None,2013.5.23,None
+7,18949,"Houston, TX 77006",None,None,2013.5.23,Reported
+8,18684,"Pacific Beach San Diego, CA 92109",None,None,2013.5.23,None
+9,15098,"Portland, OR 97214",None,None,2013.5.22,Reported
+0,16507,"Clairemont, CA 92111",None,None,2013.5.22,Reported
+1,18672,"Moorhead, MN 56560",None,None,2013.5.22,None
+2,18986,"Bend, OR 97701",None,None,2013.5.22,Reported
+3,18990,"Bend, OR 97701",None,None,2013.5.22,None
+4,19044,"Clairemont, CA 92111",None,None,2013.5.22,Reported
+5,20713,"Albany, NY 12201",None,None,2013.5.22,None
+6,19038,"Portland, OR 97214",None,None,2013.5.22,Reported
+7,18810,"Clairemont, CA 92111",None,None,2013.5.22,Reported
+8,20637,"Aurora, CO 80016",None,None,2013.5.22,None
+9,18784,"Clairemont, CA 92111",None,None,2013.5.22,Reported
+0,15337,"Bend, OR 97701",None,None,2013.5.22,None
+1,18683,"Clairemont, CA 92111",None,None,2013.5.22,None
+2,20691,"Bend, OR 97701",None,None,2013.5.22,Reported
+3,15087,"Turlock, CA 95382",None,None,2013.5.22,Reported
+4,14978,"Austin, TX 78705",None,None,2013.5.22,Reported
+5,18548,"San Francisco, CA 94133",None,None,2013.5.21,None
+6,19514,"Columbus, OH 43202",None,None,2013.5.21,None
+7,20601,"Canton, OH 44714",None,None,2013.5.21,Reported
+8,15144,"New York, NY 10012",None,None,2013.5.21,None
+9,15052,"San Diego, CA 92103",None,None,2013.5.21,Reported
+0,15127,"Portland, OR",None,None,2013.5.21,Reported
+1,20598,"Portland, OR 97211",None,None,2013.5.21,None
+2,18568,"Portland, OR 97218",None,None,2013.5.21,Reported
+3,16543,"Spokane, WA 99206",None,None,2013.5.21,None
+4,18774,"Albuquerque, NM 87123",None,None,2013.5.21,Reported
+5,20600,"Canton, OH 44714",None,None,2013.5.21,Reported
+6,15085,"Charlottesville, VA 22902",None,None,2013.5.21,Reported
+7,15065,"Portland, OR",None,None,2013.5.21,None
+8,21836,"Portland, OR 97232",None,None,2013.5.21,Reported
+9,20602,"Denver, CO 80204",None,None,2013.5.21,Reported
+0,18559,"Sandy, UT 84070",None,None,2013.5.21,Reported
+1,17853,"Charlottesville, VA 22903",None,None,2013.5.21,None
+2,18526,"Plainfield Charter Township, MI 49525",None,None,2013.5.20,None
+3,19055,"Albuquerque, NM 87123",None,None,2013.5.20,Reported
+4,15057,"Portland, OR 97220",None,None,2013.5.20,Reported
+5,19039,"Washington, DC 20001",None,None,2013.5.20,None
+6,15198,"Durham, NC 27708",None,None,2013.5.20,Reported
+7,15288,"San Diego, CA 92104",None,None,2013.5.20,Reported
+8,17750,"Portland, OR 97212",None,None,2013.5.20,Reported
+9,18499,"Gainesville, FL 32608",None,None,2013.5.20,Reported
+0,46000,"Portland, OR",Cable lock,"Lock was cut, and left at the scene.",2013.5.20,None
+1,15045,"Santa Rosa, CA 95405",None,None,2013.5.20,None
+2,15618,"San Jose, CA 95117",None,None,2013.5.20,Reported
+3,18517,"San Francisco, CA 94133",None,None,2013.5.20,Reported
+4,15109,"Astoria, NY 11102",None,None,2013.5.20,None
+5,21824,"Seattle, WA 98107",None,None,2013.5.20,None
+6,15465,"Portland, OR",None,None,2013.5.20,Reported
+7,18466,"New, CT 06511",None,None,2013.5.19,Reported
+8,15064,"Urbana, IL 61801",None,None,2013.5.19,None
+0,17608,"San Jose, CA 95112",None,None,2013.5.19,Reported
+1,11259,"Venice, CA 90291",None,None,2013.5.19,None
+2,15040,"Oakland, CA 94610",None,None,2013.5.19,Reported
+3,15025,"Oakland, CA 94610",None,None,2013.5.19,Reported
+4,15018,"Portland, OR 97202",None,None,2013.5.19,Reported
+5,17581,"Portland, OR 97209",None,None,2013.5.19,Reported
+6,19063,"San Francisco, CA 94118",None,None,2013.5.19,Reported
+7,21886,"San Francisco, CA 94103",None,None,2013.5.19,None
+8,18515,"San Diego, CA 92101",None,None,2013.5.19,None
+0,15014,"Colorado Springs, CO 80903",None,None,2013.5.19,None
+1,15117,"San Diego, CA 92109",None,None,2013.5.19,None
+2,15100,"Pensacola Beach, FL 32561",Not locked,Bike was not locked,2013.5.18,Reported
+3,20592,"Portland, OR 97212",None,None,2013.5.18,Reported
+4,18415,"Mill Valley, CA 94941",None,None,2013.5.18,Reported
+5,15005,"Portland, OR 97216",None,None,2013.5.18,None
+6,15030,"San Rafael, CA 94901",None,None,2013.5.18,None
+7,15016,"San Diego, CA 92106",None,None,2013.5.18,None
+8,20700,"Oakland, CA 94618",None,None,2013.5.18,Reported
+9,21800,"Carpinteria, CA 93013",None,None,2013.5.18,None

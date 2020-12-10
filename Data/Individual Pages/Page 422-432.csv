@@ -1,0 +1,70 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,866559,"Rochester, NY 14620",Other,"Other situation, please describe below",2020.9.10,Reported
+1,866323,"Grand Junction, CO 81503",None,None,2020.9.10,Reported
+2,866313,"Sw 4th and Columbia, Portland, OR 97201",None,None,2020.9.10,None
+3,866376,"Pocatello, ID 83201",None,None,2020.9.10,None
+4,866285,"Brooklyn, NY 11238-5846",None,None,2020.9.10,None
+5,866407,"Santa Monica, CA 90405",None,Bike was not locked,2020.9.10,Reported
+6,866557,"Cleveland, OH 44106-1907",None,None,2020.9.10,Reported
+0,866581,"Los, CA 90034",Not locked,Bike was not locked,2020.9.10,Reported
+1,918508,"1105 North University Ave, Ann Arbor, MI 48109",None,None,2020.9.10,Reported
+2,918381,"Boise, ID 83716",Not locked,"Other situation, please describe below",2020.9.10,Reported
+3,711760,"Boston, MA 02127",Cable lock,"Lock is missing, along with the bike",2020.9.10,None
+4,920161,"Boise, ID 83716",Not locked,"Other situation, please describe below",2020.9.10,Reported
+5,917931,"109 South Orchard Street, Madison, WI 53715",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.10,Reported
+6,866411,"From garage at Sacramento and Lyon, San Francisco, CA 94115",U-lock and cable,"Lock is missing, along with the bike",2020.9.10,Reported
+7,866223,"Burlington, VT 06085",Cable lock,"Lock is missing, along with the bike",2020.9.10,None
+0,866198,"17 n Thompson , Richmond, VA 23221",None,None,2020.9.10,None
+1,866980,"Leavenworth, WA 98826",U-lock and cable,"Lock was cut, and left at the scene",2020.9.10,Reported
+2,867209,"Aurora, CO 80014",Not locked,Bike was not locked,2020.9.10,Reported
+3,922631,"Fayetteville, AR 72701",Cable lock,"Lock is missing, along with the bike",2020.9.10,Reported
+4,919765,"1661 Washington Street, Boston, MA 02118",U-lock,"Lock is missing, along with the bike",2020.9.10,Reported
+5,843842,"Pocatello, ID",Cable lock,"Lock is missing, along with the bike",2020.9.10,None
+6,917716,"Seattle, WA 98144",None,None,2020.9.10,None
+7,866291,"Nashville, TN 37209",None,None,2020.9.10,None
+0,932690,"Seattle, WA 98109",None,"Lock is missing, along with the bike",2020.9.10,Reported
+1,866444,"Somerville, MA 02144",None,None,2020.9.10,None
+2,920362,"Columbus, OH 43205",Not locked,"Other situation, please describe below",2020.9.10,Reported
+3,866352,"Eugene, OR 97405",Not locked,None,2020.9.9,Reported
+4,866428,"Denver, CO 80212",Cable lock,"Lock is missing, along with the bike",2020.9.9,Reported
+5,866120,"2435 Spenard Rd, Anchorage, AK 99503",None,None,2020.9.9,Reported
+6,866286,"317 Union Ave, Brooklyn, NY 11211",None,None,2020.9.9,None
+0,866304,"Fort Worth, TX 76116",Cable lock,"Lock is missing, along with the bike",2020.9.9,Reported
+1,866059,"5805 Hollis Court Blvd, Fresh Meadows, NY 11365",None,None,2020.9.9,None
+2,64244,"Seattle, WA 98122",U-lock and cable,"Lock was cut, and left at the scene",2020.9.9,None
+3,866013,"100 woodview way, Watertown, MA 02472",None,None,2020.9.9,None
+4,866133,"1300 Chestnut, Philadelphia, PA 19107",None,None,2020.9.9,None
+5,865989,"302 E Louisiana Street, Indianapolis, IN 46204",Cable lock,"Lock was opened, and left unharmed at the scene",2020.9.9,None
+6,866014,"Seattle, WA 98104",Cable lock,"Lock is missing, along with the bike",2020.9.9,Reported
+0,865962,"Santa Rosa, CA 95401",None,None,2020.9.9,None
+1,867132,"Seattle, WA 98112",Not locked,"Lock is missing, along with the bike",2020.9.9,None
+2,865945,"W Franklin st at Church st, Chapel Hill, NC 27516",Not locked,None,2020.9.9,Reported
+3,866070,"915 NW 45th St, Seattle, WA 98107",Cable lock,"Lock was cut, and left at the scene",2020.9.9,Reported
+4,865880,"Chicago, IL 60640",Cable lock,"Lock is missing, along with the bike",2020.9.9,Reported
+5,865911,"Glendale, CA 91202",Not locked,"Other situation, please describe below",2020.9.9,Reported
+0,866000,"Park Avenue & 56th, New York, NY 11231",None,"Lock is missing, along with the bike",2020.9.9,None
+1,934629,"New York, NY 10014",Other,"Lock was cut, and left at the scene",2020.9.9,Reported
+2,865809,"1028 South Street, Philadelphia, PA 19147",None,"Lock is missing, along with the bike",2020.9.9,Reported
+3,865817,"Atlanta, GA 30339",Other,"Other situation, please describe below",2020.9.9,Reported
+4,922794,"Millcreek, UT 84106",None,None,2020.9.9,None
+5,865762,"Phoenix, AZ",Other,"Other situation, please describe below",2020.9.9,None
+6,865772,"Seattle, WA 98103",None,None,2020.9.9,None
+0,866193,"9090 Destiny USA Dr, Syracuse, NY 13204",Other,"Other situation, please describe below",2020.9.9,Reported
+1,865763,"Vancouver, WA 98682",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.9,Reported
+2,597782,"Mukilteo, WA",Other,"Other situation, please describe below",2020.9.9,None
+3,865464,"San Diego, CA 92130",Other,None,2020.9.9,None
+4,865505,"San Francisco, CA 94117",Not locked,Bike was not locked,2020.9.9,None
+5,865507,"6528 Canyon Ranch Rd, Salt Lake City, UT 84121",Not locked,None,2020.9.9,Reported
+0,865709,"New Orleans, LA 70118",None,None,2020.9.9,None
+1,721004,"Seattle, WA 98126",Not locked,None,2020.9.9,Reported
+2,918845,"Boise, ID 83702",Cable lock,"Lock is missing, along with the bike",2020.9.9,Reported
+3,922033,"Lurie children's hospital, Chicago, IL 60611",Heavy duty bicycle security chain,"Lock is missing, along with the bike",2020.9.9,Reported
+4,865715,"Philadelphia, PA 19103",U-lock,Bike was not locked,2020.9.9,Reported
+5,918646,"Los Angeles, CA 90025",None,None,2020.9.9,Reported
+6,919837,"Oakland, CA 94612",None,None,2020.9.9,Reported
+0,865597,"2412 Richcreek Road, Austin, TX 78757",None,None,2020.9.9,None
+1,919831,"Denver, CO 80218",Other,"Other situation, please describe below",2020.9.9,Reported
+2,865760,"Vancouver, WA 98682",Other,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.9.9,Reported
+3,866159,"Eagle River, AK 99577",Cable lock,"Lock was cut, and left at the scene",2020.9.9,Reported
+4,865713,"New Orleans, LA 70118",None,None,2020.9.9,None
+5,865819,"801 W Laurel St, Fort Collins, CO 80521",None,None,2020.9.9,Reported

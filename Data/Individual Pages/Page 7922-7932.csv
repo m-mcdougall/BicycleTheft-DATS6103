@@ -1,0 +1,97 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,15013,"La Jolla, CA 92092",None,None,2010.12.8,Reported
+1,15771,"Portland, OR 97227",None,None,2010.12.8,Reported
+2,15777,"College Station, TX 77840",None,None,2010.12.8,None
+3,15899,"New Haven, CT 06520",None,None,2010.12.8,None
+4,15722,"San Diego, CA 92117",None,None,2010.12.7,Reported
+5,15735,"Sandy, OR 97055",None,None,2010.12.7,None
+6,15713,"Portland, OR 97212",None,None,2010.12.6,Reported
+7,15739,"Newark, DE 19713",None,None,2010.12.6,Reported
+8,15728,"Tucson, AZ 87530",None,None,2010.12.6,Reported
+9,19850,"Gilbert, AZ 85234",None,None,2010.12.6,None
+0,63984,"Eugene, OR 97405",None,None,2010.12.6,None
+1,15726,"Austin, TX 78741",None,None,2010.12.6,None
+2,17340,"Menlo Park, CA 94025",None,None,2010.12.5,Reported
+3,14894,"Houston, TX 77056",None,None,2010.12.5,Reported
+4,17347,"Portland, OR 97205",None,None,2010.12.5,Reported
+5,14916,"Moscow, ID 83843",None,None,2010.12.5,Reported
+6,14891,"Boise, ID 83712",None,None,2010.12.4,None
+7,15892,"Manhattan, NY 10010",None,None,2010.12.4,None
+8,15698,"Washington, DC 20001",None,None,2010.12.4,Reported
+9,15705,"San Francisco, CA 94103",None,None,2010.12.4,None
+0,15700,"New York, NY 10028",None,None,2010.12.3,None
+1,15731,"Northridge, CA 91330",None,None,2010.12.3,Reported
+2,14881,"Portland, OR 97209",None,None,2010.12.3,Reported
+3,15737,"Troy, NY 12180",None,None,2010.12.3,None
+4,15799,"Bakersfield, CA 93310",None,None,2010.12.3,Reported
+5,15203,"Columbia, MO 65201",None,None,2010.12.3,None
+6,15689,"Fort Collins, CO 80525",None,None,2010.12.2,None
+7,14871,"Portland, OR 97217",None,None,2010.12.2,Reported
+8,19811,"Boulder, CO 80303",None,None,2010.12.2,Reported
+0,15976,"Stephenville, TX 76402",None,None,2010.12.1,None
+1,103949,"Minneapolis, MN 55407",Not locked,"Other situation, please describe below.",2010.12.1,None
+2,15673,"Austin, TX 78751",None,None,2010.11.30,Reported
+3,15669,"Chapel Hill, NC 27514",None,None,2010.11.30,Reported
+4,15664,"Santa Barbara, CA 93015",None,None,2010.11.29,None
+5,11585,"Portland, OR 97218",None,None,2010.11.29,None
+6,11579,"Seattle, WA 98105",None,None,2010.11.29,Reported
+7,15663,"Santa Barbara, CA 93106",None,None,2010.11.29,None
+8,15769,"Tempe, AZ 85282",None,None,2010.11.29,None
+9,14979,"Tucson, AZ 85705",None,None,2010.11.29,Reported
+0,17749,"Tucson, AZ 85711",None,None,2010.11.29,Reported
+1,14976,"Tucson, AZ 85705",None,None,2010.11.29,Reported
+2,17742,"Brooklyn, NY 11206",None,None,2010.11.28,None
+3,19790,"San Francisco, CA 94192",None,None,2010.11.28,None
+4,17011,"Claremont, CA 91711",None,None,2010.11.28,None
+5,15654,"Norfolk, VA 23517",None,None,2010.11.28,Reported
+6,15665,"Portland, OR 97202",None,None,2010.11.27,None
+7,17791,"Portland, OR",None,None,2010.11.27,None
+8,17333,"Tempe, AZ 85284",None,None,2010.11.26,None
+9,15641,"Portland, WA 97202",None,None,2010.11.26,Reported
+0,14547,"San Diego, CA 92101",None,None,2010.11.26,None
+1,15640,"New Haven, CT 06511",None,None,2010.11.25,Reported
+2,17756,"Brooklyn, NY 11218",None,None,2010.11.25,Reported
+3,12174,"Vacaville, CA 95688",None,None,2010.11.25,None
+4,15681,"Vacaville, CA 95688",None,None,2010.11.25,None
+5,15656,"Bellflower, CA 90706",None,None,2010.11.25,Reported
+6,15661,"Austin, TX 78705",None,None,2010.11.25,Reported
+7,14869,"Portland, OR 97209",None,None,2010.11.25,Reported
+8,15678,"Portland, OR 97201",None,None,2010.11.25,Reported
+9,11618,"Newark, DE 19711",None,None,2010.11.24,Reported
+0,14823,"Portland, OR 97212",None,None,2010.11.24,Reported
+1,19766,"Seattle, WA 98104",None,None,2010.11.24,None
+2,15636,"San Jose, CA 95117",None,None,2010.11.24,Reported
+3,17740,"Boston, MA 02114",None,None,2010.11.24,None
+4,17743,"San Diego, CA 92126",None,None,2010.11.24,None
+5,14821,"San Antonio, TX 78209",None,None,2010.11.24,Reported
+6,15643,"Claremont, CA 91711",None,None,2010.11.23,Reported
+7,15633,"Issaquah, WA 98027",None,None,2010.11.23,Reported
+8,15972,"Albany, NY 12210",None,None,2010.11.23,Reported
+0,15613,"Portland, OR 97202",None,None,2010.11.22,None
+1,15704,"Shoreline, WA 98177",None,None,2010.11.22,Reported
+2,15623,"Portland, OR 97205",None,None,2010.11.22,Reported
+3,15615,"Portland, OR 97202",None,None,2010.11.22,Reported
+4,11548,"Portland, OR 97205",None,None,2010.11.22,Reported
+5,15616,"Portland, OR 97207-0751",None,None,2010.11.22,Reported
+6,20238,"Portland, OR 97212",None,None,2010.11.22,None
+7,20240,"Houston, TX 77019",None,None,2010.11.22,Reported
+8,15617,"Portland, OR 97207-0751",None,None,2010.11.22,Reported
+9,15601,"New York, NY 10023",None,None,2010.11.21,None
+0,11852,"Garland, TX 75041",None,None,2010.11.21,Reported
+1,15607,"Chula Vista, CA 91910",None,None,2010.11.21,Reported
+2,20234,"Seattle, WA 98109",None,None,2010.11.21,None
+3,15589,"Portland, OR 97211",None,None,2010.11.20,Reported
+4,16292,"Tucson, AZ 85718",None,None,2010.11.20,None
+5,23578,"Portland, OR 97215",None,None,2010.11.20,None
+6,15587,"Portland, OR 97211",None,None,2010.11.20,Reported
+7,14764,"Chicago, IL 60647",None,None,2010.11.20,None
+8,19730,"Portland, OR 97211",None,None,2010.11.20,Reported
+9,20231,"Silver Spring, MD 20901",None,None,2010.11.20,Reported
+0,41221,"Los Angeles, CA 90007",Heavy duty bicycle security chain,"Lock was cut, and left at the scene.",2010.11.19,Reported
+1,15628,"San Francisco, CA 94117",None,None,2010.11.19,None
+2,15657,"Oxford, MS 38677",None,None,2010.11.19,None
+3,20232,"New York, NY 10009",None,None,2010.11.19,None
+4,17736,"Glendale, AZ 85308",None,None,2010.11.19,Reported
+5,17738,"Austin, TX 78704",None,None,2010.11.19,Reported
+6,20230,"Portland, OR 97214",None,None,2010.11.19,None
+7,15591,"Austin, TX 78701",None,None,2010.11.18,Reported

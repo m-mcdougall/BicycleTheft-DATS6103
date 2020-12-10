@@ -1,0 +1,92 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,24503,"Portland, OR 97215",None,None,2011.7.27,Reported
+1,22431,"Seattle, WA 98109",None,None,2011.7.26,None
+2,22404,"Portland, OR 97232",None,None,2011.7.26,Reported
+3,22425,"Sacramento, CA 95819",None,None,2011.7.26,Reported
+4,22408,"Washington, DC 20008",None,None,2011.7.26,Reported
+5,22439,"Santa Clara, CA 95054",None,None,2011.7.26,Reported
+6,21924,"Oakland, CA 94608",None,None,2011.7.26,Reported
+7,22429,"Berkeley, CA 94702",None,None,2011.7.26,None
+8,25289,"Baltimore, CO 21218",None,None,2011.7.26,Reported
+9,24451,"Brooklyn, NY 11215",None,None,2011.7.26,Reported
+0,22397,"Vancouver, WA 98664",None,None,2011.7.25,Reported
+1,22399,"Vancouver, WA 98664",None,None,2011.7.25,Reported
+2,22432,"San Francisco, CA 94105",None,None,2011.7.25,None
+3,22396,"Moorhead, MN 56560",None,None,2011.7.25,Reported
+4,22386,"Fargo, ND 58102",None,None,2011.7.25,None
+5,21468,"Fargo, OR 58102",None,None,2011.7.25,None
+6,22383,"Portland, OR 97217",None,None,2011.7.25,None
+0,21451,"San Francisco, CA 94107",None,None,2011.7.25,Reported
+1,22474,"Portland, OR 97230",None,None,2011.7.25,Reported
+2,24442,"New York, NY 10022",None,None,2011.7.25,None
+3,22457,"Sacramento, CA 95816",None,None,2011.7.25,None
+4,22405,"Mammoth Lakes, CA 93546",None,None,2011.7.24,None
+5,25286,"Portland, OR 97214",None,None,2011.7.24,Reported
+6,22371,"Portland, OR 97209",None,None,2011.7.24,None
+7,23371,"Greece, NY 14626",None,None,2011.7.24,Reported
+8,21911,"Mammoth Lakes, CA 93546",None,None,2011.7.24,None
+9,24434,"San Clemente, CA 92672",None,None,2011.7.24,Reported
+0,24420,"Portland, OR 97212",None,None,2011.7.24,None
+1,24422,"Rochester, NY 14626",None,None,2011.7.24,Reported
+2,22600,"Portland, OR 97202",None,None,2011.7.24,Reported
+3,21051,"Riverside, CA 92507",None,None,2011.7.23,Reported
+4,22388,"Bellingham, WA 98225",None,None,2011.7.23,Reported
+5,22372,"Sacramento, CA 95816",None,None,2011.7.23,Reported
+0,22402,"Chicago, IL 60657",None,None,2011.7.23,Reported
+1,21194,"Chicago, IL 60622",None,None,2011.7.23,None
+2,710,"St Paul, MN 55117",Not locked,"Object that bike was locked to was broken, removed, or otherwise compromised.",2011.7.23,None
+3,21902,"San Diego, CA 92122",None,None,2011.7.23,None
+4,22453,"Urbana, IL 61801",None,None,2011.7.22,None
+5,21658,"North Hollywood, CA 91605",None,None,2011.7.22,Reported
+6,22444,"North Hollywood, CA 91605",None,None,2011.7.22,Reported
+7,21213,"Titusville, FL 32780",None,None,2011.7.22,Reported
+8,21944,"Campbell, CA 95008",None,None,2011.7.22,Reported
+0,22390,"Long Beach, CA 90802",None,None,2011.7.22,None
+1,22359,"Austin, TX 78741",None,None,2011.7.22,None
+2,24383,"Philadelphia, PA 19123",None,None,2011.7.22,Reported
+3,25284,"Irondequoit, NY 14617",None,None,2011.7.22,None
+4,22352,"Las, NV 89107",None,None,2011.7.22,None
+5,22382,"Colorado Springs, CO 80903",None,None,2011.7.22,Reported
+6,22356,"La Jolla, CA 92093",None,"Lock is missing, along with the bike",2011.7.22,Reported
+7,22385,"West Linn, OR 97068",None,None,2011.7.21,None
+8,21651,"Portland, OR 97201",None,None,2011.7.21,Reported
+9,21195,"West Linn, OR 97068",None,None,2011.7.21,None
+0,21899,"Tucson, AZ 85721",None,None,2011.7.21,Reported
+1,22350,"San Francisco, CA 94109",None,None,2011.7.21,Reported
+2,22392,"West Linn, OR 97068",None,None,2011.7.21,None
+3,24776,"Manchester, NH 03103",None,None,2011.7.21,None
+4,24388,"Seattle, WA 98195",None,None,2011.7.21,None
+5,22464,"Cerritos, CA 90703",None,None,2011.7.20,None
+6,22019,"Norwalk, CA 90650",None,None,2011.7.20,Reported
+7,21901,"Boston, MA 02143",None,None,2011.7.20,None
+8,22360,"Portland, OR 97209",None,None,2011.7.20,Reported
+9,24730,"Pittsburgh, PA 15232",None,None,2011.7.20,Reported
+0,23543,"Antioch, CA 94509",None,None,2011.7.20,None
+1,22296,"Minneapolis, MN 55406",None,None,2011.7.20,Reported
+2,22330,"Portland, OR 97205",None,None,2011.7.20,Reported
+3,21039,"Portland, OR 97214",None,None,2011.7.20,Reported
+4,23350,"Portland, OR 97209",None,None,2011.7.20,Reported
+5,22298,"Philadelphia, PA 19146",None,None,2011.7.20,None
+6,22353,"San Diego, CA 92122",None,None,2011.7.20,Reported
+7,21187,"Seattle, WA 98102",None,None,2011.7.20,Reported
+8,21175,"Portland, OR 97211",None,None,2011.7.19,Reported
+0,21894,"Portland, OR 97204",None,None,2011.7.19,None
+1,22641,"Albany, NY 12203",None,None,2011.7.19,None
+2,22937,"Orlando, FL 32803",None,None,2011.7.19,None
+3,24365,"Seattle, WA 98195",None,None,2011.7.19,Reported
+4,24356,"Seattle, WA 98101",None,None,2011.7.19,Reported
+5,22443,"Boise, ID 83706",None,None,2011.7.19,Reported
+6,23572,"Anchorage, AK 99516",None,None,2011.7.19,None
+7,24462,"Portland, OR 97212",None,None,2011.7.19,Reported
+8,22346,"Boston, MA 02130",None,None,2011.7.19,None
+9,24455,"Portland, OR 97212",None,None,2011.7.19,Reported
+0,22742,"Portland, OR 97209",None,None,2011.7.19,None
+1,21913,"Portland, OR 97212",None,None,2011.7.19,Reported
+2,25282,"Boston, MA 02130",None,None,2011.7.19,None
+3,22812,"Tucson, AZ 85719",None,None,2011.7.19,Reported
+4,22287,"Portland, OR 97211",None,None,2011.7.18,Reported
+5,21173,"Milwaukee, WI 53211",None,None,2011.7.18,Reported
+6,21891,"Chicago, IL 60656",None,None,2011.7.18,Reported
+7,23478,"Lafayette Hill, PA 19444",None,None,2011.7.18,None
+8,24360,"Berkeley, CA 94702",None,None,2011.7.18,Reported
+9,22756,"Santa Monica, CA 90401",None,None,2011.7.18,None

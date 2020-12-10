@@ -1,0 +1,71 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,919022,"Santa Monica, CA 90403",None,None,2020.8.29,Reported
+1,847841,"New Orleans, LA 70115",None,None,2020.8.29,Reported
+2,849779,"Seattle, WA 98125",None,None,2020.8.29,None
+3,847778,"529 Flat Shoals Ave SE, , Atlanta, GA 30316",None,None,2020.8.29,None
+4,46287,"Chicago, IL 60626",Cable lock,"Lock was cut, and left at the scene",2020.8.29,None
+5,849602,"Berkeley, CA 94703",Not locked,Bike was not locked,2020.8.29,None
+0,926113,"400 Clementia Street, San Francisco, CA 94103",U-lock and cable,"Lock is missing, along with the bike",2020.8.29,Reported
+1,847727,"Seattle, WA 98122",None,None,2020.8.29,None
+2,922949,"Seattle, WA 98105",None,None,2020.8.29,Reported
+3,847685,"Pittsburgh, PA 15206",Not locked,"Lock is missing, along with the bike",2020.8.28,Reported
+4,848301,"311 Mammoth Rd, Lowell, MA 01854-1532",Not locked,Bike was not locked,2020.8.28,None
+5,847640,"Seattle, WA 98102",Cable lock,"Other situation, please describe below",2020.8.28,Reported
+0,847636,"2935 Larkin Street, San Francisco, CA 94109",None,None,2020.8.28,None
+1,847627,"New Orleans, LA 70118",None,None,2020.8.28,Reported
+2,865093,"MGH, Boston, MA 02114",None,None,2020.8.28,None
+3,383181,"Santa Monica, CA 90405",None,None,2020.8.28,Reported
+4,847833,"5850 4th Street, Detroit, MI 48202",U-lock and cable,"Lock was cut, and left at the scene",2020.8.28,Reported
+5,847470,"1505 Engel Road, Lawrence, KS 66049",None,None,2020.8.28,None
+6,847447,"Santa Monica, CA 90405",None,None,2020.8.28,Reported
+7,847446,"3404 SW Archer Rd , Gainesville, FL 32608",Cable lock,"Lock was opened, and left unharmed at the scene",2020.8.28,None
+0,847441,"Santa Monica, CA 90405",None,None,2020.8.28,Reported
+1,739373,"200 S, Central Campus Dr, Salt Lake City, UT 84112, Salt Lake City, UT 84103",Cable lock,"Lock is missing, along with the bike",2020.8.28,Reported
+2,847702,"Washington, DC 20009",None,Bike was not locked,2020.8.28,None
+3,847421,"Seattle, WA 98119",Not locked,Bike was not locked,2020.8.28,Reported
+4,847382,"Seattle, WA 98102",None,None,2020.8.28,None
+5,848701,"2922 Baseline Road, Boulder, CO 80303",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.28,Reported
+6,849746,"Richfield, MN 55423",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.8.28,Reported
+7,847333,"Austin, TX 78757",None,None,2020.8.28,None
+8,847314,"10715 8TH Ave NE, Seattle, WA 98125",Cable lock,"Lock is missing, along with the bike",2020.8.28,Reported
+9,408576,"San Francisco, CA 94117",U-lock and cable,"Lock is missing, along with the bike",2020.8.28,Reported
+0,847641,"New York, NY 10016",Cable lock,"Lock was cut, and left at the scene",2020.8.28,None
+1,847264,"Seattle, WA",None,None,2020.8.28,None
+2,847290,"Portland, OR 97212",U-lock and cable,None,2020.8.28,Reported
+3,846974,"1550 Platte St, Denver, CO 80202",None,None,2020.8.28,None
+4,846964,"Seattle, WA 98119",None,None,2020.8.28,None
+5,847258,"San Diego, CA 92101",None,None,2020.8.28,None
+0,830450,"Portland, OR 97210",None,None,2020.8.28,Reported
+1,847252,"New, LA 70119",None,None,2020.8.28,None
+2,847167,"10489 Monte Vista Ave Montclair, CA 91763 United States, Montclair, CA 91763",U-lock,"Lock is missing, along with the bike",2020.8.28,Reported
+3,847388,"New, LA 70113",None,None,2020.8.28,None
+4,846832,"Fort Collins, CO",None,None,2020.8.28,Reported
+5,849681,"556 N 400 E, Provo, UT 84606, Provo, UT 84606",None,None,2020.8.28,None
+6,862933,"Belligham, WA 98225",None,None,2020.8.28,Reported
+0,917725,"San Francisco, CA 94110",None,None,2020.8.28,None
+1,853130,"San Francisco, CA 94118",Not locked,Bike was not locked,2020.8.28,Reported
+2,853132,"San Francisco, CA 94118",Not locked,Bike was not locked,2020.8.28,Reported
+3,847122,"Fresno, CA 93722",None,None,2020.8.28,None
+4,847119,"Fresno, CA 93722",None,None,2020.8.28,None
+5,847120,"Fresno, CA 93722",None,None,2020.8.28,None
+6,848148,"Cleveland, OH 44111",None,None,2020.8.28,Reported
+0,849641,"Chicago, IL 60647",U-lock,"Other situation, please describe below",2020.8.28,Reported
+1,847099,"737 S Halsted St, Chicago, IL 60607",Chain with padlock,"Lock is missing, along with the bike",2020.8.28,Reported
+2,847103,"1818 Harvard Ave, Seattle, WA 98122",None,None,2020.8.28,Reported
+3,847563,"Boulder, CO 80301",None,None,2020.8.28,None
+4,931579,"14850 Oka Rd, Los Gatos, CA, Los Gatos, CA 95032",Cable lock,"Lock is missing, along with the bike",2020.8.28,Reported
+5,848252,"334 S 13th St, Philadelphia, PA 19107",U-lock,"Lock is missing, along with the bike",2020.8.28,Reported
+6,847656,"Boulder, CO 80305",Other,"Other situation, please describe below",2020.8.28,Reported
+7,848720,"Philadelphia, PA 19103",Cable lock,"Lock was cut, and left at the scene",2020.8.27,None
+8,853635,"Ayer Train Station, Ayer, MA 01432",None,None,2020.8.27,None
+0,847263,"Portland, OR 97202",Cable lock,"Lock was cut, and left at the scene",2020.8.27,Reported
+1,846933,"Alameda, CA 94501",None,None,2020.8.27,None
+2,846898,"San Jose, CA 95134",U-lock and cable,"Lock was cut, and left at the scene",2020.8.27,Reported
+3,846897,"San Jose, CA 95134",U-lock and cable,"Lock was cut, and left at the scene",2020.8.27,Reported
+4,847240,"Takoma Park, MD 20912",None,None,2020.8.27,Reported
+0,846858,"CubeSmart, Broomfield, CO 80020",None,None,2020.8.27,None
+1,846946,"Florida St & 24th St, San Francisco, CA 94110",U-lock,"Lock was cut, and left at the scene",2020.8.27,Reported
+2,917639,"New Orleans, LA 70117",Other,None,2020.8.27,None
+3,846840,"380 Civic Dr., Galt, CA 95632",None,None,2020.8.27,None
+4,846813,"Kirkland, WA 98034",None,None,2020.8.27,None
+5,848417,"Longview Avenue, Fairfield, CT",Not locked,None,2020.8.27,Reported

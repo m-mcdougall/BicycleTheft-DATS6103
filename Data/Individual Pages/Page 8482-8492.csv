@@ -1,0 +1,96 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,5970,"Washington, DC 20005",None,None,2008.8.1,None
+1,8305,"West Palm Beach, FL 33415",None,None,2008.8.1,None
+2,10254,"Madison, WI 53703",None,None,2008.8.1,None
+3,8448,"Glendale, AZ 85306",None,None,2008.8.1,None
+4,8267,"Fargo, ND 58102",None,None,2008.7.31,None
+5,6824,"Indianapolis, IN 46201",None,None,2008.7.31,None
+6,6814,"Louisville, KY 40203",None,None,2008.7.31,None
+7,8268,"Denver, CO 80209",None,None,2008.7.31,None
+8,8175,"Denver, CO 80205",None,None,2008.7.31,Reported
+9,8358,"San Francisco, CA 94105",None,None,2008.7.30,None
+0,8260,"Santa Clara, CA 95050",None,None,2008.7.30,None
+1,8672,"Belleair Bluffs, FL 33770",None,None,2008.7.30,None
+2,5939,"Chicago, IL 60657",None,None,2008.7.30,None
+3,8165,"Washington, DC 20011",None,None,2008.7.30,Reported
+4,6440,"San Francisco, CA 94109",None,None,2008.7.30,None
+5,8262,"St. Petersburg, FL 33705",None,None,2008.7.30,None
+6,8323,"Washington, DC 20009",Other,"Other situation, please describe below.",2008.7.29,None
+7,8331,"San Anselmo, CA 94960",None,None,2008.7.29,None
+8,9960,"Spokane, WA 99201",None,None,2008.7.29,None
+9,9929,"Pasadena, CA 91106",None,None,2008.7.29,None
+0,8252,"Baltimore, MD 21218",None,None,2008.7.29,None
+1,8416,"Columbus, OH 43201",None,None,2008.7.29,None
+2,6802,"Alpharetta, GA 30022",None,None,2008.7.28,None
+3,8254,"Morgantown, WV 26501",None,None,2008.7.28,None
+4,8246,"Marina Del Rey, CA 90292",None,None,2008.7.28,None
+5,10601,"San Francisco, CA 94107",None,None,2008.7.27,None
+6,8466,"Gresham, OR 97080",None,None,2008.7.27,None
+7,10361,"Bellevue, WA 98005",None,None,2008.7.27,None
+8,8424,"Sacramento, CA 95608",None,None,2008.7.27,None
+9,5941,"Denver, CO 80203",None,None,2008.7.26,None
+0,6137,"Portland, OR 97232",None,None,2008.7.26,None
+1,6800,"Corvallis, OR 97330",None,None,2008.7.26,None
+2,6734,"Baltimore, MD 21201",None,None,2008.7.26,None
+3,8235,"Portland, OR 97202",None,None,2008.7.26,None
+4,8241,"Pleasanton, CA 94566",None,None,2008.7.26,None
+5,6301,"Portland, OR 97212",None,None,2008.7.25,None
+6,6789,"Colorado Springs, CO 80904",None,None,2008.7.25,None
+7,7934,"Phoenix, AZ 85012",None,None,2008.7.25,None
+8,8229,"Colorado Springs, CO 80904",None,None,2008.7.25,None
+9,5931,"Portland, OR 97212",None,None,2008.7.25,None
+0,5935,"Panorama City, CA 91402",None,None,2008.7.25,None
+1,6437,"Richardson, TX 75248",None,None,2008.7.24,None
+2,9128,"San Pedro, CA 90731",None,None,2008.7.24,Reported
+3,9865,"Eugene, OR 97404",None,None,2008.7.24,None
+4,8249,"Portland, OR 97211",None,None,2008.7.24,None
+5,8227,"San Diego, CA 92107",None,None,2008.7.24,None
+6,8215,"Marina Del Rey, CA 90292",None,None,2008.7.24,None
+7,8225,"Concord, CA 94518",None,None,2008.7.24,None
+8,8211,"Buffalo, NY 14217",None,None,2008.7.23,None
+9,6780,"Manhattan, NY 10282",None,None,2008.7.23,None
+0,6436,"Greenbrier, TN 37073",None,None,2008.7.21,None
+1,6778,"Sacramento, CA 95827",None,None,2008.7.21,None
+2,8209,"Providence, RI 02906",None,None,2008.7.21,None
+3,5929,"Elkhorn, WI 53121",None,None,2008.7.21,None
+4,11059,"Loveland, CO 80537",None,None,2008.7.20,None
+5,8201,"Baltimore, MD 21211",None,None,2008.7.20,None
+6,8088,"San Diego, CA 92109",None,None,2008.7.20,None
+7,8029,"Santa Monica, CA 90404",None,None,2008.7.19,None
+8,8231,"Washington, DC 20009",None,None,2008.7.19,None
+0,8213,"Marysville, WA 98270",None,None,2008.7.19,None
+1,8299,"Knoxville, TN 37919",None,None,2008.7.19,None
+2,8236,"Portland, OR 97212",None,None,2008.7.19,None
+3,8191,"Vancouver, WA 98664",None,None,2008.7.18,None
+4,8859,"Washington, DC 20001",None,None,2008.7.18,None
+5,8196,"College Park, MD 20742",None,None,2008.7.18,None
+6,6774,"Corvallis, OR 97330",None,None,2008.7.18,None
+7,6773,"Carbondale, PA 18407",None,None,2008.7.17,None
+8,11056,"Fort Collins, CO 80525",None,None,2008.7.17,None
+0,8243,"Longmont, CO 80501",None,None,2008.7.16,None
+1,8163,"Richmond, VA 23220",None,None,2008.7.15,None
+2,9785,"Portland, OR 97211",None,None,2008.7.15,None
+3,8264,"Sandy, UT 84092",None,None,2008.7.15,None
+4,8178,"San Francisco, CA 94105",None,None,2008.7.15,None
+5,6783,"Beaverton, OR 97008",None,None,2008.7.14,None
+6,8131,"Alton, IL 62002",None,None,2008.7.14,None
+7,6427,"Libertyville, IL 60048",None,None,2008.7.14,None
+0,8150,"Baltimore, MD 21218",None,None,2008.7.14,None
+1,8148,"El Segundo, CA 90245",None,None,2008.7.14,None
+2,10292,"Chicago, IL 60626",None,None,2008.7.14,Reported
+3,8143,"Brea, CA 92821",None,None,2008.7.14,None
+4,10565,"Wading River, NY 11792",None,None,2008.7.13,None
+5,11054,"Madison, WI 53711",None,None,2008.7.13,None
+6,8130,"Milwaukee, WI 53202",None,None,2008.7.13,None
+7,10566,"Austin, TX 78701",None,None,2008.7.13,None
+8,6423,"Fort Collins, CO 80526",None,None,2008.7.13,None
+9,6752,"Berkeley, CA 94703",None,None,2008.7.12,None
+0,8174,"Chicago, IL 60618",None,None,2008.7.12,None
+1,6761,"Norman, OK 73072",None,None,2008.7.12,None
+2,9726,"Mountain View, CA 94040",None,None,2008.7.12,None
+3,11048,"Austin, TX 78704",None,None,2008.7.12,None
+4,8129,"Monmouth, OR 97361",None,None,2008.7.12,None
+5,6766,"Albany, NY 12203",None,None,2008.7.12,None
+6,6753,"Chicago, IL 60625",None,None,2008.7.12,None
+7,8179,"Vancouver, WA 98685",None,None,2008.7.12,None
+8,8001,"Minneapolis, MN 55408",None,None,2008.7.12,None

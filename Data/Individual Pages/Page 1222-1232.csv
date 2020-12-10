@@ -1,0 +1,76 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,722483,"Denver, CO 80205",Other,"Other situation, please describe below",2020.4.27,Reported
+1,720150,"15th ave s & s hanford st, Seattle, WA 98144",None,None,2020.4.27,None
+2,720152,"Miami, FL 33156",None,"Lock was cut, and left at the scene",2020.4.27,None
+3,720123,"Orleans, LA 70119",None,None,2020.4.27,None
+4,721498,"77th and Knight St SE, Portland, OR 97206",Cable lock,"Lock was cut, and left at the scene",2020.4.27,Reported
+5,427199,"Mountain View, CA 94043",None,None,2020.4.27,Reported
+6,689251,"Mountain View, CA 94043",None,None,2020.4.27,Reported
+0,427216,"Mountain View, CA 94043",None,None,2020.4.27,Reported
+1,719912,"Portland, OR 97266",None,None,2020.4.27,None
+2,721460,"Portland, OR 97239",None,None,2020.4.27,Reported
+3,719888,"162 W 56th St, New York, NY 10029",None,None,2020.4.27,None
+4,719882,"Folsom, CA 95630",Cable lock,"Lock is missing, along with the bike",2020.4.27,Reported
+5,719857,"1200 Grant St, Denver, CO 80203",Cable lock,"Other situation, please describe below",2020.4.27,Reported
+0,731230,"Seattle, WA 98116",Not locked,"Other situation, please describe below",2020.4.27,None
+1,732304,"12th and Pine, Oakland, CA 94607",None,None,2020.4.27,None
+2,719846,"Puyuallup, WA 98374",Not locked,None,2020.4.27,Reported
+3,719763,"Arvada, CO 80002",None,None,2020.4.27,None
+4,719761,"Portland, OR 97209",Cable lock,"Lock is missing, along with the bike",2020.4.27,Reported
+5,719753,"12th and Colorado Blvd , Denver, CO 80206",None,None,2020.4.26,None
+6,719752,"12th and Colorado Blvd , Denver, CO 80206",None,None,2020.4.26,None
+7,722859,"Denver, CO 80209",Other,"Lock was cut, and left at the scene",2020.4.26,None
+0,719689,"Venice, CA 90291",None,None,2020.4.26,None
+1,719687,"San, CA 94117",U-lock,None,2020.4.26,Reported
+2,719680,"25200 Pacific Hwy S, Kent, WA 98032",None,None,2020.4.26,None
+3,720435,"8842 Winding Way, Fair Oaks, CA 95628-6499",U-lock and cable,"Lock is missing, along with the bike",2020.4.26,Reported
+4,719670,"Iowa City, IA 52245",None,None,2020.4.26,None
+5,719664,"Iowa City, IA 52246",None,None,2020.4.26,None
+6,716607,"Denver, CO 80210",Not locked,Bike was not locked,2020.4.26,Reported
+0,864815,"Portland, OR 97212",None,None,2020.4.26,Reported
+1,719635,"5745 SE 17th Ave, Portland, OR 97202",None,None,2020.4.26,None
+2,425831,"Kirkland, WA 98034",Cable lock,"Lock was cut, and left at the scene",2020.4.26,Reported
+3,719585,"Vail, CO 81657",None,None,2020.4.26,Reported
+4,719667,"325 Berry St, San Francisco, CA 94158",None,None,2020.4.26,None
+5,719864,"Denver, CO 80204",None,None,2020.4.26,Reported
+6,719457,"Whitesboro, NY 13492",None,None,2020.4.26,None
+7,719446,"Minneapolis, MN 55402",Chain with padlock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.4.26,Reported
+0,719475,"Cleveland, OH 44111",None,None,2020.4.26,None
+1,719386,"Washington, DC 20002",None,None,2020.4.26,Reported
+2,719731,"Palo Alto, CA 94301",Other,"Lock is missing, along with the bike",2020.4.26,Reported
+3,724518,"Oakland, CA 94613",U-lock,None,2020.4.26,None
+4,724492,"Oakland, CA 94612",U-lock,None,2020.4.26,None
+5,719910,"Midway City, CA 92655",Not locked,Bike was not locked,2020.4.26,None
+6,719649,"4145 SE Olsen St, Milwaukie, OR 97222",None,None,2020.4.26,None
+0,645037,"Seattle, WA 98102",Other,"Lock is missing, along with the bike",2020.4.26,Reported
+1,664985,"Portland, OR 9211",Not locked,Bike was not locked,2020.4.26,Reported
+2,719331,"New Orleans, LA 70118",None,None,2020.4.25,Reported
+3,720550,"Irvine, CA 92612",Cable lock,"Lock is missing, along with the bike",2020.4.25,None
+4,727597,"Allston, MA 02134",U-lock,"Lock is missing, along with the bike",2020.4.25,None
+5,718937,"San Jose, CA 95120",None,None,2020.4.25,Reported
+6,718917,"220 S Jackson St, Seattle, WA 98104",Not locked,"Other situation, please describe below",2020.4.25,Reported
+7,718809,"Santa Monica, CA 90405",Heavy duty bicycle security chain,"Lock was cut, and left at the scene",2020.4.25,Reported
+0,661389,"Bellevue, WA 98007",None,None,2020.4.25,None
+1,721805,"Oakland, CA 94612",U-lock,"Other situation, please describe below",2020.4.25,Reported
+2,719902,"Columbus, OH 43230",None,None,2020.4.25,Reported
+3,720458,"Mercer Island, WA 98040",None,None,2020.4.25,Reported
+4,720189,"Burlington, VT 05401",None,None,2020.4.25,None
+5,725771,"10705 Oldfield Dr, Reston, VA 20191",Not locked,None,2020.4.25,None
+6,718407,"325 27th St., Oakland, CA 94612",U-lock,"Lock is missing, along with the bike",2020.4.25,Reported
+7,718300,"1823 Terry Ave, Seattle, WA 98101",None,None,2020.4.25,None
+8,718242,"Colorad, CO",None,None,2020.4.25,None
+0,718243,"15th. And Colorado 7-11, Colorado Springs, CO 80904",Cable lock,Bike was not locked,2020.4.25,None
+1,719297,"2850 26th ave s, Minneapols, MN 55406",Cable lock,"Lock was cut, and left at the scene",2020.4.25,Reported
+2,722564,"Oakland, CA 94607",U-lock,None,2020.4.25,None
+3,744417,"Westminister, CO",U-lock,"Other situation, please describe below",2020.4.25,None
+4,719030,"San Francisco, CA 94122",U-lock and cable,"Lock was cut, and left at the scene",2020.4.25,Reported
+5,735122,"Portland, OR 97206",None,None,2020.4.25,Reported
+6,735126,"Portland, OR 97206",None,None,2020.4.25,Reported
+7,718843,"Seattle, WA 98144",None,None,2020.4.25,Reported
+0,721452,"New Orleans, LA 70125",None,None,2020.4.25,None
+1,717024,"Las Cruces, NM 88005",None,None,2020.4.24,None
+2,718817,"Washington, DC 20016",Not locked,"Other situation, please describe below",2020.4.24,Reported
+3,718023,"WinnCo 2100 s Main St, Salt Lake, UT 84115",None,None,2020.4.24,None
+4,719288,"2714 Quarry Rd NW, Washington, DC 20009",Not locked,"Lock is missing, along with the bike",2020.4.24,Reported
+5,717954,"Seattle, WA 98107",None,None,2020.4.24,None
+6,719599,"San Francisco, CA 94117",Not locked,Bike was not locked,2020.4.24,Reported

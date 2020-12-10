@@ -1,0 +1,62 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,829227,"Hood River, OR 97031",Not locked,None,2020.7.21,Reported
+1,794223,"Fremont, CA 94536",None,None,2020.7.21,Reported
+2,793835,"Charlotte, NC 28207",Not locked,"Other situation, please describe below",2020.7.21,Reported
+3,832402,"Saint Paul, MN 55117",None,None,2020.7.21,None
+4,832405,"Saint Paul, MN 55117",None,None,2020.7.21,None
+0,793939,"Washington, DC 20002",Other,"Other situation, please describe below",2020.7.20,Reported
+1,794146,"Santa Clara, CA 95129",None,None,2020.7.20,None
+2,795146,"Miami Beach, FL 33139",None,None,2020.7.20,Reported
+3,793563,"San Francisco, CA 94118",None,None,2020.7.20,None
+4,793636,"Bellevue, WA 98006",Cable lock,"Lock was cut, and left at the scene",2020.7.20,Reported
+5,827679,"Saint Paul, MN 55104",None,None,2020.7.20,Reported
+6,836706,"200 E. 8th St, Sioux Falls, SD 57103",Chain with padlock,"Lock is missing, along with the bike",2020.7.20,Reported
+0,793518,"Wichita, KS 67204",None,None,2020.7.20,None
+1,793521,"San Francisco, CA 94110",Other,"Other situation, please describe below",2020.7.20,Reported
+2,793459,"Columbia, MO 65203",None,None,2020.7.20,None
+3,793644,"516 1st Ave W, Seattle, WA 98119",Cable lock,"Lock was cut, and left at the scene",2020.7.20,Reported
+4,793480,"San Francisco, CA 94115",Other,"Lock is missing, along with the bike",2020.7.20,Reported
+0,793402,"Bellevue, WA 98004",None,None,2020.7.20,None
+1,793450,"Minneapolis, MN 55406",Not locked,Bike was not locked,2020.7.20,Reported
+2,793366,"Denver, CO 80211",None,None,2020.7.20,None
+3,793833,"maple/oldlyme, Buffalo, NY 14221",Not locked,Bike was not locked,2020.7.20,Reported
+4,793302,"17th ave. And Lafayette , Denver, CO",None,None,2020.7.20,None
+0,793285,"625 Chartres St , New Orleans, LA 70130 ",None,None,2020.7.20,None
+1,793272,"Milwaukee, WI 53212",None,None,2020.7.20,None
+2,793275,"Denver, CO 80202",Cable lock,"Lock is missing, along with the bike",2020.7.20,Reported
+3,793233,"Salt Lake City, UT 84105",Cable lock,"Lock was cut, and left at the scene",2020.7.20,Reported
+0,827682,"75 E 2nd St. , New York, NY 10003",Not locked,None,2020.7.20,None
+1,793200,"Washington, DC 20009",None,None,2020.7.20,None
+2,793177,"1702 Goodnight Lane, Austin, TX 78757",None,None,2020.7.20,None
+3,49779,"Seattle, WA 98103",None,None,2020.7.20,None
+4,793308,"Chicago, IL 60640",Cable lock,"Lock is missing, along with the bike",2020.7.20,None
+5,793318,"Chicago, IL 60640",Cable lock,"Lock was cut, and left at the scene",2020.7.20,None
+6,49783,"Seattle, WA 981034",None,None,2020.7.20,None
+0,793154,"Washington, DC 20002",None,None,2020.7.20,None
+1,793138,"10870 NW 88TH TER, Doral, FL 33178",None,None,2020.7.20,Reported
+2,793110,"Washington, DC 20002",None,None,2020.7.20,None
+3,793116,"Houston, TX",Not locked,"Other situation, please describe below",2020.7.20,Reported
+4,793109,"5th Street NE Between F and G Street NE, Washington, DC 20002",None,None,2020.7.20,None
+5,793274,"23803 oxnard street, Woodland Hills, CA 91367",None,None,2020.7.20,None
+6,793100,"600 Grant street, Denver, CO 80203",None,None,2020.7.20,None
+7,932190,"Palm Springs, CA 92264",Other,"Lock is missing, along with the bike",2020.7.20,Reported
+0,939255,"Unknown, KS Unknown",Not locked,None,2020.7.20,None
+1,793278,"Austin, TX 78704",U-lock and cable,"Lock was cut, and left at the scene",2020.7.20,None
+2,793107,"5th Street NE Between F & G Street NE, Washington, DC 20002",Other,"Other situation, please describe below",2020.7.20,None
+3,802288,"87450 E Government Camp Loop, Government Camp, OR 97028",Cable lock,"Lock is missing, along with the bike",2020.7.20,Reported
+4,806980,"Government Camp, OR 97028",Cable lock,"Lock was cut, and left at the scene",2020.7.20,Reported
+5,794678,"19-70 81st, Astoria Heights, NY 11370",U-lock and cable,"Lock was opened, and left unharmed at the scene",2020.7.20,None
+0,793139,"Milwaukee, WI 53211",Cable lock,"Lock was cut, and left at the scene",2020.7.20,Reported
+1,793574,"San Jose, CA 95128",Other,"Other situation, please describe below",2020.7.20,Reported
+2,793026,"Lehi, UT 84043",None,None,2020.7.19,None
+3,797341,"San Francisco, CA 94131",Not locked,None,2020.7.19,Reported
+4,793198,"Las Vegas, NV 89119",U-lock and cable,"Lock was cut, and left at the scene",2020.7.19,Reported
+5,793150,"Lakewood, CO 80226",None,None,2020.7.19,Reported
+6,833092,"Denver, CO 80211",None,None,2020.7.19,Reported
+0,792957,"San Francisco, CA California",Not locked,None,2020.7.19,Reported
+1,806834,"111 E. El Camino Real, Sunnyvale, CA 94087",U-lock,"Lock is missing, along with the bike",2020.7.19,Reported
+2,792869,"San Jose Ca, CA 95126",Not locked,"Other situation, please describe below",2020.7.19,Reported
+3,793135,"22205 Meridian E, Graham, WA 98338",Not locked,Bike was not locked,2020.7.19,None
+4,793463,"358 Blue River Pkwy #H, Silverthorne, CO 80498",Other,"Lock was cut, and left at the scene",2020.7.19,Reported
+5,390118,"Portland, OR 97212",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised",2020.7.19,Reported
+6,792803,"1423 5th St SE, Minneapolis, MN 55414",None,None,2020.7.19,Reported

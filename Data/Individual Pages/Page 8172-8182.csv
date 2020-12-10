@@ -1,0 +1,97 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,12962,"Chicago, IL 60659",None,None,2010.2.25,Reported
+1,13432,"Milwaukie, OR 97267",None,None,2010.2.24,None
+2,18822,"Phoenix, AZ 85044",None,None,2010.2.24,Reported
+3,18704,"Tempe, AZ 85281",None,None,2010.2.24,Reported
+4,12917,"Portland, OR 97202",None,None,2010.2.24,None
+5,18816,"San Diego, CA 92113",None,None,2010.2.23,None
+6,18169,"Portland, OR 97203",None,None,2010.2.23,None
+7,18818,"Santa Cruz, CA 95060",None,None,2010.2.23,None
+8,12906,"Sandy, UT 84093",None,None,2010.2.22,Reported
+9,14788,"Boston, MA 02118",None,None,2010.2.22,Reported
+0,12911,"Huntington Beach, CA 92648",None,None,2010.2.22,Reported
+1,12912,"Cambridge, MA 02140",None,None,2010.2.22,Reported
+2,12927,"Portland, OR 97215",None,None,2010.2.22,None
+3,13130,"Jersey City, NJ 07302",None,None,2010.2.21,None
+4,18820,"Playa Del Rey, CA 90293",None,None,2010.2.21,None
+5,12919,"Portland, OR 97212",None,None,2010.2.21,Reported
+6,12902,"Philadelphia, PA 19104",None,None,2010.2.21,None
+7,12901,"Portland, OR 97217",None,None,2010.2.20,None
+8,14796,"Coronado, CA 92118",None,None,2010.2.20,Reported
+0,18807,"Gresham, OR 97233",None,None,2010.2.20,Reported
+1,12913,"Oakland, CA 94618",None,None,2010.2.19,Reported
+2,18352,"Winchester, VA 22601",None,None,2010.2.19,None
+3,12897,"Forest Grove, OR 97116",None,None,2010.2.19,None
+4,12894,"Clearwater, FL 33755",None,None,2010.2.19,None
+5,437428,"Missoula, MT 59801",None,None,2010.2.18,Reported
+6,12895,"Seattle, WA 98103",None,None,2010.2.18,Reported
+7,12903,"Portland, OR 97232",None,None,2010.2.18,Reported
+8,14790,"Portland, OR 97006",None,None,2010.2.18,None
+9,18894,"Portland, OR 97210",None,None,2010.2.18,None
+0,12893,"Emeryville, CA 94608",None,None,2010.2.18,None
+1,12891,"Camas, WA 98607",None,None,2010.2.18,None
+2,15287,"Irvine, CA 92617",None,None,2010.2.17,None
+3,18804,"Portland, OR 97215",None,None,2010.2.17,None
+4,12736,"Portland, OR 97209",None,None,2010.2.17,None
+5,18805,"Berkeley, CA 94720",None,None,2010.2.17,None
+6,12884,"Portland, OR 97215",None,None,2010.2.17,None
+7,12876,"Portland, OR 97215",None,None,2010.2.16,Reported
+8,12888,"Seattle, WA 98107",None,None,2010.2.16,Reported
+9,14815,"Tucson, AZ 85719",U-lock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2010.2.16,Reported
+0,14737,"San Jose, CA 95135",None,None,2010.2.16,None
+1,15284,"Olympia, WA 98506",None,None,2010.2.15,None
+2,18697,"Portland, OR 97213",None,None,2010.2.15,None
+3,18847,"San Francisco, CA 94117",None,None,2010.2.14,Reported
+4,12862,"Houston, TX 77004",None,None,2010.2.13,None
+5,12870,"West Linn, OR 97068",None,None,2010.2.12,Reported
+6,12623,"Dallas, TX 75226",None,None,2010.2.12,Reported
+7,12872,"West Linn, OR 97068",None,None,2010.2.12,Reported
+8,12899,"Portland, OR 97236",None,None,2010.2.12,Reported
+0,15269,"Portland, OR 97202",None,None,2010.2.12,None
+1,12865,"Seattle, WA 98103",None,None,2010.2.11,None
+2,14733,"Seattle, WA 98115",None,None,2010.2.11,Reported
+3,12858,"Davis, CA 95616",None,None,2010.2.11,None
+4,15267,"San Diego, CA 92101",None,None,2010.2.11,None
+5,12869,"Newport News, VA 23601",None,None,2010.2.10,None
+6,18800,"Seattle, WA 98112",None,None,2010.2.10,Reported
+7,14876,"Portland, OR 97218",None,None,2010.2.10,None
+8,12852,"Seattle, WA 98112",None,None,2010.2.10,Reported
+9,14721,"University Park, PA 16802",None,None,2010.2.9,Reported
+0,12622,"Wilmington, NC 28403",None,None,2010.2.7,None
+1,13486,"Hillsboro, OR 97024",None,None,2010.2.7,Reported
+2,12886,"Portland, OR 97213",None,None,2010.2.7,Reported
+3,14754,"Santa Monica, CA 90405",None,None,2010.2.7,None
+4,12843,"Tempe, AZ 85282",None,None,2010.2.6,Reported
+5,18795,"Alameda, CA 94501",None,None,2010.2.6,None
+6,12840,"Portland, OR 97239",None,None,2010.2.5,None
+7,12847,"Lexington, KY 40508",None,None,2010.2.5,None
+8,12834,"Hollywood, FL 33024",None,None,2010.2.4,Reported
+0,12833,"Portland, OR 97202",None,None,2010.2.4,Reported
+1,12811,"Chapel Hill, NC 27516",None,None,2010.2.3,None
+2,12832,"East Lansing, MI 43885",None,None,2010.2.3,None
+3,18794,"Philadelphia, PA 19104",None,None,2010.2.3,None
+4,18349,"Round Lake, IL 60073",None,None,2010.2.2,None
+5,12652,"San Diego, CA 92111",None,None,2010.2.2,None
+6,12823,"Tucson, AZ 85716",None,None,2010.2.2,None
+7,18796,"Los Angeles, CA 90049",None,None,2010.2.1,None
+8,12818,"Portland, OR 97214",None,None,2010.2.1,None
+9,12824,"Atlanta, GA 30332",None,None,2010.2.1,Reported
+0,12957,"Burbank, CA 91501",None,None,2010.2.1,None
+1,14684,"Irvine, CA 92617",None,None,2010.2.1,None
+2,12860,"Los Angeles, CA 90039",None,None,2010.1.31,Reported
+3,13012,"San Francisco, CA 94107",None,None,2010.1.31,Reported
+4,13015,"San Francisco, CA 94107",None,None,2010.1.31,Reported
+5,12889,"Austin, TX 78704",None,None,2010.1.31,None
+6,12803,"Tampa, FL 33603",None,None,2010.1.30,Reported
+7,12816,"Redondo Beach, CA 90277",None,None,2010.1.30,Reported
+8,12798,"Beaverton, OR 97006",None,None,2010.1.30,None
+9,12805,"Portland, OR 97202",None,None,2010.1.30,Reported
+0,15239,"Portland, OR 97211",None,None,2010.1.30,Reported
+1,12813,"Santa Barbara, CA 93101",None,None,2010.1.30,Reported
+2,12806,"San Antonio, TX 78230",None,None,2010.1.30,Reported
+3,12792,"San Francisco, CA 94109",None,None,2010.1.29,None
+4,18789,"Portland, OR 97214",None,None,2010.1.29,Reported
+5,12788,"Portland, OR 97203",None,None,2010.1.29,Reported
+6,12801,"Portland, OR 97214",None,None,2010.1.29,Reported
+7,18853,"Dillon, SC 29536",None,None,2010.1.29,Reported
+8,14668,"Honolulu, HI 96816",None,None,2010.1.29,None

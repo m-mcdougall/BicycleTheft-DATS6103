@@ -1,0 +1,100 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,8877,"Portland, OR 97213",None,None,2013.11.10,Reported
+1,11517,"Portland, OR 97202",None,None,2013.11.10,Reported
+2,11501,"Woodinville, WA 98072",None,None,2013.11.10,Reported
+3,1128,"Chicago, IL 60622",Heavy duty bicycle security chain,"Lock is missing, along with the bike.",2013.11.10,Reported
+4,6221,"San Diego, CA 92103",None,None,2013.11.10,Reported
+5,8936,"Charleston, SC 29401",None,None,2013.11.10,None
+6,8930,"Cambridge, MA 02138",None,None,2013.11.10,None
+7,6201,"Lafayette, CO 80026",None,None,2013.11.10,Reported
+8,10653,"Portland, OR 97213",None,None,2013.11.10,Reported
+9,11497,"San Francisco, CA 94103",None,None,2013.11.10,Reported
+0,8862,"Pittsburgh, PA 15213",None,None,2013.11.10,Reported
+1,10611,"Seattle, WA 98102",None,None,2013.11.9,None
+2,6325,"Tuscaloosa, AL 35487",None,None,2013.11.9,None
+3,10615,"Seattle, WA 98102",None,None,2013.11.9,None
+4,11495,"Portland, OR 97206",None,None,2013.11.9,Reported
+5,8950,"Portland, OR 97214",None,None,2013.11.9,Reported
+6,10620,"Philadelphia, PA 19148",None,None,2013.11.9,None
+7,5773,"Portland, OR 97202",None,None,2013.11.9,Reported
+8,8869,"Philadelphia, PA 19104",None,None,2013.11.9,Reported
+0,10627,"Portland, OR 97212",None,None,2013.11.9,None
+1,5766,"Corte Madera, CA 94954",None,None,2013.11.9,Reported
+2,8840,"Tucson, AZ 85716",None,None,2013.11.8,Reported
+3,1151,"Chicago, IL 60657",None,"Object that bike was locked to was broken, removed, or otherwise compromised.",2013.11.8,Reported
+4,9440,"Chicago, IL 60614",None,None,2013.11.8,Reported
+5,10594,"Salt Lake City, UT 84121",None,None,2013.11.8,Reported
+6,6205,"Portland, OR 97209",None,None,2013.11.8,Reported
+7,8939,"Seattle, WA 98119",None,None,2013.11.8,Reported
+8,8635,"Sacramento, CA 95818",None,None,2013.11.8,Reported
+9,11493,"Portland, OR 97208",None,None,2013.11.8,Reported
+0,10622,"Portland, OR 97218",None,None,2013.11.8,None
+1,10582,"Tucson, AZ 85745",None,None,2013.11.8,Reported
+2,6211,"San Francisco, CA 94123",None,None,2013.11.8,None
+3,57364,"Chicago, IL 60647",Chain with padlock,"Object that bike was locked to was broken, removed, or otherwise compromised.",2013.11.7,None
+4,8873,"Vancouver, WA 98663",None,None,2013.11.7,Reported
+5,8813,"New Haven, CT 06511",None,None,2013.11.7,None
+6,8835,"Portland, OR 97216",None,None,2013.11.7,Reported
+7,11490,"Beaverton, OR 97229",None,None,2013.11.7,None
+8,6840,"San Francisco, CA 94102",None,None,2013.11.7,Reported
+9,8843,"Tucson, AZ 85714",None,None,2013.11.7,None
+0,10587,"Portland, OR 97212",None,None,2013.11.7,Reported
+1,6728,"Tucson, AZ 85701",None,None,2013.11.7,Reported
+2,8800,"San Antonio, TX 78229",None,None,2013.11.7,Reported
+3,10550,"Seattle, WA 98199",None,None,2013.11.6,None
+4,8787,"Portland, OR 97219",None,None,2013.11.6,Reported
+5,9701,"Portland, OR 97214",None,None,2013.11.6,None
+6,6071,"Portland, OR 97217",None,None,2013.11.6,Reported
+7,8847,"San Francisco, CA 94102",None,None,2013.11.6,None
+8,8791,"Phoenix, AZ 85028",None,None,2013.11.6,Reported
+9,8864,"Tucson, AZ 85719",None,None,2013.11.6,None
+0,10630,"San Francisco, CA 94131",None,None,2013.11.6,None
+1,8788,"Boston, MA 02115",None,None,2013.11.6,None
+2,8783,"Portland, OR 97217",None,None,2013.11.6,Reported
+3,8893,"Boston, MA 02115",None,None,2013.11.6,Reported
+4,8781,"Baltimore, MD 21218",None,None,2013.11.6,Reported
+5,10571,"Philadelphia, PA 19104",None,None,2013.11.6,Reported
+6,11494,"Austin, TX 78741",None,None,2013.11.6,Reported
+7,9016,"Englewood, CO 80113",None,None,2013.11.6,None
+8,5904,"Los Angeles, CA 90034",None,None,2013.11.6,Reported
+9,6193,"Indianapolis, IN 46202",None,None,2013.11.6,Reported
+0,10577,"Emeryville, CA 94604",None,None,2013.11.6,None
+1,10554,"Portland, OR 97215",None,None,2013.11.6,Reported
+2,10540,"Portland, OR 97206",None,None,2013.11.5,Reported
+3,10527,"Philadelphia, PA 19102",None,None,2013.11.5,Reported
+4,8765,"Portland, OR 97205",None,None,2013.11.5,Reported
+5,8764,"Portland, OR 97204",None,None,2013.11.5,Reported
+6,6694,"Portland, OR 97202",None,None,2013.11.5,None
+7,8841,"Oakland, CA 94608",None,None,2013.11.5,None
+8,9272,"Portland, OR 97217",None,None,2013.11.5,Reported
+9,11488,"San Diego, CA 92115",None,None,2013.11.5,None
+0,11498,"Baltimore, MD 21218",None,None,2013.11.5,Reported
+1,1597,"San Francisco, CA 94122",Not locked,Bike was not locked,2013.11.5,None
+2,6699,"Bellingham, WA 98225",None,None,2013.11.5,None
+3,7365,"Seattle, WA 98107",None,None,2013.11.5,Reported
+4,8779,"San Francisco, CA 94124",None,None,2013.11.5,Reported
+5,8784,"U District, WA 98105",None,None,2013.11.5,None
+6,8792,"Portland, OR 97217",None,None,2013.11.5,Reported
+7,8811,"Wheat Ridge, CO 80033",None,None,2013.11.5,Reported
+8,10525,"New York, NY 10065",None,None,2013.11.5,None
+9,8766,"Portland, OR",None,None,2013.11.5,None
+0,10534,"Albuquerque, NM 87106",None,None,2013.11.4,None
+1,6168,"Portland, OR 97213",None,None,2013.11.4,None
+2,8737,"Portland, OR 97206",None,None,2013.11.4,Reported
+3,8758,"Portland, OR 97214",None,None,2013.11.4,Reported
+4,8771,"Bethesda, MD 20816",None,None,2013.11.4,None
+5,8749,"Doylestown, PA 18901",None,None,2013.11.4,None
+6,8820,"Albuquerque, NM 87111",None,None,2013.11.4,Reported
+7,10516,"Eugene, OR 97403",None,None,2013.11.4,None
+8,11520,"Sarasota, FL 34234",None,None,2013.11.4,None
+9,11483,"Portland, OR 97211-6224",None,None,2013.11.4,Reported
+0,6697,"Portland, OR 97203",None,None,2013.11.4,Reported
+1,6706,"Brooklyn, NY 11211",None,None,2013.11.4,None
+2,8756,"Portland, OR 97202",None,None,2013.11.4,Reported
+3,8804,"Oakland, CA 94609",None,None,2013.11.4,Reported
+4,6696,"Washington, DC 20009",None,None,2013.11.4,None
+5,8794,"Portland, OR 97217",None,None,2013.11.3,None
+6,8752,"San Diego, CA 92037",None,None,2013.11.3,None
+7,10504,"Fresno, CA 93726",None,None,2013.11.3,None
+8,10567,"Fargo, ND 58103",None,None,2013.11.3,Reported
+9,23236,"Portland, OR 97239",None,None,2013.11.3,Reported
