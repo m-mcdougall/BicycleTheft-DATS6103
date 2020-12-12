@@ -419,7 +419,49 @@ print(f'Photon finished in {round(overall_finish-overall_start,5)} seconds\n\n')
 
 
 
+"""
+The map plot beforeadding in the colour and radius changes
 
+"""
+    size_adj= {'tiny':[0.5,16],
+               'small':[1,15], 
+               'large':[2, 14],
+               }
+    
+    size=size_adj['large']
+    
+    #Initiate the figure
+    fig = plt.figure(figsize=(18,17))
+
+    #The base map will be from Open Street Maps
+    imagery = OSM()
+    
+    #Use the OSM projection for positioning lat/longitude points
+    ax = plt.axes(projection=imagery.crs, )
+    
+    # Set the extent - center on the user location +/- 1 mile
+    long_adj = 1/54.6 * size[0]
+    lat_adj  = 1/69 * size[0]
+    ax.set_extent( (user_loc.longitude-long_adj, user_loc.longitude+long_adj,
+                    user_loc.latitude-lat_adj, user_loc.latitude+lat_adj))
+    
+    
+    #Plot the user location
+    plt.plot(user_loc.longitude,user_loc.latitude, color='red', markersize=30, marker='*',transform=ccrs.Geodetic() )
+    plt.plot(user_loc.longitude,user_loc.latitude, color='white', markersize=18, marker='*',transform=ccrs.Geodetic() )
+
+    
+    #Plot all nearby bike thefts
+    for i in range(theft_nearby.shape[0]):
+        plt.plot(theft_nearby['Longitude'].iloc[i],theft_nearby['Latitude'].iloc[i], color='orange', markersize=57.7, marker='o', alpha=0.4, transform=ccrs.Geodetic() )
+        plt.plot(theft_nearby['Longitude'].iloc[i],theft_nearby['Latitude'].iloc[i], color='brown', markersize=10, marker='o',transform=ccrs.Geodetic() )
+        
+
+    # Add the imagery to the map.
+    zoom = size[1] #15 is best for 1 mile 
+    ax.add_image(imagery, zoom )
+    plt.title(f'Bike thefts within {size[0]} Mile of {user_loc.address.split(",")[0]}')
+    plt.show()
 
 
 
