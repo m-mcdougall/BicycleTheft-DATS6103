@@ -464,7 +464,28 @@ The map plot beforeadding in the colour and radius changes
     plt.show()
 
 
+#%%
+""" 
+Calmaps did not work.
+"""
 
+cal_city_df=city_df.copy().dropna()
+#cal_city_df['Fake_Date'] = '2020'+cal_city_df['Day'].astype(str) +cal_city_df['Month'].astype(str)
+#cal_city_df['Fake_Date'] = pd.to_datetime(cal_city_df['Fake_Date'])
+
+
+cal_city = pd.DatetimeIndex(cal_city_df.DateTime)
+
+
+cal_city_df.index=cal_city
+
+cal_city_df['Map']=1
+cal_city_df=cal_city_df['Map']
+
+calmap.calendarplot(cal_city_df, monthticks=3, daylabels='MTWTFSS', cmap='viridis',
+                    fillcolor='grey', linewidth=0,
+                    )
+    
 
 
 
