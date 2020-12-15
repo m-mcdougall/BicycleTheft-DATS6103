@@ -41,8 +41,7 @@ On each bike's page, there are photos, model/serial numbers, and identifying fea
 
 We will be using a table added when a registered bike is reported stolen - The Theft Details table.
 
-<img src="/assets/Theft_details_page.png">
-
+<img src="{{site.url}}/assets/Theft_details_page.png" style="display: block; margin: auto;" />
 
 The Theft Details table is highly malleable, depending on the information a given user inputs.
 
@@ -62,15 +61,12 @@ Using a combination of geolocators (Photon and Nominatim), the addresses of all 
 
 Users can then input their own target location, and the script will generate a map of their local area showing all previously reported thefts.
 
-<img src="/assets/GWU_example_search.png">
-
+<img src="{{site.url}}/assets/GWU_example_search.png" style="display: block; margin: auto;" />
 Users can also input a city into the search_my_city and city_overview functions to get a map of all thefts in their chosen city, and get statistics on when thefts have historically occured.
 
-<img src="/assets/Seattle_example_search.png">
-
-<img src="/assets/Seattle_example_seasonal.png">
-<img src="/assets/Seattle_example_radial.png">
-
+<img src="{{site.url}}/assets/Seattle_example_search.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/Seattle_example_seasonal.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/Seattle_example_radial.png" style="display: block; margin: auto;" />
 
 
 ## Conclusions and Findings
