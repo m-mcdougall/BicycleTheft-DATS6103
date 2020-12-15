@@ -5,7 +5,7 @@
 
 ### Statement of Purpose
 
-This is a tool for users to take advantage of the Bike Index to visualize areas of high bike theft. While some "rough" areas can present obvious risks of bike theft, more affluent or tourist-heavy areas can also present a hidden risk to cyclists.  As bicycle thefts tend to be underreported crimes, they also frequently are not reflected in regional crime statistics.
+This is a tool for users to take advantage of the Bike Index to visualize areas of high bike theft. While rough areas can present obvious risks of bike theft, more affluent or tourist-heavy areas can also present a hidden risk to cyclists.  As bicycle thefts tend to be underreported crimes, they also frequently are not reflected in regional crime statistics.
 
 This tool allows users to input their current location, and receive the location and recency of nearby bike thefts. This allows users to make informed decisions prior to leaving their cycle unattended.
 
@@ -27,7 +27,7 @@ The Bike Index has data provided by cyclists in cities across the United States,
 
 The first portion of the web scraper queries the "Search for Stolen Bikes" page, which contains a complete index of all bikes currently reported stolen throughout the website.
 
-<img src="Search_page_location.png">
+<img src="/Search_page_location.png">
 
 The webscraper interacts with each bicyle entry row in the table on the website, and extract the location stolen, and the hyperlink to the stolen bike's individual page (present in both the image and the name of the bike).   
 
@@ -42,7 +42,7 @@ On each bike's page, there are photos, model/serial numbers, and identifying fea
 
 We will be using a table added when a registered bike is reported stolen - The Theft Details table.
 
-<img src="Theft_details_page.png">
+<img src="/Theft_details_page.png">
 
 
 The Theft Details table is highly malleable, depending on the information a given user inputs.
@@ -57,12 +57,29 @@ If police report information is captured, the police report number is recorded o
 
 
 
+## Output
+
+Using a combination of geolocators (Photon and Nominatim), the addresses of all bike thefts are processed. 
+
+Users can then input their own target location, and the script will generate a map of their local area showing all previously reported thefts.
+
+<img src="/GWU_example_search.png">
+
+Users can also input a city into the search_my_city and city_overview functions to get a map of all thefts in their chosen city, and get statistics on when thefts have historically occured.
+
+<img src="/Seattle_example_search.png">
+
+<img src="/Seattle_example_seasonal.png">
+<img src="/Seattle_example_radial.png">
 
 
 
+## Conclusions and Findings
 
+There are many conclusions that can be drawn from this analysis. 
 
-[Link](url) and ![Image](src)
-```
+Initially, one suprise was the prevalence of high-volume thefts - i.e. thefts with large amounts of bikes stolen from one location. This frequently occurs when a bike theif breaks into an appartment's bike cage, taking many bikes (in the case of the embassy north of GWU 15 bikes) simultaniously.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Bike thefts seem to have a strong seasonality, even in less seasonally variant cities, like Seattle.
+
+Bike theft seems to be on the rise in terms of absolute numbers, although this is likely an artifact of the increasing popularity of the Bike Index database, particularly as many large cities and organisations publicly endorse it.
