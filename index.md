@@ -27,8 +27,7 @@ The Bike Index has data provided by cyclists in cities across the United States,
 
 The first portion of the web scraper queries the "Search for Stolen Bikes" page, which contains a complete index of all bikes currently reported stolen throughout the website.
 
-![useful image]({{ site.url }}/assets/Search_page_location.png)
-
+<img src="{{site.url}}/assets/Search_page_location.png" style="display: block; margin: auto;" />
 The webscraper interacts with each bicyle entry row in the table on the website, and extract the location stolen, and the hyperlink to the stolen bike's individual page (present in both the image and the name of the bike).   
 
 If the location indicated on the seach page includes the city name, and is in the United States, the webscraper appends the URL to a collection list.
