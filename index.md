@@ -30,7 +30,9 @@ The Bike Index has data provided by cyclists in cities across the United States,
 
 ## Webscraping
 
-This project works in two parts, the Webscraper, which collects and cleans data taken from the Bike Index. While the complete download also includes a base database, which contains data up to 12/15/2020), it also includes an updater function which allows users to have the most accurate, up-to-date data possible.
+This project works in two parts, the Webscraper,  and the Localizer.   
+The Webscraper collects and cleans data taken from the Bike Index, and the Localizer plots nearby thefts and makes predictions about the liklihood of thefts.  
+While the complete download also includes a base database, which contains data up to 12/15/2020), it also includes an updater function which allows users to have the most accurate, up-to-date data possible. You can also download the full dataset for yourself, using the functions included in the Webscraping notebook.
 
 ### Search Page
 
