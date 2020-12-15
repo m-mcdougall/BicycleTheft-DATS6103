@@ -1,0 +1,15 @@
+,Bike ID,Location,Locking description,Locking circumvented,Date stolen,Police report
+0,959779,"Denver, CO 80202",None,None,2020.12.14,None
+1,959789,"New Orleans, LA 70117",None,None,2020.12.14,None
+2,959762,"Austin, TX 78757",None,None,2020.12.14,None
+3,835856,"Manteca, CA 95337",None,None,2020.12.14,None
+4,959748,"1805 Anderson Rd Apt 56, Davis, CA 95616",Cable lock,"Lock is missing, along with the bike",2020.12.14,Reported
+5,959723,"Boston, MA 02134",None,None,2020.12.14,None
+6,959810,"Woodlawn & Redbud Trail Intersection, Wichita, KS 67206",None,"Other situation, please describe below",2020.12.14,Reported
+7,958095,"Burke road, Pasadena, TX 77506",Other,Bike was not locked,2020.12.14,Reported
+0,959638,"532 south Coronado street , Los ángeles, CA 90057",Cable lock,"Lock is missing, along with the bike",2020.12.13,None
+1,959633,"1600 El Camino Real, Menlo Park, CA 94025",None,None,2020.12.13,None
+2,959596,"Seattle, WA 98102",None,None,2020.12.13,None
+3,959598,"Emeryville, CA 94608",U-lock,"Lock was cut, and left at the scene",2020.12.13,Reported
+4,959593,"39535 Gaulladet Drive, Fremont, CA 94538",None,None,2020.12.13,Reported
+5,958860,"Dallas, TX 75206",None,None,2020.12.13,None
