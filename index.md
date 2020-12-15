@@ -3,9 +3,14 @@
 ## DATS 6103 Individual Project 3 : Mariko McDougall
 
 
-### Statement of Purpose
+## Introduction
 
-This is a tool for users to take advantage of the Bike Index to visualize areas of high bike theft. While rough areas can present obvious risks of bike theft, more affluent or tourist-heavy areas can also present a hidden risk to cyclists.  As bicycle thefts tend to be underreported crimes, they also frequently are not reflected in regional crime statistics.
+Have you ever been seen a bike frame chained to a post downtown, wheels and seat long gone? Have you sat in a cafe, and watched as people leaned their bikes on the wall outside and left, thinking that they'll be gone for "just a minuite"? Do you cycle to work and are considering upgrading your bike wire to a U-lock? 
+
+This tool is designed to help answer the question " How many bikes get stolen here?" and, the ever salient "Will **my** bike be stolen?".
+
+
+This project aims to allow users to take advantage of the Bike Index's theft database to visualize areas of high bike theft. While rough areas can present obvious risks of bike theft, more affluent or tourist-heavy areas can also present a hidden risk to cyclists. As bicycle thefts tend to be underreported crimes, they also frequently are not reflected in regional crime statistics.
 
 This tool allows users to input their current location, and receive the location and recency of nearby bike thefts. This allows users to make informed decisions prior to leaving their cycle unattended.
 
@@ -22,6 +27,10 @@ The data for this project was aquired from the Bike Index [https://bikeindex.org
 An aspect of this service is the ability to mark a pre-registered bike as stolen, making the address and circumstances of the theft available to the public. 
 
 The Bike Index has data provided by cyclists in cities across the United States, and is highly open to developer interaction with the data.
+
+## Webscraping
+
+This project works in two parts, the Webscraper, which collects and cleans data taken from the Bike Index. While the complete download also includes a base database, which contains data up to 12/15/2020), it also includes an updater function which allows users to have the most accurate, up-to-date data possible.
 
 ### Search Page
 
@@ -52,16 +61,21 @@ The bike ID is a unique identifier assigned at the time of registration, and is 
 
 If police report information is captured, the police report number is recorded only as a binary 'Reported'/'Not reported', to preserve privacy.  
 
+The data is then cleaned, processed using a combination of geolocators (Photon and Nominatim) and saved to a csv for use in the Risk Assesment notebook.
 
 
 
-## Output
+## Risk Assessment and Localizer
 
-Using a combination of geolocators (Photon and Nominatim), the addresses of all bike thefts are processed. 
+In the second of the two notebooks, users can get  localized maps and bike theft threat assessments.
 
-Users can then input their own target location, and the script will generate a map of their local area showing all previously reported thefts.
+### Localizer
+Users can input their own target location, and the script will generate a map of their local area showing all previously reported thefts, as well as a threat assessment comparing their location to the local area, as well as the city in general. 
 
 <img src="{{site.url}}/assets/GWU_example_search.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/Reccomendation_sample.png" style="display: block; margin: auto;" />
+
+### City View
 Users can also input a city into the search_my_city and city_overview functions to get a map of all thefts in their chosen city, and get statistics on when thefts have historically occured.
 
 <img src="{{site.url}}/assets/Seattle_example_search.png" style="display: block; margin: auto;" />
