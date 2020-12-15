@@ -27,7 +27,7 @@ The Bike Index has data provided by cyclists in cities across the United States,
 
 The first portion of the web scraper queries the "Search for Stolen Bikes" page, which contains a complete index of all bikes currently reported stolen throughout the website.
 
-<img src="/Search_page_location.png">
+<img src="/images/Search_page_location.png">
 
 The webscraper interacts with each bicyle entry row in the table on the website, and extract the location stolen, and the hyperlink to the stolen bike's individual page (present in both the image and the name of the bike).   
 
@@ -42,7 +42,7 @@ On each bike's page, there are photos, model/serial numbers, and identifying fea
 
 We will be using a table added when a registered bike is reported stolen - The Theft Details table.
 
-<img src="/Theft_details_page.png">
+<img src="/images/Theft_details_page.png">
 
 
 The Theft Details table is highly malleable, depending on the information a given user inputs.
@@ -63,14 +63,14 @@ Using a combination of geolocators (Photon and Nominatim), the addresses of all 
 
 Users can then input their own target location, and the script will generate a map of their local area showing all previously reported thefts.
 
-<img src="/GWU_example_search.png">
+<img src="/images/GWU_example_search.png">
 
 Users can also input a city into the search_my_city and city_overview functions to get a map of all thefts in their chosen city, and get statistics on when thefts have historically occured.
 
-<img src="/Seattle_example_search.png">
+<img src="/images/Seattle_example_search.png">
 
-<img src="/Seattle_example_seasonal.png">
-<img src="/Seattle_example_radial.png">
+<img src="/images/Seattle_example_seasonal.png">
+<img src="/images/Seattle_example_radial.png">
 
 
 
